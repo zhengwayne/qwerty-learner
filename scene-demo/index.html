@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Analytics are consent-gated (PRIV-01): no tracking script may load
+         statically here. See src/utils/analyticsConsent.ts. -->
+
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      // MIT License
+      // https://github.com/rafgraph/spa-github-pages
+      // This script checks to see if a redirect is present in the query string,
+      // converts it back into the correct url and adds it to the
+      // browser's history using window.history.replaceState(...),
+      // which won't cause the browser to attempt to load the new url.
+      // When the single page app is loaded further down in this file,
+      // the correct url will be waiting in the browser's history for
+      // the single page app to route accordingly.
+      ;(function (l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search
+            .slice(1)
+            .split('&')
+            .map(function (s) {
+              return s.replace(/~and~/g, '&')
+            })
+            .join('?')
+          window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash)
+        }
+      })(window.location)
+    </script>
+
+    <title>敲敲乐｜键盘打字学英语 · 上海中考词汇与牛津教材</title>
+    <meta
+      name="description"
+      content="敲敲乐把背单词变成敲键盘：上海中考考纲词汇、上海牛津 1–6 年级教材词库，听音、拼写、默写、句子巩固一条龙，适合中小学生在电脑、iPad 和手机上练习。"
+    />
+    <meta name="keywords" content="敲敲乐, 打字学英语, 上海中考英语词汇, 中考考纲词汇, 上海牛津英语, 小学英语单词, 初中英语单词, 背单词, 英语默写, 键盘打字练习" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <link rel="canonical" href="https://lingo.jjool.com/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://lingo.jjool.com/" />
+    <meta property="og:title" content="敲敲乐｜键盘打字学英语" />
+    <meta property="og:description" content="上海中考考纲词汇 + 上海牛津教材词库，边敲键盘边记单词。" />
+    <meta property="og:image" content="https://lingo.jjool.com/og-image.png" />
+    <meta property="og:site_name" content="敲敲乐" />
+    <meta property="og:locale" content="zh_CN" />
+
+    <link rel="icon" href="/qwerty-learner/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/qwerty-learner/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/qwerty-learner/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/qwerty-learner/favicon-16x16.png" />
+    <link rel="manifest" href="/qwerty-learner/manifest.json" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no" />
+    <meta name="theme-color" content="#f5faf6" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#1c2230" media="(prefers-color-scheme: dark)" />
+    <meta name="application-name" content="敲敲乐" />
+    <!-- 从 iPad/iPhone 主屏幕图标打开时没有地址栏：直播画面里不会出现网址 -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="敲敲乐" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="color-scheme" content="light dark" />
+    <!-- 字体：不再请求 Google Fonts（国内不可达，只会拖慢首屏），改用系统圆体与中文字体栈，见 styles/tokens.css -->
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "敲敲乐",
+        "alternateName": "Tap Tune",
+        "url": "https://lingo.jjool.com/",
+        "description": "键盘打字学英语：上海中考考纲词汇与上海牛津 1–6 年级教材词库。",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Web, iPadOS, iOS, Android, Windows, macOS",
+        "inLanguage": "zh-CN",
+        "audience": { "@type": "EducationalAudience", "educationalRole": "student" },
+        "isAccessibleForFree": true
+      }
+    </script>
+
+    <!-- Pre-paint theme init: reads themePreference from localStorage and applies
+         html.dark before first paint to avoid flash of wrong theme.
+         Requirement 5.4 — applied before app bundle, before shell is visible.
+         Falls back to legacy 'isOpenDarkModeAtom' key and then to OS preference. -->
+    <script>
+      ;(function () {
+        try {
+          var raw = localStorage.getItem('themePreference')
+          var pref = raw ? JSON.parse(raw) : null
+
+          // Backward compat: if new key absent, try legacy boolean key
+          if (pref === null || pref === undefined) {
+            var legacyRaw = localStorage.getItem('isOpenDarkModeAtom')
+            if (legacyRaw !== null) {
+              try {
+                pref = JSON.parse(legacyRaw) === true ? 'dark' : 'light'
+              } catch (e) {
+                pref = null
+              }
+            }
+          }
+
+          var osDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+          var dark = pref === 'dark' || ((pref == null || pref === 'system') && osDark)
+          document.documentElement.classList.toggle('dark', dark)
+        } catch (e) {
+          // localStorage blocked (e.g. private browsing restrictions) — fall back to OS
+          if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.documentElement.classList.add('dark')
+          }
+        }
+      })()
+    </script>
+    <script type="module" crossorigin src="/qwerty-learner/assets/index-28bcaf70.js"></script>
+    <link rel="stylesheet" href="/qwerty-learner/assets/index-4b8b9248.css">
+  </head>
+  <body>
+    <noscript>
+      <div>你需要启用 JavaScript 才能运行敲敲乐。</div>
+    </noscript>
+    <div id="root"></div>
+    
+  </body>
+</html>

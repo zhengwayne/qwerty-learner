@@ -1,0 +1,33 @@
+{
+  "short_name": "敲敲乐",
+  "name": "敲敲乐 · 键盘打字学英语",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/typing",
+  "display": "standalone",
+  "theme_color": "#f5faf6",
+  "background_color": "#f5faf6",
+  "description": "上海中考考纲词汇与上海牛津教材词库的键盘打字练习",
+  "scope": "/",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "any",
+  "lang": "zh-CN"
+}
