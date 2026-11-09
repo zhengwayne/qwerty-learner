@@ -9,7 +9,8 @@
 - No API keys are stored in this repository or the frontend bundle.
 
 ## Speech
-- English word, slow-word, sentence and letter-name clips: synthesized with [edge-tts](https://github.com/rany2/edge-tts) using Microsoft `en-US-AnaNeural`.
-- Chinese encouragement clips: synthesized with edge-tts using Microsoft `zh-CN-XiaoxiaoNeural`.
+- English word, slow-word, sentence and letter-name clips: synthesized with [edge-tts](https://github.com/rany2/edge-tts) using Microsoft `en-US-AnaNeural`, rate `-10%` (slow `-35%`), pitch `+15Hz`.
+- Chinese encouragement clips: synthesized with edge-tts using Microsoft `zh-CN-YunxiaNeural` (boy / cartoon voice).
 - Example sentences: "A bee can fly.", "A bird can sing.", "A frog can jump.", "A rabbit can hop.", "A sheep can eat grass."
 - No third-party animal sound effects are bundled (license of stock cries was not verified, so they were omitted).
+- **Trial use only.** `edge-tts` is an MIT client, but the audio comes from Microsoft Edge Read Aloud, not a paid Azure Speech resource. Microsoft’s public terms do not clearly authorize capturing and redistributing that output. These clips are for prototype / voice-selection trials, **not a commercial license**. Regenerate through a licensed API (paid Azure Speech, or a contracted service such as Doubao) before any production or commercial distribution.
