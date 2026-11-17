@@ -1,0 +1,92 @@
+[
+    {
+        "name": "excited",
+        "trans": [
+            "兴奋的"
+        ],
+        "usphone": "ɪkˈsaɪtɪd",
+        "ukphone": "ɪkˈsaɪtɪd",
+        "sentence": "The children are excited about the trip.",
+        "sentenceTrans": "孩子们对这次旅行很兴奋。"
+    },
+    {
+        "name": "bullet",
+        "trans": [
+            "子弹"
+        ],
+        "usphone": "ˈbʊlɪt",
+        "ukphone": "ˈbʊlɪt",
+        "sentence": "The pea flies like a bullet.",
+        "sentenceTrans": "豌豆像子弹一样飞出去。"
+    },
+    {
+        "name": "lazy",
+        "trans": [
+            "懒惰的"
+        ],
+        "usphone": "ˈleɪzi",
+        "ukphone": "ˈleɪzi",
+        "sentence": "The lazy boy does not want to work.",
+        "sentenceTrans": "这个懒惰的男孩不想干活。"
+    },
+    {
+        "name": "roof",
+        "trans": [
+            "屋顶"
+        ],
+        "usphone": "ruːf",
+        "ukphone": "ruːf",
+        "sentence": "The ball is on the roof.",
+        "sentenceTrans": "球在屋顶上。"
+    },
+    {
+        "name": "yard",
+        "trans": [
+            "院子"
+        ],
+        "usphone": "jɑːrd",
+        "ukphone": "jɑːd",
+        "sentence": "The children play in the yard.",
+        "sentenceTrans": "孩子们在院子里玩。"
+    },
+    {
+        "name": "hit",
+        "trans": [
+            "碰撞；撞击"
+        ],
+        "usphone": "hɪt",
+        "ukphone": "hɪt",
+        "sentence": "The pea hits the roof.",
+        "sentenceTrans": "豌豆撞到了屋顶。"
+    },
+    {
+        "name": "see",
+        "trans": [
+            "the world 见世面"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "The pea wants to see the world.",
+        "sentenceTrans": "豌豆想去见世面。"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "by one 一个接一个地"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn",
+        "sentence": "The peas fall out one by one.",
+        "sentenceTrans": "豌豆一颗接一颗地掉出来。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "out of 往外看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look out! A truck is coming.",
+        "sentenceTrans": "小心！一辆卡车开过来了。"
+    }
+]

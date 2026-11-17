@@ -1,0 +1,192 @@
+[
+    {
+        "name": "doctor",
+        "trans": [
+            "医生"
+        ],
+        "usphone": "ˈdɑːktər",
+        "ukphone": "ˈdɒktə(r)",
+        "sentence": "My aunt is a doctor.",
+        "sentenceTrans": "我姑妈是一名医生。"
+    },
+    {
+        "name": "bus",
+        "trans": [
+            "driver 公共汽车司机"
+        ],
+        "usphone": "bʌs",
+        "ukphone": "bʌs",
+        "sentence": "My uncle is a bus driver.",
+        "sentenceTrans": "我叔叔是一名公共汽车司机。"
+    },
+    {
+        "name": "kid",
+        "trans": [
+            "小孩"
+        ],
+        "usphone": "kɪd",
+        "ukphone": "kɪd",
+        "sentence": "The kid is in the park.",
+        "sentenceTrans": "这个小孩在公园里。"
+    },
+    {
+        "name": "so",
+        "trans": [
+            "如此；很；所以"
+        ],
+        "usphone": "soʊ",
+        "ukphone": "səʊ",
+        "sentence": "The elephant is so big.",
+        "sentenceTrans": "这头大象真大。"
+    },
+    {
+        "name": "fire",
+        "trans": [
+            "火；火灾"
+        ],
+        "usphone": "ˈfaɪər",
+        "ukphone": "ˈfaɪə(r)",
+        "sentence": "The fire is hot.",
+        "sentenceTrans": "火很热。"
+    },
+    {
+        "name": "people",
+        "trans": [
+            "人；人们"
+        ],
+        "usphone": "ˈpiːp(ə)l",
+        "ukphone": "ˈpiːp(ə)l",
+        "sentence": "Many people are in the park.",
+        "sentenceTrans": "公园里有很多人。"
+    },
+    {
+        "name": "job",
+        "trans": [
+            "工作；职业"
+        ],
+        "usphone": "dʒɑːb",
+        "ukphone": "dʒɒb",
+        "sentence": "What is your job?",
+        "sentenceTrans": "你的工作是什么？"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "with 玩……"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my classmates.",
+        "sentenceTrans": "我和同班同学一起玩。"
+    },
+    {
+        "name": "school",
+        "trans": [
+            "学校"
+        ],
+        "usphone": "skuːl",
+        "ukphone": "skuːl",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我坐公共汽车去上学。"
+    },
+    {
+        "name": "office",
+        "trans": [
+            "办公室"
+        ],
+        "usphone": "ˈɑːfɪs",
+        "ukphone": "ˈɒfɪs",
+        "sentence": "The teacher is in the office.",
+        "sentenceTrans": "老师在办公室里。"
+    },
+    {
+        "name": "busy",
+        "trans": [
+            "忙碌的；繁忙的"
+        ],
+        "usphone": "ˈbɪzi",
+        "ukphone": "ˈbɪzi",
+        "sentence": "Mum is busy today.",
+        "sentenceTrans": "妈妈今天很忙。"
+    },
+    {
+        "name": "computer",
+        "trans": [
+            "计算机；电脑"
+        ],
+        "usphone": "kəmˈpjuːtər",
+        "ukphone": "kəmˈpjuːtə(r)",
+        "sentence": "The computer is on the desk.",
+        "sentenceTrans": "电脑在书桌上。"
+    },
+    {
+        "name": "many",
+        "trans": [
+            "许多"
+        ],
+        "usphone": "ˈmeni",
+        "ukphone": "ˈmeni",
+        "sentence": "There are many books here.",
+        "sentenceTrans": "这里有很多书。"
+    },
+    {
+        "name": "library",
+        "trans": [
+            "图书馆；图书室"
+        ],
+        "usphone": "ˈlaɪbreri",
+        "ukphone": "ˈlaɪbrəri",
+        "sentence": "I read in the library.",
+        "sentenceTrans": "我在图书馆里读书。"
+    },
+    {
+        "name": "playground",
+        "trans": [
+            "操场"
+        ],
+        "usphone": "ˈpleɪɡraʊnd",
+        "ukphone": "ˈpleɪɡraʊnd",
+        "sentence": "I play on the playground.",
+        "sentenceTrans": "我在游戏场上玩。"
+    },
+    {
+        "name": "classroom",
+        "trans": [
+            "教室"
+        ],
+        "usphone": "ˈklæsruːm",
+        "ukphone": "ˈklɑːsruːm",
+        "sentence": "We read in the classroom.",
+        "sentenceTrans": "我们在教室里读书。"
+    },
+    {
+        "name": "toilet",
+        "trans": [
+            "厕所"
+        ],
+        "usphone": "ˈtɔɪlət",
+        "ukphone": "ˈtɔɪlət",
+        "sentence": "The toilet is near the office.",
+        "sentenceTrans": "卫生间在办公室附近。"
+    },
+    {
+        "name": "animal",
+        "trans": [
+            "动物"
+        ],
+        "usphone": "ˈænɪm(ə)l",
+        "ukphone": "ˈænɪm(ə)l",
+        "sentence": "A tiger is a wild animal.",
+        "sentenceTrans": "老虎是一种野生动物。"
+    },
+    {
+        "name": "forest",
+        "trans": [
+            "森林"
+        ],
+        "usphone": "ˈfɔːrɪst",
+        "ukphone": "ˈfɒrɪst",
+        "sentence": "The tiger is in the forest.",
+        "sentenceTrans": "老虎在森林里。"
+    }
+]

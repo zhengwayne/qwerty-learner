@@ -1,0 +1,202 @@
+[
+    {
+        "name": "brother",
+        "trans": [
+            "哥哥，弟弟"
+        ],
+        "usphone": "ˈbrʌðər",
+        "ukphone": "ˈbrʌðə(r)",
+        "sentence": "This is my brother.",
+        "sentenceTrans": "这是我的兄弟。"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "姐姐，妹妹"
+        ],
+        "usphone": "ˈsɪstər",
+        "ukphone": "ˈsɪstə(r)",
+        "sentence": "This is my sister.",
+        "sentenceTrans": "这是我的姐妹。"
+    },
+    {
+        "name": "friend",
+        "trans": [
+            "朋友"
+        ],
+        "usphone": "frend",
+        "ukphone": "frend",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "young",
+        "trans": [
+            "年轻的"
+        ],
+        "usphone": "jʌŋ",
+        "ukphone": "jʌŋ",
+        "sentence": "The boy is young.",
+        "sentenceTrans": "这个男孩很年轻。"
+    },
+    {
+        "name": "insect",
+        "trans": [
+            "昆虫"
+        ],
+        "usphone": "ˈɪnsekt",
+        "ukphone": "ˈɪnsekt",
+        "sentence": "An ant is an insect.",
+        "sentenceTrans": "蚂蚁是一种昆虫。"
+    },
+    {
+        "name": "jellyfish",
+        "trans": [
+            "水母"
+        ],
+        "usphone": "ˈdʒelifɪʃ",
+        "ukphone": "ˈdʒelifɪʃ",
+        "sentence": "The jellyfish can swim.",
+        "sentenceTrans": "这只水母会游泳。"
+    },
+    {
+        "name": "hair",
+        "trans": [
+            "头发"
+        ],
+        "usphone": "her",
+        "ukphone": "heə(r)",
+        "sentence": "My hair is long.",
+        "sentenceTrans": "我的头发很长。"
+    },
+    {
+        "name": "head",
+        "trans": [
+            "头"
+        ],
+        "usphone": "hed",
+        "ukphone": "hed",
+        "sentence": "Touch your head.",
+        "sentenceTrans": "摸摸你的头。"
+    },
+    {
+        "name": "your",
+        "trans": [
+            "你的"
+        ],
+        "usphone": "jʊr; jər",
+        "ukphone": "jɔː(r); jə(r)",
+        "sentence": "This is your bag.",
+        "sentenceTrans": "这是你的包。"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "长的"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "The snake is long.",
+        "sentenceTrans": "这条蛇很长。"
+    },
+    {
+        "name": "now",
+        "trans": [
+            "现在"
+        ],
+        "usphone": "naʊ",
+        "ukphone": "naʊ",
+        "sentence": "It is playtime now.",
+        "sentenceTrans": "现在是游戏时间。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "has",
+        "trans": [
+            "有"
+        ],
+        "usphone": "hæz; həz",
+        "ukphone": "hæz; həz",
+        "sentence": "The boy has a ball.",
+        "sentenceTrans": "这个男孩有一个球。"
+    },
+    {
+        "name": "playground",
+        "trans": [
+            "游戏场"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I play on the playground.",
+        "sentenceTrans": "我在游戏场上玩。"
+    },
+    {
+        "name": "slide",
+        "trans": [
+            "滑梯"
+        ],
+        "usphone": "slaɪd",
+        "ukphone": "slaɪd",
+        "sentence": "I play on the slide.",
+        "sentenceTrans": "我玩滑梯。"
+    },
+    {
+        "name": "swing",
+        "trans": [
+            "秋千"
+        ],
+        "usphone": "swɪŋ",
+        "ukphone": "swɪŋ",
+        "sentence": "I play on the swing.",
+        "sentenceTrans": "我荡秋千。"
+    },
+    {
+        "name": "seesaw",
+        "trans": [
+            "跷跷板"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I play on the seesaw.",
+        "sentenceTrans": "我玩跷跷板。"
+    },
+    {
+        "name": "nightingale",
+        "trans": [
+            "夜莺"
+        ],
+        "usphone": "ˈnaɪtɪŋɡeɪl",
+        "ukphone": "ˈnaɪtɪŋɡeɪl",
+        "sentence": "The nightingale can sing.",
+        "sentenceTrans": "夜莺会唱歌。"
+    },
+    {
+        "name": "room",
+        "trans": [
+            "房间"
+        ],
+        "usphone": "ruːm",
+        "ukphone": "ruːm",
+        "sentence": "The chair is in the room.",
+        "sentenceTrans": "椅子在房间里。"
+    },
+    {
+        "name": "put",
+        "trans": [
+            "放"
+        ],
+        "usphone": "pʊt",
+        "ukphone": "pʊt",
+        "sentence": "Put the book on the desk.",
+        "sentenceTrans": "把书放在书桌上。"
+    }
+]

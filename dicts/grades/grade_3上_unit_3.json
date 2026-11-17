@@ -1,0 +1,202 @@
+[
+    {
+        "name": "hair",
+        "trans": [
+            "头发"
+        ],
+        "usphone": "her",
+        "ukphone": "heə(r)",
+        "sentence": "My hair is long.",
+        "sentenceTrans": "我的头发很长。"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "长的"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "The snake is long.",
+        "sentenceTrans": "这条蛇很长。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "mouth",
+        "trans": [
+            "口；嘴巴"
+        ],
+        "usphone": "maʊθ",
+        "ukphone": "maʊθ",
+        "sentence": "Touch your mouth.",
+        "sentenceTrans": "摸摸你的嘴巴。"
+    },
+    {
+        "name": "small",
+        "trans": [
+            "小的"
+        ],
+        "usphone": "smɔːl",
+        "ukphone": "smɔːl",
+        "sentence": "The ant is small.",
+        "sentenceTrans": "这只蚂蚁很小。"
+    },
+    {
+        "name": "blackboard",
+        "trans": [
+            "黑板"
+        ],
+        "usphone": "ˈblækbɔːrd",
+        "ukphone": "ˈblækbɔːd",
+        "sentence": "Clean the blackboard, please.",
+        "sentenceTrans": "请把黑板擦干净。"
+    },
+    {
+        "name": "clean",
+        "trans": [
+            "把……擦干净；打扫 close 关上"
+        ],
+        "usphone": "kliːn",
+        "ukphone": "kliːn",
+        "sentence": "Clean the desk, please.",
+        "sentenceTrans": "请把书桌擦干净。"
+    },
+    {
+        "name": "door",
+        "trans": [
+            "门"
+        ],
+        "usphone": "dɔːr",
+        "ukphone": "dɔː(r)",
+        "sentence": "Open the door, please.",
+        "sentenceTrans": "请打开门。"
+    },
+    {
+        "name": "late",
+        "trans": [
+            "迟到"
+        ],
+        "usphone": "leɪt",
+        "ukphone": "leɪt",
+        "sentence": "I am late for school.",
+        "sentenceTrans": "我上学迟到了。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "at 看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "open",
+        "trans": [
+            "打开"
+        ],
+        "usphone": "ˈoʊpən",
+        "ukphone": "ˈəʊpən",
+        "sentence": "Open the window, please.",
+        "sentenceTrans": "请打开窗户。"
+    },
+    {
+        "name": "please",
+        "trans": [
+            "请"
+        ],
+        "usphone": "pliːz",
+        "ukphone": "pliːz",
+        "sentence": "Open the door, please.",
+        "sentenceTrans": "请打开门。"
+    },
+    {
+        "name": "the",
+        "trans": [
+            "(表示特指) window 窗；窗户"
+        ],
+        "usphone": "ðə; ði",
+        "ukphone": "ðə; ði",
+        "sentence": "Open the window, please.",
+        "sentenceTrans": "请打开窗户。"
+    },
+    {
+        "name": "OK.",
+        "trans": [
+            "好"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "OK, let's go.",
+        "sentenceTrans": "好的，我们走吧。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "(an) 一；一个"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "This is a book.",
+        "sentenceTrans": "这是一本书。"
+    },
+    {
+        "name": "apple",
+        "trans": [
+            "苹果"
+        ],
+        "usphone": "ˈæp(ə)l",
+        "ukphone": "ˈæp(ə)l",
+        "sentence": "I like this apple.",
+        "sentenceTrans": "我喜欢这个苹果。"
+    },
+    {
+        "name": "banana",
+        "trans": [
+            "香蕉"
+        ],
+        "usphone": "bəˈnænə",
+        "ukphone": "bəˈnɑːnə",
+        "sentence": "I like this banana.",
+        "sentenceTrans": "我喜欢这根香蕉。"
+    },
+    {
+        "name": "dad",
+        "trans": [
+            "爸爸"
+        ],
+        "usphone": "dæd",
+        "ukphone": "dæd",
+        "sentence": "This is my dad.",
+        "sentenceTrans": "这是我的爸爸。"
+    },
+    {
+        "name": "good",
+        "trans": [
+            "好"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "here",
+        "trans": [
+            "这里"
+        ],
+        "usphone": "hɪr",
+        "ukphone": "hɪə(r)",
+        "sentence": "My book is here.",
+        "sentenceTrans": "我的书在这里。"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "hot",
+        "trans": [
+            "炎热的"
+        ],
+        "usphone": "hɑːt",
+        "ukphone": "hɒt",
+        "sentence": "It is hot today.",
+        "sentenceTrans": "今天很热。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在（某段时间）内"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "spring",
+        "trans": [
+            "春天"
+        ],
+        "usphone": "sprɪŋ",
+        "ukphone": "sprɪŋ",
+        "sentence": "Spring is warm.",
+        "sentenceTrans": "春天很温暖。"
+    },
+    {
+        "name": "summer",
+        "trans": [
+            "夏天"
+        ],
+        "usphone": "ˈsʌmər",
+        "ukphone": "ˈsʌmə(r)",
+        "sentence": "Summer is hot.",
+        "sentenceTrans": "夏天很热。"
+    },
+    {
+        "name": "warm",
+        "trans": [
+            "温暖的"
+        ],
+        "usphone": "wɔːrm",
+        "ukphone": "wɔːm",
+        "sentence": "It is warm today.",
+        "sentenceTrans": "今天很温暖。"
+    }
+]

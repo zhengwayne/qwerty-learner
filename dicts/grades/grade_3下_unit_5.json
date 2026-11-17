@@ -1,0 +1,202 @@
+[
+    {
+        "name": "farm",
+        "trans": [
+            "农场"
+        ],
+        "usphone": "fɑːrm",
+        "ukphone": "fɑːm",
+        "sentence": "The cow is on the farm.",
+        "sentenceTrans": "奶牛在农场上。"
+    },
+    {
+        "name": "grass",
+        "trans": [
+            "草"
+        ],
+        "usphone": "ɡræs",
+        "ukphone": "ɡrɑːs",
+        "sentence": "The grass is green.",
+        "sentenceTrans": "草是绿色的。"
+    },
+    {
+        "name": "great",
+        "trans": [
+            "很好的；很棒的"
+        ],
+        "usphone": "ɡreɪt",
+        "ukphone": "ɡreɪt",
+        "sentence": "This idea is great.",
+        "sentenceTrans": "这个主意很棒。"
+    },
+    {
+        "name": "litter",
+        "trans": [
+            "乱扔（垃圾）"
+        ],
+        "usphone": "ˈlɪtər",
+        "ukphone": "ˈlɪtə(r)",
+        "sentence": "Do not litter.",
+        "sentenceTrans": "不要乱扔垃圾。"
+    },
+    {
+        "name": "stone",
+        "trans": [
+            "石头"
+        ],
+        "usphone": "stoʊn",
+        "ukphone": "stəʊn",
+        "sentence": "This stone is hard.",
+        "sentenceTrans": "这块石头很硬。"
+    },
+    {
+        "name": "throw",
+        "trans": [
+            "扔"
+        ],
+        "usphone": "θroʊ",
+        "ukphone": "θrəʊ",
+        "sentence": "Throw the ball to me.",
+        "sentenceTrans": "把球扔给我。"
+    },
+    {
+        "name": "head",
+        "trans": [
+            "头"
+        ],
+        "usphone": "hed",
+        "ukphone": "hed",
+        "sentence": "Touch your head.",
+        "sentenceTrans": "摸摸你的头。"
+    },
+    {
+        "name": "body",
+        "trans": [
+            "身体"
+        ],
+        "usphone": "ˈbɑːdi",
+        "ukphone": "ˈbɒdi",
+        "sentence": "My body is strong.",
+        "sentenceTrans": "我的身体很强壮。"
+    },
+    {
+        "name": "arm",
+        "trans": [
+            "手臂"
+        ],
+        "usphone": "ɑːrm",
+        "ukphone": "ɑːm",
+        "sentence": "This is my arm.",
+        "sentenceTrans": "这是我的手臂。"
+    },
+    {
+        "name": "hand",
+        "trans": [
+            "手"
+        ],
+        "usphone": "hænd",
+        "ukphone": "hænd",
+        "sentence": "This is my hand.",
+        "sentenceTrans": "这是我的手。"
+    },
+    {
+        "name": "leg",
+        "trans": [
+            "腿"
+        ],
+        "usphone": "leɡ",
+        "ukphone": "leɡ",
+        "sentence": "This is my leg.",
+        "sentenceTrans": "这是我的腿。"
+    },
+    {
+        "name": "foot",
+        "trans": [
+            "脚；足（复数feet）"
+        ],
+        "usphone": "fʊt",
+        "ukphone": "fʊt",
+        "sentence": "This is my foot.",
+        "sentenceTrans": "这是我的脚。"
+    },
+    {
+        "name": "flower",
+        "trans": [
+            "花"
+        ],
+        "usphone": "ˈflaʊər",
+        "ukphone": "ˈflaʊə(r)",
+        "sentence": "I see a yellow flower.",
+        "sentenceTrans": "我看见一朵黄花。"
+    },
+    {
+        "name": "photo",
+        "trans": [
+            "照片"
+        ],
+        "usphone": "ˈfoʊtoʊ",
+        "ukphone": "ˈfəʊtəʊ",
+        "sentence": "This is our family photo.",
+        "sentenceTrans": "这是我们的全家福。"
+    },
+    {
+        "name": "tea",
+        "trans": [
+            "茶"
+        ],
+        "usphone": "tiː",
+        "ukphone": "tiː",
+        "sentence": "This cup is for tea.",
+        "sentenceTrans": "这个杯子是用来喝茶的。"
+    },
+    {
+        "name": "cup",
+        "trans": [
+            "杯子"
+        ],
+        "usphone": "kʌp",
+        "ukphone": "kʌp",
+        "sentence": "The cup is on the desk.",
+        "sentenceTrans": "杯子在书桌上。"
+    },
+    {
+        "name": "day",
+        "trans": [
+            "天;日"
+        ],
+        "usphone": "deɪ",
+        "ukphone": "deɪ",
+        "sentence": "Today is a good day.",
+        "sentenceTrans": "今天是美好的一天。"
+    },
+    {
+        "name": "do",
+        "trans": [
+            "做"
+        ],
+        "usphone": "duː; də",
+        "ukphone": "duː; də",
+        "sentence": "I can do it.",
+        "sentenceTrans": "我能做到。"
+    },
+    {
+        "name": "idea",
+        "trans": [
+            "主意"
+        ],
+        "usphone": "aɪˈdiːə",
+        "ukphone": "aɪˈdɪə",
+        "sentence": "I have a good idea.",
+        "sentenceTrans": "我有一个好主意。"
+    },
+    {
+        "name": "love",
+        "trans": [
+            "爱"
+        ],
+        "usphone": "lʌv",
+        "ukphone": "lʌv",
+        "sentence": "I love my family.",
+        "sentenceTrans": "我爱我的家人。"
+    }
+]

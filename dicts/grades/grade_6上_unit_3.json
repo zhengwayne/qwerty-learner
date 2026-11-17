@@ -1,0 +1,182 @@
+[
+    {
+        "name": "dig",
+        "trans": [
+            "挖（土）；掘（洞）"
+        ],
+        "usphone": "dɪɡ",
+        "ukphone": "dɪɡ",
+        "sentence": "The dog digs a hole in the garden.",
+        "sentenceTrans": "狗在花园里挖了一个洞。"
+    },
+    {
+        "name": "make",
+        "trans": [
+            "noise 制造噪音"
+        ],
+        "usphone": "meɪk",
+        "ukphone": "meɪk",
+        "sentence": "Do not make noise at night.",
+        "sentenceTrans": "夜间不要制造噪声。"
+    },
+    {
+        "name": "thousand",
+        "trans": [
+            "一千"
+        ],
+        "usphone": "ˈθaʊz(ə)nd",
+        "ukphone": "ˈθaʊz(ə)nd",
+        "sentence": "A thousand animals live here.",
+        "sentenceTrans": "一千只动物生活在这里。"
+    },
+    {
+        "name": "hundred",
+        "trans": [
+            "一百"
+        ],
+        "usphone": "ˈhʌndrəd",
+        "ukphone": "ˈhʌndrəd",
+        "sentence": "There are one hundred books here.",
+        "sentenceTrans": "这里有一百本书。"
+    },
+    {
+        "name": "wild",
+        "trans": [
+            "野生环境；野生的"
+        ],
+        "usphone": "waɪld",
+        "ukphone": "waɪld",
+        "sentence": "The tiger is a wild animal.",
+        "sentenceTrans": "老虎是野生动物。"
+    },
+    {
+        "name": "South",
+        "trans": [
+            "China tiger 华南虎"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The South China tiger is in danger.",
+        "sentenceTrans": "华南虎正面临危险。"
+    },
+    {
+        "name": "blue",
+        "trans": [
+            "whale 蓝鲸"
+        ],
+        "usphone": "bluː",
+        "ukphone": "bluː",
+        "sentence": "The blue whale lives in the ocean.",
+        "sentenceTrans": "蓝鲸生活在海洋里。"
+    },
+    {
+        "name": "way",
+        "trans": [
+            "路；方式；方法"
+        ],
+        "usphone": "weɪ",
+        "ukphone": "weɪ",
+        "sentence": "Walking is a healthy way to travel.",
+        "sentenceTrans": "步行是一种健康的出行方式。"
+    },
+    {
+        "name": "die",
+        "trans": [
+            "死；死亡"
+        ],
+        "usphone": "daɪ",
+        "ukphone": "daɪ",
+        "sentence": "Animals may die without clean water.",
+        "sentenceTrans": "动物没有干净的水可能会死。"
+    },
+    {
+        "name": "rhino",
+        "trans": [
+            "犀牛"
+        ],
+        "usphone": "ˈraɪnoʊ",
+        "ukphone": "ˈraɪnəʊ",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "learn",
+        "trans": [
+            "学会；学习"
+        ],
+        "usphone": "lɜːrn",
+        "ukphone": "lɜːn",
+        "sentence": "We learn about animals at school.",
+        "sentenceTrans": "我们在学校学习动物知识。"
+    },
+    {
+        "name": "send",
+        "trans": [
+            "安排去；寄；送"
+        ],
+        "usphone": "send",
+        "ukphone": "send",
+        "sentence": "They send the sick rhino away.",
+        "sentenceTrans": "他们把生病的犀牛送走了。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "danger 面临危险"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the past 在过去"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "care of 照顾；照料"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "We take care of sick animals.",
+        "sentenceTrans": "我们照顾生病的动物。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "for a walk 去散步"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "We go for a walk after dinner.",
+        "sentenceTrans": "我们晚饭后去散步。"
+    },
+    {
+        "name": "drive",
+        "trans": [
+            "away 赶走"
+        ],
+        "usphone": "draɪv",
+        "ukphone": "draɪv",
+        "sentence": "The noise drives the owl away.",
+        "sentenceTrans": "噪声把猫头鹰赶走了。"
+    },
+    {
+        "name": "e-friend",
+        "trans": [
+            "网友"
+        ],
+        "usphone": "ˈiː frend",
+        "ukphone": "ˈiː frend",
+        "sentence": "My e-friend lives in Australia.",
+        "sentenceTrans": "我的网友住在澳大利亚。"
+    }
+]

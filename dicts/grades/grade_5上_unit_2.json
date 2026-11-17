@@ -1,0 +1,192 @@
+[
+    {
+        "name": "underground",
+        "trans": [
+            "地铁"
+        ],
+        "usphone": "ˌʌndərˈɡraʊnd",
+        "ukphone": "ˌʌndəˈɡraʊnd",
+        "sentence": "We take the underground to school.",
+        "sentenceTrans": "我们乘地铁上学。"
+    },
+    {
+        "name": "station",
+        "trans": [
+            "车站"
+        ],
+        "usphone": "ˈsteɪʃ(ə)n",
+        "ukphone": "ˈsteɪʃ(ə)n",
+        "sentence": "The bus stops at the station.",
+        "sentenceTrans": "公共汽车停在车站。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "乘坐（交通工具）；带领"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "We take the underground to school.",
+        "sentenceTrans": "我们乘地铁上学。"
+    },
+    {
+        "name": "after",
+        "trans": [
+            "在…后"
+        ],
+        "usphone": "ˈæftər",
+        "ukphone": "ˈɑːftə(r)",
+        "sentence": "I read after you.",
+        "sentenceTrans": "我在你之后读。"
+    },
+    {
+        "name": "hour",
+        "trans": [
+            "小时"
+        ],
+        "usphone": "ˈaʊər",
+        "ukphone": "ˈaʊə(r)",
+        "sentence": "The journey takes one hour.",
+        "sentenceTrans": "这段旅程需要一个小时。"
+    },
+    {
+        "name": "bus",
+        "trans": [
+            "stop 公共汽车站"
+        ],
+        "usphone": "bʌs",
+        "ukphone": "bʌs",
+        "sentence": "Wait for me at the bus stop.",
+        "sentenceTrans": "在公共汽车站等我。"
+    },
+    {
+        "name": "by",
+        "trans": [
+            "bus 乘公共汽车"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我乘公共汽车上学。"
+    },
+    {
+        "name": "far",
+        "trans": [
+            "from 离…远"
+        ],
+        "usphone": "fɑːr",
+        "ukphone": "fɑː(r)",
+        "sentence": "My home is far from school.",
+        "sentenceTrans": "我家离学校很远。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "foot 步行"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "I go to school on foot.",
+        "sentenceTrans": "我步行上学。"
+    },
+    {
+        "name": "by",
+        "trans": [
+            "bike 骑自行车"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我乘公共汽车上学。"
+    },
+    {
+        "name": "by",
+        "trans": [
+            "car 乘小汽车"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我乘公共汽车上学。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "off 下车"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Get off the bus here.",
+        "sentenceTrans": "在这里下公共汽车。"
+    },
+    {
+        "name": "party",
+        "trans": [
+            "聚会"
+        ],
+        "usphone": "ˈpɑːrti",
+        "ukphone": "ˈpɑːti",
+        "sentence": "I like this party.",
+        "sentenceTrans": "我喜欢这个聚会。"
+    },
+    {
+        "name": "when",
+        "trans": [
+            "什么时候"
+        ],
+        "usphone": "wen",
+        "ukphone": "wen",
+        "sentence": "When does the party begin?",
+        "sentenceTrans": "聚会什么时候开始？"
+    },
+    {
+        "name": "begin",
+        "trans": [
+            "开始"
+        ],
+        "usphone": "bɪˈɡɪn",
+        "ukphone": "bɪˈɡɪn",
+        "sentence": "The class begins at eight.",
+        "sentenceTrans": "八点开始上课。"
+    },
+    {
+        "name": "bring",
+        "trans": [
+            "带来"
+        ],
+        "usphone": "brɪŋ",
+        "ukphone": "brɪŋ",
+        "sentence": "Please bring your book tomorrow.",
+        "sentenceTrans": "明天请带上你的书。"
+    },
+    {
+        "name": "thing",
+        "trans": [
+            "东西，事物"
+        ],
+        "usphone": "θɪŋ",
+        "ukphone": "θɪŋ",
+        "sentence": "What is this thing?",
+        "sentenceTrans": "这个东西是什么？"
+    },
+    {
+        "name": "favourite",
+        "trans": [
+            "最喜欢的"
+        ],
+        "usphone": "ˈfeɪvərɪt",
+        "ukphone": "ˈfeɪvərɪt",
+        "sentence": "English is my favourite subject.",
+        "sentenceTrans": "英语是我最喜欢的科目。"
+    },
+    {
+        "name": "interesting",
+        "trans": [
+            "有趣的"
+        ],
+        "usphone": "ˈɪntrəstɪŋ",
+        "ukphone": "ˈɪntrəstɪŋ",
+        "sentence": "This story is interesting.",
+        "sentenceTrans": "这个故事很有趣。"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "name": "healthy",
+        "trans": [
+            "健康的；有益于健康的"
+        ],
+        "usphone": "ˈhelθi",
+        "ukphone": "ˈhelθi",
+        "sentence": "Fruit and vegetables are healthy.",
+        "sentenceTrans": "水果和蔬菜有益健康。"
+    },
+    {
+        "name": "unhealthy",
+        "trans": [
+            "不健康的；损害健康的"
+        ],
+        "usphone": "ʌnˈhelθi",
+        "ukphone": "ʌnˈhelθi",
+        "sentence": "Too much cola is unhealthy.",
+        "sentenceTrans": "喝太多可乐不健康。"
+    },
+    {
+        "name": "hamburger",
+        "trans": [
+            "汉堡包"
+        ],
+        "usphone": "ˈhæmbɜːrɡər",
+        "ukphone": "ˈhæmbɜːɡə(r)",
+        "sentence": "I like this hamburger.",
+        "sentenceTrans": "我喜欢这个汉堡包。"
+    },
+    {
+        "name": "cola",
+        "trans": [
+            "可乐"
+        ],
+        "usphone": "ˈkoʊlə",
+        "ukphone": "ˈkəʊlə",
+        "sentence": "Cola is not a healthy drink.",
+        "sentenceTrans": "可乐不是健康饮料。"
+    },
+    {
+        "name": "yesterday",
+        "trans": [
+            "昨天"
+        ],
+        "usphone": "ˈjestərdeɪ",
+        "ukphone": "ˈjestədeɪ",
+        "sentence": "I ate a sandwich yesterday.",
+        "sentenceTrans": "我昨天吃了一个三明治。"
+    },
+    {
+        "name": "fruit",
+        "trans": [
+            "水果"
+        ],
+        "usphone": "fruːt",
+        "ukphone": "fruːt",
+        "sentence": "Apples are fruit.",
+        "sentenceTrans": "苹果是水果。"
+    },
+    {
+        "name": "pie",
+        "trans": [
+            "馅饼"
+        ],
+        "usphone": "paɪ",
+        "ukphone": "paɪ",
+        "sentence": "I like this pie.",
+        "sentenceTrans": "我喜欢这个馅饼。"
+    },
+    {
+        "name": "pizza",
+        "trans": [
+            "比萨饼"
+        ],
+        "usphone": "ˈpiːtsə",
+        "ukphone": "ˈpiːtsə",
+        "sentence": "I like pizza.",
+        "sentenceTrans": "我喜欢比萨饼。"
+    },
+    {
+        "name": "sandwich",
+        "trans": [
+            "三明治"
+        ],
+        "usphone": "ˈsænwɪtʃ",
+        "ukphone": "ˈsænwɪtʃ",
+        "sentence": "I have a sandwich for lunch.",
+        "sentenceTrans": "我午餐吃一个三明治。"
+    },
+    {
+        "name": "vegetable",
+        "trans": [
+            "蔬菜"
+        ],
+        "usphone": "ˈvedʒtəb(ə)l",
+        "ukphone": "ˈvedʒtəb(ə)l",
+        "sentence": "We grow vegetables in the garden.",
+        "sentenceTrans": "我们在花园里种蔬菜。"
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "鸡肉"
+        ],
+        "usphone": "ˈtʃɪkɪn",
+        "ukphone": "ˈtʃɪkɪn",
+        "sentence": "I see a chicken.",
+        "sentenceTrans": "我看见一只鸡。"
+    },
+    {
+        "name": "chocolate",
+        "trans": [
+            "巧克力"
+        ],
+        "usphone": "ˈtʃɔːklət",
+        "ukphone": "ˈtʃɒklət",
+        "sentence": "Do not eat too much chocolate.",
+        "sentenceTrans": "不要吃太多巧克力。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "little 少量的"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I drink a little cola.",
+        "sentenceTrans": "我喝了一点可乐。"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "and chips 炸鱼薯条"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ",
+        "sentence": "I had fish and chips for lunch.",
+        "sentenceTrans": "我午餐吃了炸鱼薯条。"
+    },
+    {
+        "name": "neighbour",
+        "trans": [
+            "邻居"
+        ],
+        "usphone": "ˈneɪbər",
+        "ukphone": "ˈneɪbə(r)",
+        "sentence": "Mr Li is our new neighbour.",
+        "sentenceTrans": "李先生是我们的新邻居。"
+    },
+    {
+        "name": "son",
+        "trans": [
+            "儿子"
+        ],
+        "usphone": "sʌn",
+        "ukphone": "sʌn",
+        "sentence": "The boy is her son.",
+        "sentenceTrans": "这个男孩是她的儿子。"
+    },
+    {
+        "name": "daughter",
+        "trans": [
+            "女儿"
+        ],
+        "usphone": "ˈdɔːtər",
+        "ukphone": "ˈdɔːtə(r)",
+        "sentence": "The girl is their daughter.",
+        "sentenceTrans": "这个女孩是他们的女儿。"
+    },
+    {
+        "name": "noisy",
+        "trans": [
+            "吵闹的"
+        ],
+        "usphone": "ˈnɔɪzi",
+        "ukphone": "ˈnɔɪzi",
+        "sentence": "The street is noisy at night.",
+        "sentenceTrans": "这条街晚上很吵。"
+    },
+    {
+        "name": "owl",
+        "trans": [
+            "猫头鹰"
+        ],
+        "usphone": "aʊl",
+        "ukphone": "aʊl",
+        "sentence": "An owl sleeps during the day.",
+        "sentenceTrans": "猫头鹰白天睡觉。"
+    }
+]

@@ -1,0 +1,980 @@
+[
+    {
+        "name": "O`clock",
+        "trans": [
+            "…点钟"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The best time to take the train is from 4 to 6 o' clock in the afternoon, because it is cool when people enjoy the countryside view.",
+        "sentenceTrans": "坐火车的最佳时间是下午4点到6点，因为那时天气凉爽，人们可以尽情享受乡村景色。"
+    },
+    {
+        "name": "quarter",
+        "trans": [
+            "一刻钟"
+        ],
+        "usphone": "ˈkwɔːrtər",
+        "ukphone": "ˈkwɔːtə(r)",
+        "sentence": "Nowitzki fouled Mitchell early in the third quarter.",
+        "sentenceTrans": "在第三节早些时候，诺维斯基就对米切尔犯了规。"
+    },
+    {
+        "name": "time",
+        "trans": [
+            "时间"
+        ],
+        "usphone": "taɪm",
+        "ukphone": "taɪm",
+        "sentence": "Time is like a wild donkey. Once it starts running, it never stops.",
+        "sentenceTrans": "时间像一头野驴呀，跑起来就不停。"
+    },
+    {
+        "name": "half",
+        "trans": [
+            "半；一半"
+        ],
+        "usphone": "hæf",
+        "ukphone": "hɑːf",
+        "sentence": "Children travel (at) half fare.",
+        "sentenceTrans": "儿童交通费减半。"
+    },
+    {
+        "name": "wash",
+        "trans": [
+            "洗"
+        ],
+        "usphone": "wɑːʃ",
+        "ukphone": "wɒʃ",
+        "sentence": "I must wash the car tomorrow.",
+        "sentenceTrans": "我明天必须冲洗汽车。"
+    },
+    {
+        "name": "dinner",
+        "trans": [
+            "晚餐；正餐"
+        ],
+        "usphone": "ˈdɪnər",
+        "ukphone": "ˈdɪnə(r)",
+        "sentence": "Dinner was in two sittings.",
+        "sentenceTrans": "晚餐有两个就餐时段。"
+    },
+    {
+        "name": "start",
+        "trans": [
+            "开始"
+        ],
+        "usphone": "stɑːrt",
+        "ukphone": "stɑːt",
+        "sentence": "They determined to start early.",
+        "sentenceTrans": "他们决定早点出发。"
+    },
+    {
+        "name": "catch",
+        "trans": [
+            "捉住"
+        ],
+        "usphone": "kætʃ",
+        "ukphone": "kætʃ",
+        "sentence": "You'll be sorry if I catch you!",
+        "sentenceTrans": "要是让我抓着，你会后悔的！"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "up 起床"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Let's not get hysterical.",
+        "sentenceTrans": "咱们别太激动。"
+    },
+    {
+        "name": "brush…teeth",
+        "trans": [
+            "刷牙"
+        ],
+        "usphone": "brʌʃ tiːθ",
+        "ukphone": "",
+        "sentence": "Being clean is important, but you needn't shower, brush teeth or wash hair every day.",
+        "sentenceTrans": "保持清洁很重要，但你不必每天洗澡、刷牙或洗头。"
+    },
+    {
+        "name": "half",
+        "trans": [
+            "past… …点半"
+        ],
+        "usphone": "hæf",
+        "ukphone": "hɑːf",
+        "sentence": "Children travel (at) half fare.",
+        "sentenceTrans": "儿童交通费减半。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "breakfast 吃早餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "Times have changed and so have I.",
+        "sentenceTrans": "时代变了，我也变了。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "to school 去上学"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "\"Go! Please go.\"—\"You must be joking!\"",
+        "sentenceTrans": "“走吧！请走吧。”—“你一定是在开玩笑！”"
+    },
+    {
+        "name": "wash…face",
+        "trans": [
+            "洗脸"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I wash face and hands with towel.",
+        "sentenceTrans": "我用毛巾洗脸和洗手。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "lunch 吃午餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "Times have changed and so have I.",
+        "sentenceTrans": "时代变了，我也变了。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "dinner 吃晚餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "Times have changed and so have I.",
+        "sentenceTrans": "时代变了，我也变了。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "to bed 上床睡觉"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "\"Go! Please go.\"—\"You must be joking!\"",
+        "sentenceTrans": "“走吧！请走吧。”—“你一定是在开玩笑！”"
+    },
+    {
+        "name": "Unit8",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit8 What gift do you want?",
+        "sentenceTrans": "你想要什么礼物？"
+    },
+    {
+        "name": "week",
+        "trans": [
+            "星期"
+        ],
+        "usphone": "wiːk",
+        "ukphone": "wiːk",
+        "sentence": "We commence building next week.",
+        "sentenceTrans": "我们下周破土动工。"
+    },
+    {
+        "name": "Monday",
+        "trans": [
+            "星期一"
+        ],
+        "usphone": "ˈmʌndeɪ; ˈmʌndi",
+        "ukphone": "ˈmʌndeɪ; ˈmʌndi",
+        "sentence": "She started work last Monday.",
+        "sentenceTrans": "她上个星期一开始工作。"
+    },
+    {
+        "name": "with",
+        "trans": [
+            "和…一起"
+        ],
+        "usphone": "wɪð; wɪθ",
+        "ukphone": "wɪð",
+        "sentence": "He's more comfortable with computers than with people.",
+        "sentenceTrans": "比起与人相处，他和电脑打交道更能应付自如。"
+    },
+    {
+        "name": "Tuesday",
+        "trans": [
+            "星期二"
+        ],
+        "usphone": "ˈtuːzdeɪ",
+        "ukphone": "ˈtjuːzdeɪ",
+        "sentence": "She's been off work since Tuesday.",
+        "sentenceTrans": "星期二以来她一直没上班。"
+    },
+    {
+        "name": "Wednesday",
+        "trans": [
+            "星期三"
+        ],
+        "usphone": "ˈwenzdeɪ",
+        "ukphone": "ˈwenzdeɪ",
+        "sentence": "Let's move the meeting to Wednesday.",
+        "sentenceTrans": "我们把开会时间改到星期三吧。"
+    },
+    {
+        "name": "Thursday星期四",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "Friday星期五",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "game",
+        "trans": [
+            "游戏"
+        ],
+        "usphone": "ɡeɪm",
+        "ukphone": "ɡeɪm",
+        "sentence": "He paced his game skilfully.",
+        "sentenceTrans": "他巧妙地控制着自己的比赛节奏。"
+    },
+    {
+        "name": "Saturday",
+        "trans": [
+            "星期六"
+        ],
+        "usphone": "ˈsætərdeɪ",
+        "ukphone": "ˈsætədeɪ",
+        "sentence": "Let's go out on Saturday night.",
+        "sentenceTrans": "我们星期六晚上出去吧。"
+    },
+    {
+        "name": "Sunday",
+        "trans": [
+            "星期天"
+        ],
+        "usphone": "ˈsʌndeɪ",
+        "ukphone": "ˈsʌndeɪ",
+        "sentence": "We work every day except Sunday.",
+        "sentenceTrans": "我们除星期天外每天都工作。"
+    },
+    {
+        "name": "clock",
+        "trans": [
+            "时钟；钟"
+        ],
+        "usphone": "klɑːk",
+        "ukphone": "klɒk",
+        "sentence": "The clock has just struck three.",
+        "sentenceTrans": "时钟刚刚敲过三点。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "chess 下国际象棋"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "Let's play charades.",
+        "sentenceTrans": "咱们来玩打哑谜猜字游戏吧。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "the weekend 在周末"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "I reside at the mission at St. Michael's.",
+        "sentenceTrans": "我住在圣迈克尔教堂的布道所。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "late for 迟到"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "To be without Pearce would be a considerable blow.",
+        "sentenceTrans": "要是缺了皮尔斯，那会是相当大的打击。"
+    },
+    {
+        "name": "Unit9",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit9 How many tigers can you see?",
+        "sentenceTrans": "你能看见多少只老虎？"
+    },
+    {
+        "name": "China",
+        "trans": [
+            "中国"
+        ],
+        "usphone": "ˈtʃaɪnə",
+        "ukphone": "ˈtʃaɪnə",
+        "sentence": "China has always fascinated me.",
+        "sentenceTrans": "中国一直令我心驰神往。"
+    },
+    {
+        "name": "talk",
+        "trans": [
+            "谈话；说话"
+        ],
+        "usphone": "tɔːk",
+        "ukphone": "tɔːk",
+        "sentence": "He was too distressed to talk.",
+        "sentenceTrans": "他伤心得说不出话来。"
+    },
+    {
+        "name": "May",
+        "trans": [
+            "五月"
+        ],
+        "usphone": "meɪ",
+        "ukphone": "meɪ",
+        "sentence": "That may or may not be true.",
+        "sentenceTrans": "这可能是真的，也可能不是。"
+    },
+    {
+        "name": "June",
+        "trans": [
+            "六月"
+        ],
+        "usphone": "dʒuːn",
+        "ukphone": "dʒuːn",
+        "sentence": "Ann's expecting a baby in June.",
+        "sentenceTrans": "安六月份要生孩子。"
+    },
+    {
+        "name": "January",
+        "trans": [
+            "一月"
+        ],
+        "usphone": "ˈdʒænjueri",
+        "ukphone": "ˈdʒænjuəri",
+        "sentence": "January is my least favourite month.",
+        "sentenceTrans": "一月是我最不喜欢的月份。"
+    },
+    {
+        "name": "February",
+        "trans": [
+            "二月"
+        ],
+        "usphone": "ˈfebrueri",
+        "ukphone": "ˈfebruəri",
+        "sentence": "Postal workers are getting a 5.2% pay rise, backdated to February.",
+        "sentenceTrans": "邮政员工的工资将提高5.2%，追溯至二月份起算。"
+    },
+    {
+        "name": "March",
+        "trans": [
+            "三月"
+        ],
+        "usphone": "mɑːrtʃ",
+        "ukphone": "mɑːtʃ",
+        "sentence": "We went skiing in France in March.",
+        "sentenceTrans": "三月份我们去法国滑雪了。"
+    },
+    {
+        "name": "April四月",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "July",
+        "trans": [
+            "七月"
+        ],
+        "usphone": "dʒʊˈlaɪ",
+        "ukphone": "dʒʊˈlaɪ",
+        "sentence": "The car is taxed until July.",
+        "sentenceTrans": "这辆汽车的牌照税缴纳到了七月。"
+    },
+    {
+        "name": "August",
+        "trans": [
+            "八月"
+        ],
+        "usphone": "ˈɔːɡəst",
+        "ukphone": "ˈɔːɡəst",
+        "sentence": "This place is lousy with tourists in August.",
+        "sentenceTrans": "在八月份，这个地方挤满游人。"
+    },
+    {
+        "name": "September",
+        "trans": [
+            "九月"
+        ],
+        "usphone": "sepˈtembər",
+        "ukphone": "sepˈtembə(r)",
+        "sentence": "September was a long way off.",
+        "sentenceTrans": "那时离九月份还有很长一段时间。"
+    },
+    {
+        "name": "October",
+        "trans": [
+            "十月"
+        ],
+        "usphone": "ɑːkˈtoʊbər",
+        "ukphone": "ɒkˈtəʊbə(r)",
+        "sentence": "The film festival takes place in October.",
+        "sentenceTrans": "电影节将于十月举行。"
+    },
+    {
+        "name": "November",
+        "trans": [
+            "十一月"
+        ],
+        "usphone": "noʊˈvembər",
+        "ukphone": "nəʊˈvembə(r)",
+        "sentence": "She left back in November.",
+        "sentenceTrans": "她十一月份已经离开了。"
+    },
+    {
+        "name": "December",
+        "trans": [
+            "十二月"
+        ],
+        "usphone": "dɪˈsembər",
+        "ukphone": "dɪˈsembə(r)",
+        "sentence": "I keep forgetting it's December.",
+        "sentenceTrans": "我总是忘了现在是12月份。"
+    },
+    {
+        "name": "email",
+        "trans": [
+            "电子邮件"
+        ],
+        "usphone": "ˈiːmeɪl",
+        "ukphone": "ˈiːmeɪl",
+        "sentence": "I'll email her the documents.",
+        "sentenceTrans": "我将用电邮把这些文件发送给她。"
+    },
+    {
+        "name": "hat",
+        "trans": [
+            "帽子"
+        ],
+        "usphone": "hæt",
+        "ukphone": "hæt",
+        "sentence": "I look ridiculous in this hat.",
+        "sentenceTrans": "我戴这顶帽子看上去很可笑。"
+    },
+    {
+        "name": "wear",
+        "trans": [
+            "穿；戴"
+        ],
+        "usphone": "wer",
+        "ukphone": "weə(r)",
+        "sentence": "She doesn't often wear heels.",
+        "sentenceTrans": "她不常穿高跟鞋。"
+    },
+    {
+        "name": "yours",
+        "trans": [
+            "你的；你们的"
+        ],
+        "usphone": "jɔːrz",
+        "ukphone": "jɔːz",
+        "sentence": "I'd like one the same as yours.",
+        "sentenceTrans": "我要一个和你一样的。"
+    },
+    {
+        "name": "vevry",
+        "trans": [
+            "year 每年"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "Unit10",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit10 When was it built?",
+        "sentenceTrans": "它是什么时候建成的？"
+    },
+    {
+        "name": "garden",
+        "trans": [
+            "花园"
+        ],
+        "usphone": "ˈɡɑːrdn",
+        "ukphone": "ˈɡɑːd(ə)n",
+        "sentence": "Caspar was weeding the garden.",
+        "sentenceTrans": "卡斯帕正在给花园除草。"
+    },
+    {
+        "name": "plant",
+        "trans": [
+            "植物"
+        ],
+        "usphone": "plænt",
+        "ukphone": "plɑːnt",
+        "sentence": "This plant is a vigorous grower.",
+        "sentenceTrans": "这种植物生长起来茂盛茁壮。"
+    },
+    {
+        "name": "leaf",
+        "trans": [
+            "叶子（复数leaves）"
+        ],
+        "usphone": "liːf",
+        "ukphone": "liːf",
+        "sentence": "The trees are coming into leaf.",
+        "sentenceTrans": "树开始长叶子了。"
+    },
+    {
+        "name": "water",
+        "trans": [
+            "给…浇水"
+        ],
+        "usphone": "ˈwɔːtər",
+        "ukphone": "ˈwɔːtə(r)",
+        "sentence": "The water deepened gradually.",
+        "sentenceTrans": "水渐渐变深了。"
+    },
+    {
+        "name": "them",
+        "trans": [
+            "它们；他们；她们"
+        ],
+        "usphone": "ðem; ðəm",
+        "ukphone": "ðem; ðəm",
+        "sentence": "I will explain to them that I can't pay them.",
+        "sentenceTrans": "我会向他们解释说我无法付钱给他们。"
+    },
+    {
+        "name": "grow",
+        "trans": [
+            "（使）生长；成长"
+        ],
+        "usphone": "ɡroʊ",
+        "ukphone": "ɡrəʊ",
+        "sentence": "The economy continues to grow.",
+        "sentenceTrans": "经济持续增长。"
+    },
+    {
+        "name": "seed",
+        "trans": [
+            "种子"
+        ],
+        "usphone": "siːd",
+        "ukphone": "siːd",
+        "sentence": "The top seed won comfortably.",
+        "sentenceTrans": "头号种子选手轻松获胜。"
+    },
+    {
+        "name": "vevery",
+        "trans": [
+            "day 每天"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "Unit11",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit11 Sad movies made me cry.",
+        "sentenceTrans": "悲伤的电影使我哭泣。"
+    },
+    {
+        "name": "song",
+        "trans": [
+            "歌曲"
+        ],
+        "usphone": "sɔːŋ",
+        "ukphone": "sɒŋ",
+        "sentence": "I wrote this sappy love song.",
+        "sentenceTrans": "我写了这首愚蠢的爱情歌曲。"
+    },
+    {
+        "name": "zoo",
+        "trans": [
+            "动物园"
+        ],
+        "usphone": "zuː",
+        "ukphone": "zuː",
+        "sentence": "He took his son Christopher to the zoo.",
+        "sentenceTrans": "他带儿子克里斯托弗去了动物园。"
+    },
+    {
+        "name": "cinema",
+        "trans": [
+            "电影院"
+        ],
+        "usphone": "ˈsɪnəmə",
+        "ukphone": "ˈsɪnəmə",
+        "sentence": "I like music, theatre and cinema.",
+        "sentenceTrans": "我喜欢音乐、戏剧和电影。"
+    },
+    {
+        "name": "museum",
+        "trans": [
+            "博物馆"
+        ],
+        "usphone": "mjuˈziːəm",
+        "ukphone": "mjuˈziːəm",
+        "sentence": "Is the museum open on Sundays?",
+        "sentenceTrans": "博物馆每星期天都开放吗？"
+    },
+    {
+        "name": "also",
+        "trans": [
+            "也；还"
+        ],
+        "usphone": "ˈɔːlsoʊ",
+        "ukphone": "ˈɔːlsəʊ",
+        "sentence": "CNN also broadcasts in Europe.",
+        "sentenceTrans": "美国有线新闻网络也在欧洲进行广播。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a party 举办聚会"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "Times have changed and so have I.",
+        "sentenceTrans": "时代变了，我也变了。"
+    },
+    {
+        "name": "Unit12",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit12 what is red and what is black?",
+        "sentenceTrans": "什么是红的和什么是黑的？"
+    },
+    {
+        "name": "ugly",
+        "trans": [
+            "丑的；丑陋的"
+        ],
+        "usphone": "ˈʌɡli",
+        "ukphone": "ˈʌɡli",
+        "sentence": "There have been some ugly scenes.",
+        "sentenceTrans": "出现了一些丑恶的场面。"
+    },
+    {
+        "name": "duckling",
+        "trans": [
+            "小鸭"
+        ],
+        "usphone": "ˈdʌklɪŋ",
+        "ukphone": "ˈdʌklɪŋ",
+        "sentence": "The yellow duckling is so cute.",
+        "sentenceTrans": "这只黄色小鸭好可爱喔！"
+    },
+    {
+        "name": "duck",
+        "trans": [
+            "鸭子"
+        ],
+        "usphone": "dʌk",
+        "ukphone": "dʌk",
+        "sentence": "The main course was roast duck.",
+        "sentenceTrans": "主菜是烤鸭。"
+    },
+    {
+        "name": "river",
+        "trans": [
+            "河；江"
+        ],
+        "usphone": "ˈrɪvər",
+        "ukphone": "ˈrɪvə(r)",
+        "sentence": "The river was alive with birds.",
+        "sentenceTrans": "这条河流周围满是各种鸟类。"
+    },
+    {
+        "name": "baby",
+        "trans": [
+            "宝宝；婴儿"
+        ],
+        "usphone": "ˈbeɪbi",
+        "ukphone": "ˈbeɪbi",
+        "sentence": "She dreamed about her baby.",
+        "sentenceTrans": "她梦见了她的小宝贝。"
+    },
+    {
+        "name": "later",
+        "trans": [
+            "后来；以后"
+        ],
+        "usphone": "ˈleɪtər",
+        "ukphone": "ˈleɪtə(r)",
+        "sentence": "Two days later tragedy struck.",
+        "sentenceTrans": "两天后悲剧发生了。"
+    },
+    {
+        "name": "quack",
+        "trans": [
+            "嘎嘎"
+        ],
+        "usphone": "kwæk",
+        "ukphone": "kwæk",
+        "sentence": "Suddenly he heard a quack.",
+        "sentenceTrans": "突然，他听到嘎的一声。"
+    },
+    {
+        "name": "back",
+        "trans": [
+            "背；背部"
+        ],
+        "usphone": "bæk",
+        "ukphone": "bæk",
+        "sentence": "\"Welcome back,\" she beamed.",
+        "sentenceTrans": "“欢迎回来，”她笑容满面地说。"
+    },
+    {
+        "name": "away",
+        "trans": [
+            "去别处；朝另一个方向"
+        ],
+        "usphone": "əˈweɪ",
+        "ukphone": "əˈweɪ",
+        "sentence": "She walked quickly away.",
+        "sentenceTrans": "她迅速走开了。"
+    },
+    {
+        "name": "swan",
+        "trans": [
+            "天鹅"
+        ],
+        "usphone": "swɑːn",
+        "ukphone": "swɒn",
+        "sentence": "The team's mascot is a giant swan.",
+        "sentenceTrans": "这个队的吉祥物是只大天鹅。"
+    },
+    {
+        "name": "into",
+        "trans": [
+            "朝；向；到…里面"
+        ],
+        "usphone": "ˈɪntuː",
+        "ukphone": "ˈɪntuː",
+        "sentence": "Caterpillars change into butterflies.",
+        "sentenceTrans": "毛虫变成蝴蝶。"
+    },
+    {
+        "name": "_x000C_小学五年级上册英语单词表",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "Unit1",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "UNIT1 How do you study for a test?",
+        "sentenceTrans": "你如何进行备考学习？"
+    },
+    {
+        "name": "future",
+        "trans": [
+            "将来；未来"
+        ],
+        "usphone": "ˈfjuːtʃər",
+        "ukphone": "ˈfjuːtʃə(r)",
+        "sentence": "The movie is set in the future.",
+        "sentenceTrans": "这部电影以未来为背景。"
+    },
+    {
+        "name": "want",
+        "trans": [
+            "想要"
+        ],
+        "usphone": "wɑːnt",
+        "ukphone": "wɒnt",
+        "sentence": "Do you want anything else?",
+        "sentenceTrans": "你还想要点别的什么吗？"
+    },
+    {
+        "name": "pilot",
+        "trans": [
+            "飞行员"
+        ],
+        "usphone": "ˈpaɪlət",
+        "ukphone": "ˈpaɪlət",
+        "sentence": "The pilot landed the plane safely.",
+        "sentenceTrans": "飞行员驾驶飞机安全着陆。"
+    },
+    {
+        "name": "teach",
+        "trans": [
+            "教（课）"
+        ],
+        "usphone": "tiːtʃ",
+        "ukphone": "tiːtʃ",
+        "sentence": "Could you teach me to do that?",
+        "sentenceTrans": "你能教我干那活儿吗？"
+    },
+    {
+        "name": "cook",
+        "trans": [
+            "厨师；烹饪"
+        ],
+        "usphone": "kʊk",
+        "ukphone": "kʊk",
+        "sentence": "She was an amazingly good cook.",
+        "sentenceTrans": "她曾是个好得惊人的厨师。"
+    },
+    {
+        "name": "taxi",
+        "trans": [
+            "driver 出租车司机"
+        ],
+        "usphone": "ˈtæksi",
+        "ukphone": "ˈtæksi",
+        "sentence": "The taxi showed up on the dot.",
+        "sentenceTrans": "出租车准时到了。"
+    },
+    {
+        "name": "job",
+        "trans": [
+            "工作；职业"
+        ],
+        "usphone": "dʒɑːb",
+        "ukphone": "dʒɒb",
+        "sentence": "Her job is multifaceted.",
+        "sentenceTrans": "她的工作涉及许多方面。"
+    },
+    {
+        "name": "singer",
+        "trans": [
+            "歌手"
+        ],
+        "usphone": "ˈsɪŋər",
+        "ukphone": "ˈsɪŋə(r)",
+        "sentence": "The singer re-formed his band.",
+        "sentenceTrans": "这名歌手对他的乐队进行了重组。"
+    },
+    {
+        "name": "fall",
+        "trans": [
+            "掉落；落下"
+        ],
+        "usphone": "fɔːl",
+        "ukphone": "fɔːl",
+        "sentence": "Let me fall if I must fall. The one I become will catch me.",
+        "sentenceTrans": "如果必须坠落，就让我坠落。我会成为的那个人，一定会接住我。"
+    },
+    {
+        "name": "lifeguard",
+        "trans": [
+            "救生员"
+        ],
+        "usphone": "ˈlaɪfɡɑːrd",
+        "ukphone": "ˈlaɪfɡɑːd",
+        "sentence": "He's more like a film star than a lifeguard, really.",
+        "sentenceTrans": "与其说他像个救生员，倒不如说他像个影星，真的。"
+    },
+    {
+        "name": "save",
+        "trans": [
+            "救；救助；节约"
+        ],
+        "usphone": "seɪv",
+        "ukphone": "seɪv",
+        "sentence": "It's too late to save her now.",
+        "sentenceTrans": "现在来拯救她的生命已为时太晚。"
+    },
+    {
+        "name": "become",
+        "trans": [
+            "变成；变得"
+        ],
+        "usphone": "bɪˈkʌm",
+        "ukphone": "bɪˈkʌm",
+        "sentence": "Doctors become inured to death.",
+        "sentenceTrans": "医生们对死亡变得习以为常。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "good at 擅长"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "To be without Pearce would be a considerable blow.",
+        "sentenceTrans": "要是缺了皮尔斯，那会是相当大的打击。"
+    },
+    {
+        "name": "Unit2",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit2 What's the weather like today?",
+        "sentenceTrans": "第二单元今天天气怎么样？"
+    },
+    {
+        "name": "by",
+        "trans": [
+            "（表示方式）；靠近"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "8 is divisible by 2 and 4, but not by 3.",
+        "sentenceTrans": "8可被2和4除尽，但不能被3除尽。"
+    },
+    {
+        "name": "walk",
+        "trans": [
+            "走；步行"
+        ],
+        "usphone": "wɔːk",
+        "ukphone": "wɔːk",
+        "sentence": "I walk to work most mornings.",
+        "sentenceTrans": "我大多数早晨步行去上班。"
+    },
+    {
+        "name": "Ms",
+        "trans": [
+            "女士"
+        ],
+        "usphone": "mɪz",
+        "ukphone": "mɪz",
+        "sentence": "Someone with suspected MS should see a neurologist specializing in the disease.",
+        "sentenceTrans": "患有疑似MS的症状者需要去看此类疾病的神经病专科医生。"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "旅程；旅行"
+        ],
+        "usphone": "ˈdʒɜːrni",
+        "ukphone": "ˈdʒɜːni",
+        "sentence": "The journey time is two hours.",
+        "sentenceTrans": "旅程时间为两个小时。"
+    }
+]

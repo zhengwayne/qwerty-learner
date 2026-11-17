@@ -1,0 +1,202 @@
+[
+    {
+        "name": "how",
+        "trans": [
+            "much(用于问价钱)多"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "it",
+        "trans": [
+            "它"
+        ],
+        "usphone": "ɪt",
+        "ukphone": "ɪt",
+        "sentence": "It is a rabbit.",
+        "sentenceTrans": "它是一只兔子。"
+    },
+    {
+        "name": "orange",
+        "trans": [
+            "桔子"
+        ],
+        "usphone": "ˈɔːrɪndʒ",
+        "ukphone": "ˈɒrɪndʒ",
+        "sentence": "This orange is orange.",
+        "sentenceTrans": "这个橙子是橙色的。"
+    },
+    {
+        "name": "they",
+        "trans": [
+            "它们；他们；她们"
+        ],
+        "usphone": "ðeɪ",
+        "ukphone": "ðeɪ",
+        "sentence": "They are my friends.",
+        "sentenceTrans": "他们是我的朋友。"
+    },
+    {
+        "name": "Here",
+        "trans": [
+            "you are. 给你。"
+        ],
+        "usphone": "hɪr",
+        "ukphone": "hɪə(r)",
+        "sentence": "My book is here.",
+        "sentenceTrans": "我的书在这里。"
+    },
+    {
+        "name": "Good",
+        "trans": [
+            "afternoon. 下午好。"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "bed",
+        "trans": [
+            "床"
+        ],
+        "usphone": "bed",
+        "ukphone": "bed",
+        "sentence": "The cat is on the bed.",
+        "sentenceTrans": "猫在床上。"
+    },
+    {
+        "name": "book",
+        "trans": [
+            "书"
+        ],
+        "usphone": "bʊk",
+        "ukphone": "bʊk",
+        "sentence": "This is my book.",
+        "sentenceTrans": "这是我的书。"
+    },
+    {
+        "name": "chair",
+        "trans": [
+            "椅子"
+        ],
+        "usphone": "tʃer",
+        "ukphone": "tʃeə(r)",
+        "sentence": "The chair is in the room.",
+        "sentenceTrans": "椅子在房间里。"
+    },
+    {
+        "name": "desk",
+        "trans": [
+            "书桌"
+        ],
+        "usphone": "desk",
+        "ukphone": "desk",
+        "sentence": "My book is on the desk.",
+        "sentenceTrans": "我的书在书桌上。"
+    },
+    {
+        "name": "mum",
+        "trans": [
+            "妈妈"
+        ],
+        "usphone": "mʌm",
+        "ukphone": "mʌm",
+        "sentence": "This is my mum.",
+        "sentenceTrans": "这是我的妈妈。"
+    },
+    {
+        "name": "pen",
+        "trans": [
+            "钢笔"
+        ],
+        "usphone": "pen",
+        "ukphone": "pen",
+        "sentence": "This is my pen.",
+        "sentenceTrans": "这是我的钢笔。"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "铅笔"
+        ],
+        "usphone": "ˈpens(ə)l",
+        "ukphone": "ˈpens(ə)l",
+        "sentence": "This is my pencil.",
+        "sentenceTrans": "这是我的铅笔。"
+    },
+    {
+        "name": "ruler",
+        "trans": [
+            "尺"
+        ],
+        "usphone": "ˈruːlər",
+        "ukphone": "ˈruːlə(r)",
+        "sentence": "This is my ruler.",
+        "sentenceTrans": "这是我的尺子。"
+    },
+    {
+        "name": "Schoolbag",
+        "trans": [
+            "书包"
+        ],
+        "usphone": "ˈskuːlˌbæɡ",
+        "ukphone": "ˈskuːlbæɡ",
+        "sentence": "This is my schoolbag.",
+        "sentenceTrans": "这是我的书包。"
+    },
+    {
+        "name": "these",
+        "trans": [
+            "这些"
+        ],
+        "usphone": "ðiːz",
+        "ukphone": "ðiːz",
+        "sentence": "These are my books.",
+        "sentenceTrans": "这些是我的书。"
+    },
+    {
+        "name": "your",
+        "trans": [
+            "你的；你们的"
+        ],
+        "usphone": "jʊr; jər",
+        "ukphone": "jɔː(r); jə(r)",
+        "sentence": "This is your bag.",
+        "sentenceTrans": "这是你的包。"
+    },
+    {
+        "name": "Welcome!",
+        "trans": [
+            "欢迎！"
+        ],
+        "usphone": "ˈwelkəm",
+        "ukphone": "ˈwelkəm",
+        "sentence": "Welcome to my school.",
+        "sentenceTrans": "欢迎来到我的学校。"
+    },
+    {
+        "name": "eight",
+        "trans": [
+            "八"
+        ],
+        "usphone": "eɪt",
+        "ukphone": "eɪt",
+        "sentence": "I have eight books.",
+        "sentenceTrans": "我有八本书。"
+    },
+    {
+        "name": "five",
+        "trans": [
+            "五"
+        ],
+        "usphone": "faɪv",
+        "ukphone": "faɪv",
+        "sentence": "I have five books.",
+        "sentenceTrans": "我有五本书。"
+    }
+]

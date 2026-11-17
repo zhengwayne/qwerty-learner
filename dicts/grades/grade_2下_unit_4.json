@@ -1,0 +1,202 @@
+[
+    {
+        "name": "sweater",
+        "trans": [
+            "毛衣，线衣"
+        ],
+        "usphone": "ˈswetər",
+        "ukphone": "ˈswetə(r)",
+        "sentence": "This is my sweater.",
+        "sentenceTrans": "这是我的毛衣。"
+    },
+    {
+        "name": "shirt",
+        "trans": [
+            "衬衫"
+        ],
+        "usphone": "ʃɜːrt",
+        "ukphone": "ʃɜːt",
+        "sentence": "This is my white shirt.",
+        "sentenceTrans": "这是我的白衬衫。"
+    },
+    {
+        "name": "coat",
+        "trans": [
+            "外套，大衣"
+        ],
+        "usphone": "koʊt",
+        "ukphone": "kəʊt",
+        "sentence": "This is my coat.",
+        "sentenceTrans": "这是我的大衣。"
+    },
+    {
+        "name": "trousers",
+        "trans": [
+            "裤子"
+        ],
+        "usphone": "ˈtraʊzərz",
+        "ukphone": "ˈtraʊzəz",
+        "sentence": "These are my trousers.",
+        "sentenceTrans": "这是我的长裤。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "yo-yo 玩溜溜球"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I can play with a yo-yo.",
+        "sentenceTrans": "我会玩溜溜球。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "cards 打牌"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I can play with a yo-yo.",
+        "sentenceTrans": "我会玩溜溜球。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "football 踢足球"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I can play with a yo-yo.",
+        "sentenceTrans": "我会玩溜溜球。"
+    },
+    {
+        "name": "Teachers'",
+        "trans": [
+            "Day 教师节"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Today is Teachers' Day.",
+        "sentenceTrans": "今天是教师节。"
+    },
+    {
+        "name": "teacher",
+        "trans": [
+            "教师"
+        ],
+        "usphone": "ˈtiːtʃər",
+        "ukphone": "ˈtiːtʃə(r)",
+        "sentence": "This is my teacher.",
+        "sentenceTrans": "这是我的老师。"
+    },
+    {
+        "name": "today",
+        "trans": [
+            "今天"
+        ],
+        "usphone": "təˈdeɪ",
+        "ukphone": "təˈdeɪ",
+        "sentence": "It is sunny today.",
+        "sentenceTrans": "今天是晴天。"
+    },
+    {
+        "name": "September",
+        "trans": [
+            "九月"
+        ],
+        "usphone": "sepˈtembər",
+        "ukphone": "sepˈtembə(r)",
+        "sentence": "Teachers' Day is in September.",
+        "sentenceTrans": "教师节在九月。"
+    },
+    {
+        "name": "idea",
+        "trans": [
+            "想法，主意"
+        ],
+        "usphone": "aɪˈdiːə",
+        "ukphone": "aɪˈdɪə",
+        "sentence": "I have a good idea.",
+        "sentenceTrans": "我有一个好主意。"
+    },
+    {
+        "name": "card",
+        "trans": [
+            "卡片，贺卡"
+        ],
+        "usphone": "kɑːrd",
+        "ukphone": "kɑːd",
+        "sentence": "I make a birthday card.",
+        "sentenceTrans": "我做一张生日贺卡。"
+    },
+    {
+        "name": "balloon",
+        "trans": [
+            "气球"
+        ],
+        "usphone": "bəˈluːn",
+        "ukphone": "bəˈluːn",
+        "sentence": "I have a red balloon.",
+        "sentenceTrans": "我有一个红气球。"
+    },
+    {
+        "name": "blow",
+        "trans": [
+            "吹，吹气"
+        ],
+        "usphone": "bloʊ",
+        "ukphone": "bləʊ",
+        "sentence": "Blow up the balloon.",
+        "sentenceTrans": "把气球吹起来。"
+    },
+    {
+        "name": "tie",
+        "trans": [
+            "系，绑"
+        ],
+        "usphone": "taɪ",
+        "ukphone": "taɪ",
+        "sentence": "Tie the rope, please.",
+        "sentenceTrans": "请把绳子系好。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "out 外出"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    },
+    {
+        "name": "hungry",
+        "trans": [
+            "饥饿"
+        ],
+        "usphone": "ˈhʌŋɡri",
+        "ukphone": "ˈhʌŋɡri",
+        "sentence": "I am hungry.",
+        "sentenceTrans": "我饿了。"
+    },
+    {
+        "name": "thirsty",
+        "trans": [
+            "口渴的"
+        ],
+        "usphone": "ˈθɜːrsti",
+        "ukphone": "ˈθɜːsti",
+        "sentence": "I am thirsty.",
+        "sentenceTrans": "我渴了。"
+    },
+    {
+        "name": "tired",
+        "trans": [
+            "疲倦的，疲劳的"
+        ],
+        "usphone": "ˈtaɪərd",
+        "ukphone": "ˈtaɪəd",
+        "sentence": "I am tired.",
+        "sentenceTrans": "我累了。"
+    }
+]

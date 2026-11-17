@@ -1,0 +1,172 @@
+[
+    {
+        "name": "fairy",
+        "trans": [
+            "tale 童话"
+        ],
+        "usphone": "ˈferi",
+        "ukphone": "ˈfeəri",
+        "sentence": "The fairy gives him three wishes.",
+        "sentenceTrans": "仙子给了他三个愿望。"
+    },
+    {
+        "name": "adult",
+        "trans": [
+            "成年人"
+        ],
+        "usphone": "əˈdʌlt; ˈædʌlt",
+        "ukphone": "ˈædʌlt; əˈdʌlt",
+        "sentence": "An adult panda is very heavy.",
+        "sentenceTrans": "成年大熊猫很重。"
+    },
+    {
+        "name": "well-known",
+        "trans": [
+            "众所周知的；著名的"
+        ],
+        "usphone": "ˌwel ˈnoʊn",
+        "ukphone": "ˌwel ˈnəʊn",
+        "sentence": "She is a well-known writer.",
+        "sentenceTrans": "她是一位著名作家。"
+    },
+    {
+        "name": "stronger",
+        "trans": [
+            "更强大的"
+        ],
+        "usphone": "strɔːŋgər",
+        "ukphone": "strɒŋgə(r)",
+        "sentence": "An adult tiger is stronger than a dog.",
+        "sentenceTrans": "成年老虎比狗强壮。"
+    },
+    {
+        "name": "than",
+        "trans": [
+            "比"
+        ],
+        "usphone": "ðæn; ðən",
+        "ukphone": "ðæn; ðən",
+        "sentence": "This truck is bigger than that car.",
+        "sentenceTrans": "这辆卡车比那辆汽车大。"
+    },
+    {
+        "name": "scarf",
+        "trans": [
+            "围巾（复数scarves或scarfs）"
+        ],
+        "usphone": "skɑːrf",
+        "ukphone": "skɑːf",
+        "sentence": "The wind blows off my scarf.",
+        "sentenceTrans": "风吹掉了我的围巾。"
+    },
+    {
+        "name": "blow",
+        "trans": [
+            "off 吹掉"
+        ],
+        "usphone": "bloʊ",
+        "ukphone": "bləʊ",
+        "sentence": "The wind blows off my scarf.",
+        "sentenceTrans": "风吹掉了我的围巾。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "off 脱掉"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "Take off your scarf, please.",
+        "sentenceTrans": "请摘下围巾。"
+    },
+    {
+        "name": "Western",
+        "trans": [
+            "西方的"
+        ],
+        "usphone": "ˈwestərn",
+        "ukphone": "ˈwestən",
+        "sentence": "Turkey is a Western holiday food.",
+        "sentenceTrans": "火鸡是西方的节日食物。"
+    },
+    {
+        "name": "turkey",
+        "trans": [
+            "火鸡"
+        ],
+        "usphone": "ˈtɜːrki",
+        "ukphone": "ˈtɜːki",
+        "sentence": "They eat turkey at Christmas.",
+        "sentenceTrans": "他们在圣诞节吃火鸡。"
+    },
+    {
+        "name": "bright",
+        "trans": [
+            "明亮的；鲜艳的"
+        ],
+        "usphone": "braɪt",
+        "ukphone": "braɪt",
+        "sentence": "The sun is bright.",
+        "sentenceTrans": "太阳很明亮。"
+    },
+    {
+        "name": "laugh",
+        "trans": [
+            "at 嘲笑"
+        ],
+        "usphone": "læf",
+        "ukphone": "lɑːf",
+        "sentence": "Do not laugh at others.",
+        "sentenceTrans": "不要嘲笑别人。"
+    },
+    {
+        "name": "jack-o’-lantern",
+        "trans": [
+            "南瓜灯"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "They make a jack-o’-lantern.",
+        "sentenceTrans": "他们做了一个南瓜灯。"
+    },
+    {
+        "name": "pea",
+        "trans": [
+            "豌豆"
+        ],
+        "usphone": "piː",
+        "ukphone": "piː",
+        "sentence": "A pea grows in the pod.",
+        "sentenceTrans": "一颗豌豆长在豆荚里。"
+    },
+    {
+        "name": "pod",
+        "trans": [
+            "豆荚"
+        ],
+        "usphone": "pɑːd",
+        "ukphone": "pɒd",
+        "sentence": "There are five peas in the pod.",
+        "sentenceTrans": "豆荚里有五颗豌豆。"
+    },
+    {
+        "name": "forever",
+        "trans": [
+            "永远"
+        ],
+        "usphone": "fərˈevər",
+        "ukphone": "fərˈevə(r)",
+        "sentence": "The lazy pea wants to sleep forever.",
+        "sentenceTrans": "懒惰的豌豆想永远睡下去。"
+    },
+    {
+        "name": "bigger",
+        "trans": [
+            "更大的"
+        ],
+        "usphone": "bɪgə(r)",
+        "ukphone": "bɪgə(r)",
+        "sentence": "The pea grows bigger and bigger.",
+        "sentenceTrans": "豌豆越长越大。"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "name": "in",
+        "trans": [
+            "the moddle 在中间"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The letter arrived in a short time.",
+        "sentenceTrans": "信很快就到了。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "out 小心；当心"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look out! A truck is coming.",
+        "sentenceTrans": "小心！一辆卡车开过来了。"
+    },
+    {
+        "name": "no",
+        "trans": [
+            "smoking 禁止吸烟"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "The sign means no smoking.",
+        "sentenceTrans": "这个标识表示禁止吸烟。"
+    },
+    {
+        "name": "no",
+        "trans": [
+            "swimming 禁止游泳"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "The sign means no smoking.",
+        "sentenceTrans": "这个标识表示禁止吸烟。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "lost 迷路"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Follow the signs, or you may get lost.",
+        "sentenceTrans": "跟着标识走，否则你可能迷路。"
+    },
+    {
+        "name": "some",
+        "trans": [
+            "time 一段时间"
+        ],
+        "usphone": "sʌm; səm",
+        "ukphone": "sʌm; səm",
+        "sentence": "We stayed there for some time.",
+        "sentenceTrans": "我们在那里待了一段时间。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "the way 在路上"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "The vase is on the left.",
+        "sentenceTrans": "花瓶在左边。"
+    },
+    {
+        "name": "reuse",
+        "trans": [
+            "重新利用"
+        ],
+        "usphone": "ˌriːˈjuːz",
+        "ukphone": "ˌriːˈjuːz",
+        "sentence": "We can reuse old envelopes.",
+        "sentenceTrans": "我们可以重复使用旧信封。"
+    },
+    {
+        "name": "can",
+        "trans": [
+            "金属罐"
+        ],
+        "usphone": "kæn; kən",
+        "ukphone": "kæn; kən",
+        "sentence": "We can reuse this metal can.",
+        "sentenceTrans": "我们可以重复利用这个金属罐。"
+    },
+    {
+        "name": "rubber",
+        "trans": [
+            "橡皮"
+        ],
+        "usphone": "ˈrʌbər",
+        "ukphone": "ˈrʌbə(r)",
+        "sentence": "This is my rubber.",
+        "sentenceTrans": "这是我的橡皮。"
+    },
+    {
+        "name": "vase",
+        "trans": [
+            "花瓶"
+        ],
+        "usphone": "veɪs",
+        "ukphone": "vɑːz",
+        "sentence": "We make a vase from a bottle.",
+        "sentenceTrans": "我们用瓶子做花瓶。"
+    },
+    {
+        "name": "pen",
+        "trans": [
+            "holder 笔筒"
+        ],
+        "usphone": "pen",
+        "ukphone": "pen",
+        "sentence": "This is my pen.",
+        "sentenceTrans": "这是我的钢笔。"
+    },
+    {
+        "name": "envelope",
+        "trans": [
+            "信封"
+        ],
+        "usphone": "ˈenvəloʊp",
+        "ukphone": "ˈenvələʊp",
+        "sentence": "Put the letter in the envelope.",
+        "sentenceTrans": "把信放进信封。"
+    },
+    {
+        "name": "plastic",
+        "trans": [
+            "塑料制的；塑料的"
+        ],
+        "usphone": "ˈplæstɪk",
+        "ukphone": "ˈplæstɪk",
+        "sentence": "Do not use many plastic bags.",
+        "sentenceTrans": "不要使用很多塑料袋。"
+    },
+    {
+        "name": "rubbish",
+        "trans": [
+            "bin 垃圾桶"
+        ],
+        "usphone": "ˈrʌbɪʃ",
+        "ukphone": "ˈrʌbɪʃ",
+        "sentence": "Put it in the rubbish bin.",
+        "sentenceTrans": "把它放进垃圾桶。"
+    },
+    {
+        "name": "truck",
+        "trans": [
+            "卡车"
+        ],
+        "usphone": "trʌk",
+        "ukphone": "trʌk",
+        "sentence": "The truck carries old glass.",
+        "sentenceTrans": "卡车运送旧玻璃。"
+    },
+    {
+        "name": "piece",
+        "trans": [
+            "碎片；碎块"
+        ],
+        "usphone": "piːs",
+        "ukphone": "piːs",
+        "sentence": "Pick up every piece of rubbish.",
+        "sentenceTrans": "捡起每一片垃圾。"
+    },
+    {
+        "name": "cloth",
+        "trans": [
+            "布；布料"
+        ],
+        "usphone": "klɔːθ",
+        "ukphone": "klɒθ",
+        "sentence": "We can reuse this piece of cloth.",
+        "sentenceTrans": "我们可以重复利用这块布。"
+    },
+    {
+        "name": "throw",
+        "trans": [
+            "away 扔掉"
+        ],
+        "usphone": "θroʊ",
+        "ukphone": "θrəʊ",
+        "sentence": "Do not throw away old bottles.",
+        "sentenceTrans": "不要扔掉旧瓶子。"
+    }
+]

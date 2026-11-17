@@ -1,0 +1,192 @@
+[
+    {
+        "name": "subject",
+        "trans": [
+            "学科；科目"
+        ],
+        "usphone": "ˈsʌbdʒekt",
+        "ukphone": "ˈsʌbdʒɪkt",
+        "sentence": "English is my favourite subject.",
+        "sentenceTrans": "英语是我最喜欢的科目。"
+    },
+    {
+        "name": "lesson",
+        "trans": [
+            "课"
+        ],
+        "usphone": "ˈles(ə)n",
+        "ukphone": "ˈles(ə)n",
+        "sentence": "Our first lesson is Chinese.",
+        "sentenceTrans": "我们的第一节课是语文。"
+    },
+    {
+        "name": "Chinese",
+        "trans": [
+            "语文"
+        ],
+        "usphone": "ˌtʃaɪˈniːz",
+        "ukphone": "ˌtʃaɪˈniːz",
+        "sentence": "We read stories in Chinese.",
+        "sentenceTrans": "我们在语文课上读故事。"
+    },
+    {
+        "name": "Maths",
+        "trans": [
+            "数学"
+        ],
+        "usphone": "mæθs",
+        "ukphone": "mæθs",
+        "sentence": "We learn numbers in Maths.",
+        "sentenceTrans": "我们在数学课上学习数字。"
+    },
+    {
+        "name": "English",
+        "trans": [
+            "英语"
+        ],
+        "usphone": "ˈɪŋɡlɪʃ",
+        "ukphone": "ˈɪŋɡlɪʃ",
+        "sentence": "We speak English in class.",
+        "sentenceTrans": "我们在课堂上说英语。"
+    },
+    {
+        "name": "Science",
+        "trans": [
+            "科学"
+        ],
+        "usphone": "ˈsaɪəns",
+        "ukphone": "ˈsaɪəns",
+        "sentence": "We learn about plants in Science.",
+        "sentenceTrans": "我们在科学课上学习植物。"
+    },
+    {
+        "name": "PE",
+        "trans": [
+            "体育"
+        ],
+        "usphone": "ˌpiː ˈiː",
+        "ukphone": "peɪ",
+        "sentence": "We run and jump in PE.",
+        "sentenceTrans": "我们在体育课上跑步和跳跃。"
+    },
+    {
+        "name": "Music",
+        "trans": [
+            "音乐"
+        ],
+        "usphone": "ˈmjuːzɪk",
+        "ukphone": "ˈmjuːzɪk",
+        "sentence": "We sing songs in Music.",
+        "sentenceTrans": "我们在音乐课上唱歌。"
+    },
+    {
+        "name": "Art",
+        "trans": [
+            "美术"
+        ],
+        "usphone": "ɑːrt",
+        "ukphone": "ɑːt",
+        "sentence": "We draw pictures in Art.",
+        "sentenceTrans": "我们在美术课上画画。"
+    },
+    {
+        "name": "timetable",
+        "trans": [
+            "课程表；时间表"
+        ],
+        "usphone": "ˈtaɪmteɪb(ə)l",
+        "ukphone": "ˈtaɪmteɪb(ə)l",
+        "sentence": "This is our class timetable.",
+        "sentenceTrans": "这是我们的课程表。"
+    },
+    {
+        "name": "from",
+        "trans": [
+            "从；来自"
+        ],
+        "usphone": "frʌm; frəm",
+        "ukphone": "frɒm; frəm",
+        "sentence": "This letter is from my friend.",
+        "sentenceTrans": "这封信来自我的朋友。"
+    },
+    {
+        "name": "a.m",
+        "trans": [
+            "上午"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "School starts at eight a.m.",
+        "sentenceTrans": "学校上午八点上课。"
+    },
+    {
+        "name": "p.m",
+        "trans": [
+            "下午"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "School ends at four p.m.",
+        "sentenceTrans": "学校下午四点放学。"
+    },
+    {
+        "name": "break",
+        "trans": [
+            "休息"
+        ],
+        "usphone": "breɪk",
+        "ukphone": "breɪk",
+        "sentence": "We play during the break.",
+        "sentenceTrans": "我们在课间休息时玩耍。"
+    },
+    {
+        "name": "from…to…",
+        "trans": [
+            "从…到…"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "School is from Monday to Friday.",
+        "sentenceTrans": "上课时间是从星期一到星期五。"
+    },
+    {
+        "name": "sport",
+        "trans": [
+            "体育运动"
+        ],
+        "usphone": "spɔːrt",
+        "ukphone": "spɔːt",
+        "sentence": "Swimming is my favourite sport.",
+        "sentenceTrans": "游泳是我最喜欢的运动。"
+    },
+    {
+        "name": "football",
+        "trans": [
+            "足球"
+        ],
+        "usphone": "ˈfʊtbɔːl",
+        "ukphone": "ˈfʊtbɔːl",
+        "sentence": "I play football.",
+        "sentenceTrans": "我踢足球。"
+    },
+    {
+        "name": "club",
+        "trans": [
+            "俱乐部；兴趣小组"
+        ],
+        "usphone": "klʌb",
+        "ukphone": "klʌb",
+        "sentence": "I am in the music club.",
+        "sentenceTrans": "我参加了音乐兴趣小组。"
+    },
+    {
+        "name": "join",
+        "trans": [
+            "参加；加入"
+        ],
+        "usphone": "dʒɔɪn",
+        "ukphone": "dʒɔɪn",
+        "sentence": "Please join our club.",
+        "sentenceTrans": "请加入我们的兴趣小组。"
+    }
+]

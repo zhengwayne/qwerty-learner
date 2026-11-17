@@ -1,0 +1,182 @@
+[
+    {
+        "name": "future",
+        "trans": [
+            "将来；未来"
+        ],
+        "usphone": "ˈfjuːtʃər",
+        "ukphone": "ˈfjuːtʃə(r)",
+        "sentence": "I want to be a pilot in the future.",
+        "sentenceTrans": "我将来想当飞行员。"
+    },
+    {
+        "name": "want",
+        "trans": [
+            "想要"
+        ],
+        "usphone": "wɑːnt",
+        "ukphone": "wɒnt",
+        "sentence": "I want some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "pilot",
+        "trans": [
+            "飞行员"
+        ],
+        "usphone": "ˈpaɪlət",
+        "ukphone": "ˈpaɪlət",
+        "sentence": "The pilot flies a plane.",
+        "sentenceTrans": "飞行员驾驶飞机。"
+    },
+    {
+        "name": "teach",
+        "trans": [
+            "教（课）"
+        ],
+        "usphone": "tiːtʃ",
+        "ukphone": "tiːtʃ",
+        "sentence": "Ms Li teaches us English.",
+        "sentenceTrans": "李老师教我们英语。"
+    },
+    {
+        "name": "cook",
+        "trans": [
+            "厨师；烹饪"
+        ],
+        "usphone": "kʊk",
+        "ukphone": "kʊk",
+        "sentence": "My father is a good cook.",
+        "sentenceTrans": "我爸爸是一名好厨师。"
+    },
+    {
+        "name": "taxi",
+        "trans": [
+            "driver 出租车司机"
+        ],
+        "usphone": "ˈtæksi",
+        "ukphone": "ˈtæksi",
+        "sentence": "My uncle is a taxi driver.",
+        "sentenceTrans": "我叔叔是一名出租车司机。"
+    },
+    {
+        "name": "job",
+        "trans": [
+            "工作；职业"
+        ],
+        "usphone": "dʒɑːb",
+        "ukphone": "dʒɒb",
+        "sentence": "What is your job?",
+        "sentenceTrans": "你的工作是什么？"
+    },
+    {
+        "name": "singer",
+        "trans": [
+            "歌手"
+        ],
+        "usphone": "ˈsɪŋər",
+        "ukphone": "ˈsɪŋə(r)",
+        "sentence": "My aunt is a singer.",
+        "sentenceTrans": "我姑妈是一名歌手。"
+    },
+    {
+        "name": "fall",
+        "trans": [
+            "掉落；落下"
+        ],
+        "usphone": "fɔːl",
+        "ukphone": "fɔːl",
+        "sentence": "Leaves fall from the trees.",
+        "sentenceTrans": "树叶从树上落下。"
+    },
+    {
+        "name": "lifeguard",
+        "trans": [
+            "救生员"
+        ],
+        "usphone": "ˈlaɪfɡɑːrd",
+        "ukphone": "ˈlaɪfɡɑːd",
+        "sentence": "The lifeguard can save people.",
+        "sentenceTrans": "救生员能救人。"
+    },
+    {
+        "name": "save",
+        "trans": [
+            "救；救助；节约"
+        ],
+        "usphone": "seɪv",
+        "ukphone": "seɪv",
+        "sentence": "The lifeguard saves the child.",
+        "sentenceTrans": "救生员救了那个孩子。"
+    },
+    {
+        "name": "become",
+        "trans": [
+            "变成；变得"
+        ],
+        "usphone": "bɪˈkʌm",
+        "ukphone": "bɪˈkʌm",
+        "sentence": "The seed becomes a small plant.",
+        "sentenceTrans": "种子长成一株小植物。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "good at 擅长"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "My sister is good at Maths.",
+        "sentenceTrans": "我妹妹擅长数学。"
+    },
+    {
+        "name": "by",
+        "trans": [
+            "（表示方式）；靠近"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我乘公共汽车上学。"
+    },
+    {
+        "name": "walk",
+        "trans": [
+            "走；步行"
+        ],
+        "usphone": "wɔːk",
+        "ukphone": "wɔːk",
+        "sentence": "I walk to school with my sister.",
+        "sentenceTrans": "我和妹妹步行去学校。"
+    },
+    {
+        "name": "Ms",
+        "trans": [
+            "女士"
+        ],
+        "usphone": "mɪz",
+        "ukphone": "mɪz",
+        "sentence": "Ms Li teaches us English.",
+        "sentenceTrans": "李老师教我们英语。"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "旅程；旅行"
+        ],
+        "usphone": "ˈdʒɜːrni",
+        "ukphone": "ˈdʒɜːni",
+        "sentence": "We have a long journey today.",
+        "sentenceTrans": "我们今天有一段很长的旅程。"
+    },
+    {
+        "name": "primary",
+        "trans": [
+            "school 小学"
+        ],
+        "usphone": "ˈpraɪmeri",
+        "ukphone": "ˈpraɪməri",
+        "sentence": "My sister goes to primary school.",
+        "sentenceTrans": "我妹妹上小学。"
+    }
+]

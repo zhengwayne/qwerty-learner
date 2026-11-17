@@ -1,0 +1,182 @@
+[
+    {
+        "name": "touch",
+        "trans": [
+            "碰；触摸"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Touch your nose.",
+        "sentenceTrans": "摸摸你的鼻子。"
+    },
+    {
+        "name": "feel",
+        "trans": [
+            "摸起来；感到"
+        ],
+        "usphone": "fiːl",
+        "ukphone": "fiːl",
+        "sentence": "I feel cold.",
+        "sentenceTrans": "我觉得冷。"
+    },
+    {
+        "name": "soft",
+        "trans": [
+            "柔软的"
+        ],
+        "usphone": "sɔːft",
+        "ukphone": "sɒft",
+        "sentence": "The toy is soft.",
+        "sentenceTrans": "这个玩具很柔软。"
+    },
+    {
+        "name": "hard",
+        "trans": [
+            "坚硬的"
+        ],
+        "usphone": "hɑːrd",
+        "ukphone": "hɑːd",
+        "sentence": "The box is hard.",
+        "sentenceTrans": "这个盒子很硬。"
+    },
+    {
+        "name": "thick",
+        "trans": [
+            "厚的；粗的"
+        ],
+        "usphone": "θɪk",
+        "ukphone": "θɪk",
+        "sentence": "This book is thick.",
+        "sentenceTrans": "这本书很厚。"
+    },
+    {
+        "name": "thin",
+        "trans": [
+            "薄的；细的"
+        ],
+        "usphone": "θɪn",
+        "ukphone": "θɪn",
+        "sentence": "The monkey is thin.",
+        "sentenceTrans": "这只猴子很瘦。"
+    },
+    {
+        "name": "blind",
+        "trans": [
+            "瞎的；失明的"
+        ],
+        "usphone": "blaɪnd",
+        "ukphone": "blaɪnd",
+        "sentence": "The old man is blind.",
+        "sentenceTrans": "这位老人失明了。"
+    },
+    {
+        "name": "noise",
+        "trans": [
+            "响声；吵闹声"
+        ],
+        "usphone": "nɔɪz",
+        "ukphone": "nɔɪz",
+        "sentence": "I hear a loud noise.",
+        "sentenceTrans": "我听见一声巨响。"
+    },
+    {
+        "name": "young",
+        "trans": [
+            "年轻的"
+        ],
+        "usphone": "jʌŋ",
+        "ukphone": "jʌŋ",
+        "sentence": "The boy is young.",
+        "sentenceTrans": "这个男孩很年轻。"
+    },
+    {
+        "name": "smell",
+        "trans": [
+            "闻；嗅"
+        ],
+        "usphone": "smel",
+        "ukphone": "smel",
+        "sentence": "Smell this flower.",
+        "sentenceTrans": "闻闻这朵花。"
+    },
+    {
+        "name": "strawberry",
+        "trans": [
+            "草莓"
+        ],
+        "usphone": "ˈstrɔːberi",
+        "ukphone": "ˈstrɔːbəri",
+        "sentence": "This strawberry is red and sweet.",
+        "sentenceTrans": "这个草莓又红又甜。"
+    },
+    {
+        "name": "or",
+        "trans": [
+            "或者；还是"
+        ],
+        "usphone": "ɔːr",
+        "ukphone": "ɔː(r)",
+        "sentence": "Is it red or purple?",
+        "sentenceTrans": "它是红色的还是紫色的？"
+    },
+    {
+        "name": "watermelon",
+        "trans": [
+            "西瓜"
+        ],
+        "usphone": "ˈwɔːtərmelən",
+        "ukphone": "ˈwɔːtəmelən",
+        "sentence": "This watermelon is big and sweet.",
+        "sentenceTrans": "这个西瓜又大又甜。"
+    },
+    {
+        "name": "grape",
+        "trans": [
+            "葡萄"
+        ],
+        "usphone": "ɡreɪp",
+        "ukphone": "ɡreɪp",
+        "sentence": "These grapes are sweet.",
+        "sentenceTrans": "这些葡萄很甜。"
+    },
+    {
+        "name": "fox",
+        "trans": [
+            "狐狸"
+        ],
+        "usphone": "fɑːks",
+        "ukphone": "fɒks",
+        "sentence": "I see a red fox.",
+        "sentenceTrans": "我看见一只红色的狐狸。"
+    },
+    {
+        "name": "round",
+        "trans": [
+            "圆的"
+        ],
+        "usphone": "raʊnd",
+        "ukphone": "raʊnd",
+        "sentence": "The clock is round.",
+        "sentenceTrans": "这个钟是圆的。"
+    },
+    {
+        "name": "purple",
+        "trans": [
+            "紫色的"
+        ],
+        "usphone": "ˈpɜːrp(ə)l",
+        "ukphone": "ˈpɜːp(ə)l",
+        "sentence": "Her dress is purple.",
+        "sentenceTrans": "她的连衣裙是紫色的。"
+    },
+    {
+        "name": "wait",
+        "trans": [
+            "等待；等候"
+        ],
+        "usphone": "weɪt",
+        "ukphone": "weɪt",
+        "sentence": "Wait for me, please.",
+        "sentenceTrans": "请等等我。"
+    }
+]

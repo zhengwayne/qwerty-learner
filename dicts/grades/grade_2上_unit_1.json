@@ -1,0 +1,202 @@
+[
+    {
+        "name": "good",
+        "trans": [
+            "好的"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "This is a good book.",
+        "sentenceTrans": "这是一本好书。"
+    },
+    {
+        "name": "morning",
+        "trans": [
+            "早晨"
+        ],
+        "usphone": "ˈmɔːrnɪŋ",
+        "ukphone": "ˈmɔːnɪŋ",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "today",
+        "trans": [
+            "今天"
+        ],
+        "usphone": "təˈdeɪ",
+        "ukphone": "təˈdeɪ",
+        "sentence": "It is sunny today.",
+        "sentenceTrans": "今天是晴天。"
+    },
+    {
+        "name": "very",
+        "trans": [
+            "well 很好，非常好"
+        ],
+        "usphone": "ˈveri",
+        "ukphone": "ˈveri",
+        "sentence": "I am very well.",
+        "sentenceTrans": "我非常好。"
+    },
+    {
+        "name": "ant",
+        "trans": [
+            "蚂蚁"
+        ],
+        "usphone": "ænt",
+        "ukphone": "ænt",
+        "sentence": "The ant is small.",
+        "sentenceTrans": "这只蚂蚁很小。"
+    },
+    {
+        "name": "bear",
+        "trans": [
+            "熊"
+        ],
+        "usphone": "ber",
+        "ukphone": "beə(r)",
+        "sentence": "I see a bear.",
+        "sentenceTrans": "我看见一只熊。"
+    },
+    {
+        "name": "tall",
+        "trans": [
+            "高的"
+        ],
+        "usphone": "tɔːl",
+        "ukphone": "tɔːl",
+        "sentence": "The cow is tall.",
+        "sentenceTrans": "这头奶牛很高。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "矮的"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "The ruler is short.",
+        "sentenceTrans": "这把尺子很短。"
+    },
+    {
+        "name": "boy",
+        "trans": [
+            "男孩"
+        ],
+        "usphone": "bɔɪ",
+        "ukphone": "bɔɪ",
+        "sentence": "The boy can run.",
+        "sentenceTrans": "这个男孩会跑步。"
+    },
+    {
+        "name": "girl",
+        "trans": [
+            "女孩"
+        ],
+        "usphone": "ɡɜːrl",
+        "ukphone": "ɡɜːl",
+        "sentence": "The girl can sing.",
+        "sentenceTrans": "这个女孩会唱歌。"
+    },
+    {
+        "name": "big",
+        "trans": [
+            "大的"
+        ],
+        "usphone": "bɪɡ",
+        "ukphone": "bɪɡ",
+        "sentence": "The elephant is big.",
+        "sentenceTrans": "这头大象很大。"
+    },
+    {
+        "name": "small",
+        "trans": [
+            "小的"
+        ],
+        "usphone": "smɔːl",
+        "ukphone": "smɔːl",
+        "sentence": "The ant is small.",
+        "sentenceTrans": "这只蚂蚁很小。"
+    },
+    {
+        "name": "sorry",
+        "trans": [
+            "对不起，请原谅"
+        ],
+        "usphone": "ˈsɑːri",
+        "ukphone": "ˈsɒri",
+        "sentence": "I am sorry.",
+        "sentenceTrans": "对不起。"
+    },
+    {
+        "name": "elephant",
+        "trans": [
+            "大象"
+        ],
+        "usphone": "ˈelɪfənt; ˈeləfənt",
+        "ukphone": "ˈelɪfənt; ˈeləfənt",
+        "sentence": "I see a big elephant.",
+        "sentenceTrans": "我看见一头大象。"
+    },
+    {
+        "name": "swim",
+        "trans": [
+            "游泳"
+        ],
+        "usphone": "swɪm",
+        "ukphone": "swɪm",
+        "sentence": "The fish can swim.",
+        "sentenceTrans": "鱼会游泳。"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "跑"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn",
+        "sentence": "The wolf runs away.",
+        "sentenceTrans": "这只狼跑走了。"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "书写，写字"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "I can write my name.",
+        "sentenceTrans": "我会写我的名字。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "飞，飞翔"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "The bird can fly.",
+        "sentenceTrans": "这只鸟会飞。"
+    },
+    {
+        "name": "ride",
+        "trans": [
+            "a bicycle 骑自行车"
+        ],
+        "usphone": "raɪd",
+        "ukphone": "raɪd",
+        "sentence": "I can ride a bicycle.",
+        "sentenceTrans": "我会骑自行车。"
+    },
+    {
+        "name": "family",
+        "trans": [
+            "家庭，家"
+        ],
+        "usphone": "ˈfæməli",
+        "ukphone": "ˈfæməli",
+        "sentence": "This is my family.",
+        "sentenceTrans": "这是我的家人。"
+    }
+]

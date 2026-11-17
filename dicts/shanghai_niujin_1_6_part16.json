@@ -1,0 +1,238 @@
+[
+    {
+        "name": "than",
+        "trans": [
+            "比"
+        ],
+        "usphone": "ðæn; ðən",
+        "ukphone": "ðæn; ðən",
+        "sentence": "Faith is stronger than reason.",
+        "sentenceTrans": "信仰比理智更有力。"
+    },
+    {
+        "name": "scarf",
+        "trans": [
+            "围巾（复数scarves或scarfs）"
+        ],
+        "usphone": "skɑːrf",
+        "ukphone": "skɑːf",
+        "sentence": "Her scarf streamed behind her.",
+        "sentenceTrans": "她的围巾在身后飘动。"
+    },
+    {
+        "name": "blow",
+        "trans": [
+            "off 吹掉"
+        ],
+        "usphone": "bloʊ",
+        "ukphone": "bləʊ",
+        "sentence": "Blow! I completely forgot it.",
+        "sentenceTrans": "哎呀！我给忘得一干二净了。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "off 脱掉"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "I'll take my coat upstairs. Shall I take yours, Roberta?",
+        "sentenceTrans": "我将把我的外套拿到楼上去。要我把你的拿上去吗，罗伯塔？"
+    },
+    {
+        "name": "Unit11",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit11 Sad movies made me cry.",
+        "sentenceTrans": "悲伤的电影使我哭泣。"
+    },
+    {
+        "name": "Western",
+        "trans": [
+            "西方的"
+        ],
+        "usphone": "ˈwestərn",
+        "ukphone": "ˈwestən",
+        "sentence": "Most Western societies are liberal in outlook.",
+        "sentenceTrans": "西方社会大多思想观念开放。"
+    },
+    {
+        "name": "turkey",
+        "trans": [
+            "火鸡"
+        ],
+        "usphone": "ˈtɜːrki",
+        "ukphone": "ˈtɜːki",
+        "sentence": "Who's going to carve the turkey?",
+        "sentenceTrans": "谁来把火鸡切成小块？"
+    },
+    {
+        "name": "bright",
+        "trans": [
+            "明亮的；鲜艳的"
+        ],
+        "usphone": "braɪt",
+        "ukphone": "braɪt",
+        "sentence": "Bright colours are his signature.",
+        "sentenceTrans": "他总爱用亮丽的色彩。"
+    },
+    {
+        "name": "laugh",
+        "trans": [
+            "at 嘲笑"
+        ],
+        "usphone": "læf",
+        "ukphone": "lɑːf",
+        "sentence": "He uttered a snorting laugh.",
+        "sentenceTrans": "他扑哧一声笑了。"
+    },
+    {
+        "name": "jack-o’-lantern",
+        "trans": [
+            "南瓜灯"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Today let me show you some simple instructions to carve a traditional Jack-o'-lantern.",
+        "sentenceTrans": "今天来跟我一起学做一盏传统样式的南瓜灯吧。"
+    },
+    {
+        "name": "Unit12",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Unit12 what is red and what is black?",
+        "sentenceTrans": "什么是红的和什么是黑的？"
+    },
+    {
+        "name": "pea",
+        "trans": [
+            "豌豆"
+        ],
+        "usphone": "piː",
+        "ukphone": "piː",
+        "sentence": "The tumour had shrunk to the size of a pea.",
+        "sentenceTrans": "肿瘤已缩小到豌豆大小。"
+    },
+    {
+        "name": "pod",
+        "trans": [
+            "豆荚"
+        ],
+        "usphone": "pɑːd",
+        "ukphone": "pɒd",
+        "sentence": "Apple Home Pod has Siri, Google Home has its Assistant, and the upcoming Galaxy Home device will have Bixby.",
+        "sentenceTrans": "Apple Home Pod 有 Siri，谷歌 Home 有助手，而即将推出的 Galaxy Home 设备将配备 Bixby。"
+    },
+    {
+        "name": "forever",
+        "trans": [
+            "永远"
+        ],
+        "usphone": "fərˈevər",
+        "ukphone": "fərˈevə(r)",
+        "sentence": "Our luck couldn't hold forever.",
+        "sentenceTrans": "我们的好运不可能永远保持不变。"
+    },
+    {
+        "name": "bigger",
+        "trans": [
+            "更大的"
+        ],
+        "usphone": "bɪgə(r)",
+        "ukphone": "bɪgə(r)",
+        "sentence": "The bigger boys started scrapping.",
+        "sentenceTrans": "年龄较大的男孩打了起来。"
+    },
+    {
+        "name": "excited",
+        "trans": [
+            "兴奋的"
+        ],
+        "usphone": "ɪkˈsaɪtɪd",
+        "ukphone": "ɪkˈsaɪtɪd",
+        "sentence": "His eyes were bright and excited.",
+        "sentenceTrans": "他目光发亮，兴奋不已。"
+    },
+    {
+        "name": "bullet",
+        "trans": [
+            "子弹"
+        ],
+        "usphone": "ˈbʊlɪt",
+        "ukphone": "ˈbʊlɪt",
+        "sentence": "A bullet whizzed past my ear.",
+        "sentenceTrans": "一颗子弹嗖的一声从我耳边飞过。"
+    },
+    {
+        "name": "lazy",
+        "trans": [
+            "懒惰的"
+        ],
+        "usphone": "ˈleɪzi",
+        "ukphone": "ˈleɪzi",
+        "sentence": "He was not stupid, just lazy.",
+        "sentenceTrans": "他不笨，只是懒。"
+    },
+    {
+        "name": "roof",
+        "trans": [
+            "屋顶"
+        ],
+        "usphone": "ruːf",
+        "ukphone": "ruːf",
+        "sentence": "How long would the roof hold?",
+        "sentenceTrans": "这屋顶还能支撑多久？"
+    },
+    {
+        "name": "yard",
+        "trans": [
+            "院子"
+        ],
+        "usphone": "jɑːrd",
+        "ukphone": "jɑːd",
+        "sentence": "Which door leads to the yard?",
+        "sentenceTrans": "哪扇门通向庭院？"
+    },
+    {
+        "name": "hit",
+        "trans": [
+            "碰撞；撞击"
+        ],
+        "usphone": "hɪt",
+        "ukphone": "hɪt",
+        "sentence": "The ferry hit us amidships.",
+        "sentenceTrans": "渡轮拦腰撞了我们的船只。"
+    },
+    {
+        "name": "see",
+        "trans": [
+            "the world 见世面"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "I see things differently now.",
+        "sentenceTrans": "现在，我看问题的方法不一样了。"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "by one 一个接一个地"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn",
+        "sentence": "Knit one row, purl one row.",
+        "sentenceTrans": "织一趟平针，织一趟反针。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "out of 往外看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "You look absolutely stunning!",
+        "sentenceTrans": "你看上去漂亮极了。"
+    }
+]

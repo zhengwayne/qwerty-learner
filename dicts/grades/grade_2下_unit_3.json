@@ -1,0 +1,202 @@
+[
+    {
+        "name": "giraffe",
+        "trans": [
+            "长颈鹿"
+        ],
+        "usphone": "dʒəˈræf",
+        "ukphone": "dʒəˈrɑːf",
+        "sentence": "The giraffe is tall.",
+        "sentenceTrans": "这只长颈鹿很高。"
+    },
+    {
+        "name": "snake",
+        "trans": [
+            "蛇"
+        ],
+        "usphone": "sneɪk",
+        "ukphone": "sneɪk",
+        "sentence": "The snake is long.",
+        "sentenceTrans": "这条蛇很长。"
+    },
+    {
+        "name": "elephant",
+        "trans": [
+            "大象"
+        ],
+        "usphone": "ˈelɪfənt; ˈeləfənt",
+        "ukphone": "ˈelɪfənt; ˈeləfənt",
+        "sentence": "I see a big elephant.",
+        "sentenceTrans": "我看见一头大象。"
+    },
+    {
+        "name": "lion",
+        "trans": [
+            "狮子"
+        ],
+        "usphone": "ˈlaɪən",
+        "ukphone": "ˈlaɪən",
+        "sentence": "I see a big lion.",
+        "sentenceTrans": "我看见一头大狮子。"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "shop 玩具店"
+        ],
+        "usphone": "tɔɪ",
+        "ukphone": "tɔɪ",
+        "sentence": "This is a toy shop.",
+        "sentenceTrans": "这是一家玩具店。"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "玩具"
+        ],
+        "usphone": "tɔɪ",
+        "ukphone": "tɔɪ",
+        "sentence": "This is a toy shop.",
+        "sentenceTrans": "这是一家玩具店。"
+    },
+    {
+        "name": "autumn",
+        "trans": [
+            "秋天"
+        ],
+        "usphone": "ˈɔːtəm",
+        "ukphone": "ˈɔːtəm",
+        "sentence": "Autumn is cool.",
+        "sentenceTrans": "秋天很凉爽。"
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "凉爽的"
+        ],
+        "usphone": "kuːl",
+        "ukphone": "kuːl",
+        "sentence": "It is cool today.",
+        "sentenceTrans": "今天很凉快。"
+    },
+    {
+        "name": "winter",
+        "trans": [
+            "冬天"
+        ],
+        "usphone": "ˈwɪntər",
+        "ukphone": "ˈwɪntə(r)",
+        "sentence": "Winter is cold.",
+        "sentenceTrans": "冬天很冷。"
+    },
+    {
+        "name": "cold",
+        "trans": [
+            "寒冷的"
+        ],
+        "usphone": "koʊld",
+        "ukphone": "kəʊld",
+        "sentence": "It is cold today.",
+        "sentenceTrans": "今天很冷。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "a kite 放风筝"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "I can fly a kite.",
+        "sentenceTrans": "我会放风筝。"
+    },
+    {
+        "name": "eat",
+        "trans": [
+            "吃"
+        ],
+        "usphone": "iːt",
+        "ukphone": "iːt",
+        "sentence": "I eat bread for dinner.",
+        "sentenceTrans": "我晚餐吃面包。"
+    },
+    {
+        "name": "fruit",
+        "trans": [
+            "水果"
+        ],
+        "usphone": "fruːt",
+        "ukphone": "fruːt",
+        "sentence": "Apples are fruit.",
+        "sentenceTrans": "苹果是水果。"
+    },
+    {
+        "name": "sleeping",
+        "trans": [
+            "睡觉"
+        ],
+        "usphone": "ˈsliːpɪŋ",
+        "ukphone": "ˈsliːpɪŋ",
+        "sentence": "The bear is sleeping.",
+        "sentenceTrans": "这只熊正在睡觉。"
+    },
+    {
+        "name": "traffic",
+        "trans": [
+            "交通"
+        ],
+        "usphone": "ˈtræfɪk",
+        "ukphone": "ˈtræfɪk",
+        "sentence": "Stop and look at the traffic.",
+        "sentenceTrans": "停下来看看路上的车辆。"
+    },
+    {
+        "name": "rule",
+        "trans": [
+            "规则，规章"
+        ],
+        "usphone": "ruːl",
+        "ukphone": "ruːl",
+        "sentence": "This is a school rule.",
+        "sentenceTrans": "这是一条学校规则。"
+    },
+    {
+        "name": "light",
+        "trans": [
+            "灯，电灯"
+        ],
+        "usphone": "laɪt",
+        "ukphone": "laɪt",
+        "sentence": "Turn on the light.",
+        "sentenceTrans": "打开灯。"
+    },
+    {
+        "name": "stop",
+        "trans": [
+            "停止，停下"
+        ],
+        "usphone": "stɑːp",
+        "ukphone": "stɒp",
+        "sentence": "Stop and wait.",
+        "sentenceTrans": "停下来等一等。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "去，走"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    },
+    {
+        "name": "wait",
+        "trans": [
+            "等，等待"
+        ],
+        "usphone": "weɪt",
+        "ukphone": "weɪt",
+        "sentence": "Wait for me, please.",
+        "sentenceTrans": "请等等我。"
+    }
+]

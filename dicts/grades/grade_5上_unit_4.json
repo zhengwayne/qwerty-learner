@@ -1,0 +1,192 @@
+[
+    {
+        "name": "bored",
+        "trans": [
+            "无聊的"
+        ],
+        "usphone": "bɔːrd",
+        "ukphone": "bɔːd",
+        "sentence": "I feel bored at home.",
+        "sentenceTrans": "我在家感到无聊。"
+    },
+    {
+        "name": "word",
+        "trans": [
+            "单词"
+        ],
+        "usphone": "wɜːrd",
+        "ukphone": "wɜːd",
+        "sentence": "I do not know this word.",
+        "sentenceTrans": "我不认识这个单词。"
+    },
+    {
+        "name": "easy",
+        "trans": [
+            "容易的"
+        ],
+        "usphone": "ˈiːzi",
+        "ukphone": "ˈiːzi",
+        "sentence": "This question is easy.",
+        "sentenceTrans": "这个问题很容易。"
+    },
+    {
+        "name": "say",
+        "trans": [
+            "说"
+        ],
+        "usphone": "seɪ",
+        "ukphone": "seɪ",
+        "sentence": "Please say the word again.",
+        "sentenceTrans": "请再说一遍这个单词。"
+    },
+    {
+        "name": "then",
+        "trans": [
+            "然后；那么"
+        ],
+        "usphone": "ðen",
+        "ukphone": "ðen",
+        "sentence": "Turn left, and then walk straight.",
+        "sentenceTrans": "左转，然后直走。"
+    },
+    {
+        "name": "ask",
+        "trans": [
+            "问"
+        ],
+        "usphone": "æsk",
+        "ukphone": "ɑːsk",
+        "sentence": "May I ask a question?",
+        "sentenceTrans": "我可以问一个问题吗？"
+    },
+    {
+        "name": "answer",
+        "trans": [
+            "回答"
+        ],
+        "usphone": "ˈænsər",
+        "ukphone": "ˈɑːnsə(r)",
+        "sentence": "Please answer my question.",
+        "sentenceTrans": "请回答我的问题。"
+    },
+    {
+        "name": "soon",
+        "trans": [
+            "很快；不久"
+        ],
+        "usphone": "suːn",
+        "ukphone": "suːn",
+        "sentence": "The rain will stop soon.",
+        "sentenceTrans": "雨很快就会停。"
+    },
+    {
+        "name": "each",
+        "trans": [
+            "other 互相"
+        ],
+        "usphone": "iːtʃ",
+        "ukphone": "iːtʃ",
+        "sentence": "The two friends help each other.",
+        "sentenceTrans": "这两个朋友互相帮助。"
+    },
+    {
+        "name": "make",
+        "trans": [
+            "phone calls 打电话"
+        ],
+        "usphone": "meɪk",
+        "ukphone": "meɪk",
+        "sentence": "I can make a card.",
+        "sentenceTrans": "我会做一张卡片。"
+    },
+    {
+        "name": "life",
+        "trans": [
+            "生活"
+        ],
+        "usphone": "laɪf",
+        "ukphone": "laɪf",
+        "sentence": "School life is interesting.",
+        "sentenceTrans": "学校生活很有趣。"
+    },
+    {
+        "name": "living",
+        "trans": [
+            "room 客厅"
+        ],
+        "usphone": "ˈlɪvɪŋ",
+        "ukphone": "ˈlɪvɪŋ",
+        "sentence": "We watch TV in the living room.",
+        "sentenceTrans": "我们在客厅看电视。"
+    },
+    {
+        "name": "bedroom",
+        "trans": [
+            "卧室"
+        ],
+        "usphone": "ˈbedruːm; ˈbedrʊm",
+        "ukphone": "ˈbedruːm",
+        "sentence": "My bedroom is small but clean.",
+        "sentenceTrans": "我的卧室虽小但很干净。"
+    },
+    {
+        "name": "model",
+        "trans": [
+            "plane 飞机模型"
+        ],
+        "usphone": "ˈmɑːd(ə)l",
+        "ukphone": "ˈmɒd(ə)l",
+        "sentence": "I have a model plane.",
+        "sentenceTrans": "我有一架飞机模型。"
+    },
+    {
+        "name": "kitchen",
+        "trans": [
+            "厨房"
+        ],
+        "usphone": "ˈkɪtʃɪn",
+        "ukphone": "ˈkɪtʃɪn",
+        "sentence": "Mum is in the kitchen.",
+        "sentenceTrans": "妈妈在厨房里。"
+    },
+    {
+        "name": "bathroom",
+        "trans": [
+            "浴室；卫生间"
+        ],
+        "usphone": "ˈbæθruːm",
+        "ukphone": "ˈbɑːθruːm; ˈbɑːθrʊm",
+        "sentence": "The bathroom is beside the bedroom.",
+        "sentenceTrans": "浴室在卧室旁边。"
+    },
+    {
+        "name": "their",
+        "trans": [
+            "他们的；她们的；它们的"
+        ],
+        "usphone": "ðer; ðər",
+        "ukphone": "ðeə(r)",
+        "sentence": "The children are in their bedroom.",
+        "sentenceTrans": "孩子们在他们的卧室里。"
+    },
+    {
+        "name": "light",
+        "trans": [
+            "灯；光"
+        ],
+        "usphone": "laɪt",
+        "ukphone": "laɪt",
+        "sentence": "Turn on the light.",
+        "sentenceTrans": "打开灯。"
+    },
+    {
+        "name": "watch",
+        "trans": [
+            "观看；观察"
+        ],
+        "usphone": "wɑːtʃ",
+        "ukphone": "wɒtʃ",
+        "sentence": "This is my watch.",
+        "sentenceTrans": "这是我的手表。"
+    }
+]

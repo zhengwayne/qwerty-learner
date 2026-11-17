@@ -1,0 +1,202 @@
+[
+    {
+        "name": "morning",
+        "trans": [
+            "n.上午"
+        ],
+        "usphone": "ˈmɔːrnɪŋ",
+        "ukphone": "ˈmɔːnɪŋ",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "afternoon",
+        "trans": [
+            "n.下午"
+        ],
+        "usphone": "ˌæftərˈnuːn",
+        "ukphone": "ˌɑːftəˈnuːn",
+        "sentence": "Good afternoon.",
+        "sentenceTrans": "下午好。"
+    },
+    {
+        "name": "after",
+        "trans": [
+            "adj. 以后的 adv. 以后, 后来 conj. 在...以后 prep. 在...之后"
+        ],
+        "usphone": "ˈæftər",
+        "ukphone": "ˈɑːftə(r)",
+        "sentence": "I read after you.",
+        "sentenceTrans": "我在你之后读。"
+    },
+    {
+        "name": "noon",
+        "trans": [
+            "n. 中午"
+        ],
+        "usphone": "nuːn",
+        "ukphone": "nuːn",
+        "sentence": "It is noon.",
+        "sentenceTrans": "现在是中午。"
+    },
+    {
+        "name": "book",
+        "trans": [
+            "n. 书,本子 vt. 登记,预订 vi. 通过...预订"
+        ],
+        "usphone": "bʊk",
+        "ukphone": "bʊk",
+        "sentence": "This is my book.",
+        "sentenceTrans": "这是我的书。"
+    },
+    {
+        "name": "ruler",
+        "trans": [
+            "n. 尺子 n. 统治者"
+        ],
+        "usphone": "ˈruːlər",
+        "ukphone": "ˈruːlə(r)",
+        "sentence": "This is my ruler.",
+        "sentenceTrans": "这是我的尺子。"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "n. 铅笔"
+        ],
+        "usphone": "ˈpens(ə)l",
+        "ukphone": "ˈpens(ə)l",
+        "sentence": "This is my pencil.",
+        "sentenceTrans": "这是我的铅笔。"
+    },
+    {
+        "name": "rubber",
+        "trans": [
+            "n. 橡胶；橡皮"
+        ],
+        "usphone": "ˈrʌbər",
+        "ukphone": "ˈrʌbə(r)",
+        "sentence": "This is my rubber.",
+        "sentenceTrans": "这是我的橡皮。"
+    },
+    {
+        "name": "eye",
+        "trans": [
+            "n. 眼睛"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ",
+        "sentence": "Touch your eye.",
+        "sentenceTrans": "摸摸你的眼睛。"
+    },
+    {
+        "name": "mouth",
+        "trans": [
+            "n. 嘴"
+        ],
+        "usphone": "maʊθ",
+        "ukphone": "maʊθ",
+        "sentence": "Touch your mouth.",
+        "sentenceTrans": "摸摸你的嘴巴。"
+    },
+    {
+        "name": "face",
+        "trans": [
+            "n. 脸, 表面 vt. 面对, 朝"
+        ],
+        "usphone": "feɪs",
+        "ukphone": "feɪs",
+        "sentence": "Touch your face.",
+        "sentenceTrans": "摸摸你的脸。"
+    },
+    {
+        "name": "nose",
+        "trans": [
+            "n. 鼻子"
+        ],
+        "usphone": "noʊz",
+        "ukphone": "nəʊz",
+        "sentence": "Touch your nose.",
+        "sentenceTrans": "摸摸你的鼻子。"
+    },
+    {
+        "name": "ear",
+        "trans": [
+            "n. 耳朵"
+        ],
+        "usphone": "ɪr",
+        "ukphone": "ɪə(r)",
+        "sentence": "Touch your ear.",
+        "sentenceTrans": "摸摸你的耳朵。"
+    },
+    {
+        "name": "touch",
+        "trans": [
+            "vt. 触摸;感动"
+        ],
+        "usphone": "tʌtʃ",
+        "ukphone": "tʌtʃ",
+        "sentence": "Touch your nose.",
+        "sentenceTrans": "摸摸你的鼻子。"
+    },
+    {
+        "name": "dance",
+        "trans": [
+            "n. 跳舞, 舞蹈vi. 跳舞"
+        ],
+        "usphone": "dæns",
+        "ukphone": "dɑːns",
+        "sentence": "I can dance.",
+        "sentenceTrans": "我会跳舞。"
+    },
+    {
+        "name": "read",
+        "trans": [
+            "vt. 阅读"
+        ],
+        "usphone": "riːd",
+        "ukphone": "riːd",
+        "sentence": "I can read this book.",
+        "sentenceTrans": "我会读这本书。"
+    },
+    {
+        "name": "sing",
+        "trans": [
+            "vt. 唱,唱歌"
+        ],
+        "usphone": "sɪŋ",
+        "ukphone": "sɪŋ",
+        "sentence": "I can sing.",
+        "sentenceTrans": "我会唱歌。"
+    },
+    {
+        "name": "draw",
+        "trans": [
+            "v. (drew, drawn)画；拉；吸引"
+        ],
+        "usphone": "drɔː",
+        "ukphone": "drɔː",
+        "sentence": "I can draw a bear.",
+        "sentenceTrans": "我会画一只熊。"
+    },
+    {
+        "name": "grandmother",
+        "trans": [
+            "n. (外)祖母"
+        ],
+        "usphone": "ˈɡrænmʌðər",
+        "ukphone": "ˈɡrænmʌðə(r)",
+        "sentence": "This is my grandmother.",
+        "sentenceTrans": "这是我的奶奶。"
+    },
+    {
+        "name": "grandfather",
+        "trans": [
+            "n. (外)祖父"
+        ],
+        "usphone": "ˈɡrænfɑːðər",
+        "ukphone": "ˈɡrænfɑːðə(r)",
+        "sentence": "This is my grandfather.",
+        "sentenceTrans": "这是我的爷爷。"
+    }
+]

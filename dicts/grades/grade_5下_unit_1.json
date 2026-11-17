@@ -1,0 +1,182 @@
+[
+    {
+        "name": "tidy",
+        "trans": [
+            "整理；整洁的"
+        ],
+        "usphone": "ˈtaɪdi",
+        "ukphone": "ˈtaɪdi",
+        "sentence": "Please tidy your bedroom.",
+        "sentenceTrans": "请整理你的卧室。"
+    },
+    {
+        "name": "mess",
+        "trans": [
+            "脏乱；不整洁"
+        ],
+        "usphone": "mes",
+        "ukphone": "mes",
+        "sentence": "What a mess in your room!",
+        "sentenceTrans": "你的房间真乱！"
+    },
+    {
+        "name": "let",
+        "trans": [
+            "让"
+        ],
+        "usphone": "let",
+        "ukphone": "let",
+        "sentence": "Let me tidy the room.",
+        "sentenceTrans": "让我来整理房间。"
+    },
+    {
+        "name": "sock",
+        "trans": [
+            "短袜"
+        ],
+        "usphone": "sɑːk",
+        "ukphone": "sɒk",
+        "sentence": "These socks are not mine.",
+        "sentenceTrans": "这些短袜不是我的。"
+    },
+    {
+        "name": "yours",
+        "trans": [
+            "你的；你们的"
+        ],
+        "usphone": "jɔːrz",
+        "ukphone": "jɔːz",
+        "sentence": "This hat is yours.",
+        "sentenceTrans": "这顶帽子是你的。"
+    },
+    {
+        "name": "cap",
+        "trans": [
+            "帽子"
+        ],
+        "usphone": "kæp",
+        "ukphone": "kæp",
+        "sentence": "This blue cap is mine.",
+        "sentenceTrans": "这顶蓝帽子是我的。"
+    },
+    {
+        "name": "mine",
+        "trans": [
+            "我的"
+        ],
+        "usphone": "maɪn",
+        "ukphone": "maɪn",
+        "sentence": "The blue cap is mine.",
+        "sentenceTrans": "这顶蓝帽子是我的。"
+    },
+    {
+        "name": "crayon",
+        "trans": [
+            "彩色蜡笔"
+        ],
+        "usphone": "ˈkreɪən; ˈkreɪɑːn",
+        "ukphone": "ˈkreɪən; ˈkreɪɒn",
+        "sentence": "The red crayon is hers.",
+        "sentenceTrans": "这支红色蜡笔是她的。"
+    },
+    {
+        "name": "umbrella",
+        "trans": [
+            "伞"
+        ],
+        "usphone": "ʌmˈbrelə",
+        "ukphone": "ʌmˈbrelə",
+        "sentence": "Take an umbrella with you.",
+        "sentenceTrans": "随身带把伞。"
+    },
+    {
+        "name": "nail",
+        "trans": [
+            "钉子"
+        ],
+        "usphone": "neɪl",
+        "ukphone": "neɪl",
+        "sentence": "The picture hangs on a nail.",
+        "sentenceTrans": "这幅画挂在一枚钉子上。"
+    },
+    {
+        "name": "drop",
+        "trans": [
+            "使落下；掉落"
+        ],
+        "usphone": "drɑːp",
+        "ukphone": "drɒp",
+        "sentence": "A drop of water is on the leaf.",
+        "sentenceTrans": "叶子上有一滴水。"
+    },
+    {
+        "name": "stick",
+        "trans": [
+            "粘贴；粘住"
+        ],
+        "usphone": "stɪk",
+        "ukphone": "stɪk",
+        "sentence": "Stick the picture on the wall.",
+        "sentenceTrans": "把图片粘在墙上。"
+    },
+    {
+        "name": "second",
+        "trans": [
+            "秒"
+        ],
+        "usphone": "ˈsekənd",
+        "ukphone": "ˈsekənd",
+        "sentence": "The nail falls in one second.",
+        "sentenceTrans": "钉子一秒钟就掉下来了。"
+    },
+    {
+        "name": "hers",
+        "trans": [
+            "她的"
+        ],
+        "usphone": "hɜːrz",
+        "ukphone": "hɜːz",
+        "sentence": "The red umbrella is hers.",
+        "sentenceTrans": "这把红伞是她的。"
+    },
+    {
+        "name": "theirs",
+        "trans": [
+            "他们的；她们的；它们的"
+        ],
+        "usphone": "ðerz",
+        "ukphone": "ðeəz",
+        "sentence": "The crayons are theirs.",
+        "sentenceTrans": "这些蜡笔是他们的。"
+    },
+    {
+        "name": "tidy",
+        "trans": [
+            "up 把…整理好"
+        ],
+        "usphone": "ˈtaɪdi",
+        "ukphone": "ˈtaɪdi",
+        "sentence": "Please tidy your bedroom.",
+        "sentenceTrans": "请整理你的卧室。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "full of 装满…；充满…"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The box is full of crayons.",
+        "sentenceTrans": "盒子里装满了蜡笔。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "few 几个；一些"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I have a few storybooks.",
+        "sentenceTrans": "我有几本故事书。"
+    }
+]

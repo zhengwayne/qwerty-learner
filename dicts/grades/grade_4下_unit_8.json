@@ -1,0 +1,182 @@
+[
+    {
+        "name": "grow",
+        "trans": [
+            "（使）生长；成长"
+        ],
+        "usphone": "ɡroʊ",
+        "ukphone": "ɡrəʊ",
+        "sentence": "The plant can grow tall.",
+        "sentenceTrans": "这株植物能长高。"
+    },
+    {
+        "name": "seed",
+        "trans": [
+            "种子"
+        ],
+        "usphone": "siːd",
+        "ukphone": "siːd",
+        "sentence": "I put the seed in the ground.",
+        "sentenceTrans": "我把种子放进土里。"
+    },
+    {
+        "name": "every",
+        "trans": [
+            "day 每天"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The plant grows every day.",
+        "sentenceTrans": "这株植物每天都在生长。"
+    },
+    {
+        "name": "song",
+        "trans": [
+            "歌曲"
+        ],
+        "usphone": "sɔːŋ",
+        "ukphone": "sɒŋ",
+        "sentence": "I can sing this song.",
+        "sentenceTrans": "我会唱这首歌。"
+    },
+    {
+        "name": "zoo",
+        "trans": [
+            "动物园"
+        ],
+        "usphone": "zuː",
+        "ukphone": "zuː",
+        "sentence": "We see many animals at the zoo.",
+        "sentenceTrans": "我们在动物园看到许多动物。"
+    },
+    {
+        "name": "cinema",
+        "trans": [
+            "电影院"
+        ],
+        "usphone": "ˈsɪnəmə",
+        "ukphone": "ˈsɪnəmə",
+        "sentence": "We see a film at the cinema.",
+        "sentenceTrans": "我们在电影院看电影。"
+    },
+    {
+        "name": "museum",
+        "trans": [
+            "博物馆"
+        ],
+        "usphone": "mjuˈziːəm",
+        "ukphone": "mjuˈziːəm",
+        "sentence": "We see old things in the museum.",
+        "sentenceTrans": "我们在博物馆里看古老的物品。"
+    },
+    {
+        "name": "also",
+        "trans": [
+            "也；还"
+        ],
+        "usphone": "ˈɔːlsoʊ",
+        "ukphone": "ˈɔːlsəʊ",
+        "sentence": "I also like Music.",
+        "sentenceTrans": "我也喜欢音乐。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a party 举办聚会"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "ugly",
+        "trans": [
+            "丑的；丑陋的"
+        ],
+        "usphone": "ˈʌɡli",
+        "ukphone": "ˈʌɡli",
+        "sentence": "The duckling is not ugly now.",
+        "sentenceTrans": "这只小鸭现在不丑了。"
+    },
+    {
+        "name": "duckling",
+        "trans": [
+            "小鸭"
+        ],
+        "usphone": "ˈdʌklɪŋ",
+        "ukphone": "ˈdʌklɪŋ",
+        "sentence": "The duckling is small and yellow.",
+        "sentenceTrans": "小鸭子又小又黄。"
+    },
+    {
+        "name": "duck",
+        "trans": [
+            "鸭子"
+        ],
+        "usphone": "dʌk",
+        "ukphone": "dʌk",
+        "sentence": "I see a duck.",
+        "sentenceTrans": "我看见一只鸭子。"
+    },
+    {
+        "name": "river",
+        "trans": [
+            "河；江"
+        ],
+        "usphone": "ˈrɪvər",
+        "ukphone": "ˈrɪvə(r)",
+        "sentence": "The ducks swim in the river.",
+        "sentenceTrans": "鸭子在河里游泳。"
+    },
+    {
+        "name": "baby",
+        "trans": [
+            "宝宝；婴儿"
+        ],
+        "usphone": "ˈbeɪbi",
+        "ukphone": "ˈbeɪbi",
+        "sentence": "The baby is sleeping.",
+        "sentenceTrans": "宝宝正在睡觉。"
+    },
+    {
+        "name": "later",
+        "trans": [
+            "后来；以后"
+        ],
+        "usphone": "ˈleɪtər",
+        "ukphone": "ˈleɪtə(r)",
+        "sentence": "See you later.",
+        "sentenceTrans": "待会儿见。"
+    },
+    {
+        "name": "quack",
+        "trans": [
+            "嘎嘎"
+        ],
+        "usphone": "kwæk",
+        "ukphone": "kwæk",
+        "sentence": "The ducks quack by the river.",
+        "sentenceTrans": "鸭子在河边嘎嘎叫。"
+    },
+    {
+        "name": "back",
+        "trans": [
+            "背；背部"
+        ],
+        "usphone": "bæk",
+        "ukphone": "bæk",
+        "sentence": "The bag is on my back.",
+        "sentenceTrans": "书包在我的背上。"
+    },
+    {
+        "name": "away",
+        "trans": [
+            "去别处；朝另一个方向"
+        ],
+        "usphone": "əˈweɪ",
+        "ukphone": "əˈweɪ",
+        "sentence": "The bird flies away.",
+        "sentenceTrans": "小鸟飞走了。"
+    }
+]

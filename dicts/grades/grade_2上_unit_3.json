@@ -1,0 +1,202 @@
+[
+    {
+        "name": "the",
+        "trans": [
+            "这"
+        ],
+        "usphone": "ðə; ði",
+        "ukphone": "ðə; ði",
+        "sentence": "The sun is bright.",
+        "sentenceTrans": "太阳很明亮。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在...里面"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "bag",
+        "trans": [
+            "包"
+        ],
+        "usphone": "bæɡ",
+        "ukphone": "bæɡ",
+        "sentence": "My book is in the bag.",
+        "sentenceTrans": "我的书在包里。"
+    },
+    {
+        "name": "box",
+        "trans": [
+            "箱子，盒子"
+        ],
+        "usphone": "bɑːks",
+        "ukphone": "bɒks",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "在...上面"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "My book is on the desk.",
+        "sentenceTrans": "我的书在书桌上。"
+    },
+    {
+        "name": "chair",
+        "trans": [
+            "椅子"
+        ],
+        "usphone": "tʃer",
+        "ukphone": "tʃeə(r)",
+        "sentence": "The chair is in the room.",
+        "sentenceTrans": "椅子在房间里。"
+    },
+    {
+        "name": "desk",
+        "trans": [
+            "书桌"
+        ],
+        "usphone": "desk",
+        "ukphone": "desk",
+        "sentence": "My book is on the desk.",
+        "sentenceTrans": "我的书在书桌上。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "at 看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "case 铅笔盒"
+        ],
+        "usphone": "ˈpens(ə)l",
+        "ukphone": "ˈpens(ə)l",
+        "sentence": "This is my pencil case.",
+        "sentenceTrans": "这是我的铅笔盒。"
+    },
+    {
+        "name": "work",
+        "trans": [
+            "工作，干活"
+        ],
+        "usphone": "wɜːrk",
+        "ukphone": "wɜːk",
+        "sentence": "The farmer can work.",
+        "sentenceTrans": "这位农夫会干活。"
+    },
+    {
+        "name": "sleep",
+        "trans": [
+            "睡觉"
+        ],
+        "usphone": "sliːp",
+        "ukphone": "sliːp",
+        "sentence": "The bear can sleep.",
+        "sentenceTrans": "这只熊会睡觉。"
+    },
+    {
+        "name": "dinner",
+        "trans": [
+            "正餐，晚餐"
+        ],
+        "usphone": "ˈdɪnər",
+        "ukphone": "ˈdɪnə(r)",
+        "sentence": "Dinner is ready.",
+        "sentenceTrans": "晚餐准备好了。"
+    },
+    {
+        "name": "ready",
+        "trans": [
+            "准备"
+        ],
+        "usphone": "ˈredi",
+        "ukphone": "ˈredi",
+        "sentence": "Dinner is ready.",
+        "sentenceTrans": "晚餐准备好了。"
+    },
+    {
+        "name": "plate",
+        "trans": [
+            "盘子，碟子"
+        ],
+        "usphone": "pleɪt",
+        "ukphone": "pleɪt",
+        "sentence": "The meat is on the plate.",
+        "sentenceTrans": "肉在盘子里。"
+    },
+    {
+        "name": "chopsticks",
+        "trans": [
+            "筷子"
+        ],
+        "usphone": "ˈtʃɑːpstɪks",
+        "ukphone": "ˈtʃɒpstɪks",
+        "sentence": "I eat with chopsticks.",
+        "sentenceTrans": "我用筷子吃饭。"
+    },
+    {
+        "name": "bowl",
+        "trans": [
+            "碗"
+        ],
+        "usphone": "boʊl",
+        "ukphone": "bəʊl",
+        "sentence": "The rice is in the bowl.",
+        "sentenceTrans": "米饭在碗里。"
+    },
+    {
+        "name": "spoon",
+        "trans": [
+            "调羹"
+        ],
+        "usphone": "spuːn",
+        "ukphone": "spuːn",
+        "sentence": "The spoon is in the bowl.",
+        "sentenceTrans": "勺子在碗里。"
+    },
+    {
+        "name": "queen",
+        "trans": [
+            "bee 蜂王，蜂后"
+        ],
+        "usphone": "kwiːn",
+        "ukphone": "kwiːn",
+        "sentence": "This is the queen bee.",
+        "sentenceTrans": "这是蜂王。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "around 飞来飞去"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "The bird can fly.",
+        "sentenceTrans": "这只鸟会飞。"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "around 跑来跑去"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn",
+        "sentence": "The wolf runs away.",
+        "sentenceTrans": "这只狼跑走了。"
+    }
+]

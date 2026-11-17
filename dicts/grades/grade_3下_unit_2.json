@@ -1,0 +1,202 @@
+[
+    {
+        "name": "ship",
+        "trans": [
+            "船"
+        ],
+        "usphone": "ʃɪp",
+        "ukphone": "ʃɪp",
+        "sentence": "I see a big ship.",
+        "sentenceTrans": "我看见一艘大船。"
+    },
+    {
+        "name": "car",
+        "trans": [
+            "小汽车"
+        ],
+        "usphone": "kɑːr",
+        "ukphone": "kɑː(r)",
+        "sentence": "This is a little car.",
+        "sentenceTrans": "这是一辆小汽车。"
+    },
+    {
+        "name": "train",
+        "trans": [
+            "火车"
+        ],
+        "usphone": "treɪn",
+        "ukphone": "treɪn",
+        "sentence": "I go by train.",
+        "sentenceTrans": "我坐火车去。"
+    },
+    {
+        "name": "can",
+        "trans": [
+            "能"
+        ],
+        "usphone": "kæn; kən",
+        "ukphone": "kæn; kən",
+        "sentence": "I can swim.",
+        "sentenceTrans": "我会游泳。"
+    },
+    {
+        "name": "hear",
+        "trans": [
+            "听见"
+        ],
+        "usphone": "hɪr",
+        "ukphone": "hɪə(r)",
+        "sentence": "I hear a bird.",
+        "sentenceTrans": "我听见一只鸟的叫声。"
+    },
+    {
+        "name": "listen",
+        "trans": [
+            "听"
+        ],
+        "usphone": "ˈlɪs(ə)n",
+        "ukphone": "ˈlɪs(ə)n",
+        "sentence": "Listen to this song.",
+        "sentenceTrans": "听听这首歌。"
+    },
+    {
+        "name": "bear",
+        "trans": [
+            "熊"
+        ],
+        "usphone": "ber",
+        "ukphone": "beə(r)",
+        "sentence": "I see a bear.",
+        "sentenceTrans": "我看见一只熊。"
+    },
+    {
+        "name": "elephant",
+        "trans": [
+            "象"
+        ],
+        "usphone": "ˈelɪfənt; ˈeləfənt",
+        "ukphone": "ˈelɪfənt; ˈeləfənt",
+        "sentence": "I see a big elephant.",
+        "sentenceTrans": "我看见一头大象。"
+    },
+    {
+        "name": "lion",
+        "trans": [
+            "狮子"
+        ],
+        "usphone": "ˈlaɪən",
+        "ukphone": "ˈlaɪən",
+        "sentence": "I see a big lion.",
+        "sentenceTrans": "我看见一头大狮子。"
+    },
+    {
+        "name": "monkey",
+        "trans": [
+            "猴子"
+        ],
+        "usphone": "ˈmʌŋki",
+        "ukphone": "ˈmʌŋki",
+        "sentence": "I see a monkey.",
+        "sentenceTrans": "我看见一只猴子。"
+    },
+    {
+        "name": "panda",
+        "trans": [
+            "n. 熊猫"
+        ],
+        "usphone": "ˈpændə",
+        "ukphone": "ˈpændə",
+        "sentence": "I see a panda.",
+        "sentenceTrans": "我看见一只熊猫。"
+    },
+    {
+        "name": "tiger",
+        "trans": [
+            "老虎"
+        ],
+        "usphone": "ˈtaɪɡər",
+        "ukphone": "ˈtaɪɡə(r)",
+        "sentence": "I see a tiger.",
+        "sentenceTrans": "我看见一只老虎。"
+    },
+    {
+        "name": "like",
+        "trans": [
+            "像，喜欢"
+        ],
+        "usphone": "laɪk",
+        "ukphone": "laɪk",
+        "sentence": "I like this song.",
+        "sentenceTrans": "我喜欢这首歌。"
+    },
+    {
+        "name": "man",
+        "trans": [
+            "男人（复数men）"
+        ],
+        "usphone": "mæn",
+        "ukphone": "mæn",
+        "sentence": "The man is a worker.",
+        "sentenceTrans": "这个男人是一名工人。"
+    },
+    {
+        "name": "old",
+        "trans": [
+            "旧的；老的"
+        ],
+        "usphone": "oʊld",
+        "ukphone": "əʊld",
+        "sentence": "The man is old.",
+        "sentenceTrans": "这个男人年纪大了。"
+    },
+    {
+        "name": "our",
+        "trans": [
+            "我们的"
+        ],
+        "usphone": "ˈaʊər; ɑːr",
+        "ukphone": "ˈaʊə(r)",
+        "sentence": "This is our house.",
+        "sentenceTrans": "这是我们的房子。"
+    },
+    {
+        "name": "strong",
+        "trans": [
+            "强壮的；坚固的"
+        ],
+        "usphone": "strɔːŋ",
+        "ukphone": "strɒŋ",
+        "sentence": "The horse is strong.",
+        "sentenceTrans": "这匹马很强壮。"
+    },
+    {
+        "name": "kite",
+        "trans": [
+            "风筝"
+        ],
+        "usphone": "kaɪt",
+        "ukphone": "kaɪt",
+        "sentence": "I can fly a kite.",
+        "sentenceTrans": "我会放风筝。"
+    },
+    {
+        "name": "robot",
+        "trans": [
+            "机器人"
+        ],
+        "usphone": "ˈroʊbɑːt",
+        "ukphone": "ˈrəʊbɒt",
+        "sentence": "This robot can dance.",
+        "sentenceTrans": "这个机器人会跳舞。"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "bear 玩具熊"
+        ],
+        "usphone": "tɔɪ",
+        "ukphone": "tɔɪ",
+        "sentence": "This is my toy bear.",
+        "sentenceTrans": "这是我的玩具熊。"
+    }
+]

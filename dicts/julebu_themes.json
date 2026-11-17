@@ -1,0 +1,1702 @@
+[
+  {
+    "name": "happy",
+    "usphone": "/ˈhæpi/",
+    "ukphone": "/ˈhæpi/",
+    "trans": [
+      "快乐的"
+    ],
+    "sentence": "I feel happy today.",
+    "sentenceTrans": "我今天感到很快乐。"
+  },
+  {
+    "name": "sad",
+    "usphone": "/sæd/",
+    "ukphone": "/sæd/",
+    "trans": [
+      "悲伤的"
+    ],
+    "sentence": "He is feeling sad.",
+    "sentenceTrans": "他感到很悲伤。"
+  },
+  {
+    "name": "angry",
+    "usphone": "/ˈæŋɡri/",
+    "ukphone": "/ˈæŋɡri/",
+    "trans": [
+      "生气的"
+    ],
+    "sentence": "The boss is angry.",
+    "sentenceTrans": "老板很生气。"
+  },
+  {
+    "name": "surprised",
+    "usphone": "/sərˈpraɪzd/",
+    "ukphone": "/sərˈpraɪzd/",
+    "trans": [
+      "惊讶的"
+    ],
+    "sentence": "I was very surprised.",
+    "sentenceTrans": "我非常惊讶。"
+  },
+  {
+    "name": "tired",
+    "usphone": "/ˈtaɪərd/",
+    "ukphone": "/ˈtaɪərd/",
+    "trans": [
+      "疲倦的"
+    ],
+    "sentence": "She is getting tired.",
+    "sentenceTrans": "她渐渐感到疲倦了。"
+  },
+  {
+    "name": "excited",
+    "usphone": "/ɪkˈsaɪtɪd/",
+    "ukphone": "/ɪkˈsaɪtɪd/",
+    "trans": [
+      "兴奋的"
+    ],
+    "sentence": "We are so excited.",
+    "sentenceTrans": "我们太兴奋了。"
+  },
+  {
+    "name": "nervous",
+    "usphone": "/ˈnɜːrvəs/",
+    "ukphone": "/ˈnɜːrvəs/",
+    "trans": [
+      "紧张的"
+    ],
+    "sentence": "I am nervous before exams.",
+    "sentenceTrans": "考试前我很紧张。"
+  },
+  {
+    "name": "calm",
+    "usphone": "/kɑːm/",
+    "ukphone": "/kɑːm/",
+    "trans": [
+      "平静的"
+    ],
+    "sentence": "Please stay calm.",
+    "sentenceTrans": "请保持平静。"
+  },
+  {
+    "name": "bored",
+    "usphone": "/bɔːrd/",
+    "ukphone": "/bɔːrd/",
+    "trans": [
+      "无聊的"
+    ],
+    "sentence": "I am totally bored.",
+    "sentenceTrans": "我彻底无聊了。"
+  },
+  {
+    "name": "proud",
+    "usphone": "/praʊd/",
+    "ukphone": "/praʊd/",
+    "trans": [
+      "骄傲的"
+    ],
+    "sentence": "They are proud of you.",
+    "sentenceTrans": "他们为你感到骄傲。"
+  },
+  {
+    "name": "jealous",
+    "usphone": "/ˈdʒeləs/",
+    "ukphone": "/ˈdʒeləs/",
+    "trans": [
+      "嫉妒的"
+    ],
+    "sentence": "He is jealous of her.",
+    "sentenceTrans": "他很嫉妒她。"
+  },
+  {
+    "name": "scared",
+    "usphone": "/skerd/",
+    "ukphone": "/skerd/",
+    "trans": [
+      "害怕的"
+    ],
+    "sentence": "Don't be scared.",
+    "sentenceTrans": "不要害怕。"
+  },
+  {
+    "name": "lonely",
+    "usphone": "/ˈləʊnli/",
+    "ukphone": "/ˈləʊnli/",
+    "trans": [
+      "孤独的"
+    ],
+    "sentence": "He lives a lonely life.",
+    "sentenceTrans": "他过着孤独的生活。"
+  },
+  {
+    "name": "shy",
+    "usphone": "/ʃaɪ/",
+    "ukphone": "/ʃaɪ/",
+    "trans": [
+      "害羞的"
+    ],
+    "sentence": "The little girl is shy.",
+    "sentenceTrans": "那个小女孩很害羞。"
+  },
+  {
+    "name": "apple",
+    "usphone": "/ˈæpl/",
+    "ukphone": "/ˈæpl/",
+    "trans": [
+      "苹果"
+    ],
+    "sentence": "I like eating fresh apples.",
+    "sentenceTrans": "我喜欢吃新鲜的苹果。"
+  },
+  {
+    "name": "banana",
+    "usphone": "/bəˈnænə/",
+    "ukphone": "/bəˈnænə/",
+    "trans": [
+      "香蕉"
+    ],
+    "sentence": "He bought a yellow banana.",
+    "sentenceTrans": "他买了一根黄香蕉。"
+  },
+  {
+    "name": "orange",
+    "usphone": "/ˈɔːrɪndʒ/",
+    "ukphone": "/ˈɔːrɪndʒ/",
+    "trans": [
+      "橙子"
+    ],
+    "sentence": "Please give me an orange.",
+    "sentenceTrans": "请给我一个橙子。"
+  },
+  {
+    "name": "grape",
+    "usphone": "/ɡreɪp/",
+    "ukphone": "/ɡreɪp/",
+    "trans": [
+      "葡萄"
+    ],
+    "sentence": "These grapes are very sweet.",
+    "sentenceTrans": "这些葡萄非常甜。"
+  },
+  {
+    "name": "strawberry",
+    "usphone": "/ˈstrɔːberi/",
+    "ukphone": "/ˈstrɔːberi/",
+    "trans": [
+      "草莓"
+    ],
+    "sentence": "I love strawberry cake.",
+    "sentenceTrans": "我爱草莓蛋糕。"
+  },
+  {
+    "name": "watermelon",
+    "usphone": "/ˈwɔːtərmelən/",
+    "ukphone": "/ˈwɔːtərmelən/",
+    "trans": [
+      "西瓜"
+    ],
+    "sentence": "Watermelon is great in summer.",
+    "sentenceTrans": "夏天吃西瓜太棒了。"
+  },
+  {
+    "name": "peach",
+    "usphone": "/piːtʃ/",
+    "ukphone": "/piːtʃ/",
+    "trans": [
+      "桃子"
+    ],
+    "sentence": "This peach is soft.",
+    "sentenceTrans": "这个桃子很软。"
+  },
+  {
+    "name": "cherry",
+    "usphone": "/ˈtʃeri/",
+    "ukphone": "/ˈtʃeri/",
+    "trans": [
+      "樱桃"
+    ],
+    "sentence": "She picked a red cherry.",
+    "sentenceTrans": "她摘了一颗红樱桃。"
+  },
+  {
+    "name": "mango",
+    "usphone": "/ˈmæŋɡoʊ/",
+    "ukphone": "/ˈmæŋɡoʊ/",
+    "trans": [
+      "芒果"
+    ],
+    "sentence": "Mango is my favorite fruit.",
+    "sentenceTrans": "芒果是我最爱的水果。"
+  },
+  {
+    "name": "lemon",
+    "usphone": "/ˈlemən/",
+    "ukphone": "/ˈlemən/",
+    "trans": [
+      "柠檬"
+    ],
+    "sentence": "The lemon is very sour.",
+    "sentenceTrans": "这个柠檬非常酸。"
+  },
+  {
+    "name": "spring",
+    "usphone": "/sprɪŋ/",
+    "ukphone": "/sprɪŋ/",
+    "trans": [
+      "春天"
+    ],
+    "sentence": "Spring is coming soon.",
+    "sentenceTrans": "春天很快就要来了。"
+  },
+  {
+    "name": "summer",
+    "usphone": "/ˈsʌmər/",
+    "ukphone": "/ˈsʌmər/",
+    "trans": [
+      "夏天"
+    ],
+    "sentence": "Summer is very hot here.",
+    "sentenceTrans": "这里夏天非常热。"
+  },
+  {
+    "name": "autumn",
+    "usphone": "/ˈɔːtəm/",
+    "ukphone": "/ˈɔːtəm/",
+    "trans": [
+      "秋天"
+    ],
+    "sentence": "Autumn leaves are falling down.",
+    "sentenceTrans": "秋天的落叶飘下来。"
+  },
+  {
+    "name": "winter",
+    "usphone": "/ˈwɪntər/",
+    "ukphone": "/ˈwɪntər/",
+    "trans": [
+      "冬天"
+    ],
+    "sentence": "I like playing in winter.",
+    "sentenceTrans": "我喜欢在冬天玩耍。"
+  },
+  {
+    "name": "season",
+    "usphone": "/ˈsiːzn/",
+    "ukphone": "/ˈsiːzn/",
+    "trans": [
+      "季节"
+    ],
+    "sentence": "What is your favorite season?",
+    "sentenceTrans": "你最喜欢哪个季节？"
+  },
+  {
+    "name": "warm",
+    "usphone": "/wɔːrm/",
+    "ukphone": "/wɔːrm/",
+    "trans": [
+      "温暖的"
+    ],
+    "sentence": "The weather is warm today.",
+    "sentenceTrans": "今天天气很温暖。"
+  },
+  {
+    "name": "cool",
+    "usphone": "/kuːl/",
+    "ukphone": "/kuːl/",
+    "trans": [
+      "凉爽的"
+    ],
+    "sentence": "It is cool in autumn.",
+    "sentenceTrans": "秋天很凉爽。"
+  },
+  {
+    "name": "China",
+    "usphone": "/ˈtʃaɪnə/",
+    "ukphone": "/ˈtʃaɪnə/",
+    "trans": [
+      "中国"
+    ],
+    "sentence": "I am from China.",
+    "sentenceTrans": "我来自中国。"
+  },
+  {
+    "name": "America",
+    "usphone": "/əˈmerɪkə/",
+    "ukphone": "/əˈmerɪkə/",
+    "trans": [
+      "美国"
+    ],
+    "sentence": "He lives in America.",
+    "sentenceTrans": "他住在美国。"
+  },
+  {
+    "name": "Britain",
+    "usphone": "/ˈbrɪtn/",
+    "ukphone": "/ˈbrɪtn/",
+    "trans": [
+      "英国"
+    ],
+    "sentence": "London is in Britain.",
+    "sentenceTrans": "伦敦在英国。"
+  },
+  {
+    "name": "Japan",
+    "usphone": "/dʒəˈpæn/",
+    "ukphone": "/dʒəˈpæn/",
+    "trans": [
+      "日本"
+    ],
+    "sentence": "She traveled to Japan.",
+    "sentenceTrans": "她去日本旅行了。"
+  },
+  {
+    "name": "France",
+    "usphone": "/fræns/",
+    "ukphone": "/fræns/",
+    "trans": [
+      "法国"
+    ],
+    "sentence": "Paris is the capital of France.",
+    "sentenceTrans": "巴黎是法国的首府。"
+  },
+  {
+    "name": "Germany",
+    "usphone": "/ˈdʒɜːrməni/",
+    "ukphone": "/ˈdʒɜːrməni/",
+    "trans": [
+      "德国"
+    ],
+    "sentence": "He bought a car from Germany.",
+    "sentenceTrans": "他买了一辆德国车。"
+  },
+  {
+    "name": "Canada",
+    "usphone": "/ˈkænədə/",
+    "ukphone": "/ˈkænədə/",
+    "trans": [
+      "加拿大"
+    ],
+    "sentence": "It is cold in Canada.",
+    "sentenceTrans": "加拿大很冷。"
+  },
+  {
+    "name": "hammer",
+    "usphone": "/ˈhæmər/",
+    "ukphone": "/ˈhæmər/",
+    "trans": [
+      "锤子"
+    ],
+    "sentence": "Pass me the hammer.",
+    "sentenceTrans": "把锤子递给我。"
+  },
+  {
+    "name": "wrench",
+    "usphone": "/rentʃ/",
+    "ukphone": "/rentʃ/",
+    "trans": [
+      "扳手"
+    ],
+    "sentence": "I need a wrench.",
+    "sentenceTrans": "我需要一个扳手。"
+  },
+  {
+    "name": "nail",
+    "usphone": "/neɪl/",
+    "ukphone": "/neɪl/",
+    "trans": [
+      "钉子"
+    ],
+    "sentence": "He hit the nail.",
+    "sentenceTrans": "他敲了那个钉子。"
+  },
+  {
+    "name": "screw",
+    "usphone": "/skruː/",
+    "ukphone": "/skruː/",
+    "trans": [
+      "螺丝"
+    ],
+    "sentence": "Tighten the screw now.",
+    "sentenceTrans": "现在把螺丝拧紧。"
+  },
+  {
+    "name": "scissors",
+    "usphone": "/ˈsɪzərz/",
+    "ukphone": "/ˈsɪzərz/",
+    "trans": [
+      "剪刀"
+    ],
+    "sentence": "Use the scissors to cut it.",
+    "sentenceTrans": "用剪刀把它剪开。"
+  },
+  {
+    "name": "brush",
+    "usphone": "/brʌʃ/",
+    "ukphone": "/brʌʃ/",
+    "trans": [
+      "刷子"
+    ],
+    "sentence": "Clean it with a brush.",
+    "sentenceTrans": "用刷子清洗它。"
+  },
+  {
+    "name": "bedroom",
+    "usphone": "/ˈbedruːm/",
+    "ukphone": "/ˈbedruːm/",
+    "trans": [
+      "卧室"
+    ],
+    "sentence": "I sleep in my bedroom.",
+    "sentenceTrans": "我在卧室里睡觉。"
+  },
+  {
+    "name": "kitchen",
+    "usphone": "/ˈkɪtʃɪn/",
+    "ukphone": "/ˈkɪtʃɪn/",
+    "trans": [
+      "厨房"
+    ],
+    "sentence": "She is cooking in the kitchen.",
+    "sentenceTrans": "她正在厨房做饭。"
+  },
+  {
+    "name": "bathroom",
+    "usphone": "/ˈbæθruːm/",
+    "ukphone": "/ˈbæθruːm/",
+    "trans": [
+      "浴室"
+    ],
+    "sentence": "The bathroom is very clean.",
+    "sentenceTrans": "这间浴室非常干净。"
+  },
+  {
+    "name": "balcony",
+    "usphone": "/ˈbælkəni/",
+    "ukphone": "/ˈbælkəni/",
+    "trans": [
+      "阳台"
+    ],
+    "sentence": "We stood on the balcony.",
+    "sentenceTrans": "我们站在阳台上。"
+  },
+  {
+    "name": "floor",
+    "usphone": "/flɔːr/",
+    "ukphone": "/flɔːr/",
+    "trans": [
+      "地板"
+    ],
+    "sentence": "Sweep the floor please.",
+    "sentenceTrans": "请把地板扫一下。"
+  },
+  {
+    "name": "wall",
+    "usphone": "/wɔːl/",
+    "ukphone": "/wɔːl/",
+    "trans": [
+      "墙壁"
+    ],
+    "sentence": "Paint the wall white.",
+    "sentenceTrans": "把墙漆成白色。"
+  },
+  {
+    "name": "water",
+    "usphone": "/ˈwɔːtər/",
+    "ukphone": "/ˈwɔːtər/",
+    "trans": [
+      "水"
+    ],
+    "sentence": "Can I have some water?",
+    "sentenceTrans": "能给我点水吗？"
+  },
+  {
+    "name": "tea",
+    "usphone": "/tiː/",
+    "ukphone": "/tiː/",
+    "trans": [
+      "茶"
+    ],
+    "sentence": "Would you like some tea?",
+    "sentenceTrans": "你想喝点茶吗？"
+  },
+  {
+    "name": "coffee",
+    "usphone": "/ˈkɔːfi/",
+    "ukphone": "/ˈkɔːfi/",
+    "trans": [
+      "咖啡"
+    ],
+    "sentence": "I drink coffee every morning.",
+    "sentenceTrans": "我每天早上喝咖啡。"
+  },
+  {
+    "name": "milk",
+    "usphone": "/mɪlk/",
+    "ukphone": "/mɪlk/",
+    "trans": [
+      "牛奶"
+    ],
+    "sentence": "Drink a glass of milk.",
+    "sentenceTrans": "喝一杯牛奶吧。"
+  },
+  {
+    "name": "juice",
+    "usphone": "/dʒuːs/",
+    "ukphone": "/dʒuːs/",
+    "trans": [
+      "果汁"
+    ],
+    "sentence": "She ordered an apple juice.",
+    "sentenceTrans": "她点了一杯苹果汁。"
+  },
+  {
+    "name": "beer",
+    "usphone": "/bɪr/",
+    "ukphone": "/bɪr/",
+    "trans": [
+      "啤酒"
+    ],
+    "sentence": "He is drinking cold beer.",
+    "sentenceTrans": "他正在喝冰啤酒。"
+  },
+  {
+    "name": "desk",
+    "usphone": "/desk/",
+    "ukphone": "/desk/",
+    "trans": [
+      "桌子"
+    ],
+    "sentence": "My computer is on the desk.",
+    "sentenceTrans": "我的电脑在桌子上。"
+  },
+  {
+    "name": "chair",
+    "usphone": "/tʃer/",
+    "ukphone": "/tʃer/",
+    "trans": [
+      "椅子"
+    ],
+    "sentence": "Sit down on the chair.",
+    "sentenceTrans": "在椅子上坐下。"
+  },
+  {
+    "name": "computer",
+    "usphone": "/kəmˈpjuːtər/",
+    "ukphone": "/kəmˈpjuːtər/",
+    "trans": [
+      "电脑"
+    ],
+    "sentence": "Turn on the computer.",
+    "sentenceTrans": "打开电脑吧。"
+  },
+  {
+    "name": "printer",
+    "usphone": "/ˈprɪntər/",
+    "ukphone": "/ˈprɪntər/",
+    "trans": [
+      "打印机"
+    ],
+    "sentence": "The printer is broken.",
+    "sentenceTrans": "这台打印机坏了。"
+  },
+  {
+    "name": "paper",
+    "usphone": "/ˈpeɪpər/",
+    "ukphone": "/ˈpeɪpər/",
+    "trans": [
+      "纸"
+    ],
+    "sentence": "I need a piece of paper.",
+    "sentenceTrans": "我需要一张纸。"
+  },
+  {
+    "name": "boss",
+    "usphone": "/bɔːs/",
+    "ukphone": "/bɔːs/",
+    "trans": [
+      "老板"
+    ],
+    "sentence": "My boss is a nice man.",
+    "sentenceTrans": "我的老板是个好人。"
+  },
+  {
+    "name": "sun",
+    "usphone": "/sʌn/",
+    "ukphone": "/sʌn/",
+    "trans": [
+      "太阳"
+    ],
+    "sentence": "The sun is shining bright.",
+    "sentenceTrans": "太阳照耀得很明亮。"
+  },
+  {
+    "name": "moon",
+    "usphone": "/muːn/",
+    "ukphone": "/muːn/",
+    "trans": [
+      "月亮"
+    ],
+    "sentence": "Look at the full moon.",
+    "sentenceTrans": "看那轮满月。"
+  },
+  {
+    "name": "sky",
+    "usphone": "/skaɪ/",
+    "ukphone": "/skaɪ/",
+    "trans": [
+      "天空"
+    ],
+    "sentence": "The sky is blue today.",
+    "sentenceTrans": "今天天空很蓝。"
+  },
+  {
+    "name": "cloud",
+    "usphone": "/klaʊd/",
+    "ukphone": "/klaʊd/",
+    "trans": [
+      "云"
+    ],
+    "sentence": "There is a dark cloud.",
+    "sentenceTrans": "有一朵乌云。"
+  },
+  {
+    "name": "wind",
+    "usphone": "/wɪnd/",
+    "ukphone": "/wɪnd/",
+    "trans": [
+      "风"
+    ],
+    "sentence": "The wind is blowing hard.",
+    "sentenceTrans": "风吹得很大。"
+  },
+  {
+    "name": "tree",
+    "usphone": "/triː/",
+    "ukphone": "/triː/",
+    "trans": [
+      "树"
+    ],
+    "sentence": "This tree is very tall.",
+    "sentenceTrans": "这棵树非常高。"
+  },
+  {
+    "name": "flower",
+    "usphone": "/ˈflaʊər/",
+    "ukphone": "/ˈflaʊər/",
+    "trans": [
+      "花"
+    ],
+    "sentence": "She picked a beautiful flower.",
+    "sentenceTrans": "她摘了一朵美丽的花。"
+  },
+  {
+    "name": "bread",
+    "usphone": "/bred/",
+    "ukphone": "/bred/",
+    "trans": [
+      "面包"
+    ],
+    "sentence": "I like eating warm bread.",
+    "sentenceTrans": "我喜欢吃热面包。"
+  },
+  {
+    "name": "rice",
+    "usphone": "/raɪs/",
+    "ukphone": "/raɪs/",
+    "trans": [
+      "米饭"
+    ],
+    "sentence": "We eat rice every day.",
+    "sentenceTrans": "我们每天吃米饭。"
+  },
+  {
+    "name": "noodle",
+    "usphone": "/ˈnuːdl/",
+    "ukphone": "/ˈnuːdl/",
+    "trans": [
+      "面条"
+    ],
+    "sentence": "He cooking a bowl of noodle.",
+    "sentenceTrans": "他在煮一碗面条。"
+  },
+  {
+    "name": "meat",
+    "usphone": "/miːt/",
+    "ukphone": "/miːt/",
+    "trans": [
+      "肉"
+    ],
+    "sentence": "They sell fresh meat here.",
+    "sentenceTrans": "他们这里卖鲜肉。"
+  },
+  {
+    "name": "fish",
+    "usphone": "/fɪʃ/",
+    "ukphone": "/fɪʃ/",
+    "trans": [
+      "鱼"
+    ],
+    "sentence": "The fish tastes very good.",
+    "sentenceTrans": "这条鱼味道非常好。"
+  },
+  {
+    "name": "egg",
+    "usphone": "/eɡ/",
+    "ukphone": "/eɡ/",
+    "trans": [
+      "鸡蛋"
+    ],
+    "sentence": "I had a boiled egg.",
+    "sentenceTrans": "我吃了一个水煮蛋。"
+  },
+  {
+    "name": "cake",
+    "usphone": "/keɪk/",
+    "ukphone": "/keɪk/",
+    "trans": [
+      "蛋糕"
+    ],
+    "sentence": "Happy birthday and cut the cake.",
+    "sentenceTrans": "生日快乐，切蛋糕吧。"
+  },
+  {
+    "name": "father",
+    "usphone": "/ˈfɑːðər/",
+    "ukphone": "/ˈfɑːðər/",
+    "trans": [
+      "父亲"
+    ],
+    "sentence": "My father is very tall.",
+    "sentenceTrans": "我的父亲非常高。"
+  },
+  {
+    "name": "mother",
+    "usphone": "/ˈmʌðər/",
+    "ukphone": "/ˈmʌðər/",
+    "trans": [
+      "母亲"
+    ],
+    "sentence": "I love my dear mother.",
+    "sentenceTrans": "我爱我亲爱的母亲。"
+  },
+  {
+    "name": "son",
+    "usphone": "/sʌn/",
+    "ukphone": "/sʌn/",
+    "trans": [
+      "儿子"
+    ],
+    "sentence": "He is a good son.",
+    "sentenceTrans": "他是个好儿子。"
+  },
+  {
+    "name": "daughter",
+    "usphone": "/ˈdɔːtər/",
+    "ukphone": "/ˈdɔːtər/",
+    "trans": [
+      "女儿"
+    ],
+    "sentence": "Her daughter is quite young.",
+    "sentenceTrans": "她的女儿还很小。"
+  },
+  {
+    "name": "brother",
+    "usphone": "/ˈbrʌðər/",
+    "ukphone": "/ˈbrʌðər/",
+    "trans": [
+      "兄弟"
+    ],
+    "sentence": "My brother plays the guitar.",
+    "sentenceTrans": "我的兄弟弹吉他。"
+  },
+  {
+    "name": "sister",
+    "usphone": "/ˈsɪstər/",
+    "ukphone": "/ˈsɪstər/",
+    "trans": [
+      "姐妹"
+    ],
+    "sentence": "His sister works very hard.",
+    "sentenceTrans": "他的姐妹工作很努力。"
+  },
+  {
+    "name": "red",
+    "usphone": "/red/",
+    "ukphone": "/red/",
+    "trans": [
+      "红色的"
+    ],
+    "sentence": "She likes her red dress.",
+    "sentenceTrans": "她喜欢她的红裙子。"
+  },
+  {
+    "name": "blue",
+    "usphone": "/bluː/",
+    "ukphone": "/bluː/",
+    "trans": [
+      "蓝色的"
+    ],
+    "sentence": "The sea is deeply blue.",
+    "sentenceTrans": "大海深蓝。"
+  },
+  {
+    "name": "green",
+    "usphone": "/ɡriːn/",
+    "ukphone": "/ɡriːn/",
+    "trans": [
+      "绿色的"
+    ],
+    "sentence": "The leaves turned green.",
+    "sentenceTrans": "树叶变绿了。"
+  },
+  {
+    "name": "yellow",
+    "usphone": "/ˈjeloʊ/",
+    "ukphone": "/ˈjeloʊ/",
+    "trans": [
+      "黄色的"
+    ],
+    "sentence": "He draws a yellow sun.",
+    "sentenceTrans": "他画了一个黄色的太阳。"
+  },
+  {
+    "name": "black",
+    "usphone": "/blæk/",
+    "ukphone": "/blæk/",
+    "trans": [
+      "黑色的"
+    ],
+    "sentence": "I bought a black car.",
+    "sentenceTrans": "我买了一辆黑色的车。"
+  },
+  {
+    "name": "white",
+    "usphone": "/waɪt/",
+    "ukphone": "/waɪt/",
+    "trans": [
+      "白色的"
+    ],
+    "sentence": "Look at the white cloud.",
+    "sentenceTrans": "看那朵白云。"
+  },
+  {
+    "name": "car",
+    "usphone": "/kɑːr/",
+    "ukphone": "/kɑːr/",
+    "trans": [
+      "小汽车"
+    ],
+    "sentence": "I drive a car to work.",
+    "sentenceTrans": "我开车去上班。"
+  },
+  {
+    "name": "bus",
+    "usphone": "/bʌs/",
+    "ukphone": "/bʌs/",
+    "trans": [
+      "公共汽车"
+    ],
+    "sentence": "We always take the bus.",
+    "sentenceTrans": "我们总是坐公交车。"
+  },
+  {
+    "name": "train",
+    "usphone": "/treɪn/",
+    "ukphone": "/treɪn/",
+    "trans": [
+      "火车"
+    ],
+    "sentence": "The train is arriving soon.",
+    "sentenceTrans": "火车马上就要到了。"
+  },
+  {
+    "name": "bike",
+    "usphone": "/baɪk/",
+    "ukphone": "/baɪk/",
+    "trans": [
+      "自行车"
+    ],
+    "sentence": "He riding a fast bike.",
+    "sentenceTrans": "他在骑一辆快车。"
+  },
+  {
+    "name": "plane",
+    "usphone": "/pleɪn/",
+    "ukphone": "/pleɪn/",
+    "trans": [
+      "飞机"
+    ],
+    "sentence": "They flew in a large plane.",
+    "sentenceTrans": "他们坐大飞机飞行。"
+  },
+  {
+    "name": "boat",
+    "usphone": "/boʊt/",
+    "ukphone": "/boʊt/",
+    "trans": [
+      "小船"
+    ],
+    "sentence": "Row the boat gently.",
+    "sentenceTrans": "轻轻地划这只小船。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 音乐.",
+    "sentenceTrans": "这是音乐的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "read",
+    "usphone": "/riːd/",
+    "ukphone": "/riːd/",
+    "trans": [
+      "阅读"
+    ],
+    "sentence": "I like to read books.",
+    "sentenceTrans": "我喜欢看书。"
+  },
+  {
+    "name": "write",
+    "usphone": "/raɪt/",
+    "ukphone": "/raɪt/",
+    "trans": [
+      "写作"
+    ],
+    "sentence": "She will write a novel.",
+    "sentenceTrans": "她要写一本小说。"
+  },
+  {
+    "name": "draw",
+    "usphone": "/drɔː/",
+    "ukphone": "/drɔː/",
+    "trans": [
+      "画画"
+    ],
+    "sentence": "He can draw a portrait.",
+    "sentenceTrans": "他能画一幅肖像。"
+  },
+  {
+    "name": "sing",
+    "usphone": "/sɪŋ/",
+    "ukphone": "/sɪŋ/",
+    "trans": [
+      "唱歌"
+    ],
+    "sentence": "They sing a beautiful song.",
+    "sentenceTrans": "他们唱了一支优美的歌。"
+  },
+  {
+    "name": "dance",
+    "usphone": "/dæns/",
+    "ukphone": "/dæns/",
+    "trans": [
+      "跳舞"
+    ],
+    "sentence": "Let us dance together now.",
+    "sentenceTrans": "让我们现在一起跳舞吧。"
+  },
+  {
+    "name": "swim",
+    "usphone": "/swɪm/",
+    "ukphone": "/swɪm/",
+    "trans": [
+      "游泳"
+    ],
+    "sentence": "I swim in the pool.",
+    "sentenceTrans": "我在泳池里游泳。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 旅行.",
+    "sentenceTrans": "这是旅行的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 健康.",
+    "sentenceTrans": "这是健康的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 天气.",
+    "sentenceTrans": "这是天气的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 学校.",
+    "sentenceTrans": "这是学校的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "dog",
+    "usphone": "/dɔːɡ/",
+    "ukphone": "/dɔːɡ/",
+    "trans": [
+      "狗"
+    ],
+    "sentence": "The dog is barking loudly.",
+    "sentenceTrans": "那只狗在狂吠。"
+  },
+  {
+    "name": "cat",
+    "usphone": "/kæt/",
+    "ukphone": "/kæt/",
+    "trans": [
+      "猫"
+    ],
+    "sentence": "My cat is sleeping peacefully.",
+    "sentenceTrans": "我的猫睡得很香。"
+  },
+  {
+    "name": "bird",
+    "usphone": "/bɜːrd/",
+    "ukphone": "/bɜːrd/",
+    "trans": [
+      "鸟"
+    ],
+    "sentence": "A bird flies in the sky.",
+    "sentenceTrans": "一只鸟在天上飞。"
+  },
+  {
+    "name": "fish",
+    "usphone": "/fɪʃ/",
+    "ukphone": "/fɪʃ/",
+    "trans": [
+      "鱼"
+    ],
+    "sentence": "The fish swims in water.",
+    "sentenceTrans": "鱼在水中游。"
+  },
+  {
+    "name": "horse",
+    "usphone": "/hɔːrs/",
+    "ukphone": "/hɔːrs/",
+    "trans": [
+      "马"
+    ],
+    "sentence": "He rides a wild horse.",
+    "sentenceTrans": "他骑着一匹野马。"
+  },
+  {
+    "name": "cow",
+    "usphone": "/kaʊ/",
+    "ukphone": "/kaʊ/",
+    "trans": [
+      "牛"
+    ],
+    "sentence": "The cow eats green grass.",
+    "sentenceTrans": "牛吃着青草。"
+  },
+  {
+    "name": "one",
+    "usphone": "/wʌn/",
+    "ukphone": "/wʌn/",
+    "trans": [
+      "一"
+    ],
+    "sentence": "I have only one apple.",
+    "sentenceTrans": "我只有一个苹果。"
+  },
+  {
+    "name": "two",
+    "usphone": "/tuː/",
+    "ukphone": "/tuː/",
+    "trans": [
+      "二"
+    ],
+    "sentence": "She needs two fresh tickets.",
+    "sentenceTrans": "她需要两张新票。"
+  },
+  {
+    "name": "three",
+    "usphone": "/θriː/",
+    "ukphone": "/θriː/",
+    "trans": [
+      "三"
+    ],
+    "sentence": "We bought three small books.",
+    "sentenceTrans": "我们买了两本小书。"
+  },
+  {
+    "name": "four",
+    "usphone": "/fɔːr/",
+    "ukphone": "/fɔːr/",
+    "trans": [
+      "四"
+    ],
+    "sentence": "There are four big seasons.",
+    "sentenceTrans": "有四个大季节。"
+  },
+  {
+    "name": "five",
+    "usphone": "/faɪv/",
+    "ukphone": "/faɪv/",
+    "trans": [
+      "五"
+    ],
+    "sentence": "He found five golden rings.",
+    "sentenceTrans": "他找到了五枚金戒指。"
+  },
+  {
+    "name": "zero",
+    "usphone": "/ˈzɪroʊ/",
+    "ukphone": "/ˈzɪroʊ/",
+    "trans": [
+      "零"
+    ],
+    "sentence": "The score is completely zero.",
+    "sentenceTrans": "分数完全是零。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 衣服.",
+    "sentenceTrans": "这是衣服的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 时间.",
+    "sentenceTrans": "这是时间的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 运动.",
+    "sentenceTrans": "这是运动的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 厨房.",
+    "sentenceTrans": "这是厨房的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 蔬菜.",
+    "sentenceTrans": "这是蔬菜的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "head",
+    "usphone": "/hed/",
+    "ukphone": "/hed/",
+    "trans": [
+      "头"
+    ],
+    "sentence": "My head hurts a lot.",
+    "sentenceTrans": "我的头很痛。"
+  },
+  {
+    "name": "hair",
+    "usphone": "/her/",
+    "ukphone": "/her/",
+    "trans": [
+      "头发"
+    ],
+    "sentence": "She has beautiful long hair.",
+    "sentenceTrans": "她有美丽的长发。"
+  },
+  {
+    "name": "eye",
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/",
+    "trans": [
+      "眼睛"
+    ],
+    "sentence": "Close your right eye please.",
+    "sentenceTrans": "请闭上你的右眼。"
+  },
+  {
+    "name": "ear",
+    "usphone": "/ɪr/",
+    "ukphone": "/ɪr/",
+    "trans": [
+      "耳朵"
+    ],
+    "sentence": "Listen with your own ear.",
+    "sentenceTrans": "用你自己的耳朵听。"
+  },
+  {
+    "name": "nose",
+    "usphone": "/noʊz/",
+    "ukphone": "/noʊz/",
+    "trans": [
+      "鼻子"
+    ],
+    "sentence": "He wiped his red nose.",
+    "sentenceTrans": "他擦了擦发红的鼻子。"
+  },
+  {
+    "name": "mouth",
+    "usphone": "/maʊθ/",
+    "ukphone": "/maʊθ/",
+    "trans": [
+      "嘴巴"
+    ],
+    "sentence": "Open your mouth wide now.",
+    "sentenceTrans": "现在张大你的嘴巴。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 花.",
+    "sentenceTrans": "这是花的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 职业.",
+    "sentenceTrans": "这是职业的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  },
+  {
+    "name": "example",
+    "usphone": "/ɪɡˈzæmpl/",
+    "ukphone": "/ɪɡˈzæmpl/",
+    "trans": [
+      "例子"
+    ],
+    "sentence": "This is an example for 家具.",
+    "sentenceTrans": "这是家具的例子。"
+  },
+  {
+    "name": "learn",
+    "usphone": "/lɜːrn/",
+    "ukphone": "/lɜːrn/",
+    "trans": [
+      "学习"
+    ],
+    "sentence": "We love learning new words.",
+    "sentenceTrans": "我们热爱学习新单词。"
+  },
+  {
+    "name": "practice",
+    "usphone": "/ˈpræktɪs/",
+    "ukphone": "/ˈpræktɪs/",
+    "trans": [
+      "练习"
+    ],
+    "sentence": "Practice makes perfect.",
+    "sentenceTrans": "熟能生巧。"
+  },
+  {
+    "name": "focus",
+    "usphone": "/ˈfoʊkəs/",
+    "ukphone": "/ˈfoʊkəs/",
+    "trans": [
+      "专注"
+    ],
+    "sentence": "Stay completely focused now.",
+    "sentenceTrans": "现在保持绝对专注。"
+  }
+]

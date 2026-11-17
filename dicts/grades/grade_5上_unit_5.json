@@ -1,0 +1,182 @@
+[
+    {
+        "name": "TV",
+        "trans": [
+            "电视；电视机"
+        ],
+        "usphone": "ˌtiː ˈviː",
+        "ukphone": "ˌtiː ˈviː",
+        "sentence": "We watch TV after dinner.",
+        "sentenceTrans": "我们晚饭后看电视。"
+    },
+    {
+        "name": "before",
+        "trans": [
+            "在…以前"
+        ],
+        "usphone": "bɪˈfɔːr",
+        "ukphone": "bɪˈfɔː(r)",
+        "sentence": "Wash your hands before dinner.",
+        "sentenceTrans": "晚饭前要洗手。"
+    },
+    {
+        "name": "bedtime",
+        "trans": [
+            "就寝时间"
+        ],
+        "usphone": "ˈbedtaɪm",
+        "ukphone": "ˈbedtaɪm",
+        "sentence": "Nine o'clock is my bedtime.",
+        "sentenceTrans": "九点是我的就寝时间。"
+    },
+    {
+        "name": "do…homework",
+        "trans": [
+            "做家庭作业"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I do my homework after dinner.",
+        "sentenceTrans": "我晚饭后做家庭作业。"
+    },
+    {
+        "name": "turn",
+        "trans": [
+            "off 关掉"
+        ],
+        "usphone": "tɜːrn",
+        "ukphone": "tɜːn",
+        "sentence": "Please turn off the light.",
+        "sentenceTrans": "请关灯。"
+    },
+    {
+        "name": "watch",
+        "trans": [
+            "TV 看电视"
+        ],
+        "usphone": "wɑːtʃ",
+        "ukphone": "wɒtʃ",
+        "sentence": "This is my watch.",
+        "sentenceTrans": "这是我的手表。"
+    },
+    {
+        "name": "tell",
+        "trans": [
+            "a story 讲故事"
+        ],
+        "usphone": "tel",
+        "ukphone": "tel",
+        "sentence": "Tell me, please.",
+        "sentenceTrans": "请告诉我。"
+    },
+    {
+        "name": "beach",
+        "trans": [
+            "海滩"
+        ],
+        "usphone": "biːtʃ",
+        "ukphone": "biːtʃ",
+        "sentence": "I play on the beach.",
+        "sentenceTrans": "我在沙滩上玩。"
+    },
+    {
+        "name": "enjoy",
+        "trans": [
+            "享受…的乐趣"
+        ],
+        "usphone": "ɪnˈdʒɔɪ",
+        "ukphone": "ɪnˈdʒɔɪ",
+        "sentence": "We enjoy playing on the beach.",
+        "sentenceTrans": "我们喜欢在海滩上玩。"
+    },
+    {
+        "name": "sunshine",
+        "trans": [
+            "阳光"
+        ],
+        "usphone": "ˈsʌnʃaɪn",
+        "ukphone": "ˈsʌnʃaɪn",
+        "sentence": "The flowers grow in the sunshine.",
+        "sentenceTrans": "花儿在阳光下生长。"
+    },
+    {
+        "name": "collect",
+        "trans": [
+            "收集"
+        ],
+        "usphone": "kəˈlekt",
+        "ukphone": "kəˈlekt",
+        "sentence": "I collect shells on the beach.",
+        "sentenceTrans": "我在海滩上收集贝壳。"
+    },
+    {
+        "name": "sea",
+        "trans": [
+            "海"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "The sea is blue in the sunshine.",
+        "sentenceTrans": "阳光下的大海是蓝色的。"
+    },
+    {
+        "name": "letter",
+        "trans": [
+            "信"
+        ],
+        "usphone": "ˈletər",
+        "ukphone": "ˈletə(r)",
+        "sentence": "I get a letter from my friend.",
+        "sentenceTrans": "我收到朋友的一封信。"
+    },
+    {
+        "name": "put",
+        "trans": [
+            "放；安置"
+        ],
+        "usphone": "pʊt",
+        "ukphone": "pʊt",
+        "sentence": "Put the book on the desk.",
+        "sentenceTrans": "把书放在书桌上。"
+    },
+    {
+        "name": "know",
+        "trans": [
+            "知道"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "I know the way to the station.",
+        "sentenceTrans": "我知道去车站的路。"
+    },
+    {
+        "name": "year",
+        "trans": [
+            "年岁，年"
+        ],
+        "usphone": "jɪr",
+        "ukphone": "jɪə(r)",
+        "sentence": "My brother is ten years old.",
+        "sentenceTrans": "我弟弟十岁。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "holiday 度假"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "I go to school on foot.",
+        "sentenceTrans": "我步行上学。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a good time 玩得高兴"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    }
+]

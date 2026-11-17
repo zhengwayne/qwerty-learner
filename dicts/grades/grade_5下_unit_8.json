@@ -1,0 +1,192 @@
+[
+    {
+        "name": "invention",
+        "trans": [
+            "发明；创造"
+        ],
+        "usphone": "ɪnˈvenʃ(ə)n",
+        "ukphone": "ɪnˈvenʃ(ə)n",
+        "sentence": "The camera is a useful invention.",
+        "sentenceTrans": "相机是一项有用的发明。"
+    },
+    {
+        "name": "watch",
+        "trans": [
+            "手表"
+        ],
+        "usphone": "wɑːtʃ",
+        "ukphone": "wɒtʃ",
+        "sentence": "This is my watch.",
+        "sentenceTrans": "这是我的手表。"
+    },
+    {
+        "name": "anywhere",
+        "trans": [
+            "任何地方"
+        ],
+        "usphone": "ˈeniwer",
+        "ukphone": "ˈeniweə(r)",
+        "sentence": "I cannot find my watch anywhere.",
+        "sentenceTrans": "我到处都找不到手表。"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "旅行；长途行走"
+        ],
+        "usphone": "ˈtræv(ə)l",
+        "ukphone": "ˈtræv(ə)l",
+        "sentence": "We will travel by boat.",
+        "sentenceTrans": "我们将乘船旅行。"
+    },
+    {
+        "name": "invent",
+        "trans": [
+            "发明"
+        ],
+        "usphone": "ɪnˈvent",
+        "ukphone": "ɪnˈvent",
+        "sentence": "People invent useful machines.",
+        "sentenceTrans": "人们发明有用的机器。"
+    },
+    {
+        "name": "something",
+        "trans": [
+            "某事；某物"
+        ],
+        "usphone": "ˈsʌmθɪŋ",
+        "ukphone": "ˈsʌmθɪŋ",
+        "sentence": "I want to show you something.",
+        "sentenceTrans": "我想给你看一样东西。"
+    },
+    {
+        "name": "myself",
+        "trans": [
+            "我自己"
+        ],
+        "usphone": "maɪˈself",
+        "ukphone": "maɪˈself",
+        "sentence": "I made this camera myself.",
+        "sentenceTrans": "这台相机是我自己做的。"
+    },
+    {
+        "name": "camera",
+        "trans": [
+            "相机"
+        ],
+        "usphone": "ˈkæm(ə)rə",
+        "ukphone": "ˈkæm(ə)rə",
+        "sentence": "I take photos with my camera.",
+        "sentenceTrans": "我用相机拍照。"
+    },
+    {
+        "name": "far",
+        "trans": [
+            "away from… 远离…"
+        ],
+        "usphone": "fɑːr",
+        "ukphone": "fɑː(r)",
+        "sentence": "The island is far away from our city.",
+        "sentenceTrans": "这座岛离我们的城市很远。"
+    },
+    {
+        "name": "festival",
+        "trans": [
+            "节日"
+        ],
+        "usphone": "ˈfestɪvl; ˈfestəvəl",
+        "ukphone": "ˈfestɪvl; ˈfestəvəl",
+        "sentence": "The Spring Festival is important to us.",
+        "sentenceTrans": "春节对我们很重要。"
+    },
+    {
+        "name": "important",
+        "trans": [
+            "重要的"
+        ],
+        "usphone": "ɪmˈpɔːrt(ə)nt",
+        "ukphone": "ɪmˈpɔːt(ə)nt",
+        "sentence": "The Spring Festival is important to us.",
+        "sentenceTrans": "春节对我们很重要。"
+    },
+    {
+        "name": "call",
+        "trans": [
+            "把…叫做"
+        ],
+        "usphone": "kɔːl",
+        "ukphone": "kɔːl",
+        "sentence": "People call it the Spring Festival.",
+        "sentenceTrans": "人们称它为春节。"
+    },
+    {
+        "name": "dumpling",
+        "trans": [
+            "饺子"
+        ],
+        "usphone": "ˈdʌmplɪŋ",
+        "ukphone": "ˈdʌmplɪŋ",
+        "sentence": "We eat dumplings at the festival.",
+        "sentenceTrans": "我们在节日里吃饺子。"
+    },
+    {
+        "name": "relative",
+        "trans": [
+            "亲戚"
+        ],
+        "usphone": "ˈrelətɪv",
+        "ukphone": "ˈrelətɪv",
+        "sentence": "We visit our relatives at the festival.",
+        "sentenceTrans": "我们在节日里走亲访友。"
+    },
+    {
+        "name": "red",
+        "trans": [
+            "packet 红包"
+        ],
+        "usphone": "red",
+        "ukphone": "red",
+        "sentence": "The apple is red.",
+        "sentenceTrans": "这个苹果是红色的。"
+    },
+    {
+        "name": "firework",
+        "trans": [
+            "烟火；烟花"
+        ],
+        "usphone": "ˈfaɪərwɜːrk",
+        "ukphone": "ˈfaɪəwɜːk",
+        "sentence": "I see a red firework.",
+        "sentenceTrans": "我看见一朵红色的烟花。"
+    },
+    {
+        "name": "monster",
+        "trans": [
+            "怪物"
+        ],
+        "usphone": "ˈmɑːnstər",
+        "ukphone": "ˈmɒnstə(r)",
+        "sentence": "The monster is afraid of firecrackers.",
+        "sentenceTrans": "怪物害怕鞭炮。"
+    },
+    {
+        "name": "end",
+        "trans": [
+            "结尾；结束"
+        ],
+        "usphone": "end",
+        "ukphone": "end",
+        "sentence": "The monster runs away at the end.",
+        "sentenceTrans": "最后怪物逃走了。"
+    },
+    {
+        "name": "village",
+        "trans": [
+            "村庄"
+        ],
+        "usphone": "ˈvɪlɪdʒ",
+        "ukphone": "ˈvɪlɪdʒ",
+        "sentence": "The giant walks through the village.",
+        "sentenceTrans": "巨人穿过村庄。"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "name": "week",
+        "trans": [
+            "星期"
+        ],
+        "usphone": "wiːk",
+        "ukphone": "wiːk",
+        "sentence": "We go to school five days a week.",
+        "sentenceTrans": "我们每周上五天学。"
+    },
+    {
+        "name": "Monday",
+        "trans": [
+            "星期一"
+        ],
+        "usphone": "ˈmʌndeɪ; ˈmʌndi",
+        "ukphone": "ˈmʌndeɪ; ˈmʌndi",
+        "sentence": "School starts on Monday.",
+        "sentenceTrans": "星期一开始上课。"
+    },
+    {
+        "name": "with",
+        "trans": [
+            "和…一起"
+        ],
+        "usphone": "wɪð; wɪθ",
+        "ukphone": "wɪð",
+        "sentence": "I play with my friends.",
+        "sentenceTrans": "我和朋友们一起玩。"
+    },
+    {
+        "name": "Tuesday",
+        "trans": [
+            "星期二"
+        ],
+        "usphone": "ˈtuːzdeɪ",
+        "ukphone": "ˈtjuːzdeɪ",
+        "sentence": "We have Music on Tuesday.",
+        "sentenceTrans": "我们星期二有音乐课。"
+    },
+    {
+        "name": "Wednesday",
+        "trans": [
+            "星期三"
+        ],
+        "usphone": "ˈwenzdeɪ",
+        "ukphone": "ˈwenzdeɪ",
+        "sentence": "We have Science on Wednesday.",
+        "sentenceTrans": "我们星期三有科学课。"
+    },
+    {
+        "name": "Thursday",
+        "trans": [
+            "星期四"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "We have PE on Thursday.",
+        "sentenceTrans": "我们星期四有体育课。"
+    },
+    {
+        "name": "Friday",
+        "trans": [
+            "星期五"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "We have Art on Friday.",
+        "sentenceTrans": "我们星期五有美术课。"
+    },
+    {
+        "name": "game",
+        "trans": [
+            "游戏"
+        ],
+        "usphone": "ɡeɪm",
+        "ukphone": "ɡeɪm",
+        "sentence": "Let us play a game.",
+        "sentenceTrans": "我们来玩一个游戏吧。"
+    },
+    {
+        "name": "Saturday",
+        "trans": [
+            "星期六"
+        ],
+        "usphone": "ˈsætərdeɪ",
+        "ukphone": "ˈsætədeɪ",
+        "sentence": "We go to the park on Saturday.",
+        "sentenceTrans": "我们星期六去公园。"
+    },
+    {
+        "name": "Sunday",
+        "trans": [
+            "星期天"
+        ],
+        "usphone": "ˈsʌndeɪ",
+        "ukphone": "ˈsʌndeɪ",
+        "sentence": "We go to the park on Sunday.",
+        "sentenceTrans": "我们星期天去公园。"
+    },
+    {
+        "name": "clock",
+        "trans": [
+            "时钟；钟"
+        ],
+        "usphone": "klɑːk",
+        "ukphone": "klɒk",
+        "sentence": "The clock is on the wall.",
+        "sentenceTrans": "钟在墙上。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "chess 下国际象棋"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "the weekend 在周末"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "I am at home.",
+        "sentenceTrans": "我在家。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "late for 迟到"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Do not be late for school.",
+        "sentenceTrans": "上学不要迟到。"
+    },
+    {
+        "name": "China",
+        "trans": [
+            "中国"
+        ],
+        "usphone": "ˈtʃaɪnə",
+        "ukphone": "ˈtʃaɪnə",
+        "sentence": "I live in China.",
+        "sentenceTrans": "我住在中国。"
+    },
+    {
+        "name": "talk",
+        "trans": [
+            "谈话；说话"
+        ],
+        "usphone": "tɔːk",
+        "ukphone": "tɔːk",
+        "sentence": "We talk after school.",
+        "sentenceTrans": "我们放学后聊天。"
+    },
+    {
+        "name": "May",
+        "trans": [
+            "五月"
+        ],
+        "usphone": "meɪ",
+        "ukphone": "meɪ",
+        "sentence": "May is after April.",
+        "sentenceTrans": "五月在四月之后。"
+    },
+    {
+        "name": "June",
+        "trans": [
+            "六月"
+        ],
+        "usphone": "dʒuːn",
+        "ukphone": "dʒuːn",
+        "sentence": "June is after May.",
+        "sentenceTrans": "六月在五月之后。"
+    },
+    {
+        "name": "January",
+        "trans": [
+            "一月"
+        ],
+        "usphone": "ˈdʒænjueri",
+        "ukphone": "ˈdʒænjuəri",
+        "sentence": "January is the first month.",
+        "sentenceTrans": "一月是第一个月。"
+    }
+]

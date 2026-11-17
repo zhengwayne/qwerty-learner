@@ -1,0 +1,182 @@
+[
+    {
+        "name": "uncle",
+        "trans": [
+            "叔叔；伯伯；舅舅；姑父；姨父"
+        ],
+        "usphone": "ˈʌŋk(ə)l",
+        "ukphone": "ˈʌŋk(ə)l",
+        "sentence": "This is my uncle.",
+        "sentenceTrans": "这是我的叔叔。"
+    },
+    {
+        "name": "aunt",
+        "trans": [
+            "姑妈；姨妈；伯母；婶婶；舅妈"
+        ],
+        "usphone": "ænt",
+        "ukphone": "ɑːnt",
+        "sentence": "This is my aunt.",
+        "sentenceTrans": "这是我的姑妈。"
+    },
+    {
+        "name": "that",
+        "trans": [
+            "那个"
+        ],
+        "usphone": "ðæt",
+        "ukphone": "ðæt",
+        "sentence": "That is my classroom.",
+        "sentenceTrans": "那是我的教室。"
+    },
+    {
+        "name": "T-shirt",
+        "trans": [
+            "T恤衫"
+        ],
+        "usphone": "ˈtiː ʃɜːrt",
+        "ukphone": "ˈtiː ʃɜːt",
+        "sentence": "This is my T-shirt.",
+        "sentenceTrans": "这是我的T恤。"
+    },
+    {
+        "name": "brown",
+        "trans": [
+            "棕色的；棕色"
+        ],
+        "usphone": "braʊn",
+        "ukphone": "braʊn",
+        "sentence": "The bear is brown.",
+        "sentenceTrans": "这只熊是棕色的。"
+    },
+    {
+        "name": "shorts",
+        "trans": [
+            "短裤"
+        ],
+        "usphone": "ʃɔːrts",
+        "ukphone": "ʃɔːts",
+        "sentence": "These are my shorts.",
+        "sentenceTrans": "这是我的短裤。"
+    },
+    {
+        "name": "ride",
+        "trans": [
+            "骑（马；自行车）"
+        ],
+        "usphone": "raɪd",
+        "ukphone": "raɪd",
+        "sentence": "I can ride a bicycle.",
+        "sentenceTrans": "我会骑自行车。"
+    },
+    {
+        "name": "skirt",
+        "trans": [
+            "短裙"
+        ],
+        "usphone": "skɜːrt",
+        "ukphone": "skɜːt",
+        "sentence": "This is her skirt.",
+        "sentenceTrans": "这是她的短裙。"
+    },
+    {
+        "name": "dress",
+        "trans": [
+            "连衣裙"
+        ],
+        "usphone": "dres",
+        "ukphone": "dres",
+        "sentence": "This is my dress.",
+        "sentenceTrans": "这是我的连衣裙。"
+    },
+    {
+        "name": "shirt",
+        "trans": [
+            "（男式）衬衫"
+        ],
+        "usphone": "ʃɜːrt",
+        "ukphone": "ʃɜːt",
+        "sentence": "This is my white shirt.",
+        "sentenceTrans": "这是我的白衬衫。"
+    },
+    {
+        "name": "tooth",
+        "trans": [
+            "牙齿"
+        ],
+        "usphone": "tuːθ",
+        "ukphone": "tuːθ",
+        "sentence": "My tooth is bad.",
+        "sentenceTrans": "我的牙齿不好。"
+    },
+    {
+        "name": "sharp",
+        "trans": [
+            "锋利的；尖的"
+        ],
+        "usphone": "ʃɑːrp",
+        "ukphone": "ʃɑːp",
+        "sentence": "The pencil is sharp.",
+        "sentenceTrans": "这支铅笔很尖。"
+    },
+    {
+        "name": "help",
+        "trans": [
+            "帮助"
+        ],
+        "usphone": "help",
+        "ukphone": "help",
+        "sentence": "Please help me.",
+        "sentenceTrans": "请帮帮我。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "pair of 一条；一副；一双"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I have a pair of shorts.",
+        "sentenceTrans": "我有一条短裤。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "out 出去"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Get out, please.",
+        "sentenceTrans": "请出去。"
+    },
+    {
+        "name": "nurse",
+        "trans": [
+            "护士"
+        ],
+        "usphone": "nɜːrs",
+        "ukphone": "nɜːs",
+        "sentence": "My aunt is a nurse.",
+        "sentenceTrans": "我姑妈是一名护士。"
+    },
+    {
+        "name": "fireman",
+        "trans": [
+            "消防员"
+        ],
+        "usphone": "ˈfaɪərmən",
+        "ukphone": "ˈfaɪəmən",
+        "sentence": "My uncle is a fireman.",
+        "sentenceTrans": "我叔叔是一名消防员。"
+    },
+    {
+        "name": "teacher",
+        "trans": [
+            "老师"
+        ],
+        "usphone": "ˈtiːtʃər",
+        "ukphone": "ˈtiːtʃə(r)",
+        "sentence": "This is my teacher.",
+        "sentenceTrans": "这是我的老师。"
+    }
+]

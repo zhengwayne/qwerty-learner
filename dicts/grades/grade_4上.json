@@ -1,0 +1,1372 @@
+[
+    {
+        "name": "meet",
+        "trans": [
+            "相识；结识"
+        ],
+        "usphone": "miːt",
+        "ukphone": "miːt",
+        "sentence": "Nice to meet you.",
+        "sentenceTrans": "很高兴认识你。"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "新的"
+        ],
+        "usphone": "nuː",
+        "ukphone": "njuː",
+        "sentence": "This is my new ball.",
+        "sentenceTrans": "这是我的新球。"
+    },
+    {
+        "name": "morning",
+        "trans": [
+            "早晨；上午"
+        ],
+        "usphone": "ˈmɔːrnɪŋ",
+        "ukphone": "ˈmɔːnɪŋ",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "classmate",
+        "trans": [
+            "同班同学"
+        ],
+        "usphone": "ˈklæsmeɪt",
+        "ukphone": "ˈklɑːsmeɪt",
+        "sentence": "She is my classmate.",
+        "sentenceTrans": "她是我的同班同学。"
+    },
+    {
+        "name": "her",
+        "trans": [
+            "她的"
+        ],
+        "usphone": "hɜːr; hər",
+        "ukphone": "hɜː(r); hə(r)",
+        "sentence": "This is her book.",
+        "sentenceTrans": "这是她的书。"
+    },
+    {
+        "name": "name",
+        "trans": [
+            "名字"
+        ],
+        "usphone": "neɪm",
+        "ukphone": "neɪm",
+        "sentence": "My name is Tom.",
+        "sentenceTrans": "我的名字叫汤姆。"
+    },
+    {
+        "name": "sit",
+        "trans": [
+            "坐"
+        ],
+        "usphone": "sɪt",
+        "ukphone": "sɪt",
+        "sentence": "Sit on the chair, please.",
+        "sentenceTrans": "请坐在椅子上。"
+    },
+    {
+        "name": "afternoon",
+        "trans": [
+            "下午"
+        ],
+        "usphone": "ˌæftərˈnuːn",
+        "ukphone": "ˌɑːftəˈnuːn",
+        "sentence": "Good afternoon.",
+        "sentenceTrans": "下午好。"
+    },
+    {
+        "name": "his",
+        "trans": [
+            "他的"
+        ],
+        "usphone": "hɪz; ɪz",
+        "ukphone": "hɪz; ɪz",
+        "sentence": "This is his ball.",
+        "sentenceTrans": "这是他的球。"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "跑"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn",
+        "sentence": "The wolf runs away.",
+        "sentenceTrans": "这只狼跑走了。"
+    },
+    {
+        "name": "fast",
+        "trans": [
+            "快地；迅速地；快的"
+        ],
+        "usphone": "fæst",
+        "ukphone": "fɑːst",
+        "sentence": "The horse can run fast.",
+        "sentenceTrans": "这匹马能跑得很快。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "飞；放飞"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "The bird can fly.",
+        "sentenceTrans": "这只鸟会飞。"
+    },
+    {
+        "name": "draw",
+        "trans": [
+            "画画"
+        ],
+        "usphone": "drɔː",
+        "ukphone": "drɔː",
+        "sentence": "I can draw a bear.",
+        "sentenceTrans": "我会画一只熊。"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "写字；书写"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "I can write my name.",
+        "sentenceTrans": "我会写我的名字。"
+    },
+    {
+        "name": "jump",
+        "trans": [
+            "跳"
+        ],
+        "usphone": "dʒʌmp",
+        "ukphone": "dʒʌmp",
+        "sentence": "The rabbit can jump.",
+        "sentenceTrans": "兔子会跳。"
+    },
+    {
+        "name": "welcome",
+        "trans": [
+            "欢迎"
+        ],
+        "usphone": "ˈwelkəm",
+        "ukphone": "ˈwelkəm",
+        "sentence": "Welcome to our school.",
+        "sentenceTrans": "欢迎来到我们的学校。"
+    },
+    {
+        "name": "woof",
+        "trans": [
+            "（狗叫声）汪汪"
+        ],
+        "usphone": "wʊf",
+        "ukphone": "wʊf",
+        "sentence": "The dog says, 'Woof!'",
+        "sentenceTrans": "小狗汪汪叫。"
+    },
+    {
+        "name": "but",
+        "trans": [
+            "但是"
+        ],
+        "usphone": "bʌt; bət",
+        "ukphone": "bʌt; bət",
+        "sentence": "The box is small but full.",
+        "sentenceTrans": "这个盒子很小，但是装满了。"
+    },
+    {
+        "name": "happy",
+        "trans": [
+            "开心的"
+        ],
+        "usphone": "ˈhæpi",
+        "ukphone": "ˈhæpi",
+        "sentence": "I am very happy.",
+        "sentenceTrans": "我非常开心。"
+    },
+    {
+        "name": "sad",
+        "trans": [
+            "难过的；悲哀的"
+        ],
+        "usphone": "sæd",
+        "ukphone": "sæd",
+        "sentence": "The boy is sad.",
+        "sentenceTrans": "这个男孩很难过。"
+    },
+    {
+        "name": "tired",
+        "trans": [
+            "累的；疲惫的"
+        ],
+        "usphone": "ˈtaɪərd",
+        "ukphone": "ˈtaɪəd",
+        "sentence": "I am tired.",
+        "sentenceTrans": "我累了。"
+    },
+    {
+        "name": "hungry",
+        "trans": [
+            "饥饿的"
+        ],
+        "usphone": "ˈhʌŋɡri",
+        "ukphone": "ˈhʌŋɡri",
+        "sentence": "I am hungry.",
+        "sentenceTrans": "我饿了。"
+    },
+    {
+        "name": "full",
+        "trans": [
+            "饱的"
+        ],
+        "usphone": "fʊl",
+        "ukphone": "fʊl",
+        "sentence": "I am full now.",
+        "sentenceTrans": "我现在吃饱了。"
+    },
+    {
+        "name": "thirsty",
+        "trans": [
+            "口渴的"
+        ],
+        "usphone": "ˈθɜːrsti",
+        "ukphone": "ˈθɜːsti",
+        "sentence": "I am thirsty.",
+        "sentenceTrans": "我渴了。"
+    },
+    {
+        "name": "bird",
+        "trans": [
+            "鸟"
+        ],
+        "usphone": "bɜːrd",
+        "ukphone": "bɜːd",
+        "sentence": "I hear a bird.",
+        "sentenceTrans": "我听见一只鸟的叫声。"
+    },
+    {
+        "name": "see",
+        "trans": [
+            "看见"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "I see a bird.",
+        "sentenceTrans": "我看见一只鸟。"
+    },
+    {
+        "name": "bottle",
+        "trans": [
+            "瓶子"
+        ],
+        "usphone": "ˈbɑːt(ə)l",
+        "ukphone": "ˈbɒt(ə)l",
+        "sentence": "This bottle is full of water.",
+        "sentenceTrans": "这个瓶子里装满了水。"
+    },
+    {
+        "name": "drink",
+        "trans": [
+            "喝"
+        ],
+        "usphone": "drɪŋk",
+        "ukphone": "drɪŋk",
+        "sentence": "I drink some water.",
+        "sentenceTrans": "我喝一些水。"
+    },
+    {
+        "name": "any",
+        "trans": [
+            "任何的"
+        ],
+        "usphone": "ˈeni",
+        "ukphone": "ˈeni",
+        "sentence": "Do you have any carrots?",
+        "sentenceTrans": "你有胡萝卜吗？"
+    },
+    {
+        "name": "cousin",
+        "trans": [
+            "表兄弟；表姐妹；堂兄弟；堂姐妹"
+        ],
+        "usphone": "ˈkʌzn",
+        "ukphone": "ˈkʌzn",
+        "sentence": "This is my cousin.",
+        "sentenceTrans": "这是我的表兄弟。"
+    },
+    {
+        "name": "family",
+        "trans": [
+            "家庭"
+        ],
+        "usphone": "ˈfæməli",
+        "ukphone": "ˈfæməli",
+        "sentence": "This is my family.",
+        "sentenceTrans": "这是我的家人。"
+    },
+    {
+        "name": "parent",
+        "trans": [
+            "父亲；母亲"
+        ],
+        "usphone": "ˈperənt",
+        "ukphone": "ˈpeərənt",
+        "sentence": "My parent is at home.",
+        "sentenceTrans": "我的家长在家。"
+    },
+    {
+        "name": "grandparent",
+        "trans": [
+            "（外）祖父；（外）祖母"
+        ],
+        "usphone": "ˈɡrænperənt",
+        "ukphone": "ˈɡrænpeərənt",
+        "sentence": "My grandparent lives with us.",
+        "sentenceTrans": "我的祖父母和我们住在一起。"
+    },
+    {
+        "name": "son",
+        "trans": [
+            "儿子"
+        ],
+        "usphone": "sʌn",
+        "ukphone": "sʌn",
+        "sentence": "The boy is her son.",
+        "sentenceTrans": "这个男孩是她的儿子。"
+    },
+    {
+        "name": "grandfather(grandpa)",
+        "trans": [
+            "（外）祖父；爷爷；外公"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "My grandpa is tall.",
+        "sentenceTrans": "我爷爷很高。"
+    },
+    {
+        "name": "grandmother(grandma)",
+        "trans": [
+            "（外）祖母；奶奶；外婆"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "My grandma is nice.",
+        "sentenceTrans": "我奶奶很亲切。"
+    },
+    {
+        "name": "uncle",
+        "trans": [
+            "叔叔；伯伯；舅舅；姑父；姨父"
+        ],
+        "usphone": "ˈʌŋk(ə)l",
+        "ukphone": "ˈʌŋk(ə)l",
+        "sentence": "This is my uncle.",
+        "sentenceTrans": "这是我的叔叔。"
+    },
+    {
+        "name": "aunt",
+        "trans": [
+            "姑妈；姨妈；伯母；婶婶；舅妈"
+        ],
+        "usphone": "ænt",
+        "ukphone": "ɑːnt",
+        "sentence": "This is my aunt.",
+        "sentenceTrans": "这是我的姑妈。"
+    },
+    {
+        "name": "that",
+        "trans": [
+            "那个"
+        ],
+        "usphone": "ðæt",
+        "ukphone": "ðæt",
+        "sentence": "That is my classroom.",
+        "sentenceTrans": "那是我的教室。"
+    },
+    {
+        "name": "T-shirt",
+        "trans": [
+            "T恤衫"
+        ],
+        "usphone": "ˈtiː ʃɜːrt",
+        "ukphone": "ˈtiː ʃɜːt",
+        "sentence": "This is my T-shirt.",
+        "sentenceTrans": "这是我的T恤。"
+    },
+    {
+        "name": "brown",
+        "trans": [
+            "棕色的；棕色"
+        ],
+        "usphone": "braʊn",
+        "ukphone": "braʊn",
+        "sentence": "The bear is brown.",
+        "sentenceTrans": "这只熊是棕色的。"
+    },
+    {
+        "name": "shorts",
+        "trans": [
+            "短裤"
+        ],
+        "usphone": "ʃɔːrts",
+        "ukphone": "ʃɔːts",
+        "sentence": "These are my shorts.",
+        "sentenceTrans": "这是我的短裤。"
+    },
+    {
+        "name": "ride",
+        "trans": [
+            "骑（马；自行车）"
+        ],
+        "usphone": "raɪd",
+        "ukphone": "raɪd",
+        "sentence": "I can ride a bicycle.",
+        "sentenceTrans": "我会骑自行车。"
+    },
+    {
+        "name": "skirt",
+        "trans": [
+            "短裙"
+        ],
+        "usphone": "skɜːrt",
+        "ukphone": "skɜːt",
+        "sentence": "This is her skirt.",
+        "sentenceTrans": "这是她的短裙。"
+    },
+    {
+        "name": "dress",
+        "trans": [
+            "连衣裙"
+        ],
+        "usphone": "dres",
+        "ukphone": "dres",
+        "sentence": "This is my dress.",
+        "sentenceTrans": "这是我的连衣裙。"
+    },
+    {
+        "name": "shirt",
+        "trans": [
+            "（男式）衬衫"
+        ],
+        "usphone": "ʃɜːrt",
+        "ukphone": "ʃɜːt",
+        "sentence": "This is my white shirt.",
+        "sentenceTrans": "这是我的白衬衫。"
+    },
+    {
+        "name": "tooth",
+        "trans": [
+            "牙齿"
+        ],
+        "usphone": "tuːθ",
+        "ukphone": "tuːθ",
+        "sentence": "My tooth is bad.",
+        "sentenceTrans": "我的牙齿不好。"
+    },
+    {
+        "name": "sharp",
+        "trans": [
+            "锋利的；尖的"
+        ],
+        "usphone": "ʃɑːrp",
+        "ukphone": "ʃɑːp",
+        "sentence": "The pencil is sharp.",
+        "sentenceTrans": "这支铅笔很尖。"
+    },
+    {
+        "name": "help",
+        "trans": [
+            "帮助"
+        ],
+        "usphone": "help",
+        "ukphone": "help",
+        "sentence": "Please help me.",
+        "sentenceTrans": "请帮帮我。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "pair of 一条；一副；一双"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I have a pair of shorts.",
+        "sentenceTrans": "我有一条短裤。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "out 出去"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Get out, please.",
+        "sentenceTrans": "请出去。"
+    },
+    {
+        "name": "nurse",
+        "trans": [
+            "护士"
+        ],
+        "usphone": "nɜːrs",
+        "ukphone": "nɜːs",
+        "sentence": "My aunt is a nurse.",
+        "sentenceTrans": "我姑妈是一名护士。"
+    },
+    {
+        "name": "fireman",
+        "trans": [
+            "消防员"
+        ],
+        "usphone": "ˈfaɪərmən",
+        "ukphone": "ˈfaɪəmən",
+        "sentence": "My uncle is a fireman.",
+        "sentenceTrans": "我叔叔是一名消防员。"
+    },
+    {
+        "name": "teacher",
+        "trans": [
+            "老师"
+        ],
+        "usphone": "ˈtiːtʃər",
+        "ukphone": "ˈtiːtʃə(r)",
+        "sentence": "This is my teacher.",
+        "sentenceTrans": "这是我的老师。"
+    },
+    {
+        "name": "doctor",
+        "trans": [
+            "医生"
+        ],
+        "usphone": "ˈdɑːktər",
+        "ukphone": "ˈdɒktə(r)",
+        "sentence": "My aunt is a doctor.",
+        "sentenceTrans": "我姑妈是一名医生。"
+    },
+    {
+        "name": "bus",
+        "trans": [
+            "driver 公共汽车司机"
+        ],
+        "usphone": "bʌs",
+        "ukphone": "bʌs",
+        "sentence": "My uncle is a bus driver.",
+        "sentenceTrans": "我叔叔是一名公共汽车司机。"
+    },
+    {
+        "name": "kid",
+        "trans": [
+            "小孩"
+        ],
+        "usphone": "kɪd",
+        "ukphone": "kɪd",
+        "sentence": "The kid is in the park.",
+        "sentenceTrans": "这个小孩在公园里。"
+    },
+    {
+        "name": "so",
+        "trans": [
+            "如此；很；所以"
+        ],
+        "usphone": "soʊ",
+        "ukphone": "səʊ",
+        "sentence": "The elephant is so big.",
+        "sentenceTrans": "这头大象真大。"
+    },
+    {
+        "name": "fire",
+        "trans": [
+            "火；火灾"
+        ],
+        "usphone": "ˈfaɪər",
+        "ukphone": "ˈfaɪə(r)",
+        "sentence": "The fire is hot.",
+        "sentenceTrans": "火很热。"
+    },
+    {
+        "name": "people",
+        "trans": [
+            "人；人们"
+        ],
+        "usphone": "ˈpiːp(ə)l",
+        "ukphone": "ˈpiːp(ə)l",
+        "sentence": "Many people are in the park.",
+        "sentenceTrans": "公园里有很多人。"
+    },
+    {
+        "name": "job",
+        "trans": [
+            "工作；职业"
+        ],
+        "usphone": "dʒɑːb",
+        "ukphone": "dʒɒb",
+        "sentence": "What is your job?",
+        "sentenceTrans": "你的工作是什么？"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "with 玩……"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my classmates.",
+        "sentenceTrans": "我和同班同学一起玩。"
+    },
+    {
+        "name": "school",
+        "trans": [
+            "学校"
+        ],
+        "usphone": "skuːl",
+        "ukphone": "skuːl",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我坐公共汽车去上学。"
+    },
+    {
+        "name": "office",
+        "trans": [
+            "办公室"
+        ],
+        "usphone": "ˈɑːfɪs",
+        "ukphone": "ˈɒfɪs",
+        "sentence": "The teacher is in the office.",
+        "sentenceTrans": "老师在办公室里。"
+    },
+    {
+        "name": "busy",
+        "trans": [
+            "忙碌的；繁忙的"
+        ],
+        "usphone": "ˈbɪzi",
+        "ukphone": "ˈbɪzi",
+        "sentence": "Mum is busy today.",
+        "sentenceTrans": "妈妈今天很忙。"
+    },
+    {
+        "name": "computer",
+        "trans": [
+            "计算机；电脑"
+        ],
+        "usphone": "kəmˈpjuːtər",
+        "ukphone": "kəmˈpjuːtə(r)",
+        "sentence": "The computer is on the desk.",
+        "sentenceTrans": "电脑在书桌上。"
+    },
+    {
+        "name": "many",
+        "trans": [
+            "许多"
+        ],
+        "usphone": "ˈmeni",
+        "ukphone": "ˈmeni",
+        "sentence": "There are many books here.",
+        "sentenceTrans": "这里有很多书。"
+    },
+    {
+        "name": "library",
+        "trans": [
+            "图书馆；图书室"
+        ],
+        "usphone": "ˈlaɪbreri",
+        "ukphone": "ˈlaɪbrəri",
+        "sentence": "I read in the library.",
+        "sentenceTrans": "我在图书馆里读书。"
+    },
+    {
+        "name": "playground",
+        "trans": [
+            "操场"
+        ],
+        "usphone": "ˈpleɪɡraʊnd",
+        "ukphone": "ˈpleɪɡraʊnd",
+        "sentence": "I play on the playground.",
+        "sentenceTrans": "我在游戏场上玩。"
+    },
+    {
+        "name": "classroom",
+        "trans": [
+            "教室"
+        ],
+        "usphone": "ˈklæsruːm",
+        "ukphone": "ˈklɑːsruːm",
+        "sentence": "We read in the classroom.",
+        "sentenceTrans": "我们在教室里读书。"
+    },
+    {
+        "name": "toilet",
+        "trans": [
+            "厕所"
+        ],
+        "usphone": "ˈtɔɪlət",
+        "ukphone": "ˈtɔɪlət",
+        "sentence": "The toilet is near the office.",
+        "sentenceTrans": "卫生间在办公室附近。"
+    },
+    {
+        "name": "animal",
+        "trans": [
+            "动物"
+        ],
+        "usphone": "ˈænɪm(ə)l",
+        "ukphone": "ˈænɪm(ə)l",
+        "sentence": "A tiger is a wild animal.",
+        "sentenceTrans": "老虎是一种野生动物。"
+    },
+    {
+        "name": "forest",
+        "trans": [
+            "森林"
+        ],
+        "usphone": "ˈfɔːrɪst",
+        "ukphone": "ˈfɒrɪst",
+        "sentence": "The tiger is in the forest.",
+        "sentenceTrans": "老虎在森林里。"
+    },
+    {
+        "name": "pupil",
+        "trans": [
+            "小学生"
+        ],
+        "usphone": "ˈpjuːp(ə)l",
+        "ukphone": "ˈpjuːp(ə)l",
+        "sentence": "I am a pupil.",
+        "sentenceTrans": "我是一名小学生。"
+    },
+    {
+        "name": "try",
+        "trans": [
+            "尝试"
+        ],
+        "usphone": "traɪ",
+        "ukphone": "traɪ",
+        "sentence": "Please try it.",
+        "sentenceTrans": "请试一试。"
+    },
+    {
+        "name": "first",
+        "trans": [
+            "第一"
+        ],
+        "usphone": "fɜːrst",
+        "ukphone": "fɜːst",
+        "sentence": "I am first.",
+        "sentenceTrans": "我是第一名。"
+    },
+    {
+        "name": "climb",
+        "trans": [
+            "trees 爬树"
+        ],
+        "usphone": "klaɪm",
+        "ukphone": "klaɪm",
+        "sentence": "The monkey can climb trees.",
+        "sentenceTrans": "猴子会爬树。"
+    },
+    {
+        "name": "shop",
+        "trans": [
+            "商店"
+        ],
+        "usphone": "ʃɑːp",
+        "ukphone": "ʃɒp",
+        "sentence": "Mum is in the shop.",
+        "sentenceTrans": "妈妈在商店里。"
+    },
+    {
+        "name": "tomato",
+        "trans": [
+            "番茄；西红柿"
+        ],
+        "usphone": "təˈmeɪtoʊ",
+        "ukphone": "təˈmɑːtəʊ",
+        "sentence": "I like tomatoes.",
+        "sentenceTrans": "我喜欢番茄。"
+    },
+    {
+        "name": "soup",
+        "trans": [
+            "汤"
+        ],
+        "usphone": "suːp",
+        "ukphone": "suːp",
+        "sentence": "I like this soup.",
+        "sentenceTrans": "我喜欢这碗汤。"
+    },
+    {
+        "name": "potato",
+        "trans": [
+            "土豆"
+        ],
+        "usphone": "pəˈteɪtoʊ",
+        "ukphone": "pəˈteɪtəʊ",
+        "sentence": "I like potatoes.",
+        "sentenceTrans": "我喜欢土豆。"
+    },
+    {
+        "name": "carrot",
+        "trans": [
+            "胡萝卜"
+        ],
+        "usphone": "ˈkærət",
+        "ukphone": "ˈkærət",
+        "sentence": "The rabbit likes carrots.",
+        "sentenceTrans": "兔子喜欢胡萝卜。"
+    },
+    {
+        "name": "thirty",
+        "trans": [
+            "三十"
+        ],
+        "usphone": "ˈθɜːrti",
+        "ukphone": "ˈθɜːti",
+        "sentence": "There are thirty pupils.",
+        "sentenceTrans": "有三十名小学生。"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "鱼；鱼肉"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ",
+        "sentence": "The fish can swim.",
+        "sentenceTrans": "鱼会游泳。"
+    },
+    {
+        "name": "meat",
+        "trans": [
+            "肉"
+        ],
+        "usphone": "miːt",
+        "ukphone": "miːt",
+        "sentence": "The meat is on the plate.",
+        "sentenceTrans": "肉在盘子里。"
+    },
+    {
+        "name": "rice",
+        "trans": [
+            "大米，米饭"
+        ],
+        "usphone": "raɪs",
+        "ukphone": "raɪs",
+        "sentence": "I like rice.",
+        "sentenceTrans": "我喜欢米饭。"
+    },
+    {
+        "name": "glasses",
+        "trans": [
+            "眼镜"
+        ],
+        "usphone": "ˈɡlæsɪz",
+        "ukphone": "ˈɡlɑːsɪz",
+        "sentence": "These are my glasses.",
+        "sentenceTrans": "这是我的眼镜。"
+    },
+    {
+        "name": "want",
+        "trans": [
+            "想要"
+        ],
+        "usphone": "wɑːnt",
+        "ukphone": "wɒnt",
+        "sentence": "I want some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "together",
+        "trans": [
+            "一起"
+        ],
+        "usphone": "təˈɡeðər",
+        "ukphone": "təˈɡeðə(r)",
+        "sentence": "Let's play together.",
+        "sentenceTrans": "让我们一起玩吧。"
+    },
+    {
+        "name": "magic",
+        "trans": [
+            "神奇的；有魔力的"
+        ],
+        "usphone": "ˈmædʒɪk",
+        "ukphone": "ˈmædʒɪk",
+        "sentence": "This is a magic box.",
+        "sentenceTrans": "这是一个魔法盒子。"
+    },
+    {
+        "name": "need",
+        "trans": [
+            "需要"
+        ],
+        "usphone": "niːd",
+        "ukphone": "niːd",
+        "sentence": "I need some water.",
+        "sentenceTrans": "我需要一些水。"
+    },
+    {
+        "name": "where",
+        "trans": [
+            "哪里"
+        ],
+        "usphone": "wer",
+        "ukphone": "weə(r)",
+        "sentence": "Where is my ball?",
+        "sentenceTrans": "我的球在哪里？"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在……里面"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "box",
+        "trans": [
+            "盒子；箱子"
+        ],
+        "usphone": "bɑːks",
+        "ukphone": "bɒks",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "give",
+        "trans": [
+            "给"
+        ],
+        "usphone": "ɡɪv",
+        "ukphone": "ɡɪv",
+        "sentence": "Give me the book, please.",
+        "sentenceTrans": "请把书给我。"
+    },
+    {
+        "name": "plate",
+        "trans": [
+            "盘子；碟子"
+        ],
+        "usphone": "pleɪt",
+        "ukphone": "pleɪt",
+        "sentence": "The meat is on the plate.",
+        "sentenceTrans": "肉在盘子里。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "在……上面"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "My book is on the desk.",
+        "sentenceTrans": "我的书在书桌上。"
+    },
+    {
+        "name": "table",
+        "trans": [
+            "桌子"
+        ],
+        "usphone": "ˈteɪbl",
+        "ukphone": "ˈteɪb(ə)l",
+        "sentence": "The bottle is on the table.",
+        "sentenceTrans": "瓶子在桌子上。"
+    },
+    {
+        "name": "lunch",
+        "trans": [
+            "午餐"
+        ],
+        "usphone": "lʌntʃ",
+        "ukphone": "lʌntʃ",
+        "sentence": "I have rice for lunch.",
+        "sentenceTrans": "我午餐吃米饭。"
+    },
+    {
+        "name": "under",
+        "trans": [
+            "在……下面"
+        ],
+        "usphone": "ˈʌndər",
+        "ukphone": "ˈʌndə(r)",
+        "sentence": "The ball is under the table.",
+        "sentenceTrans": "球在桌子下面。"
+    },
+    {
+        "name": "beside",
+        "trans": [
+            "在……旁边"
+        ],
+        "usphone": "bɪˈsaɪd",
+        "ukphone": "bɪˈsaɪd",
+        "sentence": "The chair is beside the bed.",
+        "sentenceTrans": "椅子在床边。"
+    },
+    {
+        "name": "kitchen",
+        "trans": [
+            "厨房"
+        ],
+        "usphone": "ˈkɪtʃɪn",
+        "ukphone": "ˈkɪtʃɪn",
+        "sentence": "Mum is in the kitchen.",
+        "sentenceTrans": "妈妈在厨房里。"
+    },
+    {
+        "name": "floor",
+        "trans": [
+            "地板"
+        ],
+        "usphone": "flɔːr",
+        "ukphone": "flɔː(r)",
+        "sentence": "The ball is on the floor.",
+        "sentenceTrans": "球在地板上。"
+    },
+    {
+        "name": "angry",
+        "trans": [
+            "生气的"
+        ],
+        "usphone": "ˈæŋɡri",
+        "ukphone": "ˈæŋɡri",
+        "sentence": "The dog is angry.",
+        "sentenceTrans": "这只狗生气了。"
+    },
+    {
+        "name": "around",
+        "trans": [
+            "在……周围；到处"
+        ],
+        "usphone": "əˈraʊnd",
+        "ukphone": "əˈraʊnd",
+        "sentence": "The children run around the tree.",
+        "sentenceTrans": "孩子们绕着树跑。"
+    },
+    {
+        "name": "home",
+        "trans": [
+            "家"
+        ],
+        "usphone": "hoʊm",
+        "ukphone": "həʊm",
+        "sentence": "I am at home.",
+        "sentenceTrans": "我在家。"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "街道"
+        ],
+        "usphone": "striːt",
+        "ukphone": "striːt",
+        "sentence": "I see a boy in the street.",
+        "sentenceTrans": "我在街上看见一个男孩。"
+    },
+    {
+        "name": "park",
+        "trans": [
+            "公园"
+        ],
+        "usphone": "pɑːrk",
+        "ukphone": "pɑːk",
+        "sentence": "We play in the park.",
+        "sentenceTrans": "我们在公园里玩。"
+    },
+    {
+        "name": "near",
+        "trans": [
+            "在……附近"
+        ],
+        "usphone": "nɪr",
+        "ukphone": "nɪə(r)",
+        "sentence": "My school is near the park.",
+        "sentenceTrans": "我的学校在公园附近。"
+    },
+    {
+        "name": "behind",
+        "trans": [
+            "在……后面"
+        ],
+        "usphone": "bɪˈhaɪnd",
+        "ukphone": "bɪˈhaɪnd",
+        "sentence": "The ball is behind the box.",
+        "sentenceTrans": "球在盒子后面。"
+    },
+    {
+        "name": "supermarket",
+        "trans": [
+            "超市"
+        ],
+        "usphone": "ˈsuːpərmɑːrkɪt",
+        "ukphone": "ˈsuːpəmɑːkɪt",
+        "sentence": "Mum is in the supermarket.",
+        "sentenceTrans": "妈妈在超市里。"
+    },
+    {
+        "name": "restaurant",
+        "trans": [
+            "餐馆"
+        ],
+        "usphone": "ˈrestrɑːnt",
+        "ukphone": "ˈrestrɒnt",
+        "sentence": "We have lunch in the restaurant.",
+        "sentenceTrans": "我们在餐馆吃午餐。"
+    },
+    {
+        "name": "live",
+        "trans": [
+            "住；居住"
+        ],
+        "usphone": "lɪv; laɪv",
+        "ukphone": "lɪv; laɪv",
+        "sentence": "I live near the park.",
+        "sentenceTrans": "我住在公园附近。"
+    },
+    {
+        "name": "old",
+        "trans": [
+            "古老的；旧的"
+        ],
+        "usphone": "oʊld",
+        "ukphone": "əʊld",
+        "sentence": "The man is old.",
+        "sentenceTrans": "这个男人年纪大了。"
+    },
+    {
+        "name": "eat",
+        "trans": [
+            "吃"
+        ],
+        "usphone": "iːt",
+        "ukphone": "iːt",
+        "sentence": "I eat bread for dinner.",
+        "sentenceTrans": "我晚餐吃面包。"
+    },
+    {
+        "name": "nice",
+        "trans": [
+            "美味的；美好的"
+        ],
+        "usphone": "naɪs",
+        "ukphone": "naɪs",
+        "sentence": "The girl is nice.",
+        "sentenceTrans": "这个女孩很友好。"
+    },
+    {
+        "name": "food",
+        "trans": [
+            "食物"
+        ],
+        "usphone": "fuːd",
+        "ukphone": "fuːd",
+        "sentence": "I like this food.",
+        "sentenceTrans": "我喜欢这些食物。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "lot of 很多；大量的"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I have a pair of shorts.",
+        "sentenceTrans": "我有一条短裤。"
+    },
+    {
+        "name": "shape",
+        "trans": [
+            "形状"
+        ],
+        "usphone": "ʃeɪp",
+        "ukphone": "ʃeɪp",
+        "sentence": "What shape is it?",
+        "sentenceTrans": "它是什么形状的？"
+    },
+    {
+        "name": "picture",
+        "trans": [
+            "图画；照片"
+        ],
+        "usphone": "ˈpɪktʃər",
+        "ukphone": "ˈpɪktʃə(r)",
+        "sentence": "I draw a picture.",
+        "sentenceTrans": "我画一幅画。"
+    },
+    {
+        "name": "square",
+        "trans": [
+            "正方形"
+        ],
+        "usphone": "skwer",
+        "ukphone": "skweə(r)",
+        "sentence": "This shape is a square.",
+        "sentenceTrans": "这个形状是正方形。"
+    },
+    {
+        "name": "circle",
+        "trans": [
+            "圆；圆形"
+        ],
+        "usphone": "ˈsɜːrk(ə)l",
+        "ukphone": "ˈsɜːk(ə)l",
+        "sentence": "This shape is a circle.",
+        "sentenceTrans": "这个形状是圆形。"
+    },
+    {
+        "name": "star",
+        "trans": [
+            "五角星形；星星"
+        ],
+        "usphone": "stɑːr",
+        "ukphone": "stɑː(r)",
+        "sentence": "I see a star in the sky.",
+        "sentenceTrans": "我看见天空中的一颗星星。"
+    },
+    {
+        "name": "rectangle",
+        "trans": [
+            "长方形"
+        ],
+        "usphone": "ˈrektæŋɡ(ə)l",
+        "ukphone": "ˈrektæŋɡl",
+        "sentence": "This shape is a rectangle.",
+        "sentenceTrans": "这个形状是长方形。"
+    },
+    {
+        "name": "triangle",
+        "trans": [
+            "三角形"
+        ],
+        "usphone": "ˈtraɪæŋɡ(ə)l",
+        "ukphone": "ˈtraɪæŋɡ(ə)l",
+        "sentence": "This shape is a triangle.",
+        "sentenceTrans": "这个形状是三角形。"
+    },
+    {
+        "name": "today",
+        "trans": [
+            "今天"
+        ],
+        "usphone": "təˈdeɪ",
+        "ukphone": "təˈdeɪ",
+        "sentence": "It is sunny today.",
+        "sentenceTrans": "今天是晴天。"
+    },
+    {
+        "name": "well",
+        "trans": [
+            "好；健康"
+        ],
+        "usphone": "wel",
+        "ukphone": "wel",
+        "sentence": "Well done!",
+        "sentenceTrans": "做得好！"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "天气"
+        ],
+        "usphone": "ˈweðər",
+        "ukphone": "ˈweðə(r)",
+        "sentence": "The weather is warm.",
+        "sentenceTrans": "天气很温暖。"
+    },
+    {
+        "name": "rainy",
+        "trans": [
+            "多雨的"
+        ],
+        "usphone": "ˈreɪni",
+        "ukphone": "ˈreɪni",
+        "sentence": "It is rainy today.",
+        "sentenceTrans": "今天有雨。"
+    },
+    {
+        "name": "cloudy",
+        "trans": [
+            "多云的"
+        ],
+        "usphone": "ˈklaʊdi",
+        "ukphone": "ˈklaʊdi",
+        "sentence": "It is cloudy today.",
+        "sentenceTrans": "今天是阴天。"
+    },
+    {
+        "name": "windy",
+        "trans": [
+            "风大的；多风的"
+        ],
+        "usphone": "ˈwɪndi",
+        "ukphone": "ˈwɪndi",
+        "sentence": "It is windy today.",
+        "sentenceTrans": "今天有风。"
+    },
+    {
+        "name": "sunny",
+        "trans": [
+            "阳光充足的"
+        ],
+        "usphone": "ˈsʌni",
+        "ukphone": "ˈsʌni",
+        "sentence": "It is sunny today.",
+        "sentenceTrans": "今天是晴天。"
+    },
+    {
+        "name": "Sunday",
+        "trans": [
+            "星期天"
+        ],
+        "usphone": "ˈsʌndeɪ",
+        "ukphone": "ˈsʌndeɪ",
+        "sentence": "We go to the park on Sunday.",
+        "sentenceTrans": "我们星期天去公园。"
+    },
+    {
+        "name": "cloud",
+        "trans": [
+            "云"
+        ],
+        "usphone": "klaʊd",
+        "ukphone": "klaʊd",
+        "sentence": "I see a white cloud.",
+        "sentenceTrans": "我看见一朵白云。"
+    },
+    {
+        "name": "rain",
+        "trans": [
+            "雨；下雨"
+        ],
+        "usphone": "reɪn",
+        "ukphone": "reɪn",
+        "sentence": "I see rain on the window.",
+        "sentenceTrans": "我看见窗户上的雨水。"
+    },
+    {
+        "name": "sun",
+        "trans": [
+            "太阳"
+        ],
+        "usphone": "sʌn",
+        "ukphone": "sʌn",
+        "sentence": "The sun is bright.",
+        "sentenceTrans": "太阳很明亮。"
+    },
+    {
+        "name": "wind",
+        "trans": [
+            "风"
+        ],
+        "usphone": "wɪnd",
+        "ukphone": "wɪnd",
+        "sentence": "The wind is strong.",
+        "sentenceTrans": "风很大。"
+    }
+]

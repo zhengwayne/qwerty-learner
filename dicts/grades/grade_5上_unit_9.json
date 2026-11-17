@@ -1,0 +1,132 @@
+[
+    {
+        "name": "fire",
+        "trans": [
+            "火；火灾"
+        ],
+        "usphone": "ˈfaɪər",
+        "ukphone": "ˈfaɪə(r)",
+        "sentence": "The fire is hot.",
+        "sentenceTrans": "火很热。"
+    },
+    {
+        "name": "burn",
+        "trans": [
+            "燃烧；烧"
+        ],
+        "usphone": "bɜːrn",
+        "ukphone": "bɜːn",
+        "sentence": "Dry leaves burn quickly.",
+        "sentenceTrans": "干树叶燃烧得很快。"
+    },
+    {
+        "name": "hurt",
+        "trans": [
+            "（使）受伤"
+        ],
+        "usphone": "hɜːrt",
+        "ukphone": "hɜːt",
+        "sentence": "Do not touch it, or you may get hurt.",
+        "sentenceTrans": "不要碰它，否则你可能会受伤。"
+    },
+    {
+        "name": "must",
+        "trans": [
+            "必须"
+        ],
+        "usphone": "mʌst; məst",
+        "ukphone": "mʌst; məst",
+        "sentence": "We must follow the rules.",
+        "sentenceTrans": "我们必须遵守规则。"
+    },
+    {
+        "name": "careful",
+        "trans": [
+            "小心的"
+        ],
+        "usphone": "ˈkerf(ə)l",
+        "ukphone": "ˈkeəf(ə)l",
+        "sentence": "Be careful with the hot water.",
+        "sentenceTrans": "小心热水。"
+    },
+    {
+        "name": "safety",
+        "trans": [
+            "安全"
+        ],
+        "usphone": "ˈseɪfti",
+        "ukphone": "ˈseɪfti",
+        "sentence": "Fire safety is important.",
+        "sentenceTrans": "消防安全很重要。"
+    },
+    {
+        "name": "smoke",
+        "trans": [
+            "吸烟"
+        ],
+        "usphone": "smoʊk",
+        "ukphone": "sməʊk",
+        "sentence": "Smoke can hurt our eyes.",
+        "sentenceTrans": "烟会伤害我们的眼睛。"
+    },
+    {
+        "name": "match",
+        "trans": [
+            "火柴"
+        ],
+        "usphone": "mætʃ",
+        "ukphone": "mætʃ",
+        "sentence": "Do not play with matches.",
+        "sentenceTrans": "不要玩火柴。"
+    },
+    {
+        "name": "heat",
+        "trans": [
+            "热；高温"
+        ],
+        "usphone": "hiːt",
+        "ukphone": "hiːt",
+        "sentence": "Keep away from the heat.",
+        "sentenceTrans": "远离高温。"
+    },
+    {
+        "name": "hate",
+        "trans": [
+            "讨厌"
+        ],
+        "usphone": "heɪt",
+        "ukphone": "heɪt",
+        "sentence": "I hate getting up late.",
+        "sentenceTrans": "我讨厌晚起。"
+    },
+    {
+        "name": "burn",
+        "trans": [
+            "down 烧毁"
+        ],
+        "usphone": "bɜːrn",
+        "ukphone": "bɜːn",
+        "sentence": "Dry leaves burn quickly.",
+        "sentenceTrans": "干树叶燃烧得很快。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "careful with 当心…"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "My sister is good at Maths.",
+        "sentenceTrans": "我妹妹擅长数学。"
+    },
+    {
+        "name": "not",
+        "trans": [
+            "…at all 一点也不…"
+        ],
+        "usphone": "nɑːt",
+        "ukphone": "nɒt",
+        "sentence": "I do not like smoke at all.",
+        "sentenceTrans": "我一点也不喜欢烟。"
+    }
+]

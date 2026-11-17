@@ -1,0 +1,202 @@
+[
+    {
+        "name": "fun",
+        "trans": [
+            "乐趣"
+        ],
+        "usphone": "fʌn",
+        "ukphone": "fʌn",
+        "sentence": "The party is fun.",
+        "sentenceTrans": "这个聚会很有趣。"
+    },
+    {
+        "name": "lovely",
+        "trans": [
+            "可爱的"
+        ],
+        "usphone": "ˈlʌvli",
+        "ukphone": "ˈlʌvli",
+        "sentence": "The little rabbit is lovely.",
+        "sentenceTrans": "这只小兔子很可爱。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "玩"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "sorry",
+        "trans": [
+            "对不起"
+        ],
+        "usphone": "ˈsɑːri",
+        "ukphone": "ˈsɒri",
+        "sentence": "I am sorry.",
+        "sentenceTrans": "对不起。"
+    },
+    {
+        "name": "biscuit",
+        "trans": [
+            "饼干"
+        ],
+        "usphone": "ˈbɪskɪt",
+        "ukphone": "ˈbɪskɪt",
+        "sentence": "I like this biscuit.",
+        "sentenceTrans": "我喜欢这块饼干。"
+    },
+    {
+        "name": "bread",
+        "trans": [
+            "面包"
+        ],
+        "usphone": "bred",
+        "ukphone": "bred",
+        "sentence": "I like bread and milk.",
+        "sentenceTrans": "我喜欢面包和牛奶。"
+    },
+    {
+        "name": "egg",
+        "trans": [
+            "鸡蛋"
+        ],
+        "usphone": "eɡ",
+        "ukphone": "eɡ",
+        "sentence": "I like this egg.",
+        "sentenceTrans": "我喜欢这个鸡蛋。"
+    },
+    {
+        "name": "juice",
+        "trans": [
+            "果汁"
+        ],
+        "usphone": "dʒuːs",
+        "ukphone": "dʒuːs",
+        "sentence": "I like apple juice.",
+        "sentenceTrans": "我喜欢苹果汁。"
+    },
+    {
+        "name": "milk",
+        "trans": [
+            "牛奶"
+        ],
+        "usphone": "mɪlk",
+        "ukphone": "mɪlk",
+        "sentence": "I like milk.",
+        "sentenceTrans": "我喜欢牛奶。"
+    },
+    {
+        "name": "water",
+        "trans": [
+            "水"
+        ],
+        "usphone": "ˈwɔːtər",
+        "ukphone": "ˈwɔːtə(r)",
+        "sentence": "I drink some water.",
+        "sentenceTrans": "我喝一些水。"
+    },
+    {
+        "name": "breakfast",
+        "trans": [
+            "早餐"
+        ],
+        "usphone": "ˈbrekfəst",
+        "ukphone": "ˈbrekfəst",
+        "sentence": "I have bread and milk for breakfast.",
+        "sentenceTrans": "我早餐吃面包、喝牛奶。"
+    },
+    {
+        "name": "child",
+        "trans": [
+            "孩子（复数children）"
+        ],
+        "usphone": "tʃaɪld",
+        "ukphone": "tʃaɪld",
+        "sentence": "The child has a ball.",
+        "sentenceTrans": "这个孩子有一个球。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "有"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "some",
+        "trans": [
+            "一些"
+        ],
+        "usphone": "sʌm; səm",
+        "ukphone": "sʌm; səm",
+        "sentence": "I want some bread.",
+        "sentenceTrans": "我想要一些面包。"
+    },
+    {
+        "name": "too",
+        "trans": [
+            "也；还"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː",
+        "sentence": "It is too cold.",
+        "sentenceTrans": "天太冷了。"
+    },
+    {
+        "name": "we",
+        "trans": [
+            "我们"
+        ],
+        "usphone": "wiː; wi",
+        "ukphone": "wiː; wi",
+        "sentence": "We are good friends.",
+        "sentenceTrans": "我们是好朋友。"
+    },
+    {
+        "name": "dance",
+        "trans": [
+            "跳舞"
+        ],
+        "usphone": "dæns",
+        "ukphone": "dɑːns",
+        "sentence": "I can dance.",
+        "sentenceTrans": "我会跳舞。"
+    },
+    {
+        "name": "paint",
+        "trans": [
+            "用颜料画"
+        ],
+        "usphone": "peɪnt",
+        "ukphone": "peɪnt",
+        "sentence": "I can paint a flower.",
+        "sentenceTrans": "我会画一朵花。"
+    },
+    {
+        "name": "read",
+        "trans": [
+            "阅读"
+        ],
+        "usphone": "riːd",
+        "ukphone": "riːd",
+        "sentence": "I can read this book.",
+        "sentenceTrans": "我会读这本书。"
+    },
+    {
+        "name": "sing",
+        "trans": [
+            "vt. 唱，唱歌"
+        ],
+        "usphone": "sɪŋ",
+        "ukphone": "sɪŋ",
+        "sentence": "I can sing.",
+        "sentenceTrans": "我会唱歌。"
+    }
+]

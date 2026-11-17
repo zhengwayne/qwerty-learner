@@ -1,0 +1,192 @@
+[
+    {
+        "name": "broom",
+        "trans": [
+            "扫帚"
+        ],
+        "usphone": "bruːm",
+        "ukphone": "bruːm",
+        "sentence": "The cleaner sweeps with a broom.",
+        "sentenceTrans": "环卫工人用扫帚扫地。"
+    },
+    {
+        "name": "drive",
+        "trans": [
+            "驾驶"
+        ],
+        "usphone": "draɪv",
+        "ukphone": "draɪv",
+        "sentence": "His wife can drive a truck.",
+        "sentenceTrans": "他的妻子会开卡车。"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "sweeper 扫地车"
+        ],
+        "usphone": "striːt",
+        "ukphone": "striːt",
+        "sentence": "The street cleaner sweeps the road.",
+        "sentenceTrans": "环卫工人清扫马路。"
+    },
+    {
+        "name": "wife",
+        "trans": [
+            "妻子"
+        ],
+        "usphone": "waɪf",
+        "ukphone": "waɪf",
+        "sentence": "The driver and his wife are poor.",
+        "sentenceTrans": "司机和他的妻子很贫穷。"
+    },
+    {
+        "name": "poor",
+        "trans": [
+            "贫穷的；差的；次的"
+        ],
+        "usphone": "pʊr",
+        "ukphone": "pɔː(r); pʊə(r)",
+        "sentence": "The poor wolf has no food.",
+        "sentenceTrans": "这只可怜的狼没有食物。"
+    },
+    {
+        "name": "fairy",
+        "trans": [
+            "仙子；小精灵"
+        ],
+        "usphone": "ˈferi",
+        "ukphone": "ˈfeəri",
+        "sentence": "The fairy gives him three wishes.",
+        "sentenceTrans": "仙子给了他三个愿望。"
+    },
+    {
+        "name": "wish",
+        "trans": [
+            "愿望；祝愿"
+        ],
+        "usphone": "wɪʃ",
+        "ukphone": "wɪʃ",
+        "sentence": "The fairy gives him a wish.",
+        "sentenceTrans": "仙子给了他一个愿望。"
+    },
+    {
+        "name": "by",
+        "trans": [
+            "hand 用手"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "The craftsman makes it by hand.",
+        "sentenceTrans": "工匠手工制作它。"
+    },
+    {
+        "name": "right",
+        "trans": [
+            "away 立即；马上"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "Please come here right away.",
+        "sentenceTrans": "请马上到这里来。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "a short time 很快"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The letter arrived in a short time.",
+        "sentenceTrans": "信很快就到了。"
+    },
+    {
+        "name": "carry",
+        "trans": [
+            "背；提；拿"
+        ],
+        "usphone": "ˈkæri",
+        "ukphone": "ˈkæri",
+        "sentence": "I carry my bag to school.",
+        "sentenceTrans": "我背着书包去学校。"
+    },
+    {
+        "name": "online",
+        "trans": [
+            "在线地；在线的"
+        ],
+        "usphone": "ˌɑːnˈlaɪn",
+        "ukphone": "ˌɒnˈlaɪn",
+        "sentence": "We can read books online.",
+        "sentenceTrans": "我们可以在线阅读书籍。"
+    },
+    {
+        "name": "head",
+        "trans": [
+            "teacher 校长"
+        ],
+        "usphone": "hed",
+        "ukphone": "hed",
+        "sentence": "Our head teacher is very kind.",
+        "sentenceTrans": "我们的校长很友善。"
+    },
+    {
+        "name": "ps",
+        "trans": [
+            "附言（用于信末）"
+        ],
+        "usphone": "ˌpiː ˈes",
+        "ukphone": "ˌpiː ˈes",
+        "sentence": "I add a short note after PS.",
+        "sentenceTrans": "我在附言后加了一句简短的话。"
+    },
+    {
+        "name": "mountain",
+        "trans": [
+            "山；山脉"
+        ],
+        "usphone": "ˈmaʊnt(ə)n",
+        "ukphone": "ˈmaʊntən",
+        "sentence": "The mountain is even taller now.",
+        "sentenceTrans": "这座山现在甚至更高了。"
+    },
+    {
+        "name": "even",
+        "trans": [
+            "甚至"
+        ],
+        "usphone": "ˈiːv(ə)n",
+        "ukphone": "ˈiːv(ə)n",
+        "sentence": "We can even see the moon.",
+        "sentenceTrans": "我们甚至能看到月球。"
+    },
+    {
+        "name": "space",
+        "trans": [
+            "太空"
+        ],
+        "usphone": "speɪs",
+        "ukphone": "speɪs",
+        "sentence": "People want to travel in space.",
+        "sentenceTrans": "人们想在太空旅行。"
+    },
+    {
+        "name": "dinosaur",
+        "trans": [
+            "恐龙"
+        ],
+        "usphone": "ˈdaɪnəsɔːr",
+        "ukphone": "ˈdaɪnəsɔː(r)",
+        "sentence": "We saw a dinosaur model at the museum.",
+        "sentenceTrans": "我们在博物馆看到了恐龙模型。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "piece of 一张；一片"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I need a piece of paper.",
+        "sentenceTrans": "我需要一张纸。"
+    }
+]

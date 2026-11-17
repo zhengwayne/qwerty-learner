@@ -1,0 +1,202 @@
+[
+    {
+        "name": "beach",
+        "trans": [
+            "沙滩"
+        ],
+        "usphone": "biːtʃ",
+        "ukphone": "biːtʃ",
+        "sentence": "I play on the beach.",
+        "sentenceTrans": "我在沙滩上玩。"
+    },
+    {
+        "name": "clothes",
+        "trans": [
+            "衣服"
+        ],
+        "usphone": "kloʊðz",
+        "ukphone": "kləʊðz",
+        "sentence": "These are my clothes.",
+        "sentenceTrans": "这些是我的衣服。"
+    },
+    {
+        "name": "need",
+        "trans": [
+            "需要"
+        ],
+        "usphone": "niːd",
+        "ukphone": "niːd",
+        "sentence": "I need some water.",
+        "sentenceTrans": "我需要一些水。"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "新的"
+        ],
+        "usphone": "nuː",
+        "ukphone": "njuː",
+        "sentence": "This is my new ball.",
+        "sentenceTrans": "这是我的新球。"
+    },
+    {
+        "name": "dress",
+        "trans": [
+            "连衣裙"
+        ],
+        "usphone": "dres",
+        "ukphone": "dres",
+        "sentence": "This is my dress.",
+        "sentenceTrans": "这是我的连衣裙。"
+    },
+    {
+        "name": "shorts",
+        "trans": [
+            "短裤"
+        ],
+        "usphone": "ʃɔːrts",
+        "ukphone": "ʃɔːts",
+        "sentence": "These are my shorts.",
+        "sentenceTrans": "这是我的短裤。"
+    },
+    {
+        "name": "blouse",
+        "trans": [
+            "女式衬衫"
+        ],
+        "usphone": "blaʊs",
+        "ukphone": "blaʊz",
+        "sentence": "This is my blouse.",
+        "sentenceTrans": "这是我的女式衬衫。"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "活动"
+        ],
+        "usphone": "ækˈtɪvəti",
+        "ukphone": "ækˈtɪvəti",
+        "sentence": "I like this activity.",
+        "sentenceTrans": "我喜欢这个活动。"
+    },
+    {
+        "name": "ride",
+        "trans": [
+            "骑"
+        ],
+        "usphone": "raɪd",
+        "ukphone": "raɪd",
+        "sentence": "I can ride a bicycle.",
+        "sentenceTrans": "我会骑自行车。"
+    },
+    {
+        "name": "skip",
+        "trans": [
+            "跳绳"
+        ],
+        "usphone": "skɪp",
+        "ukphone": "skɪp",
+        "sentence": "I can skip.",
+        "sentenceTrans": "我会跳绳。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "玩，踢（球）"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "放（风筝），飞"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "The bird can fly.",
+        "sentenceTrans": "这只鸟会飞。"
+    },
+    {
+        "name": "playtime",
+        "trans": [
+            "游戏时间"
+        ],
+        "usphone": "ˈpleɪtaɪm",
+        "ukphone": "ˈpleɪtaɪm",
+        "sentence": "It is playtime.",
+        "sentenceTrans": "现在是游戏时间。"
+    },
+    {
+        "name": "football",
+        "trans": [
+            "足球"
+        ],
+        "usphone": "ˈfʊtbɔːl",
+        "ukphone": "ˈfʊtbɔːl",
+        "sentence": "I play football.",
+        "sentenceTrans": "我踢足球。"
+    },
+    {
+        "name": "rope",
+        "trans": [
+            "绳子"
+        ],
+        "usphone": "roʊp",
+        "ukphone": "rəʊp",
+        "sentence": "I skip with a rope.",
+        "sentenceTrans": "我用绳子跳绳。"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "year 新年"
+        ],
+        "usphone": "nuː",
+        "ukphone": "njuː",
+        "sentence": "This is my new ball.",
+        "sentenceTrans": "这是我的新球。"
+    },
+    {
+        "name": "gift",
+        "trans": [
+            "礼物"
+        ],
+        "usphone": "ɡɪft",
+        "ukphone": "ɡɪft",
+        "sentence": "This gift is for you.",
+        "sentenceTrans": "这份礼物是给你的。"
+    },
+    {
+        "name": "card",
+        "trans": [
+            "贺卡，卡片"
+        ],
+        "usphone": "kɑːrd",
+        "ukphone": "kɑːd",
+        "sentence": "I make a birthday card.",
+        "sentenceTrans": "我做一张生日贺卡。"
+    },
+    {
+        "name": "firecracker",
+        "trans": [
+            "鞭炮，爆竹"
+        ],
+        "usphone": "ˈfaɪərkrækər",
+        "ukphone": "ˈfaɪəkrækə(r)",
+        "sentence": "I hear a firecracker.",
+        "sentenceTrans": "我听见爆竹声。"
+    },
+    {
+        "name": "firework",
+        "trans": [
+            "烟花，烟火"
+        ],
+        "usphone": "ˈfaɪərwɜːrk",
+        "ukphone": "ˈfaɪəwɜːk",
+        "sentence": "I see a red firework.",
+        "sentenceTrans": "我看见一朵红色的烟花。"
+    }
+]

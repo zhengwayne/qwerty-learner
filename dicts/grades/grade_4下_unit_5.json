@@ -1,0 +1,182 @@
+[
+    {
+        "name": "play",
+        "trans": [
+            "the guitar 弹吉他"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "o'clock",
+        "trans": [
+            "…点钟"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "It is seven o'clock.",
+        "sentenceTrans": "现在是七点钟。"
+    },
+    {
+        "name": "quarter",
+        "trans": [
+            "一刻钟"
+        ],
+        "usphone": "ˈkwɔːrtər",
+        "ukphone": "ˈkwɔːtə(r)",
+        "sentence": "It is a quarter past eight.",
+        "sentenceTrans": "现在是八点一刻。"
+    },
+    {
+        "name": "time",
+        "trans": [
+            "时间"
+        ],
+        "usphone": "taɪm",
+        "ukphone": "taɪm",
+        "sentence": "What time is it?",
+        "sentenceTrans": "现在几点了？"
+    },
+    {
+        "name": "half",
+        "trans": [
+            "半；一半"
+        ],
+        "usphone": "hæf",
+        "ukphone": "hɑːf",
+        "sentence": "It is half past seven.",
+        "sentenceTrans": "现在是七点半。"
+    },
+    {
+        "name": "wash",
+        "trans": [
+            "洗"
+        ],
+        "usphone": "wɑːʃ",
+        "ukphone": "wɒʃ",
+        "sentence": "I wash my hands before lunch.",
+        "sentenceTrans": "我午饭前洗手。"
+    },
+    {
+        "name": "dinner",
+        "trans": [
+            "晚餐；正餐"
+        ],
+        "usphone": "ˈdɪnər",
+        "ukphone": "ˈdɪnə(r)",
+        "sentence": "Dinner is ready.",
+        "sentenceTrans": "晚餐准备好了。"
+    },
+    {
+        "name": "start",
+        "trans": [
+            "开始"
+        ],
+        "usphone": "stɑːrt",
+        "ukphone": "stɑːt",
+        "sentence": "School starts at eight o'clock.",
+        "sentenceTrans": "学校八点钟上课。"
+    },
+    {
+        "name": "catch",
+        "trans": [
+            "捉住"
+        ],
+        "usphone": "kætʃ",
+        "ukphone": "kætʃ",
+        "sentence": "The cat can catch the ball.",
+        "sentenceTrans": "猫能接住球。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "up 起床"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "I get a new book.",
+        "sentenceTrans": "我得到一本新书。"
+    },
+    {
+        "name": "brush…teeth",
+        "trans": [
+            "刷牙"
+        ],
+        "usphone": "brʌʃ tiːθ",
+        "ukphone": "",
+        "sentence": "I brush my teeth every morning.",
+        "sentenceTrans": "我每天早上刷牙。"
+    },
+    {
+        "name": "half",
+        "trans": [
+            "past… …点半"
+        ],
+        "usphone": "hæf",
+        "ukphone": "hɑːf",
+        "sentence": "It is half past seven.",
+        "sentenceTrans": "现在是七点半。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "breakfast 吃早餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "to school 去上学"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    },
+    {
+        "name": "wash…face",
+        "trans": [
+            "洗脸"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I wash my face every morning.",
+        "sentenceTrans": "我每天早上洗脸。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "lunch 吃午餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "dinner 吃晚餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "to bed 上床睡觉"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    }
+]

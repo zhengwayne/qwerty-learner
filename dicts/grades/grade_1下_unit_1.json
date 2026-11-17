@@ -1,0 +1,202 @@
+[
+    {
+        "name": "see",
+        "trans": [
+            "看见"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "I see a bird.",
+        "sentenceTrans": "我看见一只鸟。"
+    },
+    {
+        "name": "frog",
+        "trans": [
+            "青蛙"
+        ],
+        "usphone": "frɑːɡ",
+        "ukphone": "frɒɡ",
+        "sentence": "I see a green frog.",
+        "sentenceTrans": "我看见一只绿色的青蛙。"
+    },
+    {
+        "name": "rabbit",
+        "trans": [
+            "兔子"
+        ],
+        "usphone": "ˈræbɪt",
+        "ukphone": "ˈræbɪt",
+        "sentence": "I see a white rabbit.",
+        "sentenceTrans": "我看见一只白兔。"
+    },
+    {
+        "name": "bee",
+        "trans": [
+            "蜜蜂"
+        ],
+        "usphone": "biː",
+        "ukphone": "biː",
+        "sentence": "I see a bee.",
+        "sentenceTrans": "我看见一只蜜蜂。"
+    },
+    {
+        "name": "bird",
+        "trans": [
+            "鸟"
+        ],
+        "usphone": "bɜːrd",
+        "ukphone": "bɜːd",
+        "sentence": "I hear a bird.",
+        "sentenceTrans": "我听见一只鸟的叫声。"
+    },
+    {
+        "name": "listen",
+        "trans": [
+            "听"
+        ],
+        "usphone": "ˈlɪs(ə)n",
+        "ukphone": "ˈlɪs(ə)n",
+        "sentence": "Listen to this song.",
+        "sentenceTrans": "听听这首歌。"
+    },
+    {
+        "name": "hear",
+        "trans": [
+            "听见"
+        ],
+        "usphone": "hɪr",
+        "ukphone": "hɪə(r)",
+        "sentence": "I hear a bird.",
+        "sentenceTrans": "我听见一只鸟的叫声。"
+    },
+    {
+        "name": "sheep",
+        "trans": [
+            "绵羊"
+        ],
+        "usphone": "ʃiːp",
+        "ukphone": "ʃiːp",
+        "sentence": "I see a sheep.",
+        "sentenceTrans": "我看见一只绵羊。"
+    },
+    {
+        "name": "hen",
+        "trans": [
+            "母鸡"
+        ],
+        "usphone": "hen",
+        "ukphone": "hen",
+        "sentence": "I see a hen.",
+        "sentenceTrans": "我看见一只母鸡。"
+    },
+    {
+        "name": "smell",
+        "trans": [
+            "闻"
+        ],
+        "usphone": "smel",
+        "ukphone": "smel",
+        "sentence": "Smell this flower.",
+        "sentenceTrans": "闻闻这朵花。"
+    },
+    {
+        "name": "taste",
+        "trans": [
+            "尝"
+        ],
+        "usphone": "teɪst",
+        "ukphone": "teɪst",
+        "sentence": "Taste this soup.",
+        "sentenceTrans": "尝尝这碗汤。"
+    },
+    {
+        "name": "rice",
+        "trans": [
+            "米饭"
+        ],
+        "usphone": "raɪs",
+        "ukphone": "raɪs",
+        "sentence": "I like rice.",
+        "sentenceTrans": "我喜欢米饭。"
+    },
+    {
+        "name": "soup",
+        "trans": [
+            "汤"
+        ],
+        "usphone": "suːp",
+        "ukphone": "suːp",
+        "sentence": "I like this soup.",
+        "sentenceTrans": "我喜欢这碗汤。"
+    },
+    {
+        "name": "egg",
+        "trans": [
+            "蛋"
+        ],
+        "usphone": "eɡ",
+        "ukphone": "eɡ",
+        "sentence": "I like this egg.",
+        "sentenceTrans": "我喜欢这个鸡蛋。"
+    },
+    {
+        "name": "noodles",
+        "trans": [
+            "面条"
+        ],
+        "usphone": "ˈnuːd(ə)lz",
+        "ukphone": "ˈnuːd(ə)lz",
+        "sentence": "I like noodles.",
+        "sentenceTrans": "我喜欢面条。"
+    },
+    {
+        "name": "help",
+        "trans": [
+            "帮助"
+        ],
+        "usphone": "help",
+        "ukphone": "help",
+        "sentence": "Please help me.",
+        "sentenceTrans": "请帮帮我。"
+    },
+    {
+        "name": "stand",
+        "trans": [
+            "up 站起来"
+        ],
+        "usphone": "stænd",
+        "ukphone": "stænd",
+        "sentence": "Stand up, please.",
+        "sentenceTrans": "请站起来。"
+    },
+    {
+        "name": "flower",
+        "trans": [
+            "花"
+        ],
+        "usphone": "ˈflaʊər",
+        "ukphone": "ˈflaʊə(r)",
+        "sentence": "I see a yellow flower.",
+        "sentenceTrans": "我看见一朵黄花。"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "玩具"
+        ],
+        "usphone": "tɔɪ",
+        "ukphone": "tɔɪ",
+        "sentence": "This is my toy.",
+        "sentenceTrans": "这是我的玩具。"
+    },
+    {
+        "name": "like",
+        "trans": [
+            "喜欢"
+        ],
+        "usphone": "laɪk",
+        "ukphone": "laɪk",
+        "sentence": "I like this song.",
+        "sentenceTrans": "我喜欢这首歌。"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "name": "early",
+        "trans": [
+            "早；提早"
+        ],
+        "usphone": "ˈɜːrli",
+        "ukphone": "ˈɜːli",
+        "sentence": "I get up early every day.",
+        "sentenceTrans": "我每天早起。"
+    },
+    {
+        "name": "hard",
+        "trans": [
+            "努力地"
+        ],
+        "usphone": "hɑːrd",
+        "ukphone": "hɑːd",
+        "sentence": "The box is hard.",
+        "sentenceTrans": "这个盒子很硬。"
+    },
+    {
+        "name": "more",
+        "trans": [
+            "更多的"
+        ],
+        "usphone": "mɔːr",
+        "ukphone": "mɔː(r)",
+        "sentence": "I want to read more books.",
+        "sentenceTrans": "我想读更多书。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the future 将来"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "I want to travel in the future.",
+        "sentenceTrans": "我将来想去旅行。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "front of 在…前面"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "I want to travel in the future.",
+        "sentenceTrans": "我将来想去旅行。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "a photo 拍照"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "I take a photo with my camera.",
+        "sentenceTrans": "我用相机拍了一张照片。"
+    },
+    {
+        "name": "wear",
+        "trans": [
+            "glasses 戴眼镜"
+        ],
+        "usphone": "wer",
+        "ukphone": "weə(r)",
+        "sentence": "My grandfather wears glasses.",
+        "sentenceTrans": "我爷爷戴眼镜。"
+    },
+    {
+        "name": "do",
+        "trans": [
+            "exercise 做运动"
+        ],
+        "usphone": "duː; də",
+        "ukphone": "duː; də",
+        "sentence": "I do exercise every morning.",
+        "sentenceTrans": "我每天早上锻炼。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "weak in 不擅长"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The box is full of crayons.",
+        "sentenceTrans": "盒子里装满了蜡笔。"
+    },
+    {
+        "name": "not…any",
+        "trans": [
+            "more 不再"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I do not live there any more.",
+        "sentenceTrans": "我不再住在那里了。"
+    },
+    {
+        "name": "storybook",
+        "trans": [
+            "故事书"
+        ],
+        "usphone": "ˈstɔːribʊk",
+        "ukphone": "ˈstɔːribʊk",
+        "sentence": "I buy a new storybook.",
+        "sentenceTrans": "我买了一本新故事书。"
+    },
+    {
+        "name": "buy",
+        "trans": [
+            "买"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "I want to buy a dictionary.",
+        "sentenceTrans": "我想买一本词典。"
+    },
+    {
+        "name": "story",
+        "trans": [
+            "故事"
+        ],
+        "usphone": "ˈstɔːri",
+        "ukphone": "ˈstɔːri",
+        "sentence": "Please tell us a story.",
+        "sentenceTrans": "请给我们讲一个故事。"
+    },
+    {
+        "name": "dictionary",
+        "trans": [
+            "字典；词典"
+        ],
+        "usphone": "ˈdɪkʃəneri",
+        "ukphone": "ˈdɪkʃən(ə)ri",
+        "sentence": "I use a dictionary to learn words.",
+        "sentenceTrans": "我用词典学习单词。"
+    },
+    {
+        "name": "magazine",
+        "trans": [
+            "杂志"
+        ],
+        "usphone": "ˈmæɡəziːn",
+        "ukphone": "ˌmæɡəˈziːn",
+        "sentence": "I read a science magazine.",
+        "sentenceTrans": "我读一本科学杂志。"
+    },
+    {
+        "name": "newspaper",
+        "trans": [
+            "报纸"
+        ],
+        "usphone": "ˈnuːzpeɪpər",
+        "ukphone": "ˈnjuːzpeɪpə(r)",
+        "sentence": "Grandpa reads the newspaper every morning.",
+        "sentenceTrans": "爷爷每天早上读报纸。"
+    },
+    {
+        "name": "week",
+        "trans": [
+            "周；星期"
+        ],
+        "usphone": "wiːk",
+        "ukphone": "wiːk",
+        "sentence": "We go to school five days a week.",
+        "sentenceTrans": "我们每周上五天学。"
+    },
+    {
+        "name": "student",
+        "trans": [
+            "学生"
+        ],
+        "usphone": "ˈstuːd(ə)nt",
+        "ukphone": "ˈstjuːd(ə)nt",
+        "sentence": "She is a primary school student.",
+        "sentenceTrans": "她是一名小学生。"
+    },
+    {
+        "name": "poster",
+        "trans": [
+            "海报"
+        ],
+        "usphone": "ˈpoʊstər",
+        "ukphone": "ˈpəʊstə(r)",
+        "sentence": "Our poster is on the board.",
+        "sentenceTrans": "我们的海报在布告牌上。"
+    }
+]

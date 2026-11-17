@@ -1,0 +1,202 @@
+[
+    {
+        "name": "black",
+        "trans": [
+            "黑色的"
+        ],
+        "usphone": "blæk",
+        "ukphone": "blæk",
+        "sentence": "The coat is black.",
+        "sentenceTrans": "这件大衣是黑色的。"
+    },
+    {
+        "name": "blue",
+        "trans": [
+            "蓝色的"
+        ],
+        "usphone": "bluː",
+        "ukphone": "bluː",
+        "sentence": "The book is blue.",
+        "sentenceTrans": "这本书是蓝色的。"
+    },
+    {
+        "name": "green",
+        "trans": [
+            "绿色的"
+        ],
+        "usphone": "ɡriːn",
+        "ukphone": "ɡriːn",
+        "sentence": "The pencil is green.",
+        "sentenceTrans": "这支铅笔是绿色的。"
+    },
+    {
+        "name": "red",
+        "trans": [
+            "红色的"
+        ],
+        "usphone": "red",
+        "ukphone": "red",
+        "sentence": "The apple is red.",
+        "sentenceTrans": "这个苹果是红色的。"
+    },
+    {
+        "name": "white",
+        "trans": [
+            "白色的"
+        ],
+        "usphone": "waɪt",
+        "ukphone": "waɪt",
+        "sentence": "The rabbit is white.",
+        "sentenceTrans": "这只兔子是白色的。"
+    },
+    {
+        "name": "yellow",
+        "trans": [
+            "黄色的"
+        ],
+        "usphone": "ˈjeloʊ",
+        "ukphone": "ˈjeləʊ",
+        "sentence": "The duck is yellow.",
+        "sentenceTrans": "这只鸭子是黄色的。"
+    },
+    {
+        "name": "and",
+        "trans": [
+            "和；同"
+        ],
+        "usphone": "ænd; ənd",
+        "ukphone": "ænd; ənd",
+        "sentence": "I like apples and pears.",
+        "sentenceTrans": "我喜欢苹果和梨。"
+    },
+    {
+        "name": "ball",
+        "trans": [
+            "球"
+        ],
+        "usphone": "bɔːl",
+        "ukphone": "bɔːl",
+        "sentence": "This is my ball.",
+        "sentenceTrans": "这是我的球。"
+    },
+    {
+        "name": "colour",
+        "trans": [
+            "颜色"
+        ],
+        "usphone": "ˈkʌlər",
+        "ukphone": "ˈkʌlə(r)",
+        "sentence": "What colour is it?",
+        "sentenceTrans": "它是什么颜色的？"
+    },
+    {
+        "name": "candy",
+        "trans": [
+            "糖果"
+        ],
+        "usphone": "ˈkændi",
+        "ukphone": "ˈkændi",
+        "sentence": "The candy is sweet.",
+        "sentenceTrans": "这颗糖很甜。"
+    },
+    {
+        "name": "ice",
+        "trans": [
+            "cream 冰淇淋"
+        ],
+        "usphone": "aɪs",
+        "ukphone": "aɪs",
+        "sentence": "I like ice cream.",
+        "sentenceTrans": "我喜欢冰淇淋。"
+    },
+    {
+        "name": "lemon",
+        "trans": [
+            "柠檬"
+        ],
+        "usphone": "ˈlemən",
+        "ukphone": "ˈlemən",
+        "sentence": "The lemon is sour.",
+        "sentenceTrans": "这个柠檬很酸。"
+    },
+    {
+        "name": "how",
+        "trans": [
+            "怎么；怎样"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "orange",
+        "trans": [
+            "橙色的"
+        ],
+        "usphone": "ˈɔːrɪndʒ",
+        "ukphone": "ˈɒrɪndʒ",
+        "sentence": "This orange is orange.",
+        "sentenceTrans": "这个橙子是橙色的。"
+    },
+    {
+        "name": "sour",
+        "trans": [
+            "酸的"
+        ],
+        "usphone": "ˈsaʊər",
+        "ukphone": "ˈsaʊə(r)",
+        "sentence": "The lemon is sour.",
+        "sentenceTrans": "这个柠檬很酸。"
+    },
+    {
+        "name": "sweet",
+        "trans": [
+            "甜的"
+        ],
+        "usphone": "swiːt",
+        "ukphone": "swiːt",
+        "sentence": "The cake is sweet.",
+        "sentenceTrans": "这个蛋糕很甜。"
+    },
+    {
+        "name": "taste",
+        "trans": [
+            "味道；尝"
+        ],
+        "usphone": "teɪst",
+        "ukphone": "teɪst",
+        "sentence": "Taste this soup.",
+        "sentenceTrans": "尝尝这碗汤。"
+    },
+    {
+        "name": "bike",
+        "trans": [
+            "自行车"
+        ],
+        "usphone": "baɪk",
+        "ukphone": "baɪk",
+        "sentence": "This is my bike.",
+        "sentenceTrans": "这是我的自行车。"
+    },
+    {
+        "name": "bus",
+        "trans": [
+            "公共汽车；巴士"
+        ],
+        "usphone": "bʌs",
+        "ukphone": "bʌs",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我坐公共汽车去上学。"
+    },
+    {
+        "name": "plane",
+        "trans": [
+            "飞机"
+        ],
+        "usphone": "pleɪn",
+        "ukphone": "pleɪn",
+        "sentence": "The plane can fly.",
+        "sentenceTrans": "飞机会飞。"
+    }
+]

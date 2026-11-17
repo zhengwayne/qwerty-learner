@@ -1,0 +1,182 @@
+[
+    {
+        "name": "happy",
+        "trans": [
+            "开心的"
+        ],
+        "usphone": "ˈhæpi",
+        "ukphone": "ˈhæpi",
+        "sentence": "I am very happy.",
+        "sentenceTrans": "我非常开心。"
+    },
+    {
+        "name": "sad",
+        "trans": [
+            "难过的；悲哀的"
+        ],
+        "usphone": "sæd",
+        "ukphone": "sæd",
+        "sentence": "The boy is sad.",
+        "sentenceTrans": "这个男孩很难过。"
+    },
+    {
+        "name": "tired",
+        "trans": [
+            "累的；疲惫的"
+        ],
+        "usphone": "ˈtaɪərd",
+        "ukphone": "ˈtaɪəd",
+        "sentence": "I am tired.",
+        "sentenceTrans": "我累了。"
+    },
+    {
+        "name": "hungry",
+        "trans": [
+            "饥饿的"
+        ],
+        "usphone": "ˈhʌŋɡri",
+        "ukphone": "ˈhʌŋɡri",
+        "sentence": "I am hungry.",
+        "sentenceTrans": "我饿了。"
+    },
+    {
+        "name": "full",
+        "trans": [
+            "饱的"
+        ],
+        "usphone": "fʊl",
+        "ukphone": "fʊl",
+        "sentence": "I am full now.",
+        "sentenceTrans": "我现在吃饱了。"
+    },
+    {
+        "name": "thirsty",
+        "trans": [
+            "口渴的"
+        ],
+        "usphone": "ˈθɜːrsti",
+        "ukphone": "ˈθɜːsti",
+        "sentence": "I am thirsty.",
+        "sentenceTrans": "我渴了。"
+    },
+    {
+        "name": "bird",
+        "trans": [
+            "鸟"
+        ],
+        "usphone": "bɜːrd",
+        "ukphone": "bɜːd",
+        "sentence": "I hear a bird.",
+        "sentenceTrans": "我听见一只鸟的叫声。"
+    },
+    {
+        "name": "see",
+        "trans": [
+            "看见"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "I see a bird.",
+        "sentenceTrans": "我看见一只鸟。"
+    },
+    {
+        "name": "bottle",
+        "trans": [
+            "瓶子"
+        ],
+        "usphone": "ˈbɑːt(ə)l",
+        "ukphone": "ˈbɒt(ə)l",
+        "sentence": "This bottle is full of water.",
+        "sentenceTrans": "这个瓶子里装满了水。"
+    },
+    {
+        "name": "drink",
+        "trans": [
+            "喝"
+        ],
+        "usphone": "drɪŋk",
+        "ukphone": "drɪŋk",
+        "sentence": "I drink some water.",
+        "sentenceTrans": "我喝一些水。"
+    },
+    {
+        "name": "any",
+        "trans": [
+            "任何的"
+        ],
+        "usphone": "ˈeni",
+        "ukphone": "ˈeni",
+        "sentence": "Do you have any carrots?",
+        "sentenceTrans": "你有胡萝卜吗？"
+    },
+    {
+        "name": "cousin",
+        "trans": [
+            "表兄弟；表姐妹；堂兄弟；堂姐妹"
+        ],
+        "usphone": "ˈkʌzn",
+        "ukphone": "ˈkʌzn",
+        "sentence": "This is my cousin.",
+        "sentenceTrans": "这是我的表兄弟。"
+    },
+    {
+        "name": "family",
+        "trans": [
+            "家庭"
+        ],
+        "usphone": "ˈfæməli",
+        "ukphone": "ˈfæməli",
+        "sentence": "This is my family.",
+        "sentenceTrans": "这是我的家人。"
+    },
+    {
+        "name": "parent",
+        "trans": [
+            "父亲；母亲"
+        ],
+        "usphone": "ˈperənt",
+        "ukphone": "ˈpeərənt",
+        "sentence": "My parent is at home.",
+        "sentenceTrans": "我的家长在家。"
+    },
+    {
+        "name": "grandparent",
+        "trans": [
+            "（外）祖父；（外）祖母"
+        ],
+        "usphone": "ˈɡrænperənt",
+        "ukphone": "ˈɡrænpeərənt",
+        "sentence": "My grandparent lives with us.",
+        "sentenceTrans": "我的祖父母和我们住在一起。"
+    },
+    {
+        "name": "son",
+        "trans": [
+            "儿子"
+        ],
+        "usphone": "sʌn",
+        "ukphone": "sʌn",
+        "sentence": "The boy is her son.",
+        "sentenceTrans": "这个男孩是她的儿子。"
+    },
+    {
+        "name": "grandfather(grandpa)",
+        "trans": [
+            "（外）祖父；爷爷；外公"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "My grandpa is tall.",
+        "sentenceTrans": "我爷爷很高。"
+    },
+    {
+        "name": "grandmother(grandma)",
+        "trans": [
+            "（外）祖母；奶奶；外婆"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "My grandma is nice.",
+        "sentenceTrans": "我奶奶很亲切。"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "ball",
+        "trans": [
+            "球"
+        ],
+        "usphone": "bɔːl",
+        "ukphone": "bɔːl",
+        "sentence": "This is my ball.",
+        "sentenceTrans": "这是我的球。"
+    },
+    {
+        "name": "doll",
+        "trans": [
+            "玩具娃娃"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "This is my doll.",
+        "sentenceTrans": "这是我的玩具娃娃。"
+    },
+    {
+        "name": "kite",
+        "trans": [
+            "风筝"
+        ],
+        "usphone": "kaɪt",
+        "ukphone": "kaɪt",
+        "sentence": "I can fly a kite.",
+        "sentenceTrans": "我会放风筝。"
+    },
+    {
+        "name": "bicycle",
+        "trans": [
+            "自行车"
+        ],
+        "usphone": "ˈbaɪsɪkl",
+        "ukphone": "ˈbaɪsɪk(ə)l",
+        "sentence": "I ride a bicycle.",
+        "sentenceTrans": "我骑自行车。"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "shop 玩具店"
+        ],
+        "usphone": "tɔɪ",
+        "ukphone": "tɔɪ",
+        "sentence": "This is my toy.",
+        "sentenceTrans": "这是我的玩具。"
+    },
+    {
+        "name": "super",
+        "trans": [
+            "超级的"
+        ],
+        "usphone": "ˈsuːpər",
+        "ukphone": "ˈsuːpə(r)",
+        "sentence": "The party is super!",
+        "sentenceTrans": "这个聚会棒极了！"
+    },
+    {
+        "name": "food",
+        "trans": [
+            "食物"
+        ],
+        "usphone": "fuːd",
+        "ukphone": "fuːd",
+        "sentence": "I like this food.",
+        "sentenceTrans": "我喜欢这些食物。"
+    },
+    {
+        "name": "sweet",
+        "trans": [
+            "糖果，甜的"
+        ],
+        "usphone": "swiːt",
+        "ukphone": "swiːt",
+        "sentence": "The cake is sweet.",
+        "sentenceTrans": "这个蛋糕很甜。"
+    },
+    {
+        "name": "jelly",
+        "trans": [
+            "果冻"
+        ],
+        "usphone": "ˈdʒeli",
+        "ukphone": "ˈdʒeli",
+        "sentence": "I like this jelly.",
+        "sentenceTrans": "我喜欢这个果冻。"
+    },
+    {
+        "name": "ice",
+        "trans": [
+            "cream 冰淇淋"
+        ],
+        "usphone": "aɪs",
+        "ukphone": "aɪs",
+        "sentence": "I like ice cream.",
+        "sentenceTrans": "我喜欢冰淇淋。"
+    },
+    {
+        "name": "biscuit",
+        "trans": [
+            "饼干"
+        ],
+        "usphone": "ˈbɪskɪt",
+        "ukphone": "ˈbɪskɪt",
+        "sentence": "I like this biscuit.",
+        "sentenceTrans": "我喜欢这块饼干。"
+    },
+    {
+        "name": "teatime",
+        "trans": [
+            "茶点时间"
+        ],
+        "usphone": "ˈtiːtaɪm",
+        "ukphone": "ˈtiːtaɪm",
+        "sentence": "It is teatime.",
+        "sentenceTrans": "现在是茶点时间。"
+    },
+    {
+        "name": "for",
+        "trans": [
+            "给"
+        ],
+        "usphone": "fɔːr; fər",
+        "ukphone": "fɔː(r); fə(r)",
+        "sentence": "This gift is for you.",
+        "sentenceTrans": "这份礼物是给你的。"
+    },
+    {
+        "name": "and",
+        "trans": [
+            "和"
+        ],
+        "usphone": "ænd; ənd",
+        "ukphone": "ænd; ənd",
+        "sentence": "I like apples and pears.",
+        "sentenceTrans": "我喜欢苹果和梨。"
+    },
+    {
+        "name": "sorry",
+        "trans": [
+            "对不起，抱歉"
+        ],
+        "usphone": "ˈsɑːri",
+        "ukphone": "ˈsɒri",
+        "sentence": "I am sorry.",
+        "sentenceTrans": "对不起。"
+    },
+    {
+        "name": "very",
+        "trans": [
+            "much 非常"
+        ],
+        "usphone": "ˈveri",
+        "ukphone": "ˈveri",
+        "sentence": "Thank you very much.",
+        "sentenceTrans": "非常感谢你。"
+    },
+    {
+        "name": "drink",
+        "trans": [
+            "饮料"
+        ],
+        "usphone": "drɪŋk",
+        "ukphone": "drɪŋk",
+        "sentence": "I drink some water.",
+        "sentenceTrans": "我喝一些水。"
+    },
+    {
+        "name": "water",
+        "trans": [
+            "水"
+        ],
+        "usphone": "ˈwɔːtər",
+        "ukphone": "ˈwɔːtə(r)",
+        "sentence": "I drink some water.",
+        "sentenceTrans": "我喝一些水。"
+    },
+    {
+        "name": "juice",
+        "trans": [
+            "果汁"
+        ],
+        "usphone": "dʒuːs",
+        "ukphone": "dʒuːs",
+        "sentence": "I like apple juice.",
+        "sentenceTrans": "我喜欢苹果汁。"
+    },
+    {
+        "name": "milk",
+        "trans": [
+            "牛奶"
+        ],
+        "usphone": "mɪlk",
+        "ukphone": "mɪlk",
+        "sentence": "I like milk.",
+        "sentenceTrans": "我喜欢牛奶。"
+    }
+]

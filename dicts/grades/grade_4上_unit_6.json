@@ -1,0 +1,192 @@
+[
+    {
+        "name": "where",
+        "trans": [
+            "哪里"
+        ],
+        "usphone": "wer",
+        "ukphone": "weə(r)",
+        "sentence": "Where is my ball?",
+        "sentenceTrans": "我的球在哪里？"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在……里面"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "box",
+        "trans": [
+            "盒子；箱子"
+        ],
+        "usphone": "bɑːks",
+        "ukphone": "bɒks",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "give",
+        "trans": [
+            "给"
+        ],
+        "usphone": "ɡɪv",
+        "ukphone": "ɡɪv",
+        "sentence": "Give me the book, please.",
+        "sentenceTrans": "请把书给我。"
+    },
+    {
+        "name": "plate",
+        "trans": [
+            "盘子；碟子"
+        ],
+        "usphone": "pleɪt",
+        "ukphone": "pleɪt",
+        "sentence": "The meat is on the plate.",
+        "sentenceTrans": "肉在盘子里。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "在……上面"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "My book is on the desk.",
+        "sentenceTrans": "我的书在书桌上。"
+    },
+    {
+        "name": "table",
+        "trans": [
+            "桌子"
+        ],
+        "usphone": "ˈteɪbl",
+        "ukphone": "ˈteɪb(ə)l",
+        "sentence": "The bottle is on the table.",
+        "sentenceTrans": "瓶子在桌子上。"
+    },
+    {
+        "name": "lunch",
+        "trans": [
+            "午餐"
+        ],
+        "usphone": "lʌntʃ",
+        "ukphone": "lʌntʃ",
+        "sentence": "I have rice for lunch.",
+        "sentenceTrans": "我午餐吃米饭。"
+    },
+    {
+        "name": "under",
+        "trans": [
+            "在……下面"
+        ],
+        "usphone": "ˈʌndər",
+        "ukphone": "ˈʌndə(r)",
+        "sentence": "The ball is under the table.",
+        "sentenceTrans": "球在桌子下面。"
+    },
+    {
+        "name": "beside",
+        "trans": [
+            "在……旁边"
+        ],
+        "usphone": "bɪˈsaɪd",
+        "ukphone": "bɪˈsaɪd",
+        "sentence": "The chair is beside the bed.",
+        "sentenceTrans": "椅子在床边。"
+    },
+    {
+        "name": "kitchen",
+        "trans": [
+            "厨房"
+        ],
+        "usphone": "ˈkɪtʃɪn",
+        "ukphone": "ˈkɪtʃɪn",
+        "sentence": "Mum is in the kitchen.",
+        "sentenceTrans": "妈妈在厨房里。"
+    },
+    {
+        "name": "floor",
+        "trans": [
+            "地板"
+        ],
+        "usphone": "flɔːr",
+        "ukphone": "flɔː(r)",
+        "sentence": "The ball is on the floor.",
+        "sentenceTrans": "球在地板上。"
+    },
+    {
+        "name": "angry",
+        "trans": [
+            "生气的"
+        ],
+        "usphone": "ˈæŋɡri",
+        "ukphone": "ˈæŋɡri",
+        "sentence": "The dog is angry.",
+        "sentenceTrans": "这只狗生气了。"
+    },
+    {
+        "name": "around",
+        "trans": [
+            "在……周围；到处"
+        ],
+        "usphone": "əˈraʊnd",
+        "ukphone": "əˈraʊnd",
+        "sentence": "The children run around the tree.",
+        "sentenceTrans": "孩子们绕着树跑。"
+    },
+    {
+        "name": "home",
+        "trans": [
+            "家"
+        ],
+        "usphone": "hoʊm",
+        "ukphone": "həʊm",
+        "sentence": "I am at home.",
+        "sentenceTrans": "我在家。"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "街道"
+        ],
+        "usphone": "striːt",
+        "ukphone": "striːt",
+        "sentence": "I see a boy in the street.",
+        "sentenceTrans": "我在街上看见一个男孩。"
+    },
+    {
+        "name": "park",
+        "trans": [
+            "公园"
+        ],
+        "usphone": "pɑːrk",
+        "ukphone": "pɑːk",
+        "sentence": "We play in the park.",
+        "sentenceTrans": "我们在公园里玩。"
+    },
+    {
+        "name": "near",
+        "trans": [
+            "在……附近"
+        ],
+        "usphone": "nɪr",
+        "ukphone": "nɪə(r)",
+        "sentence": "My school is near the park.",
+        "sentenceTrans": "我的学校在公园附近。"
+    },
+    {
+        "name": "behind",
+        "trans": [
+            "在……后面"
+        ],
+        "usphone": "bɪˈhaɪnd",
+        "ukphone": "bɪˈhaɪnd",
+        "sentence": "The ball is behind the box.",
+        "sentenceTrans": "球在盒子后面。"
+    }
+]

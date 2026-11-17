@@ -1,0 +1,182 @@
+[
+    {
+        "name": "which",
+        "trans": [
+            "哪一个；哪一些"
+        ],
+        "usphone": "wɪtʃ",
+        "ukphone": "wɪtʃ",
+        "sentence": "Which sweater do you like?",
+        "sentenceTrans": "你喜欢哪件毛衣？"
+    },
+    {
+        "name": "trousers",
+        "trans": [
+            "裤子"
+        ],
+        "usphone": "ˈtraʊzərz",
+        "ukphone": "ˈtraʊzəz",
+        "sentence": "These are my trousers.",
+        "sentenceTrans": "这是我的长裤。"
+    },
+    {
+        "name": "size",
+        "trans": [
+            "尺码"
+        ],
+        "usphone": "saɪz",
+        "ukphone": "saɪz",
+        "sentence": "What size are your shoes?",
+        "sentenceTrans": "你的鞋是什么尺码？"
+    },
+    {
+        "name": "sweater",
+        "trans": [
+            "毛衣"
+        ],
+        "usphone": "ˈswetər",
+        "ukphone": "ˈswetə(r)",
+        "sentence": "This is my sweater.",
+        "sentenceTrans": "这是我的毛衣。"
+    },
+    {
+        "name": "coat",
+        "trans": [
+            "外套；大衣"
+        ],
+        "usphone": "koʊt",
+        "ukphone": "kəʊt",
+        "sentence": "This is my coat.",
+        "sentenceTrans": "这是我的大衣。"
+    },
+    {
+        "name": "shoe",
+        "trans": [
+            "鞋"
+        ],
+        "usphone": "ʃuː",
+        "ukphone": "ʃuː",
+        "sentence": "These shoes are too small.",
+        "sentenceTrans": "这双鞋太小了。"
+    },
+    {
+        "name": "emperor",
+        "trans": [
+            "皇帝"
+        ],
+        "usphone": "ˈempərər",
+        "ukphone": "ˈempərə(r)",
+        "sentence": "The emperor wants new clothes.",
+        "sentenceTrans": "皇帝想要新衣服。"
+    },
+    {
+        "name": "only",
+        "trans": [
+            "只有；仅"
+        ],
+        "usphone": "ˈoʊnli",
+        "ukphone": "ˈəʊnli",
+        "sentence": "I only have ten yuan.",
+        "sentenceTrans": "我只有十元钱。"
+    },
+    {
+        "name": "nod",
+        "trans": [
+            "点头"
+        ],
+        "usphone": "nɑːd",
+        "ukphone": "nɒd",
+        "sentence": "The emperor looks and nods.",
+        "sentenceTrans": "皇帝看了看，点点头。"
+    },
+    {
+        "name": "smile",
+        "trans": [
+            "笑容；微笑"
+        ],
+        "usphone": "smaɪl",
+        "ukphone": "smaɪl",
+        "sentence": "The girl smiles at her mother.",
+        "sentenceTrans": "女孩对妈妈微笑。"
+    },
+    {
+        "name": "money",
+        "trans": [
+            "钱"
+        ],
+        "usphone": "ˈmʌni",
+        "ukphone": "ˈmʌni",
+        "sentence": "I do not have enough money.",
+        "sentenceTrans": "我没有足够的钱。"
+    },
+    {
+        "name": "keep",
+        "trans": [
+            "保持"
+        ],
+        "usphone": "kiːp",
+        "ukphone": "kiːp",
+        "sentence": "Exercise can keep us healthy.",
+        "sentenceTrans": "运动能使我们保持健康。"
+    },
+    {
+        "name": "laugh",
+        "trans": [
+            "大笑"
+        ],
+        "usphone": "læf",
+        "ukphone": "lɑːf",
+        "sentence": "The children laugh at the funny story.",
+        "sentenceTrans": "孩子们被这个有趣的故事逗笑了。"
+    },
+    {
+        "name": "try…on",
+        "trans": [
+            "试穿（衣物）"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "May I try on these shoes?",
+        "sentenceTrans": "我可以试穿这双鞋吗？"
+    },
+    {
+        "name": "put…on",
+        "trans": [
+            "穿；戴"
+        ],
+        "usphone": "pʊt ɑːn",
+        "ukphone": "pʊt ɒn",
+        "sentence": "Put on your coat, please.",
+        "sentenceTrans": "请穿上外套。"
+    },
+    {
+        "name": "keep",
+        "trans": [
+            "quiet 保持安静"
+        ],
+        "usphone": "kiːp",
+        "ukphone": "kiːp",
+        "sentence": "Exercise can keep us healthy.",
+        "sentenceTrans": "运动能使我们保持健康。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a look 看一看"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "ill",
+        "trans": [
+            "生病的；不舒服"
+        ],
+        "usphone": "ɪl",
+        "ukphone": "ɪl",
+        "sentence": "Tom is ill today.",
+        "sentenceTrans": "汤姆今天病了。"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "name": "west",
+        "trans": [
+            "西；西部"
+        ],
+        "usphone": "west",
+        "ukphone": "west",
+        "sentence": "The sun goes down in the west.",
+        "sentenceTrans": "太阳从西边落下。"
+    },
+    {
+        "name": "south",
+        "trans": [
+            "南；南部"
+        ],
+        "usphone": "saʊθ",
+        "ukphone": "saʊθ",
+        "sentence": "The South China tiger is in danger.",
+        "sentenceTrans": "华南虎正面临危险。"
+    },
+    {
+        "name": "palace",
+        "trans": [
+            "王宫；宫殿"
+        ],
+        "usphone": "ˈpæləs",
+        "ukphone": "ˈpæləs",
+        "sentence": "Many tourists visit the palace.",
+        "sentenceTrans": "许多游客参观这座宫殿。"
+    },
+    {
+        "name": "most",
+        "trans": [
+            "大多数"
+        ],
+        "usphone": "moʊst",
+        "ukphone": "məʊst",
+        "sentence": "Most tourists visit the palace.",
+        "sentenceTrans": "大多数游客参观这座宫殿。"
+    },
+    {
+        "name": "tourist",
+        "trans": [
+            "游客"
+        ],
+        "usphone": "ˈtʊrɪst",
+        "ukphone": "ˈtʊərɪst",
+        "sentence": "The tourist takes a photo of the palace.",
+        "sentenceTrans": "游客给宫殿拍了一张照片。"
+    },
+    {
+        "name": "building",
+        "trans": [
+            "建筑物；楼房"
+        ],
+        "usphone": "ˈbɪldɪŋ",
+        "ukphone": "ˈbɪldɪŋ",
+        "sentence": "That tall building is a hotel.",
+        "sentenceTrans": "那栋高楼是一家旅馆。"
+    },
+    {
+        "name": "sushi",
+        "trans": [
+            "寿司"
+        ],
+        "usphone": "ˈsuːʃi",
+        "ukphone": "ˈsuːʃi",
+        "sentence": "Many tourists like sushi.",
+        "sentenceTrans": "许多游客喜欢寿司。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the north of 在…北部"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the east of 在…东部"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "air",
+        "trans": [
+            "空气"
+        ],
+        "usphone": "er",
+        "ukphone": "eə(r)",
+        "sentence": "We need fresh air.",
+        "sentenceTrans": "我们需要新鲜空气。"
+    },
+    {
+        "name": "everywhere",
+        "trans": [
+            "处处；到处"
+        ],
+        "usphone": "ˈevriwer",
+        "ukphone": "ˈevriweə(r)",
+        "sentence": "There is rubbish everywhere.",
+        "sentenceTrans": "到处都是垃圾。"
+    },
+    {
+        "name": "alive",
+        "trans": [
+            "活着的"
+        ],
+        "usphone": "əˈlaɪv",
+        "ukphone": "əˈlaɪv",
+        "sentence": "Water keeps the plant alive.",
+        "sentenceTrans": "水让植物活着。"
+    },
+    {
+        "name": "balloon",
+        "trans": [
+            "气球"
+        ],
+        "usphone": "bəˈluːn",
+        "ukphone": "bəˈluːn",
+        "sentence": "I have a red balloon.",
+        "sentenceTrans": "我有一个红气球。"
+    },
+    {
+        "name": "factory",
+        "trans": [
+            "工厂"
+        ],
+        "usphone": "ˈfækt(ə)ri",
+        "ukphone": "ˈfæktri; ˈfæktəri",
+        "sentence": "The factory is near the river.",
+        "sentenceTrans": "工厂在河边。"
+    },
+    {
+        "name": "smoke",
+        "trans": [
+            "烟"
+        ],
+        "usphone": "smoʊk",
+        "ukphone": "sməʊk",
+        "sentence": "Smoke can hurt our eyes.",
+        "sentenceTrans": "烟会伤害我们的眼睛。"
+    },
+    {
+        "name": "dirty",
+        "trans": [
+            "脏的"
+        ],
+        "usphone": "ˈdɜːrti",
+        "ukphone": "ˈdɜːti",
+        "sentence": "Factory smoke makes the air dirty.",
+        "sentenceTrans": "工厂的烟使空气变脏。"
+    },
+    {
+        "name": "clean",
+        "trans": [
+            "干净的；洁净的"
+        ],
+        "usphone": "kliːn",
+        "ukphone": "kliːn",
+        "sentence": "Clean the desk, please.",
+        "sentenceTrans": "请把书桌擦干净。"
+    },
+    {
+        "name": "hurt",
+        "trans": [
+            "感到痛"
+        ],
+        "usphone": "hɜːrt",
+        "ukphone": "hɜːt",
+        "sentence": "Do not touch it, or you may get hurt.",
+        "sentenceTrans": "不要碰它，否则你可能会受伤。"
+    },
+    {
+        "name": "fresh",
+        "trans": [
+            "清新的"
+        ],
+        "usphone": "freʃ",
+        "ukphone": "freʃ",
+        "sentence": "Trees keep the air fresh.",
+        "sentenceTrans": "树木使空气保持清新。"
+    }
+]

@@ -1,0 +1,4 @@
+# Static preview only (no source). A machine-level gitignore of *.json would
+# otherwise drop dictionaries and manifest.json from this repo.
+!*.json
+!**/*.json

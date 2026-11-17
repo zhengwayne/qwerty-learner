@@ -1,0 +1,202 @@
+[
+    {
+        "name": "thing",
+        "trans": [
+            "东西，物"
+        ],
+        "usphone": "θɪŋ",
+        "ukphone": "θɪŋ",
+        "sentence": "What is this thing?",
+        "sentenceTrans": "这个东西是什么？"
+    },
+    {
+        "name": "running",
+        "trans": [
+            "跑步"
+        ],
+        "usphone": "ˈrʌnɪŋ",
+        "ukphone": "ˈrʌnɪŋ",
+        "sentence": "The boy is running.",
+        "sentenceTrans": "这个男孩正在跑步。"
+    },
+    {
+        "name": "skating",
+        "trans": [
+            "滑冰，滑板"
+        ],
+        "usphone": "ˈskeɪtɪŋ",
+        "ukphone": "ˈskeɪtɪŋ",
+        "sentence": "I like skating.",
+        "sentenceTrans": "我喜欢滑冰。"
+    },
+    {
+        "name": "hopping",
+        "trans": [
+            "单脚跳行"
+        ],
+        "usphone": "ˈhɑːpɪŋ",
+        "ukphone": "ˈhɒpɪŋ",
+        "sentence": "The rabbit is hopping.",
+        "sentenceTrans": "这只兔子正在单脚跳。"
+    },
+    {
+        "name": "riding",
+        "trans": [
+            "驾驶，骑"
+        ],
+        "usphone": "ˈraɪdɪŋ",
+        "ukphone": "ˈraɪdɪŋ",
+        "sentence": "I like riding a bicycle.",
+        "sentenceTrans": "我喜欢骑自行车。"
+    },
+    {
+        "name": "skate",
+        "trans": [
+            "滑"
+        ],
+        "usphone": "skeɪt",
+        "ukphone": "skeɪt",
+        "sentence": "I can skate.",
+        "sentenceTrans": "我会滑冰。"
+    },
+    {
+        "name": "skipping",
+        "trans": [
+            "跳绳"
+        ],
+        "usphone": "ˈskɪpɪŋ",
+        "ukphone": "skɪpɪŋ",
+        "sentence": "I like skipping.",
+        "sentenceTrans": "我喜欢跳绳。"
+    },
+    {
+        "name": "flying",
+        "trans": [
+            "飞翔"
+        ],
+        "usphone": "ˈflaɪɪŋ",
+        "ukphone": "ˈflaɪɪŋ",
+        "sentence": "I like flying a kite.",
+        "sentenceTrans": "我喜欢放风筝。"
+    },
+    {
+        "name": "swimming",
+        "trans": [
+            "游泳"
+        ],
+        "usphone": "ˈswɪmɪŋ",
+        "ukphone": "ˈswɪmɪŋ",
+        "sentence": "I like swimming.",
+        "sentenceTrans": "我喜欢游泳。"
+    },
+    {
+        "name": "too",
+        "trans": [
+            "太，也"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː",
+        "sentence": "It is too cold.",
+        "sentenceTrans": "天太冷了。"
+    },
+    {
+        "name": "let's",
+        "trans": [
+            "让我们"
+        ],
+        "usphone": "lets",
+        "ukphone": "lets",
+        "sentence": "Let's play together.",
+        "sentenceTrans": "让我们一起玩吧。"
+    },
+    {
+        "name": "together",
+        "trans": [
+            "在一起，共同"
+        ],
+        "usphone": "təˈɡeðər",
+        "ukphone": "təˈɡeðə(r)",
+        "sentence": "Let's play together.",
+        "sentenceTrans": "让我们一起玩吧。"
+    },
+    {
+        "name": "would",
+        "trans": [
+            "like 愿意，喜欢"
+        ],
+        "usphone": "wʊd",
+        "ukphone": "wʊd",
+        "sentence": "I would like some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "some",
+        "trans": [
+            "一些"
+        ],
+        "usphone": "sʌm; səm",
+        "ukphone": "sʌm; səm",
+        "sentence": "I want some bread.",
+        "sentenceTrans": "我想要一些面包。"
+    },
+    {
+        "name": "salad",
+        "trans": [
+            "色拉"
+        ],
+        "usphone": "ˈsæləd",
+        "ukphone": "ˈsæləd",
+        "sentence": "I like fruit salad.",
+        "sentenceTrans": "我喜欢水果沙拉。"
+    },
+    {
+        "name": "sure",
+        "trans": [
+            "当然"
+        ],
+        "usphone": "ʃʊr",
+        "ukphone": "ʃʊə(r); ʃɔː(r)",
+        "sentence": "Sure, let's go.",
+        "sentenceTrans": "当然，我们走吧。"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "鱼，鱼肉"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ",
+        "sentence": "The fish can swim.",
+        "sentenceTrans": "鱼会游泳。"
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "鸡"
+        ],
+        "usphone": "ˈtʃɪkɪn",
+        "ukphone": "ˈtʃɪkɪn",
+        "sentence": "I see a chicken.",
+        "sentenceTrans": "我看见一只鸡。"
+    },
+    {
+        "name": "nice",
+        "trans": [
+            "令人愉快的"
+        ],
+        "usphone": "naɪs",
+        "ukphone": "naɪs",
+        "sentence": "The girl is nice.",
+        "sentenceTrans": "这个女孩很友好。"
+    },
+    {
+        "name": "zebra",
+        "trans": [
+            "斑马"
+        ],
+        "usphone": "ˈziːbrə",
+        "ukphone": "ˈzebrə",
+        "sentence": "I see a zebra.",
+        "sentenceTrans": "我看见一只斑马。"
+    }
+]

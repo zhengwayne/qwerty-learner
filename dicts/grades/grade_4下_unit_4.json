@@ -1,0 +1,192 @@
+[
+    {
+        "name": "tell",
+        "trans": [
+            "告诉"
+        ],
+        "usphone": "tel",
+        "ukphone": "tel",
+        "sentence": "Tell me, please.",
+        "sentenceTrans": "请告诉我。"
+    },
+    {
+        "name": "about",
+        "trans": [
+            "关于"
+        ],
+        "usphone": "əˈbaʊt",
+        "ukphone": "əˈbaʊt",
+        "sentence": "This book is about animals.",
+        "sentenceTrans": "这本书是关于动物的。"
+    },
+    {
+        "name": "basketball",
+        "trans": [
+            "篮球"
+        ],
+        "usphone": "ˈbæskɪtbɔːl",
+        "ukphone": "ˈbɑːskɪtbɔːl",
+        "sentence": "We play basketball after school.",
+        "sentenceTrans": "我们放学后打篮球。"
+    },
+    {
+        "name": "volleyball",
+        "trans": [
+            "排球"
+        ],
+        "usphone": "ˈvɑːlibɔːl",
+        "ukphone": "ˈvɒlibɔːl",
+        "sentence": "They play volleyball after school.",
+        "sentenceTrans": "他们放学后打排球。"
+    },
+    {
+        "name": "us",
+        "trans": [
+            "我们"
+        ],
+        "usphone": "ʌs; əs",
+        "ukphone": "ʌs; əs",
+        "sentence": "Please sing with us.",
+        "sentenceTrans": "请和我们一起唱歌。"
+    },
+    {
+        "name": "table",
+        "trans": [
+            "tennis 乒乓球运动"
+        ],
+        "usphone": "ˈteɪbl",
+        "ukphone": "ˈteɪb(ə)l",
+        "sentence": "The bottle is on the table.",
+        "sentenceTrans": "瓶子在桌子上。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "football 踢足球"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "basketball 打篮球"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "volleyball 打排球"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "wonderful",
+        "trans": [
+            "使人愉悦的；绝妙的"
+        ],
+        "usphone": "ˈwʌndərf(ə)l",
+        "ukphone": "ˈwʌndəf(ə)l",
+        "sentence": "The music is wonderful.",
+        "sentenceTrans": "这段音乐很美妙。"
+    },
+    {
+        "name": "violin",
+        "trans": [
+            "小提琴"
+        ],
+        "usphone": "ˌvaɪəˈlɪn",
+        "ukphone": "ˌvaɪəˈlɪn",
+        "sentence": "She can play the violin.",
+        "sentenceTrans": "她会拉小提琴。"
+    },
+    {
+        "name": "guitar",
+        "trans": [
+            "吉他"
+        ],
+        "usphone": "ɡɪˈtɑːr",
+        "ukphone": "ɡɪˈtɑː(r)",
+        "sentence": "My brother can play the guitar.",
+        "sentenceTrans": "我哥哥会弹吉他。"
+    },
+    {
+        "name": "whose",
+        "trans": [
+            "谁的"
+        ],
+        "usphone": "huːz",
+        "ukphone": "huːz",
+        "sentence": "Whose guitar is this?",
+        "sentenceTrans": "这是谁的吉他？"
+    },
+    {
+        "name": "piano",
+        "trans": [
+            "钢琴"
+        ],
+        "usphone": "piˈænoʊ",
+        "ukphone": "piˈænəʊ",
+        "sentence": "She can play the piano.",
+        "sentenceTrans": "她会弹钢琴。"
+    },
+    {
+        "name": "city",
+        "trans": [
+            "城市"
+        ],
+        "usphone": "ˈsɪti",
+        "ukphone": "ˈsɪti",
+        "sentence": "Shanghai is a big city.",
+        "sentenceTrans": "上海是一座大城市。"
+    },
+    {
+        "name": "bag",
+        "trans": [
+            "袋子"
+        ],
+        "usphone": "bæɡ",
+        "ukphone": "bæɡ",
+        "sentence": "My book is in the bag.",
+        "sentenceTrans": "我的书在包里。"
+    },
+    {
+        "name": "gold",
+        "trans": [
+            "金子"
+        ],
+        "usphone": "ɡoʊld",
+        "ukphone": "ɡəʊld",
+        "sentence": "The box is full of gold.",
+        "sentenceTrans": "盒子里装满了金子。"
+    },
+    {
+        "name": "all",
+        "trans": [
+            "全部；所有"
+        ],
+        "usphone": "ɔːl",
+        "ukphone": "ɔːl",
+        "sentence": "All the children are here.",
+        "sentenceTrans": "所有孩子都在这里。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "the violin 拉小提琴"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    }
+]

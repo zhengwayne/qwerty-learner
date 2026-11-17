@@ -1,0 +1,112 @@
+[
+    {
+        "name": "last",
+        "trans": [
+            "最后的"
+        ],
+        "usphone": "læst",
+        "ukphone": "lɑːst",
+        "sentence": "This is the last story.",
+        "sentenceTrans": "这是最后一个故事。"
+    },
+    {
+        "name": "firecracker",
+        "trans": [
+            "鞭炮；爆竹"
+        ],
+        "usphone": "ˈfaɪərkrækər",
+        "ukphone": "ˈfaɪəkrækə(r)",
+        "sentence": "I hear a firecracker.",
+        "sentenceTrans": "我听见爆竹声。"
+    },
+    {
+        "name": "mooncake",
+        "trans": [
+            "月饼"
+        ],
+        "usphone": "ˈmuːnkeɪk",
+        "ukphone": "ˈmu:nkeɪk",
+        "sentence": "We eat mooncakes at the festival.",
+        "sentenceTrans": "我们在节日里吃月饼。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "the end of 在…的最后"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "We sing a song at the end of the show.",
+        "sentenceTrans": "演出最后我们唱了一首歌。"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "巨人"
+        ],
+        "usphone": "ˈdʒaɪənt",
+        "ukphone": "ˈdʒaɪənt",
+        "sentence": "The giant lives behind the wall.",
+        "sentenceTrans": "巨人住在围墙后面。"
+    },
+    {
+        "name": "wall",
+        "trans": [
+            "墙；围墙"
+        ],
+        "usphone": "wɔːl",
+        "ukphone": "wɔːl",
+        "sentence": "There is a high wall around the garden.",
+        "sentenceTrans": "花园四周有一道高墙。"
+    },
+    {
+        "name": "kind",
+        "trans": [
+            "友好的；体贴的"
+        ],
+        "usphone": "kaɪnd",
+        "ukphone": "kaɪnd",
+        "sentence": "The old woman is kind to us.",
+        "sentenceTrans": "这位老妇人对我们很友好。"
+    },
+    {
+        "name": "through",
+        "trans": [
+            "穿过"
+        ],
+        "usphone": "θruː",
+        "ukphone": "θruː",
+        "sentence": "The giant walks through the village.",
+        "sentenceTrans": "巨人穿过村庄。"
+    },
+    {
+        "name": "no",
+        "trans": [
+            "entry 禁止进入"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "No, thank you.",
+        "sentenceTrans": "不用了，谢谢你。"
+    },
+    {
+        "name": "(be)kind",
+        "trans": [
+            "to… 对…友好"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Please be kind to animals.",
+        "sentenceTrans": "请善待动物。"
+    },
+    {
+        "name": "Knock",
+        "trans": [
+            "down 推倒；拆掉"
+        ],
+        "usphone": "nɑːk",
+        "ukphone": "nɒk",
+        "sentence": "The giant knocks down the wall.",
+        "sentenceTrans": "巨人推倒了围墙。"
+    }
+]

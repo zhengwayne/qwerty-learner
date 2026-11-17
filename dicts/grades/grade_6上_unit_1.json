@@ -1,0 +1,172 @@
+[
+    {
+        "name": "month",
+        "trans": [
+            "一个月的时间；月份"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "There are twelve months in a year.",
+        "sentenceTrans": "一年有十二个月。"
+    },
+    {
+        "name": "cute",
+        "trans": [
+            "可爱的"
+        ],
+        "usphone": "kjuːt",
+        "ukphone": "kjuːt",
+        "sentence": "The rabbit is cute.",
+        "sentenceTrans": "这只兔子很可爱。"
+    },
+    {
+        "name": "pretty",
+        "trans": [
+            "漂亮的"
+        ],
+        "usphone": "ˈprɪti",
+        "ukphone": "ˈprɪti",
+        "sentence": "The princess is pretty and kind.",
+        "sentenceTrans": "公主既漂亮又善良。"
+    },
+    {
+        "name": "handsome",
+        "trans": [
+            "英俊的；帅气的"
+        ],
+        "usphone": "ˈhænsəm",
+        "ukphone": "ˈhænsəm",
+        "sentence": "The young man is handsome.",
+        "sentenceTrans": "这个年轻人很英俊。"
+    },
+    {
+        "name": "turtle",
+        "trans": [
+            "乌龟"
+        ],
+        "usphone": "ˈtɜːrt(ə)l",
+        "ukphone": "ˈtɜːt(ə)l",
+        "sentence": "The turtle walks slowly.",
+        "sentenceTrans": "乌龟走得很慢。"
+    },
+    {
+        "name": "catch",
+        "trans": [
+            "逮住；捕捉"
+        ],
+        "usphone": "kætʃ",
+        "ukphone": "kætʃ",
+        "sentence": "The cat can catch the ball.",
+        "sentenceTrans": "猫能接住球。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "苍蝇"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "The bird can fly.",
+        "sentenceTrans": "这只鸟会飞。"
+    },
+    {
+        "name": "grow",
+        "trans": [
+            "up 长大；成长"
+        ],
+        "usphone": "ɡroʊ",
+        "ukphone": "ɡrəʊ",
+        "sentence": "I want to be a pilot when I grow up.",
+        "sentenceTrans": "我长大后想当飞行员。"
+    },
+    {
+        "name": "junior",
+        "trans": [
+            "high school 初级中学"
+        ],
+        "usphone": "ˈdʒuːniər",
+        "ukphone": "ˈdʒuːniə(r)",
+        "sentence": "My brother is in junior high school.",
+        "sentenceTrans": "我哥哥在上初中。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "born 出生"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I was born in Shanghai.",
+        "sentenceTrans": "我出生在上海。"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "著名的；出名的"
+        ],
+        "usphone": "ˈfeɪməs",
+        "ukphone": "ˈfeɪməs",
+        "sentence": "Shanghai is a famous city.",
+        "sentenceTrans": "上海是一座著名的城市。"
+    },
+    {
+        "name": "during",
+        "trans": [
+            "在…期间"
+        ],
+        "usphone": "ˈdʊrɪŋ",
+        "ukphone": "ˈdjʊərɪŋ",
+        "sentence": "We stayed home during the rain.",
+        "sentenceTrans": "下雨期间我们待在家里。"
+    },
+    {
+        "name": "spend",
+        "trans": [
+            "度过"
+        ],
+        "usphone": "spend",
+        "ukphone": "spend",
+        "sentence": "We spend summer in the countryside.",
+        "sentenceTrans": "我们在乡下度过夏天。"
+    },
+    {
+        "name": "everyone",
+        "trans": [
+            "每个人；所有人"
+        ],
+        "usphone": "ˈevriwʌn",
+        "ukphone": "ˈevriwʌn",
+        "sentence": "Everyone had fun in the countryside.",
+        "sentenceTrans": "每个人在乡下都玩得很开心。"
+    },
+    {
+        "name": "countryside",
+        "trans": [
+            "乡村；农村"
+        ],
+        "usphone": "ˈkʌntrisaɪd",
+        "ukphone": "ˈkʌntrisaɪd",
+        "sentence": "My grandparents live in the countryside.",
+        "sentenceTrans": "我的祖父母住在乡下。"
+    },
+    {
+        "name": "pick",
+        "trans": [
+            "采摘"
+        ],
+        "usphone": "pɪk",
+        "ukphone": "pɪk",
+        "sentence": "Pick a flower, please.",
+        "sentenceTrans": "请摘一朵花。"
+    },
+    {
+        "name": "summer",
+        "trans": [
+            "holiday 暑假"
+        ],
+        "usphone": "ˈsʌmər",
+        "ukphone": "ˈsʌmə(r)",
+        "sentence": "Summer is hot.",
+        "sentenceTrans": "夏天很热。"
+    }
+]

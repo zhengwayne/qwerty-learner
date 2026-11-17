@@ -1,0 +1,192 @@
+[
+    {
+        "name": "why",
+        "trans": [
+            "为什么"
+        ],
+        "usphone": "waɪ",
+        "ukphone": "waɪ",
+        "sentence": "Why do wild geese move?",
+        "sentenceTrans": "大雁为什么迁徙？"
+    },
+    {
+        "name": "because",
+        "trans": [
+            "因为"
+        ],
+        "usphone": "bɪˈkəz, bɪˈkɔːz",
+        "ukphone": "bɪˈkəz; bɪˈkɒz",
+        "sentence": "I stay home because I am ill.",
+        "sentenceTrans": "我因为生病待在家里。"
+    },
+    {
+        "name": "study",
+        "trans": [
+            "书房；学习"
+        ],
+        "usphone": "ˈstʌdi",
+        "ukphone": "ˈstʌdi",
+        "sentence": "Dad reads in the study.",
+        "sentenceTrans": "爸爸在书房看书。"
+    },
+    {
+        "name": "dining",
+        "trans": [
+            "room 餐室；餐厅"
+        ],
+        "usphone": "ˈdaɪnɪŋ",
+        "ukphone": "ˈdaɪnɪŋ",
+        "sentence": "We have dinner in the dining room.",
+        "sentenceTrans": "我们在餐厅吃晚饭。"
+    },
+    {
+        "name": "wild",
+        "trans": [
+            "goose 大雁"
+        ],
+        "usphone": "waɪld",
+        "ukphone": "waɪld",
+        "sentence": "The tiger is a wild animal.",
+        "sentenceTrans": "老虎是野生动物。"
+    },
+    {
+        "name": "change",
+        "trans": [
+            "改变；变化"
+        ],
+        "usphone": "tʃeɪndʒ",
+        "ukphone": "tʃeɪndʒ",
+        "sentence": "Wild geese change their homes twice a year.",
+        "sentenceTrans": "大雁每年迁居两次。"
+    },
+    {
+        "name": "place",
+        "trans": [
+            "地方"
+        ],
+        "usphone": "pleɪs",
+        "ukphone": "pleɪs",
+        "sentence": "This is a quiet place.",
+        "sentenceTrans": "这是一个安静的地方。"
+    },
+    {
+        "name": "twice",
+        "trans": [
+            "两次"
+        ],
+        "usphone": "twaɪs",
+        "ukphone": "twaɪs",
+        "sentence": "I visit my grandparents twice a week.",
+        "sentenceTrans": "我每周看望祖父母两次。"
+    },
+    {
+        "name": "every",
+        "trans": [
+            "每；每个"
+        ],
+        "usphone": "ˈevri",
+        "ukphone": "ˈevri",
+        "sentence": "I read every day.",
+        "sentenceTrans": "我每天阅读。"
+    },
+    {
+        "name": "north",
+        "trans": [
+            "北方；向北"
+        ],
+        "usphone": "nɔːrθ",
+        "ukphone": "nɔːθ",
+        "sentence": "Wild geese fly north in spring.",
+        "sentenceTrans": "大雁春天向北飞。"
+    },
+    {
+        "name": "south",
+        "trans": [
+            "南方；向南"
+        ],
+        "usphone": "saʊθ",
+        "ukphone": "saʊθ",
+        "sentence": "Wild geese fly south in autumn.",
+        "sentenceTrans": "大雁秋天向南飞。"
+    },
+    {
+        "name": "enough",
+        "trans": [
+            "足够的"
+        ],
+        "usphone": "ɪˈnʌf",
+        "ukphone": "ɪˈnʌf",
+        "sentence": "We have enough food for everyone.",
+        "sentenceTrans": "我们有足够大家吃的食物。"
+    },
+    {
+        "name": "then",
+        "trans": [
+            "然后"
+        ],
+        "usphone": "ðen",
+        "ukphone": "ðen",
+        "sentence": "Turn left, and then walk straight.",
+        "sentenceTrans": "左转，然后直走。"
+    },
+    {
+        "name": "all",
+        "trans": [
+            "day 一天到晚"
+        ],
+        "usphone": "ɔːl",
+        "ukphone": "ɔːl",
+        "sentence": "The machine works all day.",
+        "sentenceTrans": "这台机器整天工作。"
+    },
+    {
+        "name": "future",
+        "trans": [
+            "将来；未来"
+        ],
+        "usphone": "ˈfjuːtʃər",
+        "ukphone": "ˈfjuːtʃə(r)",
+        "sentence": "I want to be a pilot in the future.",
+        "sentenceTrans": "我将来想当飞行员。"
+    },
+    {
+        "name": "stand",
+        "trans": [
+            "站；站住"
+        ],
+        "usphone": "stænd",
+        "ukphone": "stænd",
+        "sentence": "Stand up, please.",
+        "sentenceTrans": "请站起来。"
+    },
+    {
+        "name": "machine",
+        "trans": [
+            "机器"
+        ],
+        "usphone": "məˈʃiːn",
+        "ukphone": "məˈʃiːn",
+        "sentence": "This machine can help farmers.",
+        "sentenceTrans": "这台机器能帮助农民。"
+    },
+    {
+        "name": "will",
+        "trans": [
+            "将；将会"
+        ],
+        "usphone": "wɪl",
+        "ukphone": "wɪl",
+        "sentence": "We will visit the island tomorrow.",
+        "sentenceTrans": "我们明天将游览这座岛。"
+    },
+    {
+        "name": "exercise",
+        "trans": [
+            "运动；锻炼；活动"
+        ],
+        "usphone": "ˈeksərsaɪz",
+        "ukphone": "ˈeksəsaɪz",
+        "sentence": "Morning exercise is good for us.",
+        "sentenceTrans": "晨练对我们有好处。"
+    }
+]

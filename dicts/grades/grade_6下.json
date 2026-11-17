@@ -1,0 +1,1372 @@
+[
+    {
+        "name": "weigh",
+        "trans": [
+            "有…重；重"
+        ],
+        "usphone": "weɪ",
+        "ukphone": "weɪ",
+        "sentence": "How much does the baby weigh?",
+        "sentenceTrans": "这个宝宝有多重？"
+    },
+    {
+        "name": "kilogram",
+        "trans": [
+            "千克；公斤"
+        ],
+        "usphone": "ˈkɪləɡræm",
+        "ukphone": "ˈkɪləɡræm",
+        "sentence": "The baby weighs four kilograms.",
+        "sentenceTrans": "这个宝宝重四公斤。"
+    },
+    {
+        "name": "centimetre",
+        "trans": [
+            "厘米"
+        ],
+        "usphone": "ˈsentɪmiːtər",
+        "ukphone": "ˈsentɪmiːtə(r)",
+        "sentence": "The plant is ten centimetres tall.",
+        "sentenceTrans": "这株植物有十厘米高。"
+    },
+    {
+        "name": "taller",
+        "trans": [
+            "更高的"
+        ],
+        "usphone": "ˈtɔːlər",
+        "ukphone": "ˈtɔ:lə(r)",
+        "sentence": "Joe is taller than his brother.",
+        "sentenceTrans": "乔比他的弟弟高。"
+    },
+    {
+        "name": "fan",
+        "trans": [
+            "迷；爱好者"
+        ],
+        "usphone": "fæn",
+        "ukphone": "fæn",
+        "sentence": "I am a big fan of this writer.",
+        "sentenceTrans": "我是这位作家的忠实读者。"
+    },
+    {
+        "name": "fantastic",
+        "trans": [
+            "极好的"
+        ],
+        "usphone": "fænˈtæstɪk",
+        "ukphone": "fænˈtæstɪk",
+        "sentence": "The theatre show is fantastic.",
+        "sentenceTrans": "这场剧院演出棒极了。"
+    },
+    {
+        "name": "themselves",
+        "trans": [
+            "他们自己；她们自己；它们自己"
+        ],
+        "usphone": "ðəmˈselvz",
+        "ukphone": "ðəmˈselvz",
+        "sentence": "They made the film themselves.",
+        "sentenceTrans": "他们自己制作了这部电影。"
+    },
+    {
+        "name": "theatre",
+        "trans": [
+            "剧院"
+        ],
+        "usphone": "ˈθiːətər",
+        "ukphone": "ˈθɪətə(r)",
+        "sentence": "We see a show at the theatre.",
+        "sentenceTrans": "我们在剧院看演出。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "fishing 去钓鱼"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "We go fishing at the weekend.",
+        "sentenceTrans": "我们周末去钓鱼。"
+    },
+    {
+        "name": "enjoy",
+        "trans": [
+            "oneself 玩得愉快；得到乐趣"
+        ],
+        "usphone": "ɪnˈdʒɔɪ",
+        "ukphone": "ɪnˈdʒɔɪ",
+        "sentence": "They enjoyed themselves at the theatre.",
+        "sentenceTrans": "他们在剧院玩得很开心。"
+    },
+    {
+        "name": "get…in",
+        "trans": [
+            "收割"
+        ],
+        "usphone": "ɡet ɪn",
+        "ukphone": "",
+        "sentence": "Farmers get in the crops in autumn.",
+        "sentenceTrans": "农民在秋天收割庄稼。"
+    },
+    {
+        "name": "life",
+        "trans": [
+            "生活"
+        ],
+        "usphone": "laɪf",
+        "ukphone": "laɪf",
+        "sentence": "The film is about village life.",
+        "sentenceTrans": "这部电影讲述乡村生活。"
+    },
+    {
+        "name": "writer",
+        "trans": [
+            "作家"
+        ],
+        "usphone": "ˈraɪtər",
+        "ukphone": "ˈraɪtə(r)",
+        "sentence": "She wants to be a writer.",
+        "sentenceTrans": "她想成为一名作家。"
+    },
+    {
+        "name": "photographer",
+        "trans": [
+            "摄影师"
+        ],
+        "usphone": "fəˈtɑːɡrəfər",
+        "ukphone": "fəˈtɒɡrəfə(r)",
+        "sentence": "The photographer uses a digital camera.",
+        "sentenceTrans": "摄影师使用数码相机。"
+    },
+    {
+        "name": "film",
+        "trans": [
+            "胶卷"
+        ],
+        "usphone": "fɪlm",
+        "ukphone": "fɪlm",
+        "sentence": "We see a film at the weekend.",
+        "sentenceTrans": "我们周末看电影。"
+    },
+    {
+        "name": "digital",
+        "trans": [
+            "数码的"
+        ],
+        "usphone": "ˈdɪdʒɪt(ə)l",
+        "ukphone": "ˈdɪdʒɪt(ə)l",
+        "sentence": "This is a digital camera.",
+        "sentenceTrans": "这是一台数码相机。"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "cleaner 环卫工人"
+        ],
+        "usphone": "striːt",
+        "ukphone": "striːt",
+        "sentence": "The street cleaner sweeps the road.",
+        "sentenceTrans": "环卫工人清扫马路。"
+    },
+    {
+        "name": "sweep",
+        "trans": [
+            "扫地"
+        ],
+        "usphone": "swiːp",
+        "ukphone": "swiːp",
+        "sentence": "The cleaner sweeps the street every morning.",
+        "sentenceTrans": "环卫工人每天早上清扫街道。"
+    },
+    {
+        "name": "broom",
+        "trans": [
+            "扫帚"
+        ],
+        "usphone": "bruːm",
+        "ukphone": "bruːm",
+        "sentence": "The cleaner sweeps with a broom.",
+        "sentenceTrans": "环卫工人用扫帚扫地。"
+    },
+    {
+        "name": "drive",
+        "trans": [
+            "驾驶"
+        ],
+        "usphone": "draɪv",
+        "ukphone": "draɪv",
+        "sentence": "His wife can drive a truck.",
+        "sentenceTrans": "他的妻子会开卡车。"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "sweeper 扫地车"
+        ],
+        "usphone": "striːt",
+        "ukphone": "striːt",
+        "sentence": "The street cleaner sweeps the road.",
+        "sentenceTrans": "环卫工人清扫马路。"
+    },
+    {
+        "name": "wife",
+        "trans": [
+            "妻子"
+        ],
+        "usphone": "waɪf",
+        "ukphone": "waɪf",
+        "sentence": "The driver and his wife are poor.",
+        "sentenceTrans": "司机和他的妻子很贫穷。"
+    },
+    {
+        "name": "poor",
+        "trans": [
+            "贫穷的；差的；次的"
+        ],
+        "usphone": "pʊr",
+        "ukphone": "pɔː(r); pʊə(r)",
+        "sentence": "The poor wolf has no food.",
+        "sentenceTrans": "这只可怜的狼没有食物。"
+    },
+    {
+        "name": "fairy",
+        "trans": [
+            "仙子；小精灵"
+        ],
+        "usphone": "ˈferi",
+        "ukphone": "ˈfeəri",
+        "sentence": "The fairy gives him three wishes.",
+        "sentenceTrans": "仙子给了他三个愿望。"
+    },
+    {
+        "name": "wish",
+        "trans": [
+            "愿望；祝愿"
+        ],
+        "usphone": "wɪʃ",
+        "ukphone": "wɪʃ",
+        "sentence": "The fairy gives him a wish.",
+        "sentenceTrans": "仙子给了他一个愿望。"
+    },
+    {
+        "name": "by",
+        "trans": [
+            "hand 用手"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ",
+        "sentence": "The craftsman makes it by hand.",
+        "sentenceTrans": "工匠手工制作它。"
+    },
+    {
+        "name": "right",
+        "trans": [
+            "away 立即；马上"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "Please come here right away.",
+        "sentenceTrans": "请马上到这里来。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "a short time 很快"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The letter arrived in a short time.",
+        "sentenceTrans": "信很快就到了。"
+    },
+    {
+        "name": "carry",
+        "trans": [
+            "背；提；拿"
+        ],
+        "usphone": "ˈkæri",
+        "ukphone": "ˈkæri",
+        "sentence": "I carry my bag to school.",
+        "sentenceTrans": "我背着书包去学校。"
+    },
+    {
+        "name": "online",
+        "trans": [
+            "在线地；在线的"
+        ],
+        "usphone": "ˌɑːnˈlaɪn",
+        "ukphone": "ˌɒnˈlaɪn",
+        "sentence": "We can read books online.",
+        "sentenceTrans": "我们可以在线阅读书籍。"
+    },
+    {
+        "name": "head",
+        "trans": [
+            "teacher 校长"
+        ],
+        "usphone": "hed",
+        "ukphone": "hed",
+        "sentence": "Our head teacher is very kind.",
+        "sentenceTrans": "我们的校长很友善。"
+    },
+    {
+        "name": "ps",
+        "trans": [
+            "附言（用于信末）"
+        ],
+        "usphone": "ˌpiː ˈes",
+        "ukphone": "ˌpiː ˈes",
+        "sentence": "I add a short note after PS.",
+        "sentenceTrans": "我在附言后加了一句简短的话。"
+    },
+    {
+        "name": "mountain",
+        "trans": [
+            "山；山脉"
+        ],
+        "usphone": "ˈmaʊnt(ə)n",
+        "ukphone": "ˈmaʊntən",
+        "sentence": "The mountain is even taller now.",
+        "sentenceTrans": "这座山现在甚至更高了。"
+    },
+    {
+        "name": "even",
+        "trans": [
+            "甚至"
+        ],
+        "usphone": "ˈiːv(ə)n",
+        "ukphone": "ˈiːv(ə)n",
+        "sentence": "We can even see the moon.",
+        "sentenceTrans": "我们甚至能看到月球。"
+    },
+    {
+        "name": "space",
+        "trans": [
+            "太空"
+        ],
+        "usphone": "speɪs",
+        "ukphone": "speɪs",
+        "sentence": "People want to travel in space.",
+        "sentenceTrans": "人们想在太空旅行。"
+    },
+    {
+        "name": "dinosaur",
+        "trans": [
+            "恐龙"
+        ],
+        "usphone": "ˈdaɪnəsɔːr",
+        "ukphone": "ˈdaɪnəsɔː(r)",
+        "sentence": "We saw a dinosaur model at the museum.",
+        "sentenceTrans": "我们在博物馆看到了恐龙模型。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "piece of 一张；一片"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I need a piece of paper.",
+        "sentenceTrans": "我需要一张纸。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a picnic 去野餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "We have a picnic by the lake.",
+        "sentenceTrans": "我们在湖边野餐。"
+    },
+    {
+        "name": "better",
+        "trans": [
+            "and better 越来越好"
+        ],
+        "usphone": "ˈbetər",
+        "ukphone": "ˈbetə(r)",
+        "sentence": "My English is getting better and better.",
+        "sentenceTrans": "我的英语越来越好了。"
+    },
+    {
+        "name": "oil",
+        "trans": [
+            "没"
+        ],
+        "usphone": "ɔɪl",
+        "ukphone": "ɔɪl",
+        "sentence": "The machine needs some oil.",
+        "sentenceTrans": "这台机器需要一些油。"
+    },
+    {
+        "name": "oil",
+        "trans": [
+            "painting 油画"
+        ],
+        "usphone": "ɔɪl",
+        "ukphone": "ɔɪl",
+        "sentence": "The machine needs some oil.",
+        "sentenceTrans": "这台机器需要一些油。"
+    },
+    {
+        "name": "powerful",
+        "trans": [
+            "强有力的；力量大的"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "This truck has a powerful engine.",
+        "sentenceTrans": "这辆卡车有强劲的发动机。"
+    },
+    {
+        "name": "ink",
+        "trans": [
+            "墨水；墨汁"
+        ],
+        "usphone": "ɪŋk",
+        "ukphone": "ɪŋk",
+        "sentence": "The artist paints with black ink.",
+        "sentenceTrans": "画家用黑墨作画。"
+    },
+    {
+        "name": "Chinese",
+        "trans": [
+            "ink painting 中国水墨画"
+        ],
+        "usphone": "ˌtʃaɪˈniːz",
+        "ukphone": "ˌtʃaɪˈniːz",
+        "sentence": "This is a Chinese ink painting.",
+        "sentenceTrans": "这是一幅中国水墨画。"
+    },
+    {
+        "name": "brush",
+        "trans": [
+            "画笔；刷子；刷"
+        ],
+        "usphone": "brʌʃ",
+        "ukphone": "brʌʃ",
+        "sentence": "The artist uses a Chinese brush.",
+        "sentenceTrans": "画家使用中国毛笔。"
+    },
+    {
+        "name": "paints",
+        "trans": [
+            "绘画颜料"
+        ],
+        "usphone": "peɪnts",
+        "ukphone": "peɪnts",
+        "sentence": "The artist has many paints.",
+        "sentenceTrans": "这位画家有很多颜料。"
+    },
+    {
+        "name": "artist",
+        "trans": [
+            "艺术家；画家"
+        ],
+        "usphone": "ˈɑːrtɪst",
+        "ukphone": "ˈɑːtɪst",
+        "sentence": "The artist paints with a brush.",
+        "sentenceTrans": "画家用画笔作画。"
+    },
+    {
+        "name": "unhappy",
+        "trans": [
+            "不高兴的"
+        ],
+        "usphone": "ʌnˈhæpi",
+        "ukphone": "ʌnˈhæpi",
+        "sentence": "The artist is unhappy with his picture.",
+        "sentenceTrans": "画家对自己的画不满意。"
+    },
+    {
+        "name": "carefully",
+        "trans": [
+            "仔细地"
+        ],
+        "usphone": "ˈkerfəli",
+        "ukphone": "ˈkeəfəli",
+        "sentence": "The artist paints carefully.",
+        "sentenceTrans": "画家认真地作画。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "the left 在左边"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "The vase is on the left.",
+        "sentenceTrans": "花瓶在左边。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "the right 在右边"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "The vase is on the left.",
+        "sentenceTrans": "花瓶在左边。"
+    },
+    {
+        "name": "all",
+        "trans": [
+            "the time 一直；始终"
+        ],
+        "usphone": "ɔːl",
+        "ukphone": "ɔːl",
+        "sentence": "He talks to himself all the time.",
+        "sentenceTrans": "他一直自言自语。"
+    },
+    {
+        "name": "craft",
+        "trans": [
+            "手艺；工艺"
+        ],
+        "usphone": "kræft",
+        "ukphone": "krɑːft",
+        "sentence": "Paper cutting is a Chinese craft.",
+        "sentenceTrans": "剪纸是一门中国手艺。"
+    },
+    {
+        "name": "crown",
+        "trans": [
+            "王冠；皇冠"
+        ],
+        "usphone": "kraʊn",
+        "ukphone": "kraʊn",
+        "sentence": "We make a crown with paper.",
+        "sentenceTrans": "我们用纸做一顶王冠。"
+    },
+    {
+        "name": "scissors",
+        "trans": [
+            "剪刀"
+        ],
+        "usphone": "ˈsɪzərz",
+        "ukphone": "ˈsɪzəz",
+        "sentence": "Cut the paper with scissors.",
+        "sentenceTrans": "用剪刀剪纸。"
+    },
+    {
+        "name": "tape",
+        "trans": [
+            "胶带"
+        ],
+        "usphone": "teɪp",
+        "ukphone": "teɪp",
+        "sentence": "Use tape to hold the box closed.",
+        "sentenceTrans": "用胶带封住盒子。"
+    },
+    {
+        "name": "glue",
+        "trans": [
+            "胶水"
+        ],
+        "usphone": "ɡluː",
+        "ukphone": "ɡluː",
+        "sentence": "Use glue to stick the paper.",
+        "sentenceTrans": "用胶水粘住纸张。"
+    },
+    {
+        "name": "saw",
+        "trans": [
+            "锯"
+        ],
+        "usphone": "sɔː",
+        "ukphone": "sɔː",
+        "sentence": "The craftsman cuts wood with a saw.",
+        "sentenceTrans": "工匠用锯子锯木头。"
+    },
+    {
+        "name": "craftsman",
+        "trans": [
+            "工匠；手艺人"
+        ],
+        "usphone": "ˈkræftsmən",
+        "ukphone": "ˈkrɑːftsmən",
+        "sentence": "The craftsman makes a model house.",
+        "sentenceTrans": "工匠制作了一座房子模型。"
+    },
+    {
+        "name": "tool",
+        "trans": [
+            "工具"
+        ],
+        "usphone": "tuːl",
+        "ukphone": "tuːl",
+        "sentence": "A saw is a useful tool.",
+        "sentenceTrans": "锯子是一种有用的工具。"
+    },
+    {
+        "name": "easily",
+        "trans": [
+            "容易地"
+        ],
+        "usphone": "ˈiːzəli",
+        "ukphone": "ˈiːzəli",
+        "sentence": "He makes the model easily.",
+        "sentenceTrans": "他很容易就做好了模型。"
+    },
+    {
+        "name": "himself",
+        "trans": [
+            "他自己"
+        ],
+        "usphone": "hɪmˈself",
+        "ukphone": "hɪmˈself",
+        "sentence": "He makes the model himself.",
+        "sentenceTrans": "他自己制作这个模型。"
+    },
+    {
+        "name": "still",
+        "trans": [
+            "仍然"
+        ],
+        "usphone": "stɪl",
+        "ukphone": "stɪl",
+        "sentence": "He is still working on the model.",
+        "sentenceTrans": "他仍在制作模型。"
+    },
+    {
+        "name": "model",
+        "trans": [
+            "house 房子模型"
+        ],
+        "usphone": "ˈmɑːd(ə)l",
+        "ukphone": "ˈmɒd(ə)l",
+        "sentence": "The craftsman makes a model house.",
+        "sentenceTrans": "工匠制作了一座房子模型。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "long tome ago 很久以前"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I need a piece of paper.",
+        "sentenceTrans": "我需要一张纸。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "work 忙着（做事情）"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "The craftsman is at work.",
+        "sentenceTrans": "工匠正在忙着工作。"
+    },
+    {
+        "name": "say",
+        "trans": [
+            "to oneself 自言自语"
+        ],
+        "usphone": "seɪ",
+        "ukphone": "seɪ",
+        "sentence": "He says to himself, 'I can do it.'",
+        "sentenceTrans": "他自言自语道：“我能做到。”"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "race 长跑"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "He wants to win the long race.",
+        "sentenceTrans": "他想赢得长跑比赛。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "race 短跑"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "She wins the short race.",
+        "sentenceTrans": "她赢得了短跑比赛。"
+    },
+    {
+        "name": "win",
+        "trans": [
+            "获胜；赢"
+        ],
+        "usphone": "wɪn",
+        "ukphone": "wɪn",
+        "sentence": "Our team wants to win the race.",
+        "sentenceTrans": "我们队想赢得比赛。"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "jump 跳远"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "He wants to win the long race.",
+        "sentenceTrans": "他想赢得长跑比赛。"
+    },
+    {
+        "name": "high",
+        "trans": [
+            "jump 跳高"
+        ],
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "sentence": "She can do the high jump.",
+        "sentenceTrans": "她会跳高。"
+    },
+    {
+        "name": "swimsuit",
+        "trans": [
+            "游泳衣"
+        ],
+        "usphone": "ˈswɪmsuːt",
+        "ukphone": "ˈswɪmsuːt",
+        "sentence": "Put on your swimsuit before swimming.",
+        "sentenceTrans": "游泳前穿上泳衣。"
+    },
+    {
+        "name": "swimming",
+        "trans": [
+            "cap 游泳帽"
+        ],
+        "usphone": "ˈswɪmɪŋ",
+        "ukphone": "ˈswɪmɪŋ",
+        "sentence": "Remember your swimming cap.",
+        "sentenceTrans": "记得带上泳帽。"
+    },
+    {
+        "name": "swimming",
+        "trans": [
+            "pool 游泳池"
+        ],
+        "usphone": "ˈswɪmɪŋ",
+        "ukphone": "ˈswɪmɪŋ",
+        "sentence": "Remember your swimming cap.",
+        "sentenceTrans": "记得带上泳帽。"
+    },
+    {
+        "name": "warm-up",
+        "trans": [
+            "准备活动；热身练习"
+        ],
+        "usphone": "ˈwɔːrm ʌp",
+        "ukphone": "ˈwɔːm ʌp",
+        "sentence": "We do warm-up exercises before running.",
+        "sentenceTrans": "跑步前我们做热身运动。"
+    },
+    {
+        "name": "fit",
+        "trans": [
+            "健壮的"
+        ],
+        "usphone": "fɪt",
+        "ukphone": "fɪt",
+        "sentence": "Warm-up exercise keeps us fit.",
+        "sentenceTrans": "热身运动使我们保持健壮。"
+    },
+    {
+        "name": "swimming",
+        "trans": [
+            "goggles 游泳镜"
+        ],
+        "usphone": "ˈswɪmɪŋ",
+        "ukphone": "ˈswɪmɪŋ",
+        "sentence": "Remember your swimming cap.",
+        "sentenceTrans": "记得带上泳帽。"
+    },
+    {
+        "name": "bell",
+        "trans": [
+            "铃铛"
+        ],
+        "usphone": "bel",
+        "ukphone": "bel",
+        "sentence": "The cat has a bell on its neck.",
+        "sentenceTrans": "猫的脖子上有一个铃铛。"
+    },
+    {
+        "name": "neck",
+        "trans": [
+            "脖子"
+        ],
+        "usphone": "nek",
+        "ukphone": "nek",
+        "sentence": "The scarf is around her neck.",
+        "sentenceTrans": "围巾围在她的脖子上。"
+    },
+    {
+        "name": "ago",
+        "trans": [
+            "以前"
+        ],
+        "usphone": "əˈɡoʊ",
+        "ukphone": "əˈɡəʊ",
+        "sentence": "I met him two years ago.",
+        "sentenceTrans": "我两年前见过他。"
+    },
+    {
+        "name": "gatekeeper",
+        "trans": [
+            "门卫"
+        ],
+        "usphone": "ˈɡeɪtkiːpər",
+        "ukphone": "ˈɡeɪtkiːpə(r)",
+        "sentence": "The gatekeeper stops the boy.",
+        "sentenceTrans": "门卫拦住了男孩。"
+    },
+    {
+        "name": "praise",
+        "trans": [
+            "赞扬；称赞"
+        ],
+        "usphone": "preɪz",
+        "ukphone": "preɪz",
+        "sentence": "The teacher praises him for helping others.",
+        "sentenceTrans": "老师因他帮助别人而表扬他。"
+    },
+    {
+        "name": "praise…for…",
+        "trans": [
+            "因…而表扬…"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The teacher praises him for helping others.",
+        "sentenceTrans": "老师因他帮助别人而表扬他。"
+    },
+    {
+        "name": "sign",
+        "trans": [
+            "标识"
+        ],
+        "usphone": "saɪn",
+        "ukphone": "saɪn",
+        "sentence": "This sign means no smoking.",
+        "sentenceTrans": "这个标识表示禁止吸烟。"
+    },
+    {
+        "name": "middle",
+        "trans": [
+            "中间；中部；中心"
+        ],
+        "usphone": "ˈmɪd(ə)l",
+        "ukphone": "ˈmɪd(ə)l",
+        "sentence": "There is a sign in the middle of the path.",
+        "sentenceTrans": "小路中间有一个标识。"
+    },
+    {
+        "name": "special",
+        "trans": [
+            "特别的"
+        ],
+        "usphone": "ˈspeʃ(ə)l",
+        "ukphone": "ˈspeʃ(ə)l",
+        "sentence": "This is a special path.",
+        "sentenceTrans": "这是一条特别的小路。"
+    },
+    {
+        "name": "path",
+        "trans": [
+            "小路；小径"
+        ],
+        "usphone": "pæθ",
+        "ukphone": "pɑːθ",
+        "sentence": "Follow the path through the forest.",
+        "sentenceTrans": "沿着小路穿过森林。"
+    },
+    {
+        "name": "may",
+        "trans": [
+            "可能；可以"
+        ],
+        "usphone": "meɪ",
+        "ukphone": "meɪ",
+        "sentence": "May is after April.",
+        "sentenceTrans": "五月在四月之后。"
+    },
+    {
+        "name": "lost",
+        "trans": [
+            "迷路的；迷失的"
+        ],
+        "usphone": "lɔːst",
+        "ukphone": "lɒst",
+        "sentence": "We are lost in the forest.",
+        "sentenceTrans": "我们在森林里迷路了。"
+    },
+    {
+        "name": "worry",
+        "trans": [
+            "担心"
+        ],
+        "usphone": "ˈwɜːri",
+        "ukphone": "ˈwʌri",
+        "sentence": "Do not worry; follow me.",
+        "sentenceTrans": "别担心，跟着我。"
+    },
+    {
+        "name": "follow",
+        "trans": [
+            "跟随；跟着"
+        ],
+        "usphone": "ˈfɑːloʊ",
+        "ukphone": "ˈfɒləʊ",
+        "sentence": "Follow this path to the lake.",
+        "sentenceTrans": "沿着这条小路走到湖边。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the moddle 在中间"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The letter arrived in a short time.",
+        "sentenceTrans": "信很快就到了。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "out 小心；当心"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look out! A truck is coming.",
+        "sentenceTrans": "小心！一辆卡车开过来了。"
+    },
+    {
+        "name": "no",
+        "trans": [
+            "smoking 禁止吸烟"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "The sign means no smoking.",
+        "sentenceTrans": "这个标识表示禁止吸烟。"
+    },
+    {
+        "name": "no",
+        "trans": [
+            "swimming 禁止游泳"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "The sign means no smoking.",
+        "sentenceTrans": "这个标识表示禁止吸烟。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "lost 迷路"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Follow the signs, or you may get lost.",
+        "sentenceTrans": "跟着标识走，否则你可能迷路。"
+    },
+    {
+        "name": "some",
+        "trans": [
+            "time 一段时间"
+        ],
+        "usphone": "sʌm; səm",
+        "ukphone": "sʌm; səm",
+        "sentence": "We stayed there for some time.",
+        "sentenceTrans": "我们在那里待了一段时间。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "the way 在路上"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "The vase is on the left.",
+        "sentenceTrans": "花瓶在左边。"
+    },
+    {
+        "name": "reuse",
+        "trans": [
+            "重新利用"
+        ],
+        "usphone": "ˌriːˈjuːz",
+        "ukphone": "ˌriːˈjuːz",
+        "sentence": "We can reuse old envelopes.",
+        "sentenceTrans": "我们可以重复使用旧信封。"
+    },
+    {
+        "name": "can",
+        "trans": [
+            "金属罐"
+        ],
+        "usphone": "kæn; kən",
+        "ukphone": "kæn; kən",
+        "sentence": "We can reuse this metal can.",
+        "sentenceTrans": "我们可以重复利用这个金属罐。"
+    },
+    {
+        "name": "rubber",
+        "trans": [
+            "橡皮"
+        ],
+        "usphone": "ˈrʌbər",
+        "ukphone": "ˈrʌbə(r)",
+        "sentence": "This is my rubber.",
+        "sentenceTrans": "这是我的橡皮。"
+    },
+    {
+        "name": "vase",
+        "trans": [
+            "花瓶"
+        ],
+        "usphone": "veɪs",
+        "ukphone": "vɑːz",
+        "sentence": "We make a vase from a bottle.",
+        "sentenceTrans": "我们用瓶子做花瓶。"
+    },
+    {
+        "name": "pen",
+        "trans": [
+            "holder 笔筒"
+        ],
+        "usphone": "pen",
+        "ukphone": "pen",
+        "sentence": "This is my pen.",
+        "sentenceTrans": "这是我的钢笔。"
+    },
+    {
+        "name": "envelope",
+        "trans": [
+            "信封"
+        ],
+        "usphone": "ˈenvəloʊp",
+        "ukphone": "ˈenvələʊp",
+        "sentence": "Put the letter in the envelope.",
+        "sentenceTrans": "把信放进信封。"
+    },
+    {
+        "name": "plastic",
+        "trans": [
+            "塑料制的；塑料的"
+        ],
+        "usphone": "ˈplæstɪk",
+        "ukphone": "ˈplæstɪk",
+        "sentence": "Do not use many plastic bags.",
+        "sentenceTrans": "不要使用很多塑料袋。"
+    },
+    {
+        "name": "rubbish",
+        "trans": [
+            "bin 垃圾桶"
+        ],
+        "usphone": "ˈrʌbɪʃ",
+        "ukphone": "ˈrʌbɪʃ",
+        "sentence": "Put it in the rubbish bin.",
+        "sentenceTrans": "把它放进垃圾桶。"
+    },
+    {
+        "name": "truck",
+        "trans": [
+            "卡车"
+        ],
+        "usphone": "trʌk",
+        "ukphone": "trʌk",
+        "sentence": "The truck carries old glass.",
+        "sentenceTrans": "卡车运送旧玻璃。"
+    },
+    {
+        "name": "piece",
+        "trans": [
+            "碎片；碎块"
+        ],
+        "usphone": "piːs",
+        "ukphone": "piːs",
+        "sentence": "Pick up every piece of rubbish.",
+        "sentenceTrans": "捡起每一片垃圾。"
+    },
+    {
+        "name": "cloth",
+        "trans": [
+            "布；布料"
+        ],
+        "usphone": "klɔːθ",
+        "ukphone": "klɒθ",
+        "sentence": "We can reuse this piece of cloth.",
+        "sentenceTrans": "我们可以重复利用这块布。"
+    },
+    {
+        "name": "throw",
+        "trans": [
+            "away 扔掉"
+        ],
+        "usphone": "θroʊ",
+        "ukphone": "θrəʊ",
+        "sentence": "Do not throw away old bottles.",
+        "sentenceTrans": "不要扔掉旧瓶子。"
+    },
+    {
+        "name": "fairy",
+        "trans": [
+            "tale 童话"
+        ],
+        "usphone": "ˈferi",
+        "ukphone": "ˈfeəri",
+        "sentence": "The fairy gives him three wishes.",
+        "sentenceTrans": "仙子给了他三个愿望。"
+    },
+    {
+        "name": "adult",
+        "trans": [
+            "成年人"
+        ],
+        "usphone": "əˈdʌlt; ˈædʌlt",
+        "ukphone": "ˈædʌlt; əˈdʌlt",
+        "sentence": "An adult panda is very heavy.",
+        "sentenceTrans": "成年大熊猫很重。"
+    },
+    {
+        "name": "well-known",
+        "trans": [
+            "众所周知的；著名的"
+        ],
+        "usphone": "ˌwel ˈnoʊn",
+        "ukphone": "ˌwel ˈnəʊn",
+        "sentence": "She is a well-known writer.",
+        "sentenceTrans": "她是一位著名作家。"
+    },
+    {
+        "name": "stronger",
+        "trans": [
+            "更强大的"
+        ],
+        "usphone": "strɔːŋgər",
+        "ukphone": "strɒŋgə(r)",
+        "sentence": "An adult tiger is stronger than a dog.",
+        "sentenceTrans": "成年老虎比狗强壮。"
+    },
+    {
+        "name": "than",
+        "trans": [
+            "比"
+        ],
+        "usphone": "ðæn; ðən",
+        "ukphone": "ðæn; ðən",
+        "sentence": "This truck is bigger than that car.",
+        "sentenceTrans": "这辆卡车比那辆汽车大。"
+    },
+    {
+        "name": "scarf",
+        "trans": [
+            "围巾（复数scarves或scarfs）"
+        ],
+        "usphone": "skɑːrf",
+        "ukphone": "skɑːf",
+        "sentence": "The wind blows off my scarf.",
+        "sentenceTrans": "风吹掉了我的围巾。"
+    },
+    {
+        "name": "blow",
+        "trans": [
+            "off 吹掉"
+        ],
+        "usphone": "bloʊ",
+        "ukphone": "bləʊ",
+        "sentence": "The wind blows off my scarf.",
+        "sentenceTrans": "风吹掉了我的围巾。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "off 脱掉"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "Take off your scarf, please.",
+        "sentenceTrans": "请摘下围巾。"
+    },
+    {
+        "name": "Western",
+        "trans": [
+            "西方的"
+        ],
+        "usphone": "ˈwestərn",
+        "ukphone": "ˈwestən",
+        "sentence": "Turkey is a Western holiday food.",
+        "sentenceTrans": "火鸡是西方的节日食物。"
+    },
+    {
+        "name": "turkey",
+        "trans": [
+            "火鸡"
+        ],
+        "usphone": "ˈtɜːrki",
+        "ukphone": "ˈtɜːki",
+        "sentence": "They eat turkey at Christmas.",
+        "sentenceTrans": "他们在圣诞节吃火鸡。"
+    },
+    {
+        "name": "bright",
+        "trans": [
+            "明亮的；鲜艳的"
+        ],
+        "usphone": "braɪt",
+        "ukphone": "braɪt",
+        "sentence": "The sun is bright.",
+        "sentenceTrans": "太阳很明亮。"
+    },
+    {
+        "name": "laugh",
+        "trans": [
+            "at 嘲笑"
+        ],
+        "usphone": "læf",
+        "ukphone": "lɑːf",
+        "sentence": "Do not laugh at others.",
+        "sentenceTrans": "不要嘲笑别人。"
+    },
+    {
+        "name": "jack-o’-lantern",
+        "trans": [
+            "南瓜灯"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "They make a jack-o’-lantern.",
+        "sentenceTrans": "他们做了一个南瓜灯。"
+    },
+    {
+        "name": "pea",
+        "trans": [
+            "豌豆"
+        ],
+        "usphone": "piː",
+        "ukphone": "piː",
+        "sentence": "A pea grows in the pod.",
+        "sentenceTrans": "一颗豌豆长在豆荚里。"
+    },
+    {
+        "name": "pod",
+        "trans": [
+            "豆荚"
+        ],
+        "usphone": "pɑːd",
+        "ukphone": "pɒd",
+        "sentence": "There are five peas in the pod.",
+        "sentenceTrans": "豆荚里有五颗豌豆。"
+    },
+    {
+        "name": "forever",
+        "trans": [
+            "永远"
+        ],
+        "usphone": "fərˈevər",
+        "ukphone": "fərˈevə(r)",
+        "sentence": "The lazy pea wants to sleep forever.",
+        "sentenceTrans": "懒惰的豌豆想永远睡下去。"
+    },
+    {
+        "name": "bigger",
+        "trans": [
+            "更大的"
+        ],
+        "usphone": "bɪgə(r)",
+        "ukphone": "bɪgə(r)",
+        "sentence": "The pea grows bigger and bigger.",
+        "sentenceTrans": "豌豆越长越大。"
+    },
+    {
+        "name": "excited",
+        "trans": [
+            "兴奋的"
+        ],
+        "usphone": "ɪkˈsaɪtɪd",
+        "ukphone": "ɪkˈsaɪtɪd",
+        "sentence": "The children are excited about the trip.",
+        "sentenceTrans": "孩子们对这次旅行很兴奋。"
+    },
+    {
+        "name": "bullet",
+        "trans": [
+            "子弹"
+        ],
+        "usphone": "ˈbʊlɪt",
+        "ukphone": "ˈbʊlɪt",
+        "sentence": "The pea flies like a bullet.",
+        "sentenceTrans": "豌豆像子弹一样飞出去。"
+    },
+    {
+        "name": "lazy",
+        "trans": [
+            "懒惰的"
+        ],
+        "usphone": "ˈleɪzi",
+        "ukphone": "ˈleɪzi",
+        "sentence": "The lazy boy does not want to work.",
+        "sentenceTrans": "这个懒惰的男孩不想干活。"
+    },
+    {
+        "name": "roof",
+        "trans": [
+            "屋顶"
+        ],
+        "usphone": "ruːf",
+        "ukphone": "ruːf",
+        "sentence": "The ball is on the roof.",
+        "sentenceTrans": "球在屋顶上。"
+    },
+    {
+        "name": "yard",
+        "trans": [
+            "院子"
+        ],
+        "usphone": "jɑːrd",
+        "ukphone": "jɑːd",
+        "sentence": "The children play in the yard.",
+        "sentenceTrans": "孩子们在院子里玩。"
+    },
+    {
+        "name": "hit",
+        "trans": [
+            "碰撞；撞击"
+        ],
+        "usphone": "hɪt",
+        "ukphone": "hɪt",
+        "sentence": "The pea hits the roof.",
+        "sentenceTrans": "豌豆撞到了屋顶。"
+    },
+    {
+        "name": "see",
+        "trans": [
+            "the world 见世面"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "The pea wants to see the world.",
+        "sentenceTrans": "豌豆想去见世面。"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "by one 一个接一个地"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn",
+        "sentence": "The peas fall out one by one.",
+        "sentenceTrans": "豌豆一颗接一颗地掉出来。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "out of 往外看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look out! A truck is coming.",
+        "sentenceTrans": "小心！一辆卡车开过来了。"
+    }
+]

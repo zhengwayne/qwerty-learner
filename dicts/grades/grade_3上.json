@@ -1,0 +1,1052 @@
+[
+    {
+        "name": "hello",
+        "trans": [
+            "你好"
+        ],
+        "usphone": "həˈloʊ",
+        "ukphone": "həˈləʊ",
+        "sentence": "Hello, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "I",
+        "trans": [
+            "我"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ",
+        "sentence": "I am a girl.",
+        "sentenceTrans": "我是一个女孩。"
+    },
+    {
+        "name": "Miss",
+        "trans": [
+            "小姐"
+        ],
+        "usphone": "mɪs",
+        "ukphone": "mɪs",
+        "sentence": "Good morning, Miss Li.",
+        "sentenceTrans": "早上好，李老师。"
+    },
+    {
+        "name": "Hello.",
+        "trans": [
+            "你好。"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Hello, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "Good",
+        "trans": [
+            "morning. 早上好。"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "are",
+        "trans": [
+            "是"
+        ],
+        "usphone": "ɑːr; ər",
+        "ukphone": "ɑː(r); ə(r)",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "fine",
+        "trans": [
+            "健康的；身体很好的 goodbye 再见"
+        ],
+        "usphone": "faɪn",
+        "ukphone": "faɪn",
+        "sentence": "I am fine, thank you.",
+        "sentenceTrans": "我很好，谢谢你。"
+    },
+    {
+        "name": "hi",
+        "trans": [
+            "(用于打招呼)喂，你好 Mr 先生"
+        ],
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "sentence": "Hi, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "Mrs",
+        "trans": [
+            "太太"
+        ],
+        "usphone": "ˈmɪsɪz",
+        "ukphone": "ˈmɪsɪz",
+        "sentence": "This is Mrs Wang.",
+        "sentenceTrans": "这是王太太。"
+    },
+    {
+        "name": "thank",
+        "trans": [
+            "谢谢"
+        ],
+        "usphone": "θæŋk",
+        "ukphone": "θæŋk",
+        "sentence": "Thank you, Mum.",
+        "sentenceTrans": "谢谢你，妈妈。"
+    },
+    {
+        "name": "you",
+        "trans": [
+            "你；你们"
+        ],
+        "usphone": "juː; jʊ",
+        "ukphone": "juː; jʊ",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "How",
+        "trans": [
+            "are you? 你好么？"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "I’m",
+        "trans": [
+            "fine. Thank you. 我很好。谢谢。"
+        ],
+        "usphone": "aɪm",
+        "ukphone": "aɪm",
+        "sentence": "I'm fine, thank you.",
+        "sentenceTrans": "我很好，谢谢你。"
+    },
+    {
+        "name": "Goodbye.",
+        "trans": [
+            "再见。"
+        ],
+        "usphone": "ˌɡʊdˈbaɪ",
+        "ukphone": "ˌɡʊdˈbaɪ",
+        "sentence": "Goodbye, Miss Li.",
+        "sentenceTrans": "再见，李老师。"
+    },
+    {
+        "name": "Hi.",
+        "trans": [
+            "你好。"
+        ],
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "sentence": "Hi, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "am",
+        "trans": [
+            "是"
+        ],
+        "usphone": "æm; əm",
+        "ukphone": "æm; əm",
+        "sentence": "I am fine.",
+        "sentenceTrans": "我很好。"
+    },
+    {
+        "name": "girl",
+        "trans": [
+            "女孩"
+        ],
+        "usphone": "ɡɜːrl",
+        "ukphone": "ɡɜːl",
+        "sentence": "The girl can sing.",
+        "sentenceTrans": "这个女孩会唱歌。"
+    },
+    {
+        "name": "no",
+        "trans": [
+            "不；"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "No, thank you.",
+        "sentenceTrans": "不用了，谢谢你。"
+    },
+    {
+        "name": "yes",
+        "trans": [
+            "是；对"
+        ],
+        "usphone": "jes",
+        "ukphone": "jes",
+        "sentence": "Yes, it is.",
+        "sentenceTrans": "是的，它是。"
+    },
+    {
+        "name": "fat",
+        "trans": [
+            "胖的"
+        ],
+        "usphone": "fæt",
+        "ukphone": "fæt",
+        "sentence": "The pig is fat.",
+        "sentenceTrans": "这头猪很胖。"
+    },
+    {
+        "name": "friend",
+        "trans": [
+            "朋友"
+        ],
+        "usphone": "frend",
+        "ukphone": "frend",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "he",
+        "trans": [
+            "他"
+        ],
+        "usphone": "hiː; hi",
+        "ukphone": "hiː; hi",
+        "sentence": "He is my brother.",
+        "sentenceTrans": "他是我的兄弟。"
+    },
+    {
+        "name": "is",
+        "trans": [
+            "是"
+        ],
+        "usphone": "ɪz",
+        "ukphone": "ɪz",
+        "sentence": "This is my pen.",
+        "sentenceTrans": "这是我的钢笔。"
+    },
+    {
+        "name": "my",
+        "trans": [
+            "我的"
+        ],
+        "usphone": "maɪ",
+        "ukphone": "maɪ",
+        "sentence": "This is my schoolbag.",
+        "sentenceTrans": "这是我的书包。"
+    },
+    {
+        "name": "she",
+        "trans": [
+            "她"
+        ],
+        "usphone": "ʃiː; ʃi",
+        "ukphone": "ʃiː; ʃi",
+        "sentence": "She is my sister.",
+        "sentenceTrans": "她是我的姐妹。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "矮的"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "The ruler is short.",
+        "sentenceTrans": "这把尺子很短。"
+    },
+    {
+        "name": "tall",
+        "trans": [
+            "高的"
+        ],
+        "usphone": "tɔːl",
+        "ukphone": "tɔːl",
+        "sentence": "The cow is tall.",
+        "sentenceTrans": "这头奶牛很高。"
+    },
+    {
+        "name": "thin",
+        "trans": [
+            "瘦的"
+        ],
+        "usphone": "θɪn",
+        "ukphone": "θɪn",
+        "sentence": "The monkey is thin.",
+        "sentenceTrans": "这只猴子很瘦。"
+    },
+    {
+        "name": "this",
+        "trans": [
+            "这；这个"
+        ],
+        "usphone": "ðɪs",
+        "ukphone": "ðɪs",
+        "sentence": "This is my book.",
+        "sentenceTrans": "这是我的书。"
+    },
+    {
+        "name": "beautiful",
+        "trans": [
+            "漂亮的"
+        ],
+        "usphone": "ˈbjuːtɪf(ə)l",
+        "ukphone": "ˈbjuːtɪf(ə)l",
+        "sentence": "The bird is beautiful.",
+        "sentenceTrans": "这只鸟很漂亮。"
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "哥哥、弟弟"
+        ],
+        "usphone": "ˈbrʌðər",
+        "ukphone": "ˈbrʌðə(r)",
+        "sentence": "This is my brother.",
+        "sentenceTrans": "这是我的兄弟。"
+    },
+    {
+        "name": "father",
+        "trans": [
+            "父亲；爸爸"
+        ],
+        "usphone": "ˈfɑːðər",
+        "ukphone": "ˈfɑːðə(r)",
+        "sentence": "This is my father.",
+        "sentenceTrans": "这是我的爸爸。"
+    },
+    {
+        "name": "me",
+        "trans": [
+            "我"
+        ],
+        "usphone": "miː; mi",
+        "ukphone": "miː; mi",
+        "sentence": "Look at me.",
+        "sentenceTrans": "看看我。"
+    },
+    {
+        "name": "mother",
+        "trans": [
+            "母亲；妈妈"
+        ],
+        "usphone": "ˈmʌðər",
+        "ukphone": "ˈmʌðə(r)",
+        "sentence": "This is my mother.",
+        "sentenceTrans": "这是我的妈妈。"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "姐姐；妹妹"
+        ],
+        "usphone": "ˈsɪstər",
+        "ukphone": "ˈsɪstə(r)",
+        "sentence": "This is my sister.",
+        "sentenceTrans": "这是我的姐妹。"
+    },
+    {
+        "name": "who",
+        "trans": [
+            "谁"
+        ],
+        "usphone": "huː",
+        "ukphone": "huː",
+        "sentence": "Who is she?",
+        "sentenceTrans": "她是谁？"
+    },
+    {
+        "name": "big",
+        "trans": [
+            "大的"
+        ],
+        "usphone": "bɪɡ",
+        "ukphone": "bɪɡ",
+        "sentence": "The elephant is big.",
+        "sentenceTrans": "这头大象很大。"
+    },
+    {
+        "name": "ear",
+        "trans": [
+            "耳朵"
+        ],
+        "usphone": "ɪr",
+        "ukphone": "ɪə(r)",
+        "sentence": "Touch your ear.",
+        "sentenceTrans": "摸摸你的耳朵。"
+    },
+    {
+        "name": "eye",
+        "trans": [
+            "眼睛"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ",
+        "sentence": "Touch your eye.",
+        "sentenceTrans": "摸摸你的眼睛。"
+    },
+    {
+        "name": "face",
+        "trans": [
+            "脸；面孔"
+        ],
+        "usphone": "feɪs",
+        "ukphone": "feɪs",
+        "sentence": "Touch your face.",
+        "sentenceTrans": "摸摸你的脸。"
+    },
+    {
+        "name": "hair",
+        "trans": [
+            "头发"
+        ],
+        "usphone": "her",
+        "ukphone": "heə(r)",
+        "sentence": "My hair is long.",
+        "sentenceTrans": "我的头发很长。"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "长的"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "The snake is long.",
+        "sentenceTrans": "这条蛇很长。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "mouth",
+        "trans": [
+            "口；嘴巴"
+        ],
+        "usphone": "maʊθ",
+        "ukphone": "maʊθ",
+        "sentence": "Touch your mouth.",
+        "sentenceTrans": "摸摸你的嘴巴。"
+    },
+    {
+        "name": "small",
+        "trans": [
+            "小的"
+        ],
+        "usphone": "smɔːl",
+        "ukphone": "smɔːl",
+        "sentence": "The ant is small.",
+        "sentenceTrans": "这只蚂蚁很小。"
+    },
+    {
+        "name": "blackboard",
+        "trans": [
+            "黑板"
+        ],
+        "usphone": "ˈblækbɔːrd",
+        "ukphone": "ˈblækbɔːd",
+        "sentence": "Clean the blackboard, please.",
+        "sentenceTrans": "请把黑板擦干净。"
+    },
+    {
+        "name": "clean",
+        "trans": [
+            "把……擦干净；打扫 close 关上"
+        ],
+        "usphone": "kliːn",
+        "ukphone": "kliːn",
+        "sentence": "Clean the desk, please.",
+        "sentenceTrans": "请把书桌擦干净。"
+    },
+    {
+        "name": "door",
+        "trans": [
+            "门"
+        ],
+        "usphone": "dɔːr",
+        "ukphone": "dɔː(r)",
+        "sentence": "Open the door, please.",
+        "sentenceTrans": "请打开门。"
+    },
+    {
+        "name": "late",
+        "trans": [
+            "迟到"
+        ],
+        "usphone": "leɪt",
+        "ukphone": "leɪt",
+        "sentence": "I am late for school.",
+        "sentenceTrans": "我上学迟到了。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "at 看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "open",
+        "trans": [
+            "打开"
+        ],
+        "usphone": "ˈoʊpən",
+        "ukphone": "ˈəʊpən",
+        "sentence": "Open the window, please.",
+        "sentenceTrans": "请打开窗户。"
+    },
+    {
+        "name": "please",
+        "trans": [
+            "请"
+        ],
+        "usphone": "pliːz",
+        "ukphone": "pliːz",
+        "sentence": "Open the door, please.",
+        "sentenceTrans": "请打开门。"
+    },
+    {
+        "name": "the",
+        "trans": [
+            "(表示特指) window 窗；窗户"
+        ],
+        "usphone": "ðə; ði",
+        "ukphone": "ðə; ði",
+        "sentence": "Open the window, please.",
+        "sentenceTrans": "请打开窗户。"
+    },
+    {
+        "name": "OK.",
+        "trans": [
+            "好"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "OK, let's go.",
+        "sentenceTrans": "好的，我们走吧。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "(an) 一；一个"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "This is a book.",
+        "sentenceTrans": "这是一本书。"
+    },
+    {
+        "name": "apple",
+        "trans": [
+            "苹果"
+        ],
+        "usphone": "ˈæp(ə)l",
+        "ukphone": "ˈæp(ə)l",
+        "sentence": "I like this apple.",
+        "sentenceTrans": "我喜欢这个苹果。"
+    },
+    {
+        "name": "banana",
+        "trans": [
+            "香蕉"
+        ],
+        "usphone": "bəˈnænə",
+        "ukphone": "bəˈnɑːnə",
+        "sentence": "I like this banana.",
+        "sentenceTrans": "我喜欢这根香蕉。"
+    },
+    {
+        "name": "dad",
+        "trans": [
+            "爸爸"
+        ],
+        "usphone": "dæd",
+        "ukphone": "dæd",
+        "sentence": "This is my dad.",
+        "sentenceTrans": "这是我的爸爸。"
+    },
+    {
+        "name": "good",
+        "trans": [
+            "好"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "here",
+        "trans": [
+            "这里"
+        ],
+        "usphone": "hɪr",
+        "ukphone": "hɪə(r)",
+        "sentence": "My book is here.",
+        "sentenceTrans": "我的书在这里。"
+    },
+    {
+        "name": "how",
+        "trans": [
+            "much(用于问价钱)多"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "it",
+        "trans": [
+            "它"
+        ],
+        "usphone": "ɪt",
+        "ukphone": "ɪt",
+        "sentence": "It is a rabbit.",
+        "sentenceTrans": "它是一只兔子。"
+    },
+    {
+        "name": "orange",
+        "trans": [
+            "桔子"
+        ],
+        "usphone": "ˈɔːrɪndʒ",
+        "ukphone": "ˈɒrɪndʒ",
+        "sentence": "This orange is orange.",
+        "sentenceTrans": "这个橙子是橙色的。"
+    },
+    {
+        "name": "they",
+        "trans": [
+            "它们；他们；她们"
+        ],
+        "usphone": "ðeɪ",
+        "ukphone": "ðeɪ",
+        "sentence": "They are my friends.",
+        "sentenceTrans": "他们是我的朋友。"
+    },
+    {
+        "name": "Here",
+        "trans": [
+            "you are. 给你。"
+        ],
+        "usphone": "hɪr",
+        "ukphone": "hɪə(r)",
+        "sentence": "My book is here.",
+        "sentenceTrans": "我的书在这里。"
+    },
+    {
+        "name": "Good",
+        "trans": [
+            "afternoon. 下午好。"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "bed",
+        "trans": [
+            "床"
+        ],
+        "usphone": "bed",
+        "ukphone": "bed",
+        "sentence": "The cat is on the bed.",
+        "sentenceTrans": "猫在床上。"
+    },
+    {
+        "name": "book",
+        "trans": [
+            "书"
+        ],
+        "usphone": "bʊk",
+        "ukphone": "bʊk",
+        "sentence": "This is my book.",
+        "sentenceTrans": "这是我的书。"
+    },
+    {
+        "name": "chair",
+        "trans": [
+            "椅子"
+        ],
+        "usphone": "tʃer",
+        "ukphone": "tʃeə(r)",
+        "sentence": "The chair is in the room.",
+        "sentenceTrans": "椅子在房间里。"
+    },
+    {
+        "name": "desk",
+        "trans": [
+            "书桌"
+        ],
+        "usphone": "desk",
+        "ukphone": "desk",
+        "sentence": "My book is on the desk.",
+        "sentenceTrans": "我的书在书桌上。"
+    },
+    {
+        "name": "mum",
+        "trans": [
+            "妈妈"
+        ],
+        "usphone": "mʌm",
+        "ukphone": "mʌm",
+        "sentence": "This is my mum.",
+        "sentenceTrans": "这是我的妈妈。"
+    },
+    {
+        "name": "pen",
+        "trans": [
+            "钢笔"
+        ],
+        "usphone": "pen",
+        "ukphone": "pen",
+        "sentence": "This is my pen.",
+        "sentenceTrans": "这是我的钢笔。"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "铅笔"
+        ],
+        "usphone": "ˈpens(ə)l",
+        "ukphone": "ˈpens(ə)l",
+        "sentence": "This is my pencil.",
+        "sentenceTrans": "这是我的铅笔。"
+    },
+    {
+        "name": "ruler",
+        "trans": [
+            "尺"
+        ],
+        "usphone": "ˈruːlər",
+        "ukphone": "ˈruːlə(r)",
+        "sentence": "This is my ruler.",
+        "sentenceTrans": "这是我的尺子。"
+    },
+    {
+        "name": "Schoolbag",
+        "trans": [
+            "书包"
+        ],
+        "usphone": "ˈskuːlˌbæɡ",
+        "ukphone": "ˈskuːlbæɡ",
+        "sentence": "This is my schoolbag.",
+        "sentenceTrans": "这是我的书包。"
+    },
+    {
+        "name": "these",
+        "trans": [
+            "这些"
+        ],
+        "usphone": "ðiːz",
+        "ukphone": "ðiːz",
+        "sentence": "These are my books.",
+        "sentenceTrans": "这些是我的书。"
+    },
+    {
+        "name": "your",
+        "trans": [
+            "你的；你们的"
+        ],
+        "usphone": "jʊr; jər",
+        "ukphone": "jɔː(r); jə(r)",
+        "sentence": "This is your bag.",
+        "sentenceTrans": "这是你的包。"
+    },
+    {
+        "name": "Welcome!",
+        "trans": [
+            "欢迎！"
+        ],
+        "usphone": "ˈwelkəm",
+        "ukphone": "ˈwelkəm",
+        "sentence": "Welcome to my school.",
+        "sentenceTrans": "欢迎来到我的学校。"
+    },
+    {
+        "name": "eight",
+        "trans": [
+            "八"
+        ],
+        "usphone": "eɪt",
+        "ukphone": "eɪt",
+        "sentence": "I have eight books.",
+        "sentenceTrans": "我有八本书。"
+    },
+    {
+        "name": "five",
+        "trans": [
+            "五"
+        ],
+        "usphone": "faɪv",
+        "ukphone": "faɪv",
+        "sentence": "I have five books.",
+        "sentenceTrans": "我有五本书。"
+    },
+    {
+        "name": "four",
+        "trans": [
+            "四"
+        ],
+        "usphone": "fɔːr",
+        "ukphone": "fɔː(r)",
+        "sentence": "I have four pencils.",
+        "sentenceTrans": "我有四支铅笔。"
+    },
+    {
+        "name": "how",
+        "trans": [
+            "many (用于问数量)多少 nine 九"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "一"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn",
+        "sentence": "I have one book.",
+        "sentenceTrans": "我有一本书。"
+    },
+    {
+        "name": "seven",
+        "trans": [
+            "七"
+        ],
+        "usphone": "ˈsev(ə)n",
+        "ukphone": "ˈsev(ə)n",
+        "sentence": "I have seven books.",
+        "sentenceTrans": "我有七本书。"
+    },
+    {
+        "name": "six",
+        "trans": [
+            "六"
+        ],
+        "usphone": "sɪks",
+        "ukphone": "sɪks",
+        "sentence": "I have six pencils.",
+        "sentenceTrans": "我有六支铅笔。"
+    },
+    {
+        "name": "ten",
+        "trans": [
+            "十"
+        ],
+        "usphone": "ten",
+        "ukphone": "ten",
+        "sentence": "I have ten pencils.",
+        "sentenceTrans": "我有十支铅笔。"
+    },
+    {
+        "name": "three",
+        "trans": [
+            "三"
+        ],
+        "usphone": "θriː",
+        "ukphone": "θriː",
+        "sentence": "I have three books.",
+        "sentenceTrans": "我有三本书。"
+    },
+    {
+        "name": "two",
+        "trans": [
+            "二"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː",
+        "sentence": "I have two pencils.",
+        "sentenceTrans": "我有两支铅笔。"
+    },
+    {
+        "name": "Very",
+        "trans": [
+            "good! 很好！"
+        ],
+        "usphone": "ˈveri",
+        "ukphone": "ˈveri",
+        "sentence": "Very good!",
+        "sentenceTrans": "非常好！"
+    },
+    {
+        "name": "dog",
+        "trans": [
+            "狗"
+        ],
+        "usphone": "dɔːɡ",
+        "ukphone": "dɒɡ",
+        "sentence": "I see a small dog.",
+        "sentenceTrans": "我看见一只小狗。"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "鱼"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ",
+        "sentence": "The fish can swim.",
+        "sentenceTrans": "鱼会游泳。"
+    },
+    {
+        "name": "its",
+        "trans": [
+            "它的"
+        ],
+        "usphone": "ɪts",
+        "ukphone": "ɪts",
+        "sentence": "Its tail is short.",
+        "sentenceTrans": "它的尾巴很短。"
+    },
+    {
+        "name": "mouse",
+        "trans": [
+            "老鼠（复数mice）"
+        ],
+        "usphone": "maʊs",
+        "ukphone": "maʊs",
+        "sentence": "I see a small mouse.",
+        "sentenceTrans": "我看见一只小老鼠。"
+    },
+    {
+        "name": "rabbit",
+        "trans": [
+            "兔子"
+        ],
+        "usphone": "ˈræbɪt",
+        "ukphone": "ˈræbɪt",
+        "sentence": "I see a white rabbit.",
+        "sentenceTrans": "我看见一只白兔。"
+    },
+    {
+        "name": "tail",
+        "trans": [
+            "尾巴"
+        ],
+        "usphone": "teɪl",
+        "ukphone": "teɪl",
+        "sentence": "Its tail is long.",
+        "sentenceTrans": "它的尾巴很长。"
+    },
+    {
+        "name": "what",
+        "trans": [
+            "什么"
+        ],
+        "usphone": "wʌt",
+        "ukphone": "wɒt",
+        "sentence": "What is this?",
+        "sentenceTrans": "这是什么？"
+    },
+    {
+        "name": "Well",
+        "trans": [
+            "done! 做得真好！"
+        ],
+        "usphone": "wel",
+        "ukphone": "wel",
+        "sentence": "Well done!",
+        "sentenceTrans": "做得好！"
+    },
+    {
+        "name": "autumn",
+        "trans": [
+            "秋天"
+        ],
+        "usphone": "ˈɔːtəm",
+        "ukphone": "ˈɔːtəm",
+        "sentence": "Autumn is cool.",
+        "sentenceTrans": "秋天很凉爽。"
+    },
+    {
+        "name": "cold",
+        "trans": [
+            "寒冷的"
+        ],
+        "usphone": "koʊld",
+        "ukphone": "kəʊld",
+        "sentence": "It is cold today.",
+        "sentenceTrans": "今天很冷。"
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "凉爽的"
+        ],
+        "usphone": "kuːl",
+        "ukphone": "kuːl",
+        "sentence": "It is cool today.",
+        "sentenceTrans": "今天很凉快。"
+    },
+    {
+        "name": "hot",
+        "trans": [
+            "炎热的"
+        ],
+        "usphone": "hɑːt",
+        "ukphone": "hɒt",
+        "sentence": "It is hot today.",
+        "sentenceTrans": "今天很热。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在（某段时间）内"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The ball is in the box.",
+        "sentenceTrans": "球在盒子里。"
+    },
+    {
+        "name": "spring",
+        "trans": [
+            "春天"
+        ],
+        "usphone": "sprɪŋ",
+        "ukphone": "sprɪŋ",
+        "sentence": "Spring is warm.",
+        "sentenceTrans": "春天很温暖。"
+    },
+    {
+        "name": "summer",
+        "trans": [
+            "夏天"
+        ],
+        "usphone": "ˈsʌmər",
+        "ukphone": "ˈsʌmə(r)",
+        "sentence": "Summer is hot.",
+        "sentenceTrans": "夏天很热。"
+    },
+    {
+        "name": "warm",
+        "trans": [
+            "温暖的"
+        ],
+        "usphone": "wɔːrm",
+        "ukphone": "wɔːm",
+        "sentence": "It is warm today.",
+        "sentenceTrans": "今天很温暖。"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "father",
+        "trans": [
+            "n. 父亲；鼻祖"
+        ],
+        "usphone": "ˈfɑːðər",
+        "ukphone": "ˈfɑːðə(r)",
+        "sentence": "This is my father.",
+        "sentenceTrans": "这是我的爸爸。"
+    },
+    {
+        "name": "mother",
+        "trans": [
+            "n. 母亲"
+        ],
+        "usphone": "ˈmʌðər",
+        "ukphone": "ˈmʌðə(r)",
+        "sentence": "This is my mother.",
+        "sentenceTrans": "这是我的妈妈。"
+    },
+    {
+        "name": "me",
+        "trans": [
+            "pron. 我(宾格)"
+        ],
+        "usphone": "miː; mi",
+        "ukphone": "miː; mi",
+        "sentence": "Look at me.",
+        "sentenceTrans": "看看我。"
+    },
+    {
+        "name": "fat",
+        "trans": [
+            "adj. 肥胖的,厚的n. 脂肪；肥肉"
+        ],
+        "usphone": "fæt",
+        "ukphone": "fæt",
+        "sentence": "The pig is fat.",
+        "sentenceTrans": "这头猪很胖。"
+    },
+    {
+        "name": "thin",
+        "trans": [
+            "adj. 瘦的,稀少的"
+        ],
+        "usphone": "θɪn",
+        "ukphone": "θɪn",
+        "sentence": "The monkey is thin.",
+        "sentenceTrans": "这只猴子很瘦。"
+    },
+    {
+        "name": "tall",
+        "trans": [
+            "adj. 高的"
+        ],
+        "usphone": "tɔːl",
+        "ukphone": "tɔːl",
+        "sentence": "The cow is tall.",
+        "sentenceTrans": "这头奶牛很高。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "adj. 短的,矮的,短暂的 n. 短裤 adv. 短暂地;突然地"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "The ruler is short.",
+        "sentenceTrans": "这把尺子很短。"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "num. 一"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn",
+        "sentence": "I have one book.",
+        "sentenceTrans": "我有一本书。"
+    },
+    {
+        "name": "two",
+        "trans": [
+            "num. 二"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː",
+        "sentence": "I have two pencils.",
+        "sentenceTrans": "我有两支铅笔。"
+    },
+    {
+        "name": "three",
+        "trans": [
+            "num. 三"
+        ],
+        "usphone": "θriː",
+        "ukphone": "θriː",
+        "sentence": "I have three books.",
+        "sentenceTrans": "我有三本书。"
+    },
+    {
+        "name": "four",
+        "trans": [
+            "num. 四"
+        ],
+        "usphone": "fɔːr",
+        "ukphone": "fɔː(r)",
+        "sentence": "I have four pencils.",
+        "sentenceTrans": "我有四支铅笔。"
+    },
+    {
+        "name": "five",
+        "trans": [
+            "num. 五"
+        ],
+        "usphone": "faɪv",
+        "ukphone": "faɪv",
+        "sentence": "I have five books.",
+        "sentenceTrans": "我有五本书。"
+    },
+    {
+        "name": "six",
+        "trans": [
+            "num.六"
+        ],
+        "usphone": "sɪks",
+        "ukphone": "sɪks",
+        "sentence": "I have six pencils.",
+        "sentenceTrans": "我有六支铅笔。"
+    },
+    {
+        "name": "apple",
+        "trans": [
+            "n. 苹果"
+        ],
+        "usphone": "ˈæp(ə)l",
+        "ukphone": "ˈæp(ə)l",
+        "sentence": "I like this apple.",
+        "sentenceTrans": "我喜欢这个苹果。"
+    },
+    {
+        "name": "pear",
+        "trans": [
+            "n. 梨(树)"
+        ],
+        "usphone": "per",
+        "ukphone": "peə(r)",
+        "sentence": "I like this pear.",
+        "sentenceTrans": "我喜欢这个梨。"
+    },
+    {
+        "name": "peach",
+        "trans": [
+            "n. 桃子, 桃红色"
+        ],
+        "usphone": "piːtʃ",
+        "ukphone": "piːtʃ",
+        "sentence": "I like this peach.",
+        "sentenceTrans": "我喜欢这个桃子。"
+    },
+    {
+        "name": "orange",
+        "trans": [
+            "adj. 橙色的 n. 橘子,橙色"
+        ],
+        "usphone": "ˈɔːrɪndʒ",
+        "ukphone": "ˈɒrɪndʒ",
+        "sentence": "This orange is orange.",
+        "sentenceTrans": "这个橙子是橙色的。"
+    },
+    {
+        "name": "hamburger",
+        "trans": [
+            "n. 汉堡包"
+        ],
+        "usphone": "ˈhæmbɜːrɡər",
+        "ukphone": "ˈhæmbɜːɡə(r)",
+        "sentence": "I like this hamburger.",
+        "sentenceTrans": "我喜欢这个汉堡包。"
+    },
+    {
+        "name": "pizza",
+        "trans": [
+            "n. 比萨饼"
+        ],
+        "usphone": "ˈpiːtsə",
+        "ukphone": "ˈpiːtsə",
+        "sentence": "I like pizza.",
+        "sentenceTrans": "我喜欢比萨饼。"
+    },
+    {
+        "name": "cake",
+        "trans": [
+            "n. 蛋糕"
+        ],
+        "usphone": "keɪk",
+        "ukphone": "keɪk",
+        "sentence": "I like cake.",
+        "sentenceTrans": "我喜欢蛋糕。"
+    }
+]

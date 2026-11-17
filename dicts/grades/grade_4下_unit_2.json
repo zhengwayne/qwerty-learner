@@ -1,0 +1,182 @@
+[
+    {
+        "name": "minute",
+        "trans": [
+            "一会儿；分钟"
+        ],
+        "usphone": "ˈmɪnɪt",
+        "ukphone": "ˈmɪnɪt",
+        "sentence": "Wait a minute, please.",
+        "sentenceTrans": "请等一会儿。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "得到"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "I get a new book.",
+        "sentenceTrans": "我得到一本新书。"
+    },
+    {
+        "name": "those",
+        "trans": [
+            "那些"
+        ],
+        "usphone": "ðoʊz",
+        "ukphone": "ðəʊz",
+        "sentence": "Those are my books.",
+        "sentenceTrans": "那些是我的书。"
+    },
+    {
+        "name": "rise",
+        "trans": [
+            "升起"
+        ],
+        "usphone": "raɪz",
+        "ukphone": "raɪz",
+        "sentence": "The sun rises in the morning.",
+        "sentenceTrans": "太阳在早晨升起。"
+    },
+    {
+        "name": "shadow",
+        "trans": [
+            "影子"
+        ],
+        "usphone": "ˈʃædoʊ",
+        "ukphone": "ˈʃædəʊ",
+        "sentence": "My shadow is long in the evening.",
+        "sentenceTrans": "傍晚时我的影子很长。"
+    },
+    {
+        "name": "noon",
+        "trans": [
+            "中午"
+        ],
+        "usphone": "nuːn",
+        "ukphone": "nuːn",
+        "sentence": "It is noon.",
+        "sentenceTrans": "现在是中午。"
+    },
+    {
+        "name": "high",
+        "trans": [
+            "高的"
+        ],
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "sentence": "The sun is high in the sky.",
+        "sentenceTrans": "太阳高挂在天空中。"
+    },
+    {
+        "name": "sky",
+        "trans": [
+            "天空"
+        ],
+        "usphone": "skaɪ",
+        "ukphone": "skaɪ",
+        "sentence": "The sky is blue.",
+        "sentenceTrans": "天空是蓝色的。"
+    },
+    {
+        "name": "evening",
+        "trans": [
+            "傍晚；晚上"
+        ],
+        "usphone": "ˈiːvnɪŋ",
+        "ukphone": "ˈiːvnɪŋ",
+        "sentence": "I read books in the evening.",
+        "sentenceTrans": "我晚上看书。"
+    },
+    {
+        "name": "again",
+        "trans": [
+            "再；又"
+        ],
+        "usphone": "əˈɡen",
+        "ukphone": "əˈɡen",
+        "sentence": "Please say it again.",
+        "sentenceTrans": "请再说一遍。"
+    },
+    {
+        "name": "night",
+        "trans": [
+            "夜晚"
+        ],
+        "usphone": "naɪt",
+        "ukphone": "naɪt",
+        "sentence": "The moon is bright at night.",
+        "sentenceTrans": "夜晚的月亮很亮。"
+    },
+    {
+        "name": "moon",
+        "trans": [
+            "月亮"
+        ],
+        "usphone": "muːn",
+        "ukphone": "muːn",
+        "sentence": "The moon is bright.",
+        "sentenceTrans": "月亮很明亮。"
+    },
+    {
+        "name": "him",
+        "trans": [
+            "他"
+        ],
+        "usphone": "hɪm; ɪm",
+        "ukphone": "hɪm",
+        "sentence": "I can see him.",
+        "sentenceTrans": "我能看见他。"
+    },
+    {
+        "name": "stop",
+        "trans": [
+            "停下"
+        ],
+        "usphone": "stɑːp",
+        "ukphone": "stɒp",
+        "sentence": "Stop and wait.",
+        "sentenceTrans": "停下来等一等。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "noon 在中午"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "I am at home.",
+        "sentenceTrans": "我在家。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "down 落下"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "night 在夜晚"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "I am at home.",
+        "sentenceTrans": "我在家。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "a walk 散步"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "We take a walk in the evening.",
+        "sentenceTrans": "我们傍晚去散步。"
+    }
+]

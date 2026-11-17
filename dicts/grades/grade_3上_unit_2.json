@@ -1,0 +1,202 @@
+[
+    {
+        "name": "friend",
+        "trans": [
+            "朋友"
+        ],
+        "usphone": "frend",
+        "ukphone": "frend",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "he",
+        "trans": [
+            "他"
+        ],
+        "usphone": "hiː; hi",
+        "ukphone": "hiː; hi",
+        "sentence": "He is my brother.",
+        "sentenceTrans": "他是我的兄弟。"
+    },
+    {
+        "name": "is",
+        "trans": [
+            "是"
+        ],
+        "usphone": "ɪz",
+        "ukphone": "ɪz",
+        "sentence": "This is my pen.",
+        "sentenceTrans": "这是我的钢笔。"
+    },
+    {
+        "name": "my",
+        "trans": [
+            "我的"
+        ],
+        "usphone": "maɪ",
+        "ukphone": "maɪ",
+        "sentence": "This is my schoolbag.",
+        "sentenceTrans": "这是我的书包。"
+    },
+    {
+        "name": "she",
+        "trans": [
+            "她"
+        ],
+        "usphone": "ʃiː; ʃi",
+        "ukphone": "ʃiː; ʃi",
+        "sentence": "She is my sister.",
+        "sentenceTrans": "她是我的姐妹。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "矮的"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "The ruler is short.",
+        "sentenceTrans": "这把尺子很短。"
+    },
+    {
+        "name": "tall",
+        "trans": [
+            "高的"
+        ],
+        "usphone": "tɔːl",
+        "ukphone": "tɔːl",
+        "sentence": "The cow is tall.",
+        "sentenceTrans": "这头奶牛很高。"
+    },
+    {
+        "name": "thin",
+        "trans": [
+            "瘦的"
+        ],
+        "usphone": "θɪn",
+        "ukphone": "θɪn",
+        "sentence": "The monkey is thin.",
+        "sentenceTrans": "这只猴子很瘦。"
+    },
+    {
+        "name": "this",
+        "trans": [
+            "这；这个"
+        ],
+        "usphone": "ðɪs",
+        "ukphone": "ðɪs",
+        "sentence": "This is my book.",
+        "sentenceTrans": "这是我的书。"
+    },
+    {
+        "name": "beautiful",
+        "trans": [
+            "漂亮的"
+        ],
+        "usphone": "ˈbjuːtɪf(ə)l",
+        "ukphone": "ˈbjuːtɪf(ə)l",
+        "sentence": "The bird is beautiful.",
+        "sentenceTrans": "这只鸟很漂亮。"
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "哥哥、弟弟"
+        ],
+        "usphone": "ˈbrʌðər",
+        "ukphone": "ˈbrʌðə(r)",
+        "sentence": "This is my brother.",
+        "sentenceTrans": "这是我的兄弟。"
+    },
+    {
+        "name": "father",
+        "trans": [
+            "父亲；爸爸"
+        ],
+        "usphone": "ˈfɑːðər",
+        "ukphone": "ˈfɑːðə(r)",
+        "sentence": "This is my father.",
+        "sentenceTrans": "这是我的爸爸。"
+    },
+    {
+        "name": "me",
+        "trans": [
+            "我"
+        ],
+        "usphone": "miː; mi",
+        "ukphone": "miː; mi",
+        "sentence": "Look at me.",
+        "sentenceTrans": "看看我。"
+    },
+    {
+        "name": "mother",
+        "trans": [
+            "母亲；妈妈"
+        ],
+        "usphone": "ˈmʌðər",
+        "ukphone": "ˈmʌðə(r)",
+        "sentence": "This is my mother.",
+        "sentenceTrans": "这是我的妈妈。"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "姐姐；妹妹"
+        ],
+        "usphone": "ˈsɪstər",
+        "ukphone": "ˈsɪstə(r)",
+        "sentence": "This is my sister.",
+        "sentenceTrans": "这是我的姐妹。"
+    },
+    {
+        "name": "who",
+        "trans": [
+            "谁"
+        ],
+        "usphone": "huː",
+        "ukphone": "huː",
+        "sentence": "Who is she?",
+        "sentenceTrans": "她是谁？"
+    },
+    {
+        "name": "big",
+        "trans": [
+            "大的"
+        ],
+        "usphone": "bɪɡ",
+        "ukphone": "bɪɡ",
+        "sentence": "The elephant is big.",
+        "sentenceTrans": "这头大象很大。"
+    },
+    {
+        "name": "ear",
+        "trans": [
+            "耳朵"
+        ],
+        "usphone": "ɪr",
+        "ukphone": "ɪə(r)",
+        "sentence": "Touch your ear.",
+        "sentenceTrans": "摸摸你的耳朵。"
+    },
+    {
+        "name": "eye",
+        "trans": [
+            "眼睛"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ",
+        "sentence": "Touch your eye.",
+        "sentenceTrans": "摸摸你的眼睛。"
+    },
+    {
+        "name": "face",
+        "trans": [
+            "脸；面孔"
+        ],
+        "usphone": "feɪs",
+        "ukphone": "feɪs",
+        "sentence": "Touch your face.",
+        "sentenceTrans": "摸摸你的脸。"
+    }
+]

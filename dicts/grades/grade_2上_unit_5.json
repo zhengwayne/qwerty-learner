@@ -1,0 +1,72 @@
+[
+    {
+        "name": "pick",
+        "trans": [
+            "摘，采"
+        ],
+        "usphone": "pɪk",
+        "ukphone": "pɪk",
+        "sentence": "Pick a flower, please.",
+        "sentenceTrans": "请摘一朵花。"
+    },
+    {
+        "name": "climb",
+        "trans": [
+            "爬"
+        ],
+        "usphone": "klaɪm",
+        "ukphone": "klaɪm",
+        "sentence": "The monkey can climb the tree.",
+        "sentenceTrans": "这只猴子会爬树。"
+    },
+    {
+        "name": "tree",
+        "trans": [
+            "树"
+        ],
+        "usphone": "triː",
+        "ukphone": "triː",
+        "sentence": "The bird is in the tree.",
+        "sentenceTrans": "这只鸟在树上。"
+    },
+    {
+        "name": "cut",
+        "trans": [
+            "切，割，剪"
+        ],
+        "usphone": "kʌt",
+        "ukphone": "kʌt",
+        "sentence": "Cut the cake, please.",
+        "sentenceTrans": "请切蛋糕。"
+    },
+    {
+        "name": "nice",
+        "trans": [
+            "友好的"
+        ],
+        "usphone": "naɪs",
+        "ukphone": "naɪs",
+        "sentence": "The girl is nice.",
+        "sentenceTrans": "这个女孩很友好。"
+    },
+    {
+        "name": "beautiful",
+        "trans": [
+            "美丽的"
+        ],
+        "usphone": "ˈbjuːtɪf(ə)l",
+        "ukphone": "ˈbjuːtɪf(ə)l",
+        "sentence": "The bird is beautiful.",
+        "sentenceTrans": "这只鸟很漂亮。"
+    },
+    {
+        "name": "cry",
+        "trans": [
+            "哭泣"
+        ],
+        "usphone": "kraɪ",
+        "ukphone": "kraɪ",
+        "sentence": "Do not cry.",
+        "sentenceTrans": "不要哭。"
+    }
+]

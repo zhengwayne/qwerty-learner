@@ -1,0 +1,552 @@
+[
+    {
+        "name": "morning",
+        "trans": [
+            "n.上午"
+        ],
+        "usphone": "ˈmɔːrnɪŋ",
+        "ukphone": "ˈmɔːnɪŋ",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "afternoon",
+        "trans": [
+            "n.下午"
+        ],
+        "usphone": "ˌæftərˈnuːn",
+        "ukphone": "ˌɑːftəˈnuːn",
+        "sentence": "Good afternoon.",
+        "sentenceTrans": "下午好。"
+    },
+    {
+        "name": "after",
+        "trans": [
+            "adj. 以后的 adv. 以后, 后来 conj. 在...以后 prep. 在...之后"
+        ],
+        "usphone": "ˈæftər",
+        "ukphone": "ˈɑːftə(r)",
+        "sentence": "I read after you.",
+        "sentenceTrans": "我在你之后读。"
+    },
+    {
+        "name": "noon",
+        "trans": [
+            "n. 中午"
+        ],
+        "usphone": "nuːn",
+        "ukphone": "nuːn",
+        "sentence": "It is noon.",
+        "sentenceTrans": "现在是中午。"
+    },
+    {
+        "name": "book",
+        "trans": [
+            "n. 书,本子 vt. 登记,预订 vi. 通过...预订"
+        ],
+        "usphone": "bʊk",
+        "ukphone": "bʊk",
+        "sentence": "This is my book.",
+        "sentenceTrans": "这是我的书。"
+    },
+    {
+        "name": "ruler",
+        "trans": [
+            "n. 尺子 n. 统治者"
+        ],
+        "usphone": "ˈruːlər",
+        "ukphone": "ˈruːlə(r)",
+        "sentence": "This is my ruler.",
+        "sentenceTrans": "这是我的尺子。"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "n. 铅笔"
+        ],
+        "usphone": "ˈpens(ə)l",
+        "ukphone": "ˈpens(ə)l",
+        "sentence": "This is my pencil.",
+        "sentenceTrans": "这是我的铅笔。"
+    },
+    {
+        "name": "rubber",
+        "trans": [
+            "n. 橡胶；橡皮"
+        ],
+        "usphone": "ˈrʌbər",
+        "ukphone": "ˈrʌbə(r)",
+        "sentence": "This is my rubber.",
+        "sentenceTrans": "这是我的橡皮。"
+    },
+    {
+        "name": "eye",
+        "trans": [
+            "n. 眼睛"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ",
+        "sentence": "Touch your eye.",
+        "sentenceTrans": "摸摸你的眼睛。"
+    },
+    {
+        "name": "mouth",
+        "trans": [
+            "n. 嘴"
+        ],
+        "usphone": "maʊθ",
+        "ukphone": "maʊθ",
+        "sentence": "Touch your mouth.",
+        "sentenceTrans": "摸摸你的嘴巴。"
+    },
+    {
+        "name": "face",
+        "trans": [
+            "n. 脸, 表面 vt. 面对, 朝"
+        ],
+        "usphone": "feɪs",
+        "ukphone": "feɪs",
+        "sentence": "Touch your face.",
+        "sentenceTrans": "摸摸你的脸。"
+    },
+    {
+        "name": "nose",
+        "trans": [
+            "n. 鼻子"
+        ],
+        "usphone": "noʊz",
+        "ukphone": "nəʊz",
+        "sentence": "Touch your nose.",
+        "sentenceTrans": "摸摸你的鼻子。"
+    },
+    {
+        "name": "ear",
+        "trans": [
+            "n. 耳朵"
+        ],
+        "usphone": "ɪr",
+        "ukphone": "ɪə(r)",
+        "sentence": "Touch your ear.",
+        "sentenceTrans": "摸摸你的耳朵。"
+    },
+    {
+        "name": "touch",
+        "trans": [
+            "vt. 触摸;感动"
+        ],
+        "usphone": "tʌtʃ",
+        "ukphone": "tʌtʃ",
+        "sentence": "Touch your nose.",
+        "sentenceTrans": "摸摸你的鼻子。"
+    },
+    {
+        "name": "dance",
+        "trans": [
+            "n. 跳舞, 舞蹈vi. 跳舞"
+        ],
+        "usphone": "dæns",
+        "ukphone": "dɑːns",
+        "sentence": "I can dance.",
+        "sentenceTrans": "我会跳舞。"
+    },
+    {
+        "name": "read",
+        "trans": [
+            "vt. 阅读"
+        ],
+        "usphone": "riːd",
+        "ukphone": "riːd",
+        "sentence": "I can read this book.",
+        "sentenceTrans": "我会读这本书。"
+    },
+    {
+        "name": "sing",
+        "trans": [
+            "vt. 唱,唱歌"
+        ],
+        "usphone": "sɪŋ",
+        "ukphone": "sɪŋ",
+        "sentence": "I can sing.",
+        "sentenceTrans": "我会唱歌。"
+    },
+    {
+        "name": "draw",
+        "trans": [
+            "v. (drew, drawn)画；拉；吸引"
+        ],
+        "usphone": "drɔː",
+        "ukphone": "drɔː",
+        "sentence": "I can draw a bear.",
+        "sentenceTrans": "我会画一只熊。"
+    },
+    {
+        "name": "grandmother",
+        "trans": [
+            "n. (外)祖母"
+        ],
+        "usphone": "ˈɡrænmʌðər",
+        "ukphone": "ˈɡrænmʌðə(r)",
+        "sentence": "This is my grandmother.",
+        "sentenceTrans": "这是我的奶奶。"
+    },
+    {
+        "name": "grandfather",
+        "trans": [
+            "n. (外)祖父"
+        ],
+        "usphone": "ˈɡrænfɑːðər",
+        "ukphone": "ˈɡrænfɑːðə(r)",
+        "sentence": "This is my grandfather.",
+        "sentenceTrans": "这是我的爷爷。"
+    },
+    {
+        "name": "father",
+        "trans": [
+            "n. 父亲；鼻祖"
+        ],
+        "usphone": "ˈfɑːðər",
+        "ukphone": "ˈfɑːðə(r)",
+        "sentence": "This is my father.",
+        "sentenceTrans": "这是我的爸爸。"
+    },
+    {
+        "name": "mother",
+        "trans": [
+            "n. 母亲"
+        ],
+        "usphone": "ˈmʌðər",
+        "ukphone": "ˈmʌðə(r)",
+        "sentence": "This is my mother.",
+        "sentenceTrans": "这是我的妈妈。"
+    },
+    {
+        "name": "me",
+        "trans": [
+            "pron. 我(宾格)"
+        ],
+        "usphone": "miː; mi",
+        "ukphone": "miː; mi",
+        "sentence": "Look at me.",
+        "sentenceTrans": "看看我。"
+    },
+    {
+        "name": "fat",
+        "trans": [
+            "adj. 肥胖的,厚的n. 脂肪；肥肉"
+        ],
+        "usphone": "fæt",
+        "ukphone": "fæt",
+        "sentence": "The pig is fat.",
+        "sentenceTrans": "这头猪很胖。"
+    },
+    {
+        "name": "thin",
+        "trans": [
+            "adj. 瘦的,稀少的"
+        ],
+        "usphone": "θɪn",
+        "ukphone": "θɪn",
+        "sentence": "The monkey is thin.",
+        "sentenceTrans": "这只猴子很瘦。"
+    },
+    {
+        "name": "tall",
+        "trans": [
+            "adj. 高的"
+        ],
+        "usphone": "tɔːl",
+        "ukphone": "tɔːl",
+        "sentence": "The cow is tall.",
+        "sentenceTrans": "这头奶牛很高。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "adj. 短的,矮的,短暂的 n. 短裤 adv. 短暂地;突然地"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "The ruler is short.",
+        "sentenceTrans": "这把尺子很短。"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "num. 一"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn",
+        "sentence": "I have one book.",
+        "sentenceTrans": "我有一本书。"
+    },
+    {
+        "name": "two",
+        "trans": [
+            "num. 二"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː",
+        "sentence": "I have two pencils.",
+        "sentenceTrans": "我有两支铅笔。"
+    },
+    {
+        "name": "three",
+        "trans": [
+            "num. 三"
+        ],
+        "usphone": "θriː",
+        "ukphone": "θriː",
+        "sentence": "I have three books.",
+        "sentenceTrans": "我有三本书。"
+    },
+    {
+        "name": "four",
+        "trans": [
+            "num. 四"
+        ],
+        "usphone": "fɔːr",
+        "ukphone": "fɔː(r)",
+        "sentence": "I have four pencils.",
+        "sentenceTrans": "我有四支铅笔。"
+    },
+    {
+        "name": "five",
+        "trans": [
+            "num. 五"
+        ],
+        "usphone": "faɪv",
+        "ukphone": "faɪv",
+        "sentence": "I have five books.",
+        "sentenceTrans": "我有五本书。"
+    },
+    {
+        "name": "six",
+        "trans": [
+            "num.六"
+        ],
+        "usphone": "sɪks",
+        "ukphone": "sɪks",
+        "sentence": "I have six pencils.",
+        "sentenceTrans": "我有六支铅笔。"
+    },
+    {
+        "name": "apple",
+        "trans": [
+            "n. 苹果"
+        ],
+        "usphone": "ˈæp(ə)l",
+        "ukphone": "ˈæp(ə)l",
+        "sentence": "I like this apple.",
+        "sentenceTrans": "我喜欢这个苹果。"
+    },
+    {
+        "name": "pear",
+        "trans": [
+            "n. 梨(树)"
+        ],
+        "usphone": "per",
+        "ukphone": "peə(r)",
+        "sentence": "I like this pear.",
+        "sentenceTrans": "我喜欢这个梨。"
+    },
+    {
+        "name": "peach",
+        "trans": [
+            "n. 桃子, 桃红色"
+        ],
+        "usphone": "piːtʃ",
+        "ukphone": "piːtʃ",
+        "sentence": "I like this peach.",
+        "sentenceTrans": "我喜欢这个桃子。"
+    },
+    {
+        "name": "orange",
+        "trans": [
+            "adj. 橙色的 n. 橘子,橙色"
+        ],
+        "usphone": "ˈɔːrɪndʒ",
+        "ukphone": "ˈɒrɪndʒ",
+        "sentence": "This orange is orange.",
+        "sentenceTrans": "这个橙子是橙色的。"
+    },
+    {
+        "name": "hamburger",
+        "trans": [
+            "n. 汉堡包"
+        ],
+        "usphone": "ˈhæmbɜːrɡər",
+        "ukphone": "ˈhæmbɜːɡə(r)",
+        "sentence": "I like this hamburger.",
+        "sentenceTrans": "我喜欢这个汉堡包。"
+    },
+    {
+        "name": "pizza",
+        "trans": [
+            "n. 比萨饼"
+        ],
+        "usphone": "ˈpiːtsə",
+        "ukphone": "ˈpiːtsə",
+        "sentence": "I like pizza.",
+        "sentenceTrans": "我喜欢比萨饼。"
+    },
+    {
+        "name": "cake",
+        "trans": [
+            "n. 蛋糕"
+        ],
+        "usphone": "keɪk",
+        "ukphone": "keɪk",
+        "sentence": "I like cake.",
+        "sentenceTrans": "我喜欢蛋糕。"
+    },
+    {
+        "name": "pie",
+        "trans": [
+            "n.派, 馅饼"
+        ],
+        "usphone": "paɪ",
+        "ukphone": "paɪ",
+        "sentence": "I like this pie.",
+        "sentenceTrans": "我喜欢这个馅饼。"
+    },
+    {
+        "name": "chick",
+        "trans": [
+            "n. 小鸡"
+        ],
+        "usphone": "tʃɪk",
+        "ukphone": "tʃɪk",
+        "sentence": "I see a chick.",
+        "sentenceTrans": "我看见一只小鸡。"
+    },
+    {
+        "name": "duck",
+        "trans": [
+            "n. 鸭，鸭肉"
+        ],
+        "usphone": "dʌk",
+        "ukphone": "dʌk",
+        "sentence": "I see a duck.",
+        "sentenceTrans": "我看见一只鸭子。"
+    },
+    {
+        "name": "cow",
+        "trans": [
+            "n. 奶牛；母牛"
+        ],
+        "usphone": "kaʊ",
+        "ukphone": "kaʊ",
+        "sentence": "I see a cow.",
+        "sentenceTrans": "我看见一头奶牛。"
+    },
+    {
+        "name": "pig",
+        "trans": [
+            "n. 猪"
+        ],
+        "usphone": "pɪɡ",
+        "ukphone": "pɪɡ",
+        "sentence": "I see a pig.",
+        "sentenceTrans": "我看见一头猪。"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "adj. 自然的,天生的"
+        ],
+        "usphone": "ˈnætʃ(ə)rəl",
+        "ukphone": "ˈnætʃ(ə)rəl",
+        "sentence": "This is natural.",
+        "sentenceTrans": "这是自然的。"
+    },
+    {
+        "name": "world",
+        "trans": [
+            "n. 世界"
+        ],
+        "usphone": "wɜːrld",
+        "ukphone": "wɜːld",
+        "sentence": "This is our world.",
+        "sentenceTrans": "这是我们的世界。"
+    },
+    {
+        "name": "bear",
+        "trans": [
+            "n. 熊 v. 忍受 v. 结果实,生子女"
+        ],
+        "usphone": "ber",
+        "ukphone": "beə(r)",
+        "sentence": "I see a bear.",
+        "sentenceTrans": "我看见一只熊。"
+    },
+    {
+        "name": "tiger",
+        "trans": [
+            "n. 老虎"
+        ],
+        "usphone": "ˈtaɪɡər",
+        "ukphone": "ˈtaɪɡə(r)",
+        "sentence": "I see a tiger.",
+        "sentenceTrans": "我看见一只老虎。"
+    },
+    {
+        "name": "monkey",
+        "trans": [
+            "n. 猴子"
+        ],
+        "usphone": "ˈmʌŋki",
+        "ukphone": "ˈmʌŋki",
+        "sentence": "I see a monkey.",
+        "sentenceTrans": "我看见一只猴子。"
+    },
+    {
+        "name": "panda",
+        "trans": [
+            "n. 熊猫"
+        ],
+        "usphone": "ˈpændə",
+        "ukphone": "ˈpændə",
+        "sentence": "I see a panda.",
+        "sentenceTrans": "我看见一只熊猫。"
+    },
+    {
+        "name": "red",
+        "trans": [
+            "adj. 红色的 n. 红色"
+        ],
+        "usphone": "red",
+        "ukphone": "red",
+        "sentence": "The apple is red.",
+        "sentenceTrans": "这个苹果是红色的。"
+    },
+    {
+        "name": "blue",
+        "trans": [
+            "adj. 蓝色的,沮丧的,忧郁的n. 蓝色"
+        ],
+        "usphone": "bluː",
+        "ukphone": "bluː",
+        "sentence": "The book is blue.",
+        "sentenceTrans": "这本书是蓝色的。"
+    },
+    {
+        "name": "yellow",
+        "trans": [
+            "adj. 黄色的 n. 黄色"
+        ],
+        "usphone": "ˈjeloʊ",
+        "ukphone": "ˈjeləʊ",
+        "sentence": "The duck is yellow.",
+        "sentenceTrans": "这只鸭子是黄色的。"
+    },
+    {
+        "name": "green",
+        "trans": [
+            "adj. 绿色的,温和的,未成熟的 n. 绿色"
+        ],
+        "usphone": "ɡriːn",
+        "ukphone": "ɡriːn",
+        "sentence": "The pencil is green.",
+        "sentenceTrans": "这支铅笔是绿色的。"
+    }
+]

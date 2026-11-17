@@ -1,0 +1,182 @@
+[
+    {
+        "name": "neat",
+        "trans": [
+            "time 下次"
+        ],
+        "usphone": "niːt",
+        "ukphone": "niːt",
+        "sentence": "See you next time.",
+        "sentenceTrans": "下次见。"
+    },
+    {
+        "name": "once",
+        "trans": [
+            "upon a time 从前"
+        ],
+        "usphone": "wʌns",
+        "ukphone": "wʌns",
+        "sentence": "Once upon a time, there was a princess.",
+        "sentenceTrans": "从前，有一位公主。"
+    },
+    {
+        "name": "fall",
+        "trans": [
+            "asleep 睡着"
+        ],
+        "usphone": "fɔːl",
+        "ukphone": "fɔːl",
+        "sentence": "The princess falls asleep.",
+        "sentenceTrans": "公主睡着了。"
+    },
+    {
+        "name": "bee",
+        "trans": [
+            "蜜蜂"
+        ],
+        "usphone": "biː",
+        "ukphone": "biː",
+        "sentence": "I see a bee.",
+        "sentenceTrans": "我看见一只蜜蜂。"
+    },
+    {
+        "name": "insect",
+        "trans": [
+            "昆虫"
+        ],
+        "usphone": "ˈɪnsekt",
+        "ukphone": "ˈɪnsekt",
+        "sentence": "An ant is an insect.",
+        "sentenceTrans": "蚂蚁是一种昆虫。"
+    },
+    {
+        "name": "ant",
+        "trans": [
+            "蚂蚁"
+        ],
+        "usphone": "ænt",
+        "ukphone": "ænt",
+        "sentence": "The ant is small.",
+        "sentenceTrans": "这只蚂蚁很小。"
+    },
+    {
+        "name": "anything",
+        "trans": [
+            "任何东西"
+        ],
+        "usphone": "ˈeniθɪŋ",
+        "ukphone": "ˈeniθɪŋ",
+        "sentence": "Did you see anything in the garden?",
+        "sentenceTrans": "你在花园里看到什么了吗？"
+    },
+    {
+        "name": "kind",
+        "trans": [
+            "种类"
+        ],
+        "usphone": "kaɪnd",
+        "ukphone": "kaɪnd",
+        "sentence": "The old woman is kind to us.",
+        "sentenceTrans": "这位老妇人对我们很友好。"
+    },
+    {
+        "name": "finger",
+        "trans": [
+            "手指"
+        ],
+        "usphone": "ˈfɪŋɡər",
+        "ukphone": "ˈfɪŋɡə(r)",
+        "sentence": "An ant is on my finger.",
+        "sentenceTrans": "一只蚂蚁在我的手指上。"
+    },
+    {
+        "name": "dancer",
+        "trans": [
+            "跳舞者；舞蹈演员"
+        ],
+        "usphone": "ˈdænsər",
+        "ukphone": "ˈdɑːnsə(r)",
+        "sentence": "My sister wants to be a dancer.",
+        "sentenceTrans": "我妹妹想成为舞蹈演员。"
+    },
+    {
+        "name": "insect",
+        "trans": [
+            "museum 昆虫博物馆"
+        ],
+        "usphone": "ˈɪnsekt",
+        "ukphone": "ˈɪnsekt",
+        "sentence": "An ant is an insect.",
+        "sentenceTrans": "蚂蚁是一种昆虫。"
+    },
+    {
+        "name": "car",
+        "trans": [
+            "museum 汽车博物馆"
+        ],
+        "usphone": "kɑːr",
+        "ukphone": "kɑː(r)",
+        "sentence": "We visit the car museum.",
+        "sentenceTrans": "我们参观汽车博物馆。"
+    },
+    {
+        "name": "model",
+        "trans": [
+            "car 汽车模型"
+        ],
+        "usphone": "ˈmɑːd(ə)l",
+        "ukphone": "ˈmɒd(ə)l",
+        "sentence": "This is a model car.",
+        "sentenceTrans": "这是一辆汽车模型。"
+    },
+    {
+        "name": "science",
+        "trans": [
+            "museum 科学博物馆"
+        ],
+        "usphone": "ˈsaɪəns",
+        "ukphone": "ˈsaɪəns",
+        "sentence": "We visit the science museum.",
+        "sentenceTrans": "我们参观科学博物馆。"
+    },
+    {
+        "name": "many",
+        "trans": [
+            "kinds of 各种各样的"
+        ],
+        "usphone": "ˈmeni",
+        "ukphone": "ˈmeni",
+        "sentence": "The museum has many kinds of cars.",
+        "sentenceTrans": "博物馆有各种各样的汽车。"
+    },
+    {
+        "name": "capital",
+        "trans": [
+            "首都"
+        ],
+        "usphone": "ˈkæpɪt(ə)l",
+        "ukphone": "ˈkæpɪt(ə)l",
+        "sentence": "Beijing is the capital of China.",
+        "sentenceTrans": "北京是中国的首都。"
+    },
+    {
+        "name": "north",
+        "trans": [
+            "北；北部"
+        ],
+        "usphone": "nɔːrθ",
+        "ukphone": "nɔːθ",
+        "sentence": "Wild geese fly north in spring.",
+        "sentenceTrans": "大雁春天向北飞。"
+    },
+    {
+        "name": "east",
+        "trans": [
+            "东；东部"
+        ],
+        "usphone": "iːst",
+        "ukphone": "iːst",
+        "sentence": "Shanghai is in the east of China.",
+        "sentenceTrans": "上海位于中国东部。"
+    }
+]

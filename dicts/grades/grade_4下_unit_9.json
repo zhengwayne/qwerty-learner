@@ -1,0 +1,22 @@
+[
+    {
+        "name": "swan",
+        "trans": [
+            "天鹅"
+        ],
+        "usphone": "swɑːn",
+        "ukphone": "swɒn",
+        "sentence": "I see a white swan.",
+        "sentenceTrans": "我看见一只白天鹅。"
+    },
+    {
+        "name": "into",
+        "trans": [
+            "朝；向；到…里面"
+        ],
+        "usphone": "ˈɪntuː",
+        "ukphone": "ˈɪntuː",
+        "sentence": "The frog jumps into the river.",
+        "sentenceTrans": "青蛙跳进河里。"
+    }
+]

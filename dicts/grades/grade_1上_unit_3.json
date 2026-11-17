@@ -1,0 +1,152 @@
+[
+    {
+        "name": "pie",
+        "trans": [
+            "n.派, 馅饼"
+        ],
+        "usphone": "paɪ",
+        "ukphone": "paɪ",
+        "sentence": "I like this pie.",
+        "sentenceTrans": "我喜欢这个馅饼。"
+    },
+    {
+        "name": "chick",
+        "trans": [
+            "n. 小鸡"
+        ],
+        "usphone": "tʃɪk",
+        "ukphone": "tʃɪk",
+        "sentence": "I see a chick.",
+        "sentenceTrans": "我看见一只小鸡。"
+    },
+    {
+        "name": "duck",
+        "trans": [
+            "n. 鸭，鸭肉"
+        ],
+        "usphone": "dʌk",
+        "ukphone": "dʌk",
+        "sentence": "I see a duck.",
+        "sentenceTrans": "我看见一只鸭子。"
+    },
+    {
+        "name": "cow",
+        "trans": [
+            "n. 奶牛；母牛"
+        ],
+        "usphone": "kaʊ",
+        "ukphone": "kaʊ",
+        "sentence": "I see a cow.",
+        "sentenceTrans": "我看见一头奶牛。"
+    },
+    {
+        "name": "pig",
+        "trans": [
+            "n. 猪"
+        ],
+        "usphone": "pɪɡ",
+        "ukphone": "pɪɡ",
+        "sentence": "I see a pig.",
+        "sentenceTrans": "我看见一头猪。"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "adj. 自然的,天生的"
+        ],
+        "usphone": "ˈnætʃ(ə)rəl",
+        "ukphone": "ˈnætʃ(ə)rəl",
+        "sentence": "This is natural.",
+        "sentenceTrans": "这是自然的。"
+    },
+    {
+        "name": "world",
+        "trans": [
+            "n. 世界"
+        ],
+        "usphone": "wɜːrld",
+        "ukphone": "wɜːld",
+        "sentence": "This is our world.",
+        "sentenceTrans": "这是我们的世界。"
+    },
+    {
+        "name": "bear",
+        "trans": [
+            "n. 熊 v. 忍受 v. 结果实,生子女"
+        ],
+        "usphone": "ber",
+        "ukphone": "beə(r)",
+        "sentence": "I see a bear.",
+        "sentenceTrans": "我看见一只熊。"
+    },
+    {
+        "name": "tiger",
+        "trans": [
+            "n. 老虎"
+        ],
+        "usphone": "ˈtaɪɡər",
+        "ukphone": "ˈtaɪɡə(r)",
+        "sentence": "I see a tiger.",
+        "sentenceTrans": "我看见一只老虎。"
+    },
+    {
+        "name": "monkey",
+        "trans": [
+            "n. 猴子"
+        ],
+        "usphone": "ˈmʌŋki",
+        "ukphone": "ˈmʌŋki",
+        "sentence": "I see a monkey.",
+        "sentenceTrans": "我看见一只猴子。"
+    },
+    {
+        "name": "panda",
+        "trans": [
+            "n. 熊猫"
+        ],
+        "usphone": "ˈpændə",
+        "ukphone": "ˈpændə",
+        "sentence": "I see a panda.",
+        "sentenceTrans": "我看见一只熊猫。"
+    },
+    {
+        "name": "red",
+        "trans": [
+            "adj. 红色的 n. 红色"
+        ],
+        "usphone": "red",
+        "ukphone": "red",
+        "sentence": "The apple is red.",
+        "sentenceTrans": "这个苹果是红色的。"
+    },
+    {
+        "name": "blue",
+        "trans": [
+            "adj. 蓝色的,沮丧的,忧郁的n. 蓝色"
+        ],
+        "usphone": "bluː",
+        "ukphone": "bluː",
+        "sentence": "The book is blue.",
+        "sentenceTrans": "这本书是蓝色的。"
+    },
+    {
+        "name": "yellow",
+        "trans": [
+            "adj. 黄色的 n. 黄色"
+        ],
+        "usphone": "ˈjeloʊ",
+        "ukphone": "ˈjeləʊ",
+        "sentence": "The duck is yellow.",
+        "sentenceTrans": "这只鸭子是黄色的。"
+    },
+    {
+        "name": "green",
+        "trans": [
+            "adj. 绿色的,温和的,未成熟的 n. 绿色"
+        ],
+        "usphone": "ɡriːn",
+        "ukphone": "ɡriːn",
+        "sentence": "The pencil is green.",
+        "sentenceTrans": "这支铅笔是绿色的。"
+    }
+]

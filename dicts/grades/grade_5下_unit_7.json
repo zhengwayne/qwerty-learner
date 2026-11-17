@@ -1,0 +1,192 @@
+[
+    {
+        "name": "wrong",
+        "trans": [
+            "有毛病；不正常；错误的"
+        ],
+        "usphone": "rɔːŋ",
+        "ukphone": "rɒŋ",
+        "sentence": "What is wrong with you?",
+        "sentenceTrans": "你怎么了？"
+    },
+    {
+        "name": "headache",
+        "trans": [
+            "头痛"
+        ],
+        "usphone": "ˈhedeɪk",
+        "ukphone": "ˈhedeɪk",
+        "sentence": "I have a bad headache.",
+        "sentenceTrans": "我头痛得厉害。"
+    },
+    {
+        "name": "fever",
+        "trans": [
+            "发烧；发热"
+        ],
+        "usphone": "ˈfiːvər",
+        "ukphone": "ˈfiːvə(r)",
+        "sentence": "I have a fever today.",
+        "sentenceTrans": "我今天发烧了。"
+    },
+    {
+        "name": "should",
+        "trans": [
+            "应该"
+        ],
+        "usphone": "ʃʊd; ʃəd",
+        "ukphone": "ʃʊd; ʃəd",
+        "sentence": "You should drink more water.",
+        "sentenceTrans": "你应该多喝水。"
+    },
+    {
+        "name": "medicine",
+        "trans": [
+            "药"
+        ],
+        "usphone": "ˈmedɪs(ə)n",
+        "ukphone": "ˈmedsn; ˈmedɪsn",
+        "sentence": "Take this medicine after dinner.",
+        "sentenceTrans": "晚饭后服用这种药。"
+    },
+    {
+        "name": "rest",
+        "trans": [
+            "休息"
+        ],
+        "usphone": "rest",
+        "ukphone": "rest",
+        "sentence": "You should have a good rest.",
+        "sentenceTrans": "你应该好好休息。"
+    },
+    {
+        "name": "toothache",
+        "trans": [
+            "牙痛"
+        ],
+        "usphone": "ˈtuːθeɪk",
+        "ukphone": "ˈtuːθeɪk",
+        "sentence": "I have a toothache.",
+        "sentenceTrans": "我牙痛。"
+    },
+    {
+        "name": "toothless",
+        "trans": [
+            "没有牙齿的"
+        ],
+        "usphone": "ˈtuːθləs",
+        "ukphone": "ˈtuːθləs",
+        "sentence": "The old tiger is toothless.",
+        "sentenceTrans": "这只老虎没有牙齿。"
+    },
+    {
+        "name": "present",
+        "trans": [
+            "礼物"
+        ],
+        "usphone": "ˈprez(ə)nt; prɪˈzent",
+        "ukphone": "ˈprez(ə)nt; prɪˈzent",
+        "sentence": "This watch is my birthday present.",
+        "sentenceTrans": "这块手表是我的生日礼物。"
+    },
+    {
+        "name": "world",
+        "trans": [
+            "世界"
+        ],
+        "usphone": "wɜːrld",
+        "ukphone": "wɜːld",
+        "sentence": "This is our world.",
+        "sentenceTrans": "这是我们的世界。"
+    },
+    {
+        "name": "dentist",
+        "trans": [
+            "牙医"
+        ],
+        "usphone": "ˈdentɪst",
+        "ukphone": "ˈdentɪst",
+        "sentence": "The dentist looks at my teeth.",
+        "sentenceTrans": "牙医检查我的牙齿。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a headache 头疼"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a fever 发烧"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a cold 感冒"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a rest 休息一下"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "well 康复"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "I get a new book.",
+        "sentenceTrans": "我得到一本新书。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a toothache 牙疼"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "a meeting 开会"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "pull…out",
+        "trans": [
+            "把…拔出"
+        ],
+        "usphone": "ˈpʊl aʊt",
+        "ukphone": "ˈpʊl aʊt",
+        "sentence": "The dentist pulls out the bad tooth.",
+        "sentenceTrans": "牙医拔掉了坏牙。"
+    }
+]

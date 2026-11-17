@@ -1,0 +1,182 @@
+[
+    {
+        "name": "weigh",
+        "trans": [
+            "有…重；重"
+        ],
+        "usphone": "weɪ",
+        "ukphone": "weɪ",
+        "sentence": "How much does the baby weigh?",
+        "sentenceTrans": "这个宝宝有多重？"
+    },
+    {
+        "name": "kilogram",
+        "trans": [
+            "千克；公斤"
+        ],
+        "usphone": "ˈkɪləɡræm",
+        "ukphone": "ˈkɪləɡræm",
+        "sentence": "The baby weighs four kilograms.",
+        "sentenceTrans": "这个宝宝重四公斤。"
+    },
+    {
+        "name": "centimetre",
+        "trans": [
+            "厘米"
+        ],
+        "usphone": "ˈsentɪmiːtər",
+        "ukphone": "ˈsentɪmiːtə(r)",
+        "sentence": "The plant is ten centimetres tall.",
+        "sentenceTrans": "这株植物有十厘米高。"
+    },
+    {
+        "name": "taller",
+        "trans": [
+            "更高的"
+        ],
+        "usphone": "ˈtɔːlər",
+        "ukphone": "ˈtɔ:lə(r)",
+        "sentence": "Joe is taller than his brother.",
+        "sentenceTrans": "乔比他的弟弟高。"
+    },
+    {
+        "name": "fan",
+        "trans": [
+            "迷；爱好者"
+        ],
+        "usphone": "fæn",
+        "ukphone": "fæn",
+        "sentence": "I am a big fan of this writer.",
+        "sentenceTrans": "我是这位作家的忠实读者。"
+    },
+    {
+        "name": "fantastic",
+        "trans": [
+            "极好的"
+        ],
+        "usphone": "fænˈtæstɪk",
+        "ukphone": "fænˈtæstɪk",
+        "sentence": "The theatre show is fantastic.",
+        "sentenceTrans": "这场剧院演出棒极了。"
+    },
+    {
+        "name": "themselves",
+        "trans": [
+            "他们自己；她们自己；它们自己"
+        ],
+        "usphone": "ðəmˈselvz",
+        "ukphone": "ðəmˈselvz",
+        "sentence": "They made the film themselves.",
+        "sentenceTrans": "他们自己制作了这部电影。"
+    },
+    {
+        "name": "theatre",
+        "trans": [
+            "剧院"
+        ],
+        "usphone": "ˈθiːətər",
+        "ukphone": "ˈθɪətə(r)",
+        "sentence": "We see a show at the theatre.",
+        "sentenceTrans": "我们在剧院看演出。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "fishing 去钓鱼"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "We go fishing at the weekend.",
+        "sentenceTrans": "我们周末去钓鱼。"
+    },
+    {
+        "name": "enjoy",
+        "trans": [
+            "oneself 玩得愉快；得到乐趣"
+        ],
+        "usphone": "ɪnˈdʒɔɪ",
+        "ukphone": "ɪnˈdʒɔɪ",
+        "sentence": "They enjoyed themselves at the theatre.",
+        "sentenceTrans": "他们在剧院玩得很开心。"
+    },
+    {
+        "name": "get…in",
+        "trans": [
+            "收割"
+        ],
+        "usphone": "ɡet ɪn",
+        "ukphone": "",
+        "sentence": "Farmers get in the crops in autumn.",
+        "sentenceTrans": "农民在秋天收割庄稼。"
+    },
+    {
+        "name": "life",
+        "trans": [
+            "生活"
+        ],
+        "usphone": "laɪf",
+        "ukphone": "laɪf",
+        "sentence": "The film is about village life.",
+        "sentenceTrans": "这部电影讲述乡村生活。"
+    },
+    {
+        "name": "writer",
+        "trans": [
+            "作家"
+        ],
+        "usphone": "ˈraɪtər",
+        "ukphone": "ˈraɪtə(r)",
+        "sentence": "She wants to be a writer.",
+        "sentenceTrans": "她想成为一名作家。"
+    },
+    {
+        "name": "photographer",
+        "trans": [
+            "摄影师"
+        ],
+        "usphone": "fəˈtɑːɡrəfər",
+        "ukphone": "fəˈtɒɡrəfə(r)",
+        "sentence": "The photographer uses a digital camera.",
+        "sentenceTrans": "摄影师使用数码相机。"
+    },
+    {
+        "name": "film",
+        "trans": [
+            "胶卷"
+        ],
+        "usphone": "fɪlm",
+        "ukphone": "fɪlm",
+        "sentence": "We see a film at the weekend.",
+        "sentenceTrans": "我们周末看电影。"
+    },
+    {
+        "name": "digital",
+        "trans": [
+            "数码的"
+        ],
+        "usphone": "ˈdɪdʒɪt(ə)l",
+        "ukphone": "ˈdɪdʒɪt(ə)l",
+        "sentence": "This is a digital camera.",
+        "sentenceTrans": "这是一台数码相机。"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "cleaner 环卫工人"
+        ],
+        "usphone": "striːt",
+        "ukphone": "striːt",
+        "sentence": "The street cleaner sweeps the road.",
+        "sentenceTrans": "环卫工人清扫马路。"
+    },
+    {
+        "name": "sweep",
+        "trans": [
+            "扫地"
+        ],
+        "usphone": "swiːp",
+        "ukphone": "swiːp",
+        "sentence": "The cleaner sweeps the street every morning.",
+        "sentenceTrans": "环卫工人每天早上清扫街道。"
+    }
+]

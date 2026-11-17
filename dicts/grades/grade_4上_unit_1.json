@@ -1,0 +1,182 @@
+[
+    {
+        "name": "meet",
+        "trans": [
+            "相识；结识"
+        ],
+        "usphone": "miːt",
+        "ukphone": "miːt",
+        "sentence": "Nice to meet you.",
+        "sentenceTrans": "很高兴认识你。"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "新的"
+        ],
+        "usphone": "nuː",
+        "ukphone": "njuː",
+        "sentence": "This is my new ball.",
+        "sentenceTrans": "这是我的新球。"
+    },
+    {
+        "name": "morning",
+        "trans": [
+            "早晨；上午"
+        ],
+        "usphone": "ˈmɔːrnɪŋ",
+        "ukphone": "ˈmɔːnɪŋ",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "classmate",
+        "trans": [
+            "同班同学"
+        ],
+        "usphone": "ˈklæsmeɪt",
+        "ukphone": "ˈklɑːsmeɪt",
+        "sentence": "She is my classmate.",
+        "sentenceTrans": "她是我的同班同学。"
+    },
+    {
+        "name": "her",
+        "trans": [
+            "她的"
+        ],
+        "usphone": "hɜːr; hər",
+        "ukphone": "hɜː(r); hə(r)",
+        "sentence": "This is her book.",
+        "sentenceTrans": "这是她的书。"
+    },
+    {
+        "name": "name",
+        "trans": [
+            "名字"
+        ],
+        "usphone": "neɪm",
+        "ukphone": "neɪm",
+        "sentence": "My name is Tom.",
+        "sentenceTrans": "我的名字叫汤姆。"
+    },
+    {
+        "name": "sit",
+        "trans": [
+            "坐"
+        ],
+        "usphone": "sɪt",
+        "ukphone": "sɪt",
+        "sentence": "Sit on the chair, please.",
+        "sentenceTrans": "请坐在椅子上。"
+    },
+    {
+        "name": "afternoon",
+        "trans": [
+            "下午"
+        ],
+        "usphone": "ˌæftərˈnuːn",
+        "ukphone": "ˌɑːftəˈnuːn",
+        "sentence": "Good afternoon.",
+        "sentenceTrans": "下午好。"
+    },
+    {
+        "name": "his",
+        "trans": [
+            "他的"
+        ],
+        "usphone": "hɪz; ɪz",
+        "ukphone": "hɪz; ɪz",
+        "sentence": "This is his ball.",
+        "sentenceTrans": "这是他的球。"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "跑"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn",
+        "sentence": "The wolf runs away.",
+        "sentenceTrans": "这只狼跑走了。"
+    },
+    {
+        "name": "fast",
+        "trans": [
+            "快地；迅速地；快的"
+        ],
+        "usphone": "fæst",
+        "ukphone": "fɑːst",
+        "sentence": "The horse can run fast.",
+        "sentenceTrans": "这匹马能跑得很快。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "飞；放飞"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "The bird can fly.",
+        "sentenceTrans": "这只鸟会飞。"
+    },
+    {
+        "name": "draw",
+        "trans": [
+            "画画"
+        ],
+        "usphone": "drɔː",
+        "ukphone": "drɔː",
+        "sentence": "I can draw a bear.",
+        "sentenceTrans": "我会画一只熊。"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "写字；书写"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "I can write my name.",
+        "sentenceTrans": "我会写我的名字。"
+    },
+    {
+        "name": "jump",
+        "trans": [
+            "跳"
+        ],
+        "usphone": "dʒʌmp",
+        "ukphone": "dʒʌmp",
+        "sentence": "The rabbit can jump.",
+        "sentenceTrans": "兔子会跳。"
+    },
+    {
+        "name": "welcome",
+        "trans": [
+            "欢迎"
+        ],
+        "usphone": "ˈwelkəm",
+        "ukphone": "ˈwelkəm",
+        "sentence": "Welcome to our school.",
+        "sentenceTrans": "欢迎来到我们的学校。"
+    },
+    {
+        "name": "woof",
+        "trans": [
+            "（狗叫声）汪汪"
+        ],
+        "usphone": "wʊf",
+        "ukphone": "wʊf",
+        "sentence": "The dog says, 'Woof!'",
+        "sentenceTrans": "小狗汪汪叫。"
+    },
+    {
+        "name": "but",
+        "trans": [
+            "但是"
+        ],
+        "usphone": "bʌt; bət",
+        "ukphone": "bʌt; bət",
+        "sentence": "The box is small but full.",
+        "sentenceTrans": "这个盒子很小，但是装满了。"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "are",
+        "trans": [
+            "是"
+        ],
+        "usphone": "ɑːr; ər",
+        "ukphone": "ɑː(r); ə(r)",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "brown",
+        "trans": [
+            "棕色的，褐色的"
+        ],
+        "usphone": "braʊn",
+        "ukphone": "braʊn",
+        "sentence": "The bear is brown.",
+        "sentenceTrans": "这只熊是棕色的。"
+    },
+    {
+        "name": "white",
+        "trans": [
+            "白色的"
+        ],
+        "usphone": "waɪt",
+        "ukphone": "waɪt",
+        "sentence": "The rabbit is white.",
+        "sentenceTrans": "这只兔子是白色的。"
+    },
+    {
+        "name": "black",
+        "trans": [
+            "黑色的"
+        ],
+        "usphone": "blæk",
+        "ukphone": "blæk",
+        "sentence": "The coat is black.",
+        "sentenceTrans": "这件大衣是黑色的。"
+    },
+    {
+        "name": "feel",
+        "trans": [
+            "感觉，摸起来，摸"
+        ],
+        "usphone": "fiːl",
+        "ukphone": "fiːl",
+        "sentence": "I feel cold.",
+        "sentenceTrans": "我觉得冷。"
+    },
+    {
+        "name": "touch",
+        "trans": [
+            "触摸，碰"
+        ],
+        "usphone": "tʌtʃ",
+        "ukphone": "tʌtʃ",
+        "sentence": "Touch your nose.",
+        "sentenceTrans": "摸摸你的鼻子。"
+    },
+    {
+        "name": "hard",
+        "trans": [
+            "坚硬的"
+        ],
+        "usphone": "hɑːrd",
+        "ukphone": "hɑːd",
+        "sentence": "The box is hard.",
+        "sentenceTrans": "这个盒子很硬。"
+    },
+    {
+        "name": "soft",
+        "trans": [
+            "软的，柔软的"
+        ],
+        "usphone": "sɔːft",
+        "ukphone": "sɒft",
+        "sentence": "The toy is soft.",
+        "sentenceTrans": "这个玩具很柔软。"
+    },
+    {
+        "name": "happy",
+        "trans": [
+            "开心的，快乐的"
+        ],
+        "usphone": "ˈhæpi",
+        "ukphone": "ˈhæpi",
+        "sentence": "I am very happy.",
+        "sentenceTrans": "我非常开心。"
+    },
+    {
+        "name": "guess",
+        "trans": [
+            "猜"
+        ],
+        "usphone": "ɡes",
+        "ukphone": "ɡes",
+        "sentence": "Guess what it is.",
+        "sentenceTrans": "猜猜它是什么。"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "case 铅笔盒"
+        ],
+        "usphone": "ˈpens(ə)l",
+        "ukphone": "ˈpens(ə)l",
+        "sentence": "This is my pencil case.",
+        "sentenceTrans": "这是我的铅笔盒。"
+    },
+    {
+        "name": "open",
+        "trans": [
+            "打开，开"
+        ],
+        "usphone": "ˈoʊpən",
+        "ukphone": "ˈəʊpən",
+        "sentence": "Open the window, please.",
+        "sentenceTrans": "请打开窗户。"
+    },
+    {
+        "name": "watch",
+        "trans": [
+            "手表"
+        ],
+        "usphone": "wɑːtʃ",
+        "ukphone": "wɒtʃ",
+        "sentence": "This is my watch.",
+        "sentenceTrans": "这是我的手表。"
+    },
+    {
+        "name": "train",
+        "trans": [
+            "火车，列车"
+        ],
+        "usphone": "treɪn",
+        "ukphone": "treɪn",
+        "sentence": "I go by train.",
+        "sentenceTrans": "我坐火车去。"
+    },
+    {
+        "name": "ship",
+        "trans": [
+            "大船"
+        ],
+        "usphone": "ʃɪp",
+        "ukphone": "ʃɪp",
+        "sentence": "I see a big ship.",
+        "sentenceTrans": "我看见一艘大船。"
+    },
+    {
+        "name": "car",
+        "trans": [
+            "小汽车"
+        ],
+        "usphone": "kɑːr",
+        "ukphone": "kɑː(r)",
+        "sentence": "This is a little car.",
+        "sentenceTrans": "这是一辆小汽车。"
+    },
+    {
+        "name": "bus",
+        "trans": [
+            "公共汽车"
+        ],
+        "usphone": "bʌs",
+        "ukphone": "bʌs",
+        "sentence": "I go to school by bus.",
+        "sentenceTrans": "我坐公共汽车去上学。"
+    },
+    {
+        "name": "beside",
+        "trans": [
+            "在....旁边"
+        ],
+        "usphone": "bɪˈsaɪd",
+        "ukphone": "bɪˈsaɪd",
+        "sentence": "The chair is beside the bed.",
+        "sentenceTrans": "椅子在床边。"
+    },
+    {
+        "name": "window",
+        "trans": [
+            "窗户"
+        ],
+        "usphone": "ˈwɪndoʊ",
+        "ukphone": "ˈwɪndəʊ",
+        "sentence": "Open the window, please.",
+        "sentenceTrans": "请打开窗户。"
+    },
+    {
+        "name": "can't",
+        "trans": [
+            "不能"
+        ],
+        "usphone": "kænt",
+        "ukphone": "kɑːnt",
+        "sentence": "I can't fly.",
+        "sentenceTrans": "我不会飞。"
+    }
+]

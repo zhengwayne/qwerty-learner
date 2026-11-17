@@ -1,0 +1,62 @@
+[
+    {
+        "name": "glass",
+        "trans": [
+            "玻璃制品；玻璃"
+        ],
+        "usphone": "ɡlæs",
+        "ukphone": "ɡlɑːs",
+        "sentence": "We can recycle glass.",
+        "sentenceTrans": "我们可以回收玻璃制品。"
+    },
+    {
+        "name": "own",
+        "trans": [
+            "自己的"
+        ],
+        "usphone": "oʊn",
+        "ukphone": "əʊn",
+        "sentence": "Bring your own shopping bag.",
+        "sentenceTrans": "带上你自己的购物袋。"
+    },
+    {
+        "name": "so",
+        "trans": [
+            "many 这么多"
+        ],
+        "usphone": "soʊ",
+        "ukphone": "səʊ",
+        "sentence": "The elephant is so big.",
+        "sentenceTrans": "这头大象真大。"
+    },
+    {
+        "name": "pick",
+        "trans": [
+            "up 捡起；拾起"
+        ],
+        "usphone": "pɪk",
+        "ukphone": "pɪk",
+        "sentence": "Pick a flower, please.",
+        "sentenceTrans": "请摘一朵花。"
+    },
+    {
+        "name": "shopping",
+        "trans": [
+            "bag 购物袋"
+        ],
+        "usphone": "ˈʃɑːpɪŋ",
+        "ukphone": "ˈʃɒpɪŋ",
+        "sentence": "I go shopping.",
+        "sentenceTrans": "我去购物。"
+    },
+    {
+        "name": "plastic",
+        "trans": [
+            "bag 塑料袋"
+        ],
+        "usphone": "ˈplæstɪk",
+        "ukphone": "ˈplæstɪk",
+        "sentence": "Do not use many plastic bags.",
+        "sentenceTrans": "不要使用很多塑料袋。"
+    }
+]

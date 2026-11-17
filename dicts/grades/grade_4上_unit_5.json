@@ -1,0 +1,182 @@
+[
+    {
+        "name": "pupil",
+        "trans": [
+            "小学生"
+        ],
+        "usphone": "ˈpjuːp(ə)l",
+        "ukphone": "ˈpjuːp(ə)l",
+        "sentence": "I am a pupil.",
+        "sentenceTrans": "我是一名小学生。"
+    },
+    {
+        "name": "try",
+        "trans": [
+            "尝试"
+        ],
+        "usphone": "traɪ",
+        "ukphone": "traɪ",
+        "sentence": "Please try it.",
+        "sentenceTrans": "请试一试。"
+    },
+    {
+        "name": "first",
+        "trans": [
+            "第一"
+        ],
+        "usphone": "fɜːrst",
+        "ukphone": "fɜːst",
+        "sentence": "I am first.",
+        "sentenceTrans": "我是第一名。"
+    },
+    {
+        "name": "climb",
+        "trans": [
+            "trees 爬树"
+        ],
+        "usphone": "klaɪm",
+        "ukphone": "klaɪm",
+        "sentence": "The monkey can climb trees.",
+        "sentenceTrans": "猴子会爬树。"
+    },
+    {
+        "name": "shop",
+        "trans": [
+            "商店"
+        ],
+        "usphone": "ʃɑːp",
+        "ukphone": "ʃɒp",
+        "sentence": "Mum is in the shop.",
+        "sentenceTrans": "妈妈在商店里。"
+    },
+    {
+        "name": "tomato",
+        "trans": [
+            "番茄；西红柿"
+        ],
+        "usphone": "təˈmeɪtoʊ",
+        "ukphone": "təˈmɑːtəʊ",
+        "sentence": "I like tomatoes.",
+        "sentenceTrans": "我喜欢番茄。"
+    },
+    {
+        "name": "soup",
+        "trans": [
+            "汤"
+        ],
+        "usphone": "suːp",
+        "ukphone": "suːp",
+        "sentence": "I like this soup.",
+        "sentenceTrans": "我喜欢这碗汤。"
+    },
+    {
+        "name": "potato",
+        "trans": [
+            "土豆"
+        ],
+        "usphone": "pəˈteɪtoʊ",
+        "ukphone": "pəˈteɪtəʊ",
+        "sentence": "I like potatoes.",
+        "sentenceTrans": "我喜欢土豆。"
+    },
+    {
+        "name": "carrot",
+        "trans": [
+            "胡萝卜"
+        ],
+        "usphone": "ˈkærət",
+        "ukphone": "ˈkærət",
+        "sentence": "The rabbit likes carrots.",
+        "sentenceTrans": "兔子喜欢胡萝卜。"
+    },
+    {
+        "name": "thirty",
+        "trans": [
+            "三十"
+        ],
+        "usphone": "ˈθɜːrti",
+        "ukphone": "ˈθɜːti",
+        "sentence": "There are thirty pupils.",
+        "sentenceTrans": "有三十名小学生。"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "鱼；鱼肉"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ",
+        "sentence": "The fish can swim.",
+        "sentenceTrans": "鱼会游泳。"
+    },
+    {
+        "name": "meat",
+        "trans": [
+            "肉"
+        ],
+        "usphone": "miːt",
+        "ukphone": "miːt",
+        "sentence": "The meat is on the plate.",
+        "sentenceTrans": "肉在盘子里。"
+    },
+    {
+        "name": "rice",
+        "trans": [
+            "大米，米饭"
+        ],
+        "usphone": "raɪs",
+        "ukphone": "raɪs",
+        "sentence": "I like rice.",
+        "sentenceTrans": "我喜欢米饭。"
+    },
+    {
+        "name": "glasses",
+        "trans": [
+            "眼镜"
+        ],
+        "usphone": "ˈɡlæsɪz",
+        "ukphone": "ˈɡlɑːsɪz",
+        "sentence": "These are my glasses.",
+        "sentenceTrans": "这是我的眼镜。"
+    },
+    {
+        "name": "want",
+        "trans": [
+            "想要"
+        ],
+        "usphone": "wɑːnt",
+        "ukphone": "wɒnt",
+        "sentence": "I want some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "together",
+        "trans": [
+            "一起"
+        ],
+        "usphone": "təˈɡeðər",
+        "ukphone": "təˈɡeðə(r)",
+        "sentence": "Let's play together.",
+        "sentenceTrans": "让我们一起玩吧。"
+    },
+    {
+        "name": "magic",
+        "trans": [
+            "神奇的；有魔力的"
+        ],
+        "usphone": "ˈmædʒɪk",
+        "ukphone": "ˈmædʒɪk",
+        "sentence": "This is a magic box.",
+        "sentenceTrans": "这是一个魔法盒子。"
+    },
+    {
+        "name": "need",
+        "trans": [
+            "需要"
+        ],
+        "usphone": "niːd",
+        "ukphone": "niːd",
+        "sentence": "I need some water.",
+        "sentenceTrans": "我需要一些水。"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "house",
+        "trans": [
+            "房屋，房子"
+        ],
+        "usphone": "haʊs",
+        "ukphone": "haʊs",
+        "sentence": "This is my house.",
+        "sentenceTrans": "这是我的房子。"
+    },
+    {
+        "name": "want",
+        "trans": [
+            "想要，要"
+        ],
+        "usphone": "wɑːnt",
+        "ukphone": "wɒnt",
+        "sentence": "I want some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "milk",
+        "trans": [
+            "牛奶"
+        ],
+        "usphone": "mɪlk",
+        "ukphone": "mɪlk",
+        "sentence": "I like milk.",
+        "sentenceTrans": "我喜欢牛奶。"
+    },
+    {
+        "name": "bread",
+        "trans": [
+            "面包"
+        ],
+        "usphone": "bred",
+        "ukphone": "bred",
+        "sentence": "I like bread and milk.",
+        "sentenceTrans": "我喜欢面包和牛奶。"
+    },
+    {
+        "name": "want",
+        "trans": [
+            "to 想做（某事)"
+        ],
+        "usphone": "wɑːnt",
+        "ukphone": "wɒnt",
+        "sentence": "I want some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "bed",
+        "trans": [
+            "床"
+        ],
+        "usphone": "bed",
+        "ukphone": "bed",
+        "sentence": "The cat is on the bed.",
+        "sentenceTrans": "猫在床上。"
+    },
+    {
+        "name": "little",
+        "trans": [
+            "小的"
+        ],
+        "usphone": "ˈlɪt(ə)l",
+        "ukphone": "ˈlɪt(ə)l",
+        "sentence": "I have a little car.",
+        "sentenceTrans": "我有一辆小汽车。"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "supermarket",
+        "trans": [
+            "超市"
+        ],
+        "usphone": "ˈsuːpərmɑːrkɪt",
+        "ukphone": "ˈsuːpəmɑːkɪt",
+        "sentence": "Mum is in the supermarket.",
+        "sentenceTrans": "妈妈在超市里。"
+    },
+    {
+        "name": "restaurant",
+        "trans": [
+            "餐馆"
+        ],
+        "usphone": "ˈrestrɑːnt",
+        "ukphone": "ˈrestrɒnt",
+        "sentence": "We have lunch in the restaurant.",
+        "sentenceTrans": "我们在餐馆吃午餐。"
+    },
+    {
+        "name": "live",
+        "trans": [
+            "住；居住"
+        ],
+        "usphone": "lɪv; laɪv",
+        "ukphone": "lɪv; laɪv",
+        "sentence": "I live near the park.",
+        "sentenceTrans": "我住在公园附近。"
+    },
+    {
+        "name": "old",
+        "trans": [
+            "古老的；旧的"
+        ],
+        "usphone": "oʊld",
+        "ukphone": "əʊld",
+        "sentence": "The man is old.",
+        "sentenceTrans": "这个男人年纪大了。"
+    },
+    {
+        "name": "eat",
+        "trans": [
+            "吃"
+        ],
+        "usphone": "iːt",
+        "ukphone": "iːt",
+        "sentence": "I eat bread for dinner.",
+        "sentenceTrans": "我晚餐吃面包。"
+    },
+    {
+        "name": "nice",
+        "trans": [
+            "美味的；美好的"
+        ],
+        "usphone": "naɪs",
+        "ukphone": "naɪs",
+        "sentence": "The girl is nice.",
+        "sentenceTrans": "这个女孩很友好。"
+    },
+    {
+        "name": "food",
+        "trans": [
+            "食物"
+        ],
+        "usphone": "fuːd",
+        "ukphone": "fuːd",
+        "sentence": "I like this food.",
+        "sentenceTrans": "我喜欢这些食物。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "lot of 很多；大量的"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I have a pair of shorts.",
+        "sentenceTrans": "我有一条短裤。"
+    },
+    {
+        "name": "shape",
+        "trans": [
+            "形状"
+        ],
+        "usphone": "ʃeɪp",
+        "ukphone": "ʃeɪp",
+        "sentence": "What shape is it?",
+        "sentenceTrans": "它是什么形状的？"
+    },
+    {
+        "name": "picture",
+        "trans": [
+            "图画；照片"
+        ],
+        "usphone": "ˈpɪktʃər",
+        "ukphone": "ˈpɪktʃə(r)",
+        "sentence": "I draw a picture.",
+        "sentenceTrans": "我画一幅画。"
+    },
+    {
+        "name": "square",
+        "trans": [
+            "正方形"
+        ],
+        "usphone": "skwer",
+        "ukphone": "skweə(r)",
+        "sentence": "This shape is a square.",
+        "sentenceTrans": "这个形状是正方形。"
+    },
+    {
+        "name": "circle",
+        "trans": [
+            "圆；圆形"
+        ],
+        "usphone": "ˈsɜːrk(ə)l",
+        "ukphone": "ˈsɜːk(ə)l",
+        "sentence": "This shape is a circle.",
+        "sentenceTrans": "这个形状是圆形。"
+    },
+    {
+        "name": "star",
+        "trans": [
+            "五角星形；星星"
+        ],
+        "usphone": "stɑːr",
+        "ukphone": "stɑː(r)",
+        "sentence": "I see a star in the sky.",
+        "sentenceTrans": "我看见天空中的一颗星星。"
+    },
+    {
+        "name": "rectangle",
+        "trans": [
+            "长方形"
+        ],
+        "usphone": "ˈrektæŋɡ(ə)l",
+        "ukphone": "ˈrektæŋɡl",
+        "sentence": "This shape is a rectangle.",
+        "sentenceTrans": "这个形状是长方形。"
+    },
+    {
+        "name": "triangle",
+        "trans": [
+            "三角形"
+        ],
+        "usphone": "ˈtraɪæŋɡ(ə)l",
+        "ukphone": "ˈtraɪæŋɡ(ə)l",
+        "sentence": "This shape is a triangle.",
+        "sentenceTrans": "这个形状是三角形。"
+    },
+    {
+        "name": "today",
+        "trans": [
+            "今天"
+        ],
+        "usphone": "təˈdeɪ",
+        "ukphone": "təˈdeɪ",
+        "sentence": "It is sunny today.",
+        "sentenceTrans": "今天是晴天。"
+    },
+    {
+        "name": "well",
+        "trans": [
+            "好；健康"
+        ],
+        "usphone": "wel",
+        "ukphone": "wel",
+        "sentence": "Well done!",
+        "sentenceTrans": "做得好！"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "天气"
+        ],
+        "usphone": "ˈweðər",
+        "ukphone": "ˈweðə(r)",
+        "sentence": "The weather is warm.",
+        "sentenceTrans": "天气很温暖。"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "swimming",
+        "trans": [
+            "pool 游泳池"
+        ],
+        "usphone": "ˈswɪmɪŋ",
+        "ukphone": "ˈswɪmɪŋ",
+        "sentence": "Remember your swimming cap.",
+        "sentenceTrans": "记得带上泳帽。"
+    },
+    {
+        "name": "warm-up",
+        "trans": [
+            "准备活动；热身练习"
+        ],
+        "usphone": "ˈwɔːrm ʌp",
+        "ukphone": "ˈwɔːm ʌp",
+        "sentence": "We do warm-up exercises before running.",
+        "sentenceTrans": "跑步前我们做热身运动。"
+    },
+    {
+        "name": "fit",
+        "trans": [
+            "健壮的"
+        ],
+        "usphone": "fɪt",
+        "ukphone": "fɪt",
+        "sentence": "Warm-up exercise keeps us fit.",
+        "sentenceTrans": "热身运动使我们保持健壮。"
+    },
+    {
+        "name": "swimming",
+        "trans": [
+            "goggles 游泳镜"
+        ],
+        "usphone": "ˈswɪmɪŋ",
+        "ukphone": "ˈswɪmɪŋ",
+        "sentence": "Remember your swimming cap.",
+        "sentenceTrans": "记得带上泳帽。"
+    },
+    {
+        "name": "bell",
+        "trans": [
+            "铃铛"
+        ],
+        "usphone": "bel",
+        "ukphone": "bel",
+        "sentence": "The cat has a bell on its neck.",
+        "sentenceTrans": "猫的脖子上有一个铃铛。"
+    },
+    {
+        "name": "neck",
+        "trans": [
+            "脖子"
+        ],
+        "usphone": "nek",
+        "ukphone": "nek",
+        "sentence": "The scarf is around her neck.",
+        "sentenceTrans": "围巾围在她的脖子上。"
+    },
+    {
+        "name": "ago",
+        "trans": [
+            "以前"
+        ],
+        "usphone": "əˈɡoʊ",
+        "ukphone": "əˈɡəʊ",
+        "sentence": "I met him two years ago.",
+        "sentenceTrans": "我两年前见过他。"
+    },
+    {
+        "name": "gatekeeper",
+        "trans": [
+            "门卫"
+        ],
+        "usphone": "ˈɡeɪtkiːpər",
+        "ukphone": "ˈɡeɪtkiːpə(r)",
+        "sentence": "The gatekeeper stops the boy.",
+        "sentenceTrans": "门卫拦住了男孩。"
+    },
+    {
+        "name": "praise",
+        "trans": [
+            "赞扬；称赞"
+        ],
+        "usphone": "preɪz",
+        "ukphone": "preɪz",
+        "sentence": "The teacher praises him for helping others.",
+        "sentenceTrans": "老师因他帮助别人而表扬他。"
+    },
+    {
+        "name": "praise…for…",
+        "trans": [
+            "因…而表扬…"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The teacher praises him for helping others.",
+        "sentenceTrans": "老师因他帮助别人而表扬他。"
+    },
+    {
+        "name": "sign",
+        "trans": [
+            "标识"
+        ],
+        "usphone": "saɪn",
+        "ukphone": "saɪn",
+        "sentence": "This sign means no smoking.",
+        "sentenceTrans": "这个标识表示禁止吸烟。"
+    },
+    {
+        "name": "middle",
+        "trans": [
+            "中间；中部；中心"
+        ],
+        "usphone": "ˈmɪd(ə)l",
+        "ukphone": "ˈmɪd(ə)l",
+        "sentence": "There is a sign in the middle of the path.",
+        "sentenceTrans": "小路中间有一个标识。"
+    },
+    {
+        "name": "special",
+        "trans": [
+            "特别的"
+        ],
+        "usphone": "ˈspeʃ(ə)l",
+        "ukphone": "ˈspeʃ(ə)l",
+        "sentence": "This is a special path.",
+        "sentenceTrans": "这是一条特别的小路。"
+    },
+    {
+        "name": "path",
+        "trans": [
+            "小路；小径"
+        ],
+        "usphone": "pæθ",
+        "ukphone": "pɑːθ",
+        "sentence": "Follow the path through the forest.",
+        "sentenceTrans": "沿着小路穿过森林。"
+    },
+    {
+        "name": "may",
+        "trans": [
+            "可能；可以"
+        ],
+        "usphone": "meɪ",
+        "ukphone": "meɪ",
+        "sentence": "May is after April.",
+        "sentenceTrans": "五月在四月之后。"
+    },
+    {
+        "name": "lost",
+        "trans": [
+            "迷路的；迷失的"
+        ],
+        "usphone": "lɔːst",
+        "ukphone": "lɒst",
+        "sentence": "We are lost in the forest.",
+        "sentenceTrans": "我们在森林里迷路了。"
+    },
+    {
+        "name": "worry",
+        "trans": [
+            "担心"
+        ],
+        "usphone": "ˈwɜːri",
+        "ukphone": "ˈwʌri",
+        "sentence": "Do not worry; follow me.",
+        "sentenceTrans": "别担心，跟着我。"
+    },
+    {
+        "name": "follow",
+        "trans": [
+            "跟随；跟着"
+        ],
+        "usphone": "ˈfɑːloʊ",
+        "ukphone": "ˈfɒləʊ",
+        "sentence": "Follow this path to the lake.",
+        "sentenceTrans": "沿着这条小路走到湖边。"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "four",
+        "trans": [
+            "四"
+        ],
+        "usphone": "fɔːr",
+        "ukphone": "fɔː(r)",
+        "sentence": "I have four pencils.",
+        "sentenceTrans": "我有四支铅笔。"
+    },
+    {
+        "name": "how",
+        "trans": [
+            "many (用于问数量)多少 nine 九"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "一"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn",
+        "sentence": "I have one book.",
+        "sentenceTrans": "我有一本书。"
+    },
+    {
+        "name": "seven",
+        "trans": [
+            "七"
+        ],
+        "usphone": "ˈsev(ə)n",
+        "ukphone": "ˈsev(ə)n",
+        "sentence": "I have seven books.",
+        "sentenceTrans": "我有七本书。"
+    },
+    {
+        "name": "six",
+        "trans": [
+            "六"
+        ],
+        "usphone": "sɪks",
+        "ukphone": "sɪks",
+        "sentence": "I have six pencils.",
+        "sentenceTrans": "我有六支铅笔。"
+    },
+    {
+        "name": "ten",
+        "trans": [
+            "十"
+        ],
+        "usphone": "ten",
+        "ukphone": "ten",
+        "sentence": "I have ten pencils.",
+        "sentenceTrans": "我有十支铅笔。"
+    },
+    {
+        "name": "three",
+        "trans": [
+            "三"
+        ],
+        "usphone": "θriː",
+        "ukphone": "θriː",
+        "sentence": "I have three books.",
+        "sentenceTrans": "我有三本书。"
+    },
+    {
+        "name": "two",
+        "trans": [
+            "二"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː",
+        "sentence": "I have two pencils.",
+        "sentenceTrans": "我有两支铅笔。"
+    },
+    {
+        "name": "Very",
+        "trans": [
+            "good! 很好！"
+        ],
+        "usphone": "ˈveri",
+        "ukphone": "ˈveri",
+        "sentence": "Very good!",
+        "sentenceTrans": "非常好！"
+    },
+    {
+        "name": "dog",
+        "trans": [
+            "狗"
+        ],
+        "usphone": "dɔːɡ",
+        "ukphone": "dɒɡ",
+        "sentence": "I see a small dog.",
+        "sentenceTrans": "我看见一只小狗。"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "鱼"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ",
+        "sentence": "The fish can swim.",
+        "sentenceTrans": "鱼会游泳。"
+    },
+    {
+        "name": "its",
+        "trans": [
+            "它的"
+        ],
+        "usphone": "ɪts",
+        "ukphone": "ɪts",
+        "sentence": "Its tail is short.",
+        "sentenceTrans": "它的尾巴很短。"
+    },
+    {
+        "name": "mouse",
+        "trans": [
+            "老鼠（复数mice）"
+        ],
+        "usphone": "maʊs",
+        "ukphone": "maʊs",
+        "sentence": "I see a small mouse.",
+        "sentenceTrans": "我看见一只小老鼠。"
+    },
+    {
+        "name": "rabbit",
+        "trans": [
+            "兔子"
+        ],
+        "usphone": "ˈræbɪt",
+        "ukphone": "ˈræbɪt",
+        "sentence": "I see a white rabbit.",
+        "sentenceTrans": "我看见一只白兔。"
+    },
+    {
+        "name": "tail",
+        "trans": [
+            "尾巴"
+        ],
+        "usphone": "teɪl",
+        "ukphone": "teɪl",
+        "sentence": "Its tail is long.",
+        "sentenceTrans": "它的尾巴很长。"
+    },
+    {
+        "name": "what",
+        "trans": [
+            "什么"
+        ],
+        "usphone": "wʌt",
+        "ukphone": "wɒt",
+        "sentence": "What is this?",
+        "sentenceTrans": "这是什么？"
+    },
+    {
+        "name": "Well",
+        "trans": [
+            "done! 做得真好！"
+        ],
+        "usphone": "wel",
+        "ukphone": "wel",
+        "sentence": "Well done!",
+        "sentenceTrans": "做得好！"
+    },
+    {
+        "name": "autumn",
+        "trans": [
+            "秋天"
+        ],
+        "usphone": "ˈɔːtəm",
+        "ukphone": "ˈɔːtəm",
+        "sentence": "Autumn is cool.",
+        "sentenceTrans": "秋天很凉爽。"
+    },
+    {
+        "name": "cold",
+        "trans": [
+            "寒冷的"
+        ],
+        "usphone": "koʊld",
+        "ukphone": "kəʊld",
+        "sentence": "It is cold today.",
+        "sentenceTrans": "今天很冷。"
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "凉爽的"
+        ],
+        "usphone": "kuːl",
+        "ukphone": "kuːl",
+        "sentence": "It is cool today.",
+        "sentenceTrans": "今天很凉快。"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "sky",
+        "trans": [
+            "天空"
+        ],
+        "usphone": "skaɪ",
+        "ukphone": "skaɪ",
+        "sentence": "The sky is blue.",
+        "sentenceTrans": "天空是蓝色的。"
+    },
+    {
+        "name": "moon",
+        "trans": [
+            "月亮"
+        ],
+        "usphone": "muːn",
+        "ukphone": "muːn",
+        "sentence": "The moon is bright.",
+        "sentenceTrans": "月亮很明亮。"
+    },
+    {
+        "name": "bright",
+        "trans": [
+            "明亮的"
+        ],
+        "usphone": "braɪt",
+        "ukphone": "braɪt",
+        "sentence": "The sun is bright.",
+        "sentenceTrans": "太阳很明亮。"
+    },
+    {
+        "name": "sun",
+        "trans": [
+            "太阳"
+        ],
+        "usphone": "sʌn",
+        "ukphone": "sʌn",
+        "sentence": "The sun is bright.",
+        "sentenceTrans": "太阳很明亮。"
+    },
+    {
+        "name": "star",
+        "trans": [
+            "星"
+        ],
+        "usphone": "stɑːr",
+        "ukphone": "stɑː(r)",
+        "sentence": "I see a star in the sky.",
+        "sentenceTrans": "我看见天空中的一颗星星。"
+    },
+    {
+        "name": "snake",
+        "trans": [
+            "蛇"
+        ],
+        "usphone": "sneɪk",
+        "ukphone": "sneɪk",
+        "sentence": "The snake is long.",
+        "sentenceTrans": "这条蛇很长。"
+    },
+    {
+        "name": "king",
+        "trans": [
+            "国王"
+        ],
+        "usphone": "kɪŋ",
+        "ukphone": "kɪŋ",
+        "sentence": "The king is in the room.",
+        "sentenceTrans": "国王在房间里。"
+    },
+    {
+        "name": "forest",
+        "trans": [
+            "森林"
+        ],
+        "usphone": "ˈfɔːrɪst",
+        "ukphone": "ˈfɒrɪst",
+        "sentence": "The tiger is in the forest.",
+        "sentenceTrans": "老虎在森林里。"
+    },
+    {
+        "name": "fox",
+        "trans": [
+            "狐狸"
+        ],
+        "usphone": "fɑːks",
+        "ukphone": "fɒks",
+        "sentence": "I see a red fox.",
+        "sentenceTrans": "我看见一只红色的狐狸。"
+    },
+    {
+        "name": "meat",
+        "trans": [
+            "肉类"
+        ],
+        "usphone": "miːt",
+        "ukphone": "miːt",
+        "sentence": "The meat is on the plate.",
+        "sentenceTrans": "肉在盘子里。"
+    },
+    {
+        "name": "hippo",
+        "trans": [
+            "河马"
+        ],
+        "usphone": "ˈhɪpoʊ",
+        "ukphone": "ˈhɪpəʊ",
+        "sentence": "I see a big hippo.",
+        "sentenceTrans": "我看见一头大河马。"
+    },
+    {
+        "name": "grass",
+        "trans": [
+            "草"
+        ],
+        "usphone": "ɡræs",
+        "ukphone": "ɡrɑːs",
+        "sentence": "The grass is green.",
+        "sentenceTrans": "草是绿色的。"
+    },
+    {
+        "name": "wild",
+        "trans": [
+            "野生的"
+        ],
+        "usphone": "waɪld",
+        "ukphone": "waɪld",
+        "sentence": "The tiger is a wild animal.",
+        "sentenceTrans": "老虎是野生动物。"
+    },
+    {
+        "name": "animal",
+        "trans": [
+            "动物"
+        ],
+        "usphone": "ˈænɪm(ə)l",
+        "ukphone": "ˈænɪm(ə)l",
+        "sentence": "A tiger is a wild animal.",
+        "sentenceTrans": "老虎是一种野生动物。"
+    },
+    {
+        "name": "cute",
+        "trans": [
+            "可爱的"
+        ],
+        "usphone": "kjuːt",
+        "ukphone": "kjuːt",
+        "sentence": "The rabbit is cute.",
+        "sentenceTrans": "这只兔子很可爱。"
+    },
+    {
+        "name": "so",
+        "trans": [
+            "这么，那么，所以"
+        ],
+        "usphone": "soʊ",
+        "ukphone": "səʊ",
+        "sentence": "The elephant is so big.",
+        "sentenceTrans": "这头大象真大。"
+    },
+    {
+        "name": "dove",
+        "trans": [
+            "鸽子"
+        ],
+        "usphone": "dʌv",
+        "ukphone": "dʌv",
+        "sentence": "I see a white dove.",
+        "sentenceTrans": "我看见一只白鸽。"
+    },
+    {
+        "name": "swan",
+        "trans": [
+            "天鹅"
+        ],
+        "usphone": "swɑːn",
+        "ukphone": "swɒn",
+        "sentence": "I see a white swan.",
+        "sentenceTrans": "我看见一只白天鹅。"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "大街，街道"
+        ],
+        "usphone": "striːt",
+        "ukphone": "striːt",
+        "sentence": "I see a boy in the street.",
+        "sentenceTrans": "我在街上看见一个男孩。"
+    },
+    {
+        "name": "don’t",
+        "trans": [
+            "=do not 不要"
+        ],
+        "usphone": "doʊnt",
+        "ukphone": "dəʊnt",
+        "sentence": "Don't run.",
+        "sentenceTrans": "不要跑。"
+    }
+]

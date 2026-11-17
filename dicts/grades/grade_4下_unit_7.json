@@ -1,0 +1,192 @@
+[
+    {
+        "name": "February",
+        "trans": [
+            "二月"
+        ],
+        "usphone": "ˈfebrueri",
+        "ukphone": "ˈfebruəri",
+        "sentence": "February is after January.",
+        "sentenceTrans": "二月在一月之后。"
+    },
+    {
+        "name": "March",
+        "trans": [
+            "三月"
+        ],
+        "usphone": "mɑːrtʃ",
+        "ukphone": "mɑːtʃ",
+        "sentence": "March is before April.",
+        "sentenceTrans": "三月在四月之前。"
+    },
+    {
+        "name": "April",
+        "trans": [
+            "四月"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "April is after March.",
+        "sentenceTrans": "四月在三月之后。"
+    },
+    {
+        "name": "July",
+        "trans": [
+            "七月"
+        ],
+        "usphone": "dʒʊˈlaɪ",
+        "ukphone": "dʒʊˈlaɪ",
+        "sentence": "We do not go to school in July.",
+        "sentenceTrans": "我们七月不上学。"
+    },
+    {
+        "name": "August",
+        "trans": [
+            "八月"
+        ],
+        "usphone": "ˈɔːɡəst",
+        "ukphone": "ˈɔːɡəst",
+        "sentence": "It is hot in August.",
+        "sentenceTrans": "八月天气很热。"
+    },
+    {
+        "name": "September",
+        "trans": [
+            "九月"
+        ],
+        "usphone": "sepˈtembər",
+        "ukphone": "sepˈtembə(r)",
+        "sentence": "Teachers' Day is in September.",
+        "sentenceTrans": "教师节在九月。"
+    },
+    {
+        "name": "October",
+        "trans": [
+            "十月"
+        ],
+        "usphone": "ɑːkˈtoʊbər",
+        "ukphone": "ɒkˈtəʊbə(r)",
+        "sentence": "October is after September.",
+        "sentenceTrans": "十月在九月之后。"
+    },
+    {
+        "name": "November",
+        "trans": [
+            "十一月"
+        ],
+        "usphone": "noʊˈvembər",
+        "ukphone": "nəʊˈvembə(r)",
+        "sentence": "November is before December.",
+        "sentenceTrans": "十一月在十二月之前。"
+    },
+    {
+        "name": "December",
+        "trans": [
+            "十二月"
+        ],
+        "usphone": "dɪˈsembər",
+        "ukphone": "dɪˈsembə(r)",
+        "sentence": "December is the last month.",
+        "sentenceTrans": "十二月是最后一个月。"
+    },
+    {
+        "name": "email",
+        "trans": [
+            "电子邮件"
+        ],
+        "usphone": "ˈiːmeɪl",
+        "ukphone": "ˈiːmeɪl",
+        "sentence": "I write an email to my friend.",
+        "sentenceTrans": "我给朋友写一封电子邮件。"
+    },
+    {
+        "name": "hat",
+        "trans": [
+            "帽子"
+        ],
+        "usphone": "hæt",
+        "ukphone": "hæt",
+        "sentence": "Whose hat is this?",
+        "sentenceTrans": "这是谁的帽子？"
+    },
+    {
+        "name": "wear",
+        "trans": [
+            "穿；戴"
+        ],
+        "usphone": "wer",
+        "ukphone": "weə(r)",
+        "sentence": "I wear a hat in the sun.",
+        "sentenceTrans": "我在阳光下戴帽子。"
+    },
+    {
+        "name": "yours",
+        "trans": [
+            "你的；你们的"
+        ],
+        "usphone": "jɔːrz",
+        "ukphone": "jɔːz",
+        "sentence": "This hat is yours.",
+        "sentenceTrans": "这顶帽子是你的。"
+    },
+    {
+        "name": "every",
+        "trans": [
+            "year 每年"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The plant grows every day.",
+        "sentenceTrans": "这株植物每天都在生长。"
+    },
+    {
+        "name": "garden",
+        "trans": [
+            "花园"
+        ],
+        "usphone": "ˈɡɑːrdn",
+        "ukphone": "ˈɡɑːd(ə)n",
+        "sentence": "There are flowers in the garden.",
+        "sentenceTrans": "花园里有花。"
+    },
+    {
+        "name": "plant",
+        "trans": [
+            "植物"
+        ],
+        "usphone": "plænt",
+        "ukphone": "plɑːnt",
+        "sentence": "This plant has green leaves.",
+        "sentenceTrans": "这株植物有绿色的叶子。"
+    },
+    {
+        "name": "leaf",
+        "trans": [
+            "叶子（复数leaves）"
+        ],
+        "usphone": "liːf",
+        "ukphone": "liːf",
+        "sentence": "This leaf is green.",
+        "sentenceTrans": "这片叶子是绿色的。"
+    },
+    {
+        "name": "water",
+        "trans": [
+            "给…浇水"
+        ],
+        "usphone": "ˈwɔːtər",
+        "ukphone": "ˈwɔːtə(r)",
+        "sentence": "I drink some water.",
+        "sentenceTrans": "我喝一些水。"
+    },
+    {
+        "name": "them",
+        "trans": [
+            "它们；他们；她们"
+        ],
+        "usphone": "ðem; ðəm",
+        "ukphone": "ðem; ðəm",
+        "sentence": "I water them every day.",
+        "sentenceTrans": "我每天给它们浇水。"
+    }
+]

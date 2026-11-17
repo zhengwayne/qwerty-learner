@@ -1,0 +1,192 @@
+[
+    {
+        "name": "outing",
+        "trans": [
+            "远足"
+        ],
+        "usphone": "ˈaʊtɪŋ",
+        "ukphone": "ˈaʊtɪŋ",
+        "sentence": "Our class has an outing today.",
+        "sentenceTrans": "我们班今天去远足。"
+    },
+    {
+        "name": "map",
+        "trans": [
+            "地图"
+        ],
+        "usphone": "mæp",
+        "ukphone": "mæp",
+        "sentence": "This map shows the way.",
+        "sentenceTrans": "这张地图标出了路线。"
+    },
+    {
+        "name": "hill",
+        "trans": [
+            "小山"
+        ],
+        "usphone": "hɪl",
+        "ukphone": "hɪl",
+        "sentence": "We walk up the hill.",
+        "sentenceTrans": "我们走上小山。"
+    },
+    {
+        "name": "find",
+        "trans": [
+            "发现；找到"
+        ],
+        "usphone": "faɪnd",
+        "ukphone": "faɪnd",
+        "sentence": "I cannot find my key.",
+        "sentenceTrans": "我找不到我的钥匙。"
+    },
+    {
+        "name": "diamond",
+        "trans": [
+            "钻石"
+        ],
+        "usphone": "ˈdaɪmənd; ˈdaɪəmənd",
+        "ukphone": "ˈdaɪmənd; ˈdaɪəmənd",
+        "sentence": "The lake looks like a diamond.",
+        "sentenceTrans": "这个湖看起来像一颗钻石。"
+    },
+    {
+        "name": "another",
+        "trans": [
+            "另一个"
+        ],
+        "usphone": "əˈnʌðər",
+        "ukphone": "əˈnʌðə(r)",
+        "sentence": "Let us find another way.",
+        "sentenceTrans": "我们找另一条路吧。"
+    },
+    {
+        "name": "lake",
+        "trans": [
+            "湖"
+        ],
+        "usphone": "leɪk",
+        "ukphone": "leɪk",
+        "sentence": "There are ducks on the lake.",
+        "sentenceTrans": "湖上有鸭子。"
+    },
+    {
+        "name": "funny",
+        "trans": [
+            "滑稽的；好笑的"
+        ],
+        "usphone": "ˈfʌni",
+        "ukphone": "ˈfʌni",
+        "sentence": "The funny dog wears a hat.",
+        "sentenceTrans": "这只滑稽的狗戴着帽子。"
+    },
+    {
+        "name": "hole",
+        "trans": [
+            "洞"
+        ],
+        "usphone": "hoʊl",
+        "ukphone": "həʊl",
+        "sentence": "The rabbit is in the hole.",
+        "sentenceTrans": "兔子在洞里。"
+    },
+    {
+        "name": "key",
+        "trans": [
+            "钥匙"
+        ],
+        "usphone": "kiː",
+        "ukphone": "kiː",
+        "sentence": "This is the key to my room.",
+        "sentenceTrans": "这是我房间的钥匙。"
+    },
+    {
+        "name": "think",
+        "trans": [
+            "想"
+        ],
+        "usphone": "θɪŋk",
+        "ukphone": "θɪŋk",
+        "sentence": "I think this is the right way.",
+        "sentenceTrans": "我认为这是正确的路。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "the top of 在…顶部"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "I am at home.",
+        "sentenceTrans": "我在家。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "through 通过"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Get off the bus here.",
+        "sentenceTrans": "在这里下公共汽车。"
+    },
+    {
+        "name": "post",
+        "trans": [
+            "office 邮局"
+        ],
+        "usphone": "poʊst",
+        "ukphone": "pəʊst",
+        "sentence": "The post office is on this road.",
+        "sentenceTrans": "邮局在这条路上。"
+    },
+    {
+        "name": "quite",
+        "trans": [
+            "相当，十分"
+        ],
+        "usphone": "kwaɪt",
+        "ukphone": "kwaɪt",
+        "sentence": "The hospital is quite near.",
+        "sentenceTrans": "医院相当近。"
+    },
+    {
+        "name": "along",
+        "trans": [
+            "沿着；顺着"
+        ],
+        "usphone": "əˈlɔːŋ",
+        "ukphone": "əˈlɒŋ",
+        "sentence": "Walk along this road.",
+        "sentenceTrans": "沿着这条路走。"
+    },
+    {
+        "name": "turn",
+        "trans": [
+            "转向；转弯"
+        ],
+        "usphone": "tɜːrn",
+        "ukphone": "tɜːn",
+        "sentence": "Please turn off the light.",
+        "sentenceTrans": "请关灯。"
+    },
+    {
+        "name": "left",
+        "trans": [
+            "左边"
+        ],
+        "usphone": "left",
+        "ukphone": "left",
+        "sentence": "Turn left at the flower shop.",
+        "sentenceTrans": "在花店处左转。"
+    },
+    {
+        "name": "straight",
+        "trans": [
+            "笔直地"
+        ],
+        "usphone": "streɪt",
+        "ukphone": "streɪt",
+        "sentence": "Walk straight along this road.",
+        "sentenceTrans": "沿着这条路直走。"
+    }
+]

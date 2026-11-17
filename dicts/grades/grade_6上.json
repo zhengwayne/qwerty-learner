@@ -1,0 +1,1342 @@
+[
+    {
+        "name": "month",
+        "trans": [
+            "一个月的时间；月份"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "There are twelve months in a year.",
+        "sentenceTrans": "一年有十二个月。"
+    },
+    {
+        "name": "cute",
+        "trans": [
+            "可爱的"
+        ],
+        "usphone": "kjuːt",
+        "ukphone": "kjuːt",
+        "sentence": "The rabbit is cute.",
+        "sentenceTrans": "这只兔子很可爱。"
+    },
+    {
+        "name": "pretty",
+        "trans": [
+            "漂亮的"
+        ],
+        "usphone": "ˈprɪti",
+        "ukphone": "ˈprɪti",
+        "sentence": "The princess is pretty and kind.",
+        "sentenceTrans": "公主既漂亮又善良。"
+    },
+    {
+        "name": "handsome",
+        "trans": [
+            "英俊的；帅气的"
+        ],
+        "usphone": "ˈhænsəm",
+        "ukphone": "ˈhænsəm",
+        "sentence": "The young man is handsome.",
+        "sentenceTrans": "这个年轻人很英俊。"
+    },
+    {
+        "name": "turtle",
+        "trans": [
+            "乌龟"
+        ],
+        "usphone": "ˈtɜːrt(ə)l",
+        "ukphone": "ˈtɜːt(ə)l",
+        "sentence": "The turtle walks slowly.",
+        "sentenceTrans": "乌龟走得很慢。"
+    },
+    {
+        "name": "catch",
+        "trans": [
+            "逮住；捕捉"
+        ],
+        "usphone": "kætʃ",
+        "ukphone": "kætʃ",
+        "sentence": "The cat can catch the ball.",
+        "sentenceTrans": "猫能接住球。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "苍蝇"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "The bird can fly.",
+        "sentenceTrans": "这只鸟会飞。"
+    },
+    {
+        "name": "grow",
+        "trans": [
+            "up 长大；成长"
+        ],
+        "usphone": "ɡroʊ",
+        "ukphone": "ɡrəʊ",
+        "sentence": "I want to be a pilot when I grow up.",
+        "sentenceTrans": "我长大后想当飞行员。"
+    },
+    {
+        "name": "junior",
+        "trans": [
+            "high school 初级中学"
+        ],
+        "usphone": "ˈdʒuːniər",
+        "ukphone": "ˈdʒuːniə(r)",
+        "sentence": "My brother is in junior high school.",
+        "sentenceTrans": "我哥哥在上初中。"
+    },
+    {
+        "name": "(be)",
+        "trans": [
+            "born 出生"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I was born in Shanghai.",
+        "sentenceTrans": "我出生在上海。"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "著名的；出名的"
+        ],
+        "usphone": "ˈfeɪməs",
+        "ukphone": "ˈfeɪməs",
+        "sentence": "Shanghai is a famous city.",
+        "sentenceTrans": "上海是一座著名的城市。"
+    },
+    {
+        "name": "during",
+        "trans": [
+            "在…期间"
+        ],
+        "usphone": "ˈdʊrɪŋ",
+        "ukphone": "ˈdjʊərɪŋ",
+        "sentence": "We stayed home during the rain.",
+        "sentenceTrans": "下雨期间我们待在家里。"
+    },
+    {
+        "name": "spend",
+        "trans": [
+            "度过"
+        ],
+        "usphone": "spend",
+        "ukphone": "spend",
+        "sentence": "We spend summer in the countryside.",
+        "sentenceTrans": "我们在乡下度过夏天。"
+    },
+    {
+        "name": "everyone",
+        "trans": [
+            "每个人；所有人"
+        ],
+        "usphone": "ˈevriwʌn",
+        "ukphone": "ˈevriwʌn",
+        "sentence": "Everyone had fun in the countryside.",
+        "sentenceTrans": "每个人在乡下都玩得很开心。"
+    },
+    {
+        "name": "countryside",
+        "trans": [
+            "乡村；农村"
+        ],
+        "usphone": "ˈkʌntrisaɪd",
+        "ukphone": "ˈkʌntrisaɪd",
+        "sentence": "My grandparents live in the countryside.",
+        "sentenceTrans": "我的祖父母住在乡下。"
+    },
+    {
+        "name": "pick",
+        "trans": [
+            "采摘"
+        ],
+        "usphone": "pɪk",
+        "ukphone": "pɪk",
+        "sentence": "Pick a flower, please.",
+        "sentenceTrans": "请摘一朵花。"
+    },
+    {
+        "name": "summer",
+        "trans": [
+            "holiday 暑假"
+        ],
+        "usphone": "ˈsʌmər",
+        "ukphone": "ˈsʌmə(r)",
+        "sentence": "Summer is hot.",
+        "sentenceTrans": "夏天很热。"
+    },
+    {
+        "name": "healthy",
+        "trans": [
+            "健康的；有益于健康的"
+        ],
+        "usphone": "ˈhelθi",
+        "ukphone": "ˈhelθi",
+        "sentence": "Fruit and vegetables are healthy.",
+        "sentenceTrans": "水果和蔬菜有益健康。"
+    },
+    {
+        "name": "unhealthy",
+        "trans": [
+            "不健康的；损害健康的"
+        ],
+        "usphone": "ʌnˈhelθi",
+        "ukphone": "ʌnˈhelθi",
+        "sentence": "Too much cola is unhealthy.",
+        "sentenceTrans": "喝太多可乐不健康。"
+    },
+    {
+        "name": "hamburger",
+        "trans": [
+            "汉堡包"
+        ],
+        "usphone": "ˈhæmbɜːrɡər",
+        "ukphone": "ˈhæmbɜːɡə(r)",
+        "sentence": "I like this hamburger.",
+        "sentenceTrans": "我喜欢这个汉堡包。"
+    },
+    {
+        "name": "cola",
+        "trans": [
+            "可乐"
+        ],
+        "usphone": "ˈkoʊlə",
+        "ukphone": "ˈkəʊlə",
+        "sentence": "Cola is not a healthy drink.",
+        "sentenceTrans": "可乐不是健康饮料。"
+    },
+    {
+        "name": "yesterday",
+        "trans": [
+            "昨天"
+        ],
+        "usphone": "ˈjestərdeɪ",
+        "ukphone": "ˈjestədeɪ",
+        "sentence": "I ate a sandwich yesterday.",
+        "sentenceTrans": "我昨天吃了一个三明治。"
+    },
+    {
+        "name": "fruit",
+        "trans": [
+            "水果"
+        ],
+        "usphone": "fruːt",
+        "ukphone": "fruːt",
+        "sentence": "Apples are fruit.",
+        "sentenceTrans": "苹果是水果。"
+    },
+    {
+        "name": "pie",
+        "trans": [
+            "馅饼"
+        ],
+        "usphone": "paɪ",
+        "ukphone": "paɪ",
+        "sentence": "I like this pie.",
+        "sentenceTrans": "我喜欢这个馅饼。"
+    },
+    {
+        "name": "pizza",
+        "trans": [
+            "比萨饼"
+        ],
+        "usphone": "ˈpiːtsə",
+        "ukphone": "ˈpiːtsə",
+        "sentence": "I like pizza.",
+        "sentenceTrans": "我喜欢比萨饼。"
+    },
+    {
+        "name": "sandwich",
+        "trans": [
+            "三明治"
+        ],
+        "usphone": "ˈsænwɪtʃ",
+        "ukphone": "ˈsænwɪtʃ",
+        "sentence": "I have a sandwich for lunch.",
+        "sentenceTrans": "我午餐吃一个三明治。"
+    },
+    {
+        "name": "vegetable",
+        "trans": [
+            "蔬菜"
+        ],
+        "usphone": "ˈvedʒtəb(ə)l",
+        "ukphone": "ˈvedʒtəb(ə)l",
+        "sentence": "We grow vegetables in the garden.",
+        "sentenceTrans": "我们在花园里种蔬菜。"
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "鸡肉"
+        ],
+        "usphone": "ˈtʃɪkɪn",
+        "ukphone": "ˈtʃɪkɪn",
+        "sentence": "I see a chicken.",
+        "sentenceTrans": "我看见一只鸡。"
+    },
+    {
+        "name": "chocolate",
+        "trans": [
+            "巧克力"
+        ],
+        "usphone": "ˈtʃɔːklət",
+        "ukphone": "ˈtʃɒklət",
+        "sentence": "Do not eat too much chocolate.",
+        "sentenceTrans": "不要吃太多巧克力。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "little 少量的"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I drink a little cola.",
+        "sentenceTrans": "我喝了一点可乐。"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "and chips 炸鱼薯条"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ",
+        "sentence": "I had fish and chips for lunch.",
+        "sentenceTrans": "我午餐吃了炸鱼薯条。"
+    },
+    {
+        "name": "neighbour",
+        "trans": [
+            "邻居"
+        ],
+        "usphone": "ˈneɪbər",
+        "ukphone": "ˈneɪbə(r)",
+        "sentence": "Mr Li is our new neighbour.",
+        "sentenceTrans": "李先生是我们的新邻居。"
+    },
+    {
+        "name": "son",
+        "trans": [
+            "儿子"
+        ],
+        "usphone": "sʌn",
+        "ukphone": "sʌn",
+        "sentence": "The boy is her son.",
+        "sentenceTrans": "这个男孩是她的儿子。"
+    },
+    {
+        "name": "daughter",
+        "trans": [
+            "女儿"
+        ],
+        "usphone": "ˈdɔːtər",
+        "ukphone": "ˈdɔːtə(r)",
+        "sentence": "The girl is their daughter.",
+        "sentenceTrans": "这个女孩是他们的女儿。"
+    },
+    {
+        "name": "noisy",
+        "trans": [
+            "吵闹的"
+        ],
+        "usphone": "ˈnɔɪzi",
+        "ukphone": "ˈnɔɪzi",
+        "sentence": "The street is noisy at night.",
+        "sentenceTrans": "这条街晚上很吵。"
+    },
+    {
+        "name": "owl",
+        "trans": [
+            "猫头鹰"
+        ],
+        "usphone": "aʊl",
+        "ukphone": "aʊl",
+        "sentence": "An owl sleeps during the day.",
+        "sentenceTrans": "猫头鹰白天睡觉。"
+    },
+    {
+        "name": "dig",
+        "trans": [
+            "挖（土）；掘（洞）"
+        ],
+        "usphone": "dɪɡ",
+        "ukphone": "dɪɡ",
+        "sentence": "The dog digs a hole in the garden.",
+        "sentenceTrans": "狗在花园里挖了一个洞。"
+    },
+    {
+        "name": "make",
+        "trans": [
+            "noise 制造噪音"
+        ],
+        "usphone": "meɪk",
+        "ukphone": "meɪk",
+        "sentence": "Do not make noise at night.",
+        "sentenceTrans": "夜间不要制造噪声。"
+    },
+    {
+        "name": "thousand",
+        "trans": [
+            "一千"
+        ],
+        "usphone": "ˈθaʊz(ə)nd",
+        "ukphone": "ˈθaʊz(ə)nd",
+        "sentence": "A thousand animals live here.",
+        "sentenceTrans": "一千只动物生活在这里。"
+    },
+    {
+        "name": "hundred",
+        "trans": [
+            "一百"
+        ],
+        "usphone": "ˈhʌndrəd",
+        "ukphone": "ˈhʌndrəd",
+        "sentence": "There are one hundred books here.",
+        "sentenceTrans": "这里有一百本书。"
+    },
+    {
+        "name": "wild",
+        "trans": [
+            "野生环境；野生的"
+        ],
+        "usphone": "waɪld",
+        "ukphone": "waɪld",
+        "sentence": "The tiger is a wild animal.",
+        "sentenceTrans": "老虎是野生动物。"
+    },
+    {
+        "name": "South",
+        "trans": [
+            "China tiger 华南虎"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "The South China tiger is in danger.",
+        "sentenceTrans": "华南虎正面临危险。"
+    },
+    {
+        "name": "blue",
+        "trans": [
+            "whale 蓝鲸"
+        ],
+        "usphone": "bluː",
+        "ukphone": "bluː",
+        "sentence": "The blue whale lives in the ocean.",
+        "sentenceTrans": "蓝鲸生活在海洋里。"
+    },
+    {
+        "name": "way",
+        "trans": [
+            "路；方式；方法"
+        ],
+        "usphone": "weɪ",
+        "ukphone": "weɪ",
+        "sentence": "Walking is a healthy way to travel.",
+        "sentenceTrans": "步行是一种健康的出行方式。"
+    },
+    {
+        "name": "die",
+        "trans": [
+            "死；死亡"
+        ],
+        "usphone": "daɪ",
+        "ukphone": "daɪ",
+        "sentence": "Animals may die without clean water.",
+        "sentenceTrans": "动物没有干净的水可能会死。"
+    },
+    {
+        "name": "rhino",
+        "trans": [
+            "犀牛"
+        ],
+        "usphone": "ˈraɪnoʊ",
+        "ukphone": "ˈraɪnəʊ",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "learn",
+        "trans": [
+            "学会；学习"
+        ],
+        "usphone": "lɜːrn",
+        "ukphone": "lɜːn",
+        "sentence": "We learn about animals at school.",
+        "sentenceTrans": "我们在学校学习动物知识。"
+    },
+    {
+        "name": "send",
+        "trans": [
+            "安排去；寄；送"
+        ],
+        "usphone": "send",
+        "ukphone": "send",
+        "sentence": "They send the sick rhino away.",
+        "sentenceTrans": "他们把生病的犀牛送走了。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "danger 面临危险"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the past 在过去"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "take",
+        "trans": [
+            "care of 照顾；照料"
+        ],
+        "usphone": "teɪk",
+        "ukphone": "teɪk",
+        "sentence": "We take care of sick animals.",
+        "sentenceTrans": "我们照顾生病的动物。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "for a walk 去散步"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "We go for a walk after dinner.",
+        "sentenceTrans": "我们晚饭后去散步。"
+    },
+    {
+        "name": "drive",
+        "trans": [
+            "away 赶走"
+        ],
+        "usphone": "draɪv",
+        "ukphone": "draɪv",
+        "sentence": "The noise drives the owl away.",
+        "sentenceTrans": "噪声把猫头鹰赶走了。"
+    },
+    {
+        "name": "e-friend",
+        "trans": [
+            "网友"
+        ],
+        "usphone": "ˈiː frend",
+        "ukphone": "ˈiː frend",
+        "sentence": "My e-friend lives in Australia.",
+        "sentenceTrans": "我的网友住在澳大利亚。"
+    },
+    {
+        "name": "country",
+        "trans": [
+            "国家"
+        ],
+        "usphone": "ˈkʌntri",
+        "ukphone": "ˈkʌntri",
+        "sentence": "Which country are you from?",
+        "sentenceTrans": "你来自哪个国家？"
+    },
+    {
+        "name": "other",
+        "trans": [
+            "其他的"
+        ],
+        "usphone": "ˈʌðər",
+        "ukphone": "ˈʌðə(r)",
+        "sentence": "Do you have any other hobbies?",
+        "sentenceTrans": "你还有其他爱好吗？"
+    },
+    {
+        "name": "team",
+        "trans": [
+            "（游泳或运动的）队"
+        ],
+        "usphone": "tiːm",
+        "ukphone": "tiːm",
+        "sentence": "I am on the school swimming team.",
+        "sentenceTrans": "我是学校游泳队的一员。"
+    },
+    {
+        "name": "hobby",
+        "trans": [
+            "业余爱好"
+        ],
+        "usphone": "ˈhɑːbi",
+        "ukphone": "ˈhɒbi",
+        "sentence": "Reading is my favourite hobby.",
+        "sentenceTrans": "阅读是我最喜欢的爱好。"
+    },
+    {
+        "name": "grade",
+        "trans": [
+            "年级"
+        ],
+        "usphone": "ɡreɪd",
+        "ukphone": "ɡreɪd",
+        "sentence": "I am in Grade Six.",
+        "sentenceTrans": "我上六年级。"
+    },
+    {
+        "name": "yourself",
+        "trans": [
+            "你自己"
+        ],
+        "usphone": "jɔːrˈself",
+        "ukphone": "jɔːˈself",
+        "sentence": "Tell me something about yourself.",
+        "sentenceTrans": "告诉我一些关于你自己的事。"
+    },
+    {
+        "name": "would",
+        "trans": [
+            "like （表示意愿、喜欢）"
+        ],
+        "usphone": "wʊd",
+        "ukphone": "wʊd",
+        "sentence": "I would like some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "shall",
+        "trans": [
+            "（表示提出或征求意见）"
+        ],
+        "usphone": "ʃæl; ʃəl",
+        "ukphone": "ʃæl; ʃəl",
+        "sentence": "Shall we see a film?",
+        "sentenceTrans": "我们去看电影好吗？"
+    },
+    {
+        "name": "princess",
+        "trans": [
+            "公主"
+        ],
+        "usphone": "ˈprɪnses",
+        "ukphone": "ˌprɪnˈses",
+        "sentence": "The princess falls asleep.",
+        "sentenceTrans": "公主睡着了。"
+    },
+    {
+        "name": "police",
+        "trans": [
+            "警方；警察部门"
+        ],
+        "usphone": "pəˈliːs",
+        "ukphone": "pəˈliːs",
+        "sentence": "Call the police for help.",
+        "sentenceTrans": "打电话向警方求助。"
+    },
+    {
+        "name": "exciting",
+        "trans": [
+            "令人激动的；使人兴奋的"
+        ],
+        "usphone": "ɪkˈsaɪtɪŋ",
+        "ukphone": "ɪkˈsaɪtɪŋ",
+        "sentence": "The police story is exciting.",
+        "sentenceTrans": "这个警察故事很精彩。"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "勇敢的"
+        ],
+        "usphone": "breɪv",
+        "ukphone": "breɪv",
+        "sentence": "The brave policeman saves the girl.",
+        "sentenceTrans": "勇敢的警察救了女孩。"
+    },
+    {
+        "name": "policeman",
+        "trans": [
+            "警察"
+        ],
+        "usphone": "pəˈliːsmən",
+        "ukphone": "pəˈliːsmən",
+        "sentence": "The policeman catches the bad man.",
+        "sentenceTrans": "警察抓住了坏人。"
+    },
+    {
+        "name": "boring",
+        "trans": [
+            "没趣的；令人厌倦的"
+        ],
+        "usphone": "ˈbɔːrɪŋ",
+        "ukphone": "ˈbɔːrɪŋ",
+        "sentence": "This film is boring.",
+        "sentenceTrans": "这部电影很无聊。"
+    },
+    {
+        "name": "queen",
+        "trans": [
+            "王后"
+        ],
+        "usphone": "kwiːn",
+        "ukphone": "kwiːn",
+        "sentence": "The queen is in the room.",
+        "sentenceTrans": "王后在房间里。"
+    },
+    {
+        "name": "mirror",
+        "trans": [
+            "镜子"
+        ],
+        "usphone": "ˈmɪrər",
+        "ukphone": "ˈmɪrə(r)",
+        "sentence": "The queen looks in the mirror.",
+        "sentenceTrans": "王后照镜子。"
+    },
+    {
+        "name": "fairest",
+        "trans": [
+            "最美丽的"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Who is the fairest of all?",
+        "sentenceTrans": "谁是所有人中最美的？"
+    },
+    {
+        "name": "kill",
+        "trans": [
+            "杀死"
+        ],
+        "usphone": "kɪl",
+        "ukphone": "kɪl",
+        "sentence": "The queen wants to kill the princess.",
+        "sentenceTrans": "王后想杀死公主。"
+    },
+    {
+        "name": "asleep",
+        "trans": [
+            "睡着的"
+        ],
+        "usphone": "əˈsliːp",
+        "ukphone": "əˈsliːp",
+        "sentence": "The baby is asleep.",
+        "sentenceTrans": "宝宝睡着了。"
+    },
+    {
+        "name": "neat",
+        "trans": [
+            "time 下次"
+        ],
+        "usphone": "niːt",
+        "ukphone": "niːt",
+        "sentence": "See you next time.",
+        "sentenceTrans": "下次见。"
+    },
+    {
+        "name": "once",
+        "trans": [
+            "upon a time 从前"
+        ],
+        "usphone": "wʌns",
+        "ukphone": "wʌns",
+        "sentence": "Once upon a time, there was a princess.",
+        "sentenceTrans": "从前，有一位公主。"
+    },
+    {
+        "name": "fall",
+        "trans": [
+            "asleep 睡着"
+        ],
+        "usphone": "fɔːl",
+        "ukphone": "fɔːl",
+        "sentence": "The princess falls asleep.",
+        "sentenceTrans": "公主睡着了。"
+    },
+    {
+        "name": "bee",
+        "trans": [
+            "蜜蜂"
+        ],
+        "usphone": "biː",
+        "ukphone": "biː",
+        "sentence": "I see a bee.",
+        "sentenceTrans": "我看见一只蜜蜂。"
+    },
+    {
+        "name": "insect",
+        "trans": [
+            "昆虫"
+        ],
+        "usphone": "ˈɪnsekt",
+        "ukphone": "ˈɪnsekt",
+        "sentence": "An ant is an insect.",
+        "sentenceTrans": "蚂蚁是一种昆虫。"
+    },
+    {
+        "name": "ant",
+        "trans": [
+            "蚂蚁"
+        ],
+        "usphone": "ænt",
+        "ukphone": "ænt",
+        "sentence": "The ant is small.",
+        "sentenceTrans": "这只蚂蚁很小。"
+    },
+    {
+        "name": "anything",
+        "trans": [
+            "任何东西"
+        ],
+        "usphone": "ˈeniθɪŋ",
+        "ukphone": "ˈeniθɪŋ",
+        "sentence": "Did you see anything in the garden?",
+        "sentenceTrans": "你在花园里看到什么了吗？"
+    },
+    {
+        "name": "kind",
+        "trans": [
+            "种类"
+        ],
+        "usphone": "kaɪnd",
+        "ukphone": "kaɪnd",
+        "sentence": "The old woman is kind to us.",
+        "sentenceTrans": "这位老妇人对我们很友好。"
+    },
+    {
+        "name": "finger",
+        "trans": [
+            "手指"
+        ],
+        "usphone": "ˈfɪŋɡər",
+        "ukphone": "ˈfɪŋɡə(r)",
+        "sentence": "An ant is on my finger.",
+        "sentenceTrans": "一只蚂蚁在我的手指上。"
+    },
+    {
+        "name": "dancer",
+        "trans": [
+            "跳舞者；舞蹈演员"
+        ],
+        "usphone": "ˈdænsər",
+        "ukphone": "ˈdɑːnsə(r)",
+        "sentence": "My sister wants to be a dancer.",
+        "sentenceTrans": "我妹妹想成为舞蹈演员。"
+    },
+    {
+        "name": "insect",
+        "trans": [
+            "museum 昆虫博物馆"
+        ],
+        "usphone": "ˈɪnsekt",
+        "ukphone": "ˈɪnsekt",
+        "sentence": "An ant is an insect.",
+        "sentenceTrans": "蚂蚁是一种昆虫。"
+    },
+    {
+        "name": "car",
+        "trans": [
+            "museum 汽车博物馆"
+        ],
+        "usphone": "kɑːr",
+        "ukphone": "kɑː(r)",
+        "sentence": "We visit the car museum.",
+        "sentenceTrans": "我们参观汽车博物馆。"
+    },
+    {
+        "name": "model",
+        "trans": [
+            "car 汽车模型"
+        ],
+        "usphone": "ˈmɑːd(ə)l",
+        "ukphone": "ˈmɒd(ə)l",
+        "sentence": "This is a model car.",
+        "sentenceTrans": "这是一辆汽车模型。"
+    },
+    {
+        "name": "science",
+        "trans": [
+            "museum 科学博物馆"
+        ],
+        "usphone": "ˈsaɪəns",
+        "ukphone": "ˈsaɪəns",
+        "sentence": "We visit the science museum.",
+        "sentenceTrans": "我们参观科学博物馆。"
+    },
+    {
+        "name": "many",
+        "trans": [
+            "kinds of 各种各样的"
+        ],
+        "usphone": "ˈmeni",
+        "ukphone": "ˈmeni",
+        "sentence": "The museum has many kinds of cars.",
+        "sentenceTrans": "博物馆有各种各样的汽车。"
+    },
+    {
+        "name": "capital",
+        "trans": [
+            "首都"
+        ],
+        "usphone": "ˈkæpɪt(ə)l",
+        "ukphone": "ˈkæpɪt(ə)l",
+        "sentence": "Beijing is the capital of China.",
+        "sentenceTrans": "北京是中国的首都。"
+    },
+    {
+        "name": "north",
+        "trans": [
+            "北；北部"
+        ],
+        "usphone": "nɔːrθ",
+        "ukphone": "nɔːθ",
+        "sentence": "Wild geese fly north in spring.",
+        "sentenceTrans": "大雁春天向北飞。"
+    },
+    {
+        "name": "east",
+        "trans": [
+            "东；东部"
+        ],
+        "usphone": "iːst",
+        "ukphone": "iːst",
+        "sentence": "Shanghai is in the east of China.",
+        "sentenceTrans": "上海位于中国东部。"
+    },
+    {
+        "name": "west",
+        "trans": [
+            "西；西部"
+        ],
+        "usphone": "west",
+        "ukphone": "west",
+        "sentence": "The sun goes down in the west.",
+        "sentenceTrans": "太阳从西边落下。"
+    },
+    {
+        "name": "south",
+        "trans": [
+            "南；南部"
+        ],
+        "usphone": "saʊθ",
+        "ukphone": "saʊθ",
+        "sentence": "The South China tiger is in danger.",
+        "sentenceTrans": "华南虎正面临危险。"
+    },
+    {
+        "name": "palace",
+        "trans": [
+            "王宫；宫殿"
+        ],
+        "usphone": "ˈpæləs",
+        "ukphone": "ˈpæləs",
+        "sentence": "Many tourists visit the palace.",
+        "sentenceTrans": "许多游客参观这座宫殿。"
+    },
+    {
+        "name": "most",
+        "trans": [
+            "大多数"
+        ],
+        "usphone": "moʊst",
+        "ukphone": "məʊst",
+        "sentence": "Most tourists visit the palace.",
+        "sentenceTrans": "大多数游客参观这座宫殿。"
+    },
+    {
+        "name": "tourist",
+        "trans": [
+            "游客"
+        ],
+        "usphone": "ˈtʊrɪst",
+        "ukphone": "ˈtʊərɪst",
+        "sentence": "The tourist takes a photo of the palace.",
+        "sentenceTrans": "游客给宫殿拍了一张照片。"
+    },
+    {
+        "name": "building",
+        "trans": [
+            "建筑物；楼房"
+        ],
+        "usphone": "ˈbɪldɪŋ",
+        "ukphone": "ˈbɪldɪŋ",
+        "sentence": "That tall building is a hotel.",
+        "sentenceTrans": "那栋高楼是一家旅馆。"
+    },
+    {
+        "name": "sushi",
+        "trans": [
+            "寿司"
+        ],
+        "usphone": "ˈsuːʃi",
+        "ukphone": "ˈsuːʃi",
+        "sentence": "Many tourists like sushi.",
+        "sentenceTrans": "许多游客喜欢寿司。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the north of 在…北部"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the east of 在…东部"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "The rhino is in danger.",
+        "sentenceTrans": "犀牛正面临危险。"
+    },
+    {
+        "name": "air",
+        "trans": [
+            "空气"
+        ],
+        "usphone": "er",
+        "ukphone": "eə(r)",
+        "sentence": "We need fresh air.",
+        "sentenceTrans": "我们需要新鲜空气。"
+    },
+    {
+        "name": "everywhere",
+        "trans": [
+            "处处；到处"
+        ],
+        "usphone": "ˈevriwer",
+        "ukphone": "ˈevriweə(r)",
+        "sentence": "There is rubbish everywhere.",
+        "sentenceTrans": "到处都是垃圾。"
+    },
+    {
+        "name": "alive",
+        "trans": [
+            "活着的"
+        ],
+        "usphone": "əˈlaɪv",
+        "ukphone": "əˈlaɪv",
+        "sentence": "Water keeps the plant alive.",
+        "sentenceTrans": "水让植物活着。"
+    },
+    {
+        "name": "balloon",
+        "trans": [
+            "气球"
+        ],
+        "usphone": "bəˈluːn",
+        "ukphone": "bəˈluːn",
+        "sentence": "I have a red balloon.",
+        "sentenceTrans": "我有一个红气球。"
+    },
+    {
+        "name": "factory",
+        "trans": [
+            "工厂"
+        ],
+        "usphone": "ˈfækt(ə)ri",
+        "ukphone": "ˈfæktri; ˈfæktəri",
+        "sentence": "The factory is near the river.",
+        "sentenceTrans": "工厂在河边。"
+    },
+    {
+        "name": "smoke",
+        "trans": [
+            "烟"
+        ],
+        "usphone": "smoʊk",
+        "ukphone": "sməʊk",
+        "sentence": "Smoke can hurt our eyes.",
+        "sentenceTrans": "烟会伤害我们的眼睛。"
+    },
+    {
+        "name": "dirty",
+        "trans": [
+            "脏的"
+        ],
+        "usphone": "ˈdɜːrti",
+        "ukphone": "ˈdɜːti",
+        "sentence": "Factory smoke makes the air dirty.",
+        "sentenceTrans": "工厂的烟使空气变脏。"
+    },
+    {
+        "name": "clean",
+        "trans": [
+            "干净的；洁净的"
+        ],
+        "usphone": "kliːn",
+        "ukphone": "kliːn",
+        "sentence": "Clean the desk, please.",
+        "sentenceTrans": "请把书桌擦干净。"
+    },
+    {
+        "name": "hurt",
+        "trans": [
+            "感到痛"
+        ],
+        "usphone": "hɜːrt",
+        "ukphone": "hɜːt",
+        "sentence": "Do not touch it, or you may get hurt.",
+        "sentenceTrans": "不要碰它，否则你可能会受伤。"
+    },
+    {
+        "name": "fresh",
+        "trans": [
+            "清新的"
+        ],
+        "usphone": "freʃ",
+        "ukphone": "freʃ",
+        "sentence": "Trees keep the air fresh.",
+        "sentenceTrans": "树木使空气保持清新。"
+    },
+    {
+        "name": "plant",
+        "trans": [
+            "种植"
+        ],
+        "usphone": "plænt",
+        "ukphone": "plɑːnt",
+        "sentence": "This plant has green leaves.",
+        "sentenceTrans": "这株植物有绿色的叶子。"
+    },
+    {
+        "name": "keep…alive",
+        "trans": [
+            "让…活着"
+        ],
+        "usphone": "kiːp əˈlaɪv",
+        "ukphone": "",
+        "sentence": "Water keeps the plant alive.",
+        "sentenceTrans": "水让植物活着。"
+    },
+    {
+        "name": "plant",
+        "trans": [
+            "trees 植树"
+        ],
+        "usphone": "plænt",
+        "ukphone": "plɑːnt",
+        "sentence": "This plant has green leaves.",
+        "sentenceTrans": "这株植物有绿色的叶子。"
+    },
+    {
+        "name": "wood",
+        "trans": [
+            "木头；木材"
+        ],
+        "usphone": "wʊd",
+        "ukphone": "wʊd",
+        "sentence": "The table is made of wood.",
+        "sentenceTrans": "这张桌子是木制的。"
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "使变凉"
+        ],
+        "usphone": "kuːl",
+        "ukphone": "kuːl",
+        "sentence": "It is cool today.",
+        "sentenceTrans": "今天很凉快。"
+    },
+    {
+        "name": "match",
+        "trans": [
+            "火柴"
+        ],
+        "usphone": "mætʃ",
+        "ukphone": "mætʃ",
+        "sentence": "Do not play with matches.",
+        "sentenceTrans": "不要玩火柴。"
+    },
+    {
+        "name": "miss",
+        "trans": [
+            "想念"
+        ],
+        "usphone": "mɪs",
+        "ukphone": "mɪs",
+        "sentence": "Good morning, Miss Li.",
+        "sentenceTrans": "早上好，李老师。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "to 不得不"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "cut…down",
+        "trans": [
+            "把…砍倒"
+        ],
+        "usphone": "ˌkʌt ˈdaʊn",
+        "ukphone": "ˌkʌt ˈdaʊn",
+        "sentence": "Do not cut down trees.",
+        "sentenceTrans": "不要砍树。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "for 寻找"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "Earth",
+        "trans": [
+            "地球"
+        ],
+        "usphone": "ɜːrθ",
+        "ukphone": "ɜːθ",
+        "sentence": "We should keep the Earth clean.",
+        "sentenceTrans": "我们应该保持地球清洁。"
+    },
+    {
+        "name": "part",
+        "trans": [
+            "地区；区域"
+        ],
+        "usphone": "pɑːrt",
+        "ukphone": "pɑːt",
+        "sentence": "Forests cover part of the land.",
+        "sentenceTrans": "森林覆盖了部分陆地。"
+    },
+    {
+        "name": "forest",
+        "trans": [
+            "森林"
+        ],
+        "usphone": "ˈfɔːrɪst",
+        "ukphone": "ˈfɒrɪst",
+        "sentence": "The tiger is in the forest.",
+        "sentenceTrans": "老虎在森林里。"
+    },
+    {
+        "name": "land",
+        "trans": [
+            "陆地"
+        ],
+        "usphone": "lænd",
+        "ukphone": "lænd",
+        "sentence": "People and animals live on land.",
+        "sentenceTrans": "人和动物生活在陆地上。"
+    },
+    {
+        "name": "ocean",
+        "trans": [
+            "海洋"
+        ],
+        "usphone": "ˈoʊʃ(ə)n",
+        "ukphone": "ˈəʊʃ(ə)n",
+        "sentence": "Whales live in the ocean.",
+        "sentenceTrans": "鲸生活在海洋里。"
+    },
+    {
+        "name": "rubbish",
+        "trans": [
+            "垃圾"
+        ],
+        "usphone": "ˈrʌbɪʃ",
+        "ukphone": "ˈrʌbɪʃ",
+        "sentence": "Put the rubbish in the bin.",
+        "sentenceTrans": "把垃圾放进垃圾桶。"
+    },
+    {
+        "name": "sick",
+        "trans": [
+            "生病的"
+        ],
+        "usphone": "sɪk",
+        "ukphone": "sɪk",
+        "sentence": "They take care of the sick animal.",
+        "sentenceTrans": "他们照顾生病的动物。"
+    },
+    {
+        "name": "recycle",
+        "trans": [
+            "回收利用；再利用"
+        ],
+        "usphone": "ˌriːˈsaɪk(ə)l",
+        "ukphone": "ˌriːˈsaɪkl",
+        "sentence": "We can recycle glass and paper.",
+        "sentenceTrans": "我们可以回收玻璃和纸。"
+    },
+    {
+        "name": "glass",
+        "trans": [
+            "玻璃制品；玻璃"
+        ],
+        "usphone": "ɡlæs",
+        "ukphone": "ɡlɑːs",
+        "sentence": "We can recycle glass.",
+        "sentenceTrans": "我们可以回收玻璃制品。"
+    },
+    {
+        "name": "own",
+        "trans": [
+            "自己的"
+        ],
+        "usphone": "oʊn",
+        "ukphone": "əʊn",
+        "sentence": "Bring your own shopping bag.",
+        "sentenceTrans": "带上你自己的购物袋。"
+    },
+    {
+        "name": "so",
+        "trans": [
+            "many 这么多"
+        ],
+        "usphone": "soʊ",
+        "ukphone": "səʊ",
+        "sentence": "The elephant is so big.",
+        "sentenceTrans": "这头大象真大。"
+    },
+    {
+        "name": "pick",
+        "trans": [
+            "up 捡起；拾起"
+        ],
+        "usphone": "pɪk",
+        "ukphone": "pɪk",
+        "sentence": "Pick a flower, please.",
+        "sentenceTrans": "请摘一朵花。"
+    },
+    {
+        "name": "shopping",
+        "trans": [
+            "bag 购物袋"
+        ],
+        "usphone": "ˈʃɑːpɪŋ",
+        "ukphone": "ˈʃɒpɪŋ",
+        "sentence": "I go shopping.",
+        "sentenceTrans": "我去购物。"
+    },
+    {
+        "name": "plastic",
+        "trans": [
+            "bag 塑料袋"
+        ],
+        "usphone": "ˈplæstɪk",
+        "ukphone": "ˈplæstɪk",
+        "sentence": "Do not use many plastic bags.",
+        "sentenceTrans": "不要使用很多塑料袋。"
+    }
+]

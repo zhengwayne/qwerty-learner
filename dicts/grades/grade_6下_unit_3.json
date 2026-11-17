@@ -1,0 +1,182 @@
+[
+    {
+        "name": "have",
+        "trans": [
+            "a picnic 去野餐"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "We have a picnic by the lake.",
+        "sentenceTrans": "我们在湖边野餐。"
+    },
+    {
+        "name": "better",
+        "trans": [
+            "and better 越来越好"
+        ],
+        "usphone": "ˈbetər",
+        "ukphone": "ˈbetə(r)",
+        "sentence": "My English is getting better and better.",
+        "sentenceTrans": "我的英语越来越好了。"
+    },
+    {
+        "name": "oil",
+        "trans": [
+            "没"
+        ],
+        "usphone": "ɔɪl",
+        "ukphone": "ɔɪl",
+        "sentence": "The machine needs some oil.",
+        "sentenceTrans": "这台机器需要一些油。"
+    },
+    {
+        "name": "oil",
+        "trans": [
+            "painting 油画"
+        ],
+        "usphone": "ɔɪl",
+        "ukphone": "ɔɪl",
+        "sentence": "The machine needs some oil.",
+        "sentenceTrans": "这台机器需要一些油。"
+    },
+    {
+        "name": "powerful",
+        "trans": [
+            "强有力的；力量大的"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "This truck has a powerful engine.",
+        "sentenceTrans": "这辆卡车有强劲的发动机。"
+    },
+    {
+        "name": "ink",
+        "trans": [
+            "墨水；墨汁"
+        ],
+        "usphone": "ɪŋk",
+        "ukphone": "ɪŋk",
+        "sentence": "The artist paints with black ink.",
+        "sentenceTrans": "画家用黑墨作画。"
+    },
+    {
+        "name": "Chinese",
+        "trans": [
+            "ink painting 中国水墨画"
+        ],
+        "usphone": "ˌtʃaɪˈniːz",
+        "ukphone": "ˌtʃaɪˈniːz",
+        "sentence": "This is a Chinese ink painting.",
+        "sentenceTrans": "这是一幅中国水墨画。"
+    },
+    {
+        "name": "brush",
+        "trans": [
+            "画笔；刷子；刷"
+        ],
+        "usphone": "brʌʃ",
+        "ukphone": "brʌʃ",
+        "sentence": "The artist uses a Chinese brush.",
+        "sentenceTrans": "画家使用中国毛笔。"
+    },
+    {
+        "name": "paints",
+        "trans": [
+            "绘画颜料"
+        ],
+        "usphone": "peɪnts",
+        "ukphone": "peɪnts",
+        "sentence": "The artist has many paints.",
+        "sentenceTrans": "这位画家有很多颜料。"
+    },
+    {
+        "name": "artist",
+        "trans": [
+            "艺术家；画家"
+        ],
+        "usphone": "ˈɑːrtɪst",
+        "ukphone": "ˈɑːtɪst",
+        "sentence": "The artist paints with a brush.",
+        "sentenceTrans": "画家用画笔作画。"
+    },
+    {
+        "name": "unhappy",
+        "trans": [
+            "不高兴的"
+        ],
+        "usphone": "ʌnˈhæpi",
+        "ukphone": "ʌnˈhæpi",
+        "sentence": "The artist is unhappy with his picture.",
+        "sentenceTrans": "画家对自己的画不满意。"
+    },
+    {
+        "name": "carefully",
+        "trans": [
+            "仔细地"
+        ],
+        "usphone": "ˈkerfəli",
+        "ukphone": "ˈkeəfəli",
+        "sentence": "The artist paints carefully.",
+        "sentenceTrans": "画家认真地作画。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "the left 在左边"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "The vase is on the left.",
+        "sentenceTrans": "花瓶在左边。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "the right 在右边"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "The vase is on the left.",
+        "sentenceTrans": "花瓶在左边。"
+    },
+    {
+        "name": "all",
+        "trans": [
+            "the time 一直；始终"
+        ],
+        "usphone": "ɔːl",
+        "ukphone": "ɔːl",
+        "sentence": "He talks to himself all the time.",
+        "sentenceTrans": "他一直自言自语。"
+    },
+    {
+        "name": "craft",
+        "trans": [
+            "手艺；工艺"
+        ],
+        "usphone": "kræft",
+        "ukphone": "krɑːft",
+        "sentence": "Paper cutting is a Chinese craft.",
+        "sentenceTrans": "剪纸是一门中国手艺。"
+    },
+    {
+        "name": "crown",
+        "trans": [
+            "王冠；皇冠"
+        ],
+        "usphone": "kraʊn",
+        "ukphone": "kraʊn",
+        "sentence": "We make a crown with paper.",
+        "sentenceTrans": "我们用纸做一顶王冠。"
+    },
+    {
+        "name": "scissors",
+        "trans": [
+            "剪刀"
+        ],
+        "usphone": "ˈsɪzərz",
+        "ukphone": "ˈsɪzəz",
+        "sentence": "Cut the paper with scissors.",
+        "sentenceTrans": "用剪刀剪纸。"
+    }
+]

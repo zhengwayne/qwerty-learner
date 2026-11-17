@@ -1,0 +1,996 @@
+[
+    {
+        "name": "season",
+        "trans": [
+            "季节"
+        ],
+        "usphone": "ˈsiːz(ə)n",
+        "ukphone": "ˈsiːz(ə)n",
+        "sentence": "Autumn is my favourite season.",
+        "sentenceTrans": "秋季是我最喜欢的季节。"
+    },
+    {
+        "name": "spring",
+        "trans": [
+            "春天"
+        ],
+        "usphone": "sprɪŋ",
+        "ukphone": "sprɪŋ",
+        "sentence": "Spring came late this year.",
+        "sentenceTrans": "今年春天来得晚。"
+    },
+    {
+        "name": "warm",
+        "trans": [
+            "温暖的"
+        ],
+        "usphone": "wɔːrm",
+        "ukphone": "wɔːm",
+        "sentence": "It's quite warm at the moment.",
+        "sentenceTrans": "现在天气相当暖和。"
+    },
+    {
+        "name": "summer",
+        "trans": [
+            "夏天"
+        ],
+        "usphone": "ˈsʌmər",
+        "ukphone": "ˈsʌmə(r)",
+        "sentence": "I really love summer evenings.",
+        "sentenceTrans": "我非常喜欢夏天的夜晚。"
+    },
+    {
+        "name": "hot",
+        "trans": [
+            "热的"
+        ],
+        "usphone": "hɑːt",
+        "ukphone": "hɒt",
+        "sentence": "I was feeling uncomfortably hot.",
+        "sentenceTrans": "我觉得酷热难当。"
+    },
+    {
+        "name": "outside",
+        "trans": [
+            "在外面"
+        ],
+        "usphone": "ˌaʊtˈsaɪd",
+        "ukphone": "ˌaʊtˈsaɪd",
+        "sentence": "Train your muscles and bones outside, and train your gomoku inside.",
+        "sentenceTrans": "外练筋骨皮，内练五子棋。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在....里面"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "They lived in rooms in Kensington.",
+        "sentenceTrans": "他们住在肯辛顿的出租房间。"
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "凉爽的"
+        ],
+        "usphone": "kuːl",
+        "ukphone": "kuːl",
+        "sentence": "She seemed very cool and unemotional.",
+        "sentenceTrans": "她显得十分冷静。"
+    },
+    {
+        "name": "how",
+        "trans": [
+            "怎么样，如何"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "We are reminded just how small and how impermanent we are.",
+        "sentenceTrans": "我们刚被提醒，我们多么渺小，我们的生命又是多么短暂。"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "天气"
+        ],
+        "usphone": "ˈweðər",
+        "ukphone": "ˈweðə(r)",
+        "sentence": "Weather conditions were fair.",
+        "sentenceTrans": "天气状况晴好。"
+    },
+    {
+        "name": "cloudy",
+        "trans": [
+            "多云的"
+        ],
+        "usphone": "ˈklaʊdi",
+        "ukphone": "ˈklaʊdi",
+        "sentence": "Tonight will be cloudy.",
+        "sentenceTrans": "今天夜间多云。"
+    },
+    {
+        "name": "sunny",
+        "trans": [
+            "阳光美眉的"
+        ],
+        "usphone": "ˈsʌni",
+        "ukphone": "ˈsʌni",
+        "sentence": "It's a brilliantly sunny morning.",
+        "sentenceTrans": "这是个阳光灿烂的早晨。"
+    },
+    {
+        "name": "rainy",
+        "trans": [
+            "有雨的，多雨的"
+        ],
+        "usphone": "ˈreɪni",
+        "ukphone": "ˈreɪni",
+        "sentence": "The rainy season in the Andes normally starts in December.",
+        "sentenceTrans": "安第斯山脉的雨季一般从12月开始。"
+    },
+    {
+        "name": "windy",
+        "trans": [
+            "有风的，多风的"
+        ],
+        "usphone": "ˈwɪndi",
+        "ukphone": "ˈwɪndi",
+        "sentence": "It was windy and Jake felt cold.",
+        "sentenceTrans": "风很大，杰克觉得很冷。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "去"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "\"Go! Please go.\"—\"You must be joking!\"",
+        "sentenceTrans": "“走吧！请走吧。”—“你一定是在开玩笑！”"
+    },
+    {
+        "name": "to",
+        "trans": [
+            "到，去"
+        ],
+        "usphone": "tuː; tə",
+        "ukphone": "tuː; tə",
+        "sentence": "I was trying to save money to go to college.",
+        "sentenceTrans": "我当时正努力攒钱去上大学。"
+    },
+    {
+        "name": "beach",
+        "trans": [
+            "沙滩"
+        ],
+        "usphone": "biːtʃ",
+        "ukphone": "biːtʃ",
+        "sentence": "We cantered along the beach.",
+        "sentenceTrans": "我们骑着马沿海滩慢跑。"
+    },
+    {
+        "name": "clothes",
+        "trans": [
+            "衣服"
+        ],
+        "usphone": "kloʊðz",
+        "ukphone": "kləʊðz",
+        "sentence": "She wears really funky clothes.",
+        "sentenceTrans": "她穿的衣服真是时髦又独特。"
+    },
+    {
+        "name": "need",
+        "trans": [
+            "需要"
+        ],
+        "usphone": "niːd",
+        "ukphone": "niːd",
+        "sentence": "Children need their parents.",
+        "sentenceTrans": "孩子们需要父母。"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "新的"
+        ],
+        "usphone": "nuː",
+        "ukphone": "njuː",
+        "sentence": "New England is beautiful.",
+        "sentenceTrans": "新英格兰很迷人。"
+    },
+    {
+        "name": "dress",
+        "trans": [
+            "连衣裙"
+        ],
+        "usphone": "dres",
+        "ukphone": "dres",
+        "sentence": "For lunch, dress is informal.",
+        "sentenceTrans": "吃午餐可以穿着休闲装。"
+    },
+    {
+        "name": "shorts",
+        "trans": [
+            "短裤"
+        ],
+        "usphone": "ʃɔːrts",
+        "ukphone": "ʃɔːts",
+        "sentence": "My shorts were chafing my thighs.",
+        "sentenceTrans": "我的短裤蹭得我大腿疼。"
+    },
+    {
+        "name": "blouse",
+        "trans": [
+            "女式衬衫"
+        ],
+        "usphone": "blaʊs",
+        "ukphone": "blaʊz",
+        "sentence": "That blouse sets off the blue of her eyes.",
+        "sentenceTrans": "那件上衣衬托出了她的蓝眼睛。"
+    },
+    {
+        "name": "0",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "We won four zip (4–0).",
+        "sentenceTrans": "我们以四比零获胜。"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "活动"
+        ],
+        "usphone": "ækˈtɪvəti",
+        "ukphone": "ækˈtɪvəti",
+        "sentence": "It was a period of intense activity.",
+        "sentenceTrans": "那是活动激烈的时期。"
+    },
+    {
+        "name": "ride",
+        "trans": [
+            "骑"
+        ],
+        "usphone": "raɪd",
+        "ukphone": "raɪd",
+        "sentence": "They hitched a ride in a truck.",
+        "sentenceTrans": "他们搭乘了一辆路过的货车。"
+    },
+    {
+        "name": "skip",
+        "trans": [
+            "跳绳"
+        ],
+        "usphone": "skɪp",
+        "ukphone": "skɪp",
+        "sentence": "She likes to skip rope as a warm-up.",
+        "sentenceTrans": "她喜欢以跳绳来热身。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "玩，踢（球）"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "Let's play charades.",
+        "sentenceTrans": "咱们来玩打哑谜猜字游戏吧。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "放（风筝），飞"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "Magda was going to fly standby.",
+        "sentenceTrans": "玛格达将凭剩余廉价机票乘飞机旅行。"
+    },
+    {
+        "name": "playtime",
+        "trans": [
+            "游戏时间"
+        ],
+        "usphone": "ˈpleɪtaɪm",
+        "ukphone": "ˈpleɪtaɪm",
+        "sentence": "Any child who is caught will be kept in at playtime.",
+        "sentenceTrans": "凡是被抓到的孩子在课间游戏时要被留在里面。"
+    },
+    {
+        "name": "football",
+        "trans": [
+            "足球"
+        ],
+        "usphone": "ˈfʊtbɔːl",
+        "ukphone": "ˈfʊtbɔːl",
+        "sentence": "Rick is crazy about football.",
+        "sentenceTrans": "里克对足球着了迷。"
+    },
+    {
+        "name": "rope",
+        "trans": [
+            "绳子"
+        ],
+        "usphone": "roʊp",
+        "ukphone": "rəʊp",
+        "sentence": "The rope suddenly went slack.",
+        "sentenceTrans": "绳子突然松了。"
+    },
+    {
+        "name": "1",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Payment is due on 1 October.",
+        "sentenceTrans": "付款期限为10月1日。"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "year 新年"
+        ],
+        "usphone": "nuː",
+        "ukphone": "njuː",
+        "sentence": "New England is beautiful.",
+        "sentenceTrans": "新英格兰很迷人。"
+    },
+    {
+        "name": "gift",
+        "trans": [
+            "礼物"
+        ],
+        "usphone": "ɡɪft",
+        "ukphone": "ɡɪft",
+        "sentence": "She has a great gift for music.",
+        "sentenceTrans": "她极有音乐天赋。"
+    },
+    {
+        "name": "card",
+        "trans": [
+            "贺卡，卡片"
+        ],
+        "usphone": "kɑːrd",
+        "ukphone": "kɑːd",
+        "sentence": "Simon's a whiz at card games.",
+        "sentenceTrans": "西蒙是纸牌游戏的高手。"
+    },
+    {
+        "name": "firecracker",
+        "trans": [
+            "鞭炮，爆竹"
+        ],
+        "usphone": "ˈfaɪərkrækər",
+        "ukphone": "ˈfaɪəkrækə(r)",
+        "sentence": "The firecracker didn't go off.",
+        "sentenceTrans": "爆竹没响。"
+    },
+    {
+        "name": "firework",
+        "trans": [
+            "烟花，烟火"
+        ],
+        "usphone": "ˈfaɪərwɜːrk",
+        "ukphone": "ˈfaɪəwɜːk",
+        "sentence": "The firework spluttered and went out.",
+        "sentenceTrans": "花炮噼里啪啦地喷完后灭了。"
+    },
+    {
+        "name": "make",
+        "trans": [
+            "做，制作"
+        ],
+        "usphone": "meɪk",
+        "ukphone": "meɪk",
+        "sentence": "Photos make useful teaching aids.",
+        "sentenceTrans": "照片可以成为有用的教具。"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "写"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "Write me while you're away.",
+        "sentenceTrans": "你外出期间给我写信。"
+    },
+    {
+        "name": "fold",
+        "trans": [
+            "折"
+        ],
+        "usphone": "foʊld",
+        "ukphone": "fəʊld",
+        "sentence": "You'd better fold it carefully.",
+        "sentenceTrans": "你最好仔细地折叠好它。"
+    },
+    {
+        "name": "shopping",
+        "trans": [
+            "购物"
+        ],
+        "usphone": "ˈʃɑːpɪŋ",
+        "ukphone": "ˈʃɒpɪŋ",
+        "sentence": "When shall I do the shopping ?",
+        "sentenceTrans": "我什么时候去买东西呢？"
+    },
+    {
+        "name": "2",
+        "trans": [],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "We sail at 2 p.m. tomorrow.",
+        "sentenceTrans": "我们明天下午两点起航。"
+    },
+    {
+        "name": "boy",
+        "trans": [
+            "男孩"
+        ],
+        "usphone": "bɔɪ",
+        "ukphone": "bɔɪ",
+        "sentence": "The boy has great potential.",
+        "sentenceTrans": "这个男孩有很大的潜力。"
+    },
+    {
+        "name": "wolf",
+        "trans": [
+            "狼（复数wolves）"
+        ],
+        "usphone": "wʊlf",
+        "ukphone": "wʊlf",
+        "sentence": "The wolf clawed at the tree and howled the whole night.",
+        "sentenceTrans": "那只狼在那颗树上抓挠，还嗥叫了整整一个晚上。"
+    },
+    {
+        "name": "farmer",
+        "trans": [
+            "农夫"
+        ],
+        "usphone": "ˈfɑːrmər",
+        "ukphone": "ˈfɑːmə(r)",
+        "sentence": "There once was a poor farmer who had four sons.",
+        "sentenceTrans": "从前有一个贫苦的农夫，他有四个儿子。"
+    },
+    {
+        "name": "come",
+        "trans": [
+            "来"
+        ],
+        "usphone": "kʌm",
+        "ukphone": "kʌm",
+        "sentence": "Come here, you little rascal!",
+        "sentenceTrans": "过来，你这个小坏蛋！"
+    },
+    {
+        "name": "where",
+        "trans": [
+            "哪里"
+        ],
+        "usphone": "wer",
+        "ukphone": "weə(r)",
+        "sentence": "Where were you yesterday morning?",
+        "sentenceTrans": "你昨天上午在哪儿？"
+    },
+    {
+        "name": "bad",
+        "trans": [
+            "坏的"
+        ],
+        "usphone": "bæd",
+        "ukphone": "bæd",
+        "sentence": "Smoking gives you bad breath.",
+        "sentenceTrans": "吸烟会导致口臭。"
+    },
+    {
+        "name": "poor",
+        "trans": [
+            "可怜的，穷的"
+        ],
+        "usphone": "pʊr",
+        "ukphone": "pɔː(r); pʊə(r)",
+        "sentence": "Even the poor have their pride.",
+        "sentenceTrans": "即使穷人也有他们的自尊。"
+    },
+    {
+        "name": "tell",
+        "trans": [
+            "说，告诉"
+        ],
+        "usphone": "tel",
+        "ukphone": "tel",
+        "sentence": "Tell me what really happened.",
+        "sentenceTrans": "告诉我究竟发生了什么事。"
+    },
+    {
+        "name": "lie",
+        "trans": [
+            "说谎，谎言"
+        ],
+        "usphone": "laɪ",
+        "ukphone": "laɪ",
+        "sentence": "Father, I cannot lie to you.",
+        "sentenceTrans": "爸爸，我不能对你说谎。"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "away 逃跑，跑开"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn",
+        "sentence": "I can't run any faster.",
+        "sentenceTrans": "我不能跑得更快了。"
+    },
+    {
+        "name": "good",
+        "trans": [
+            "好的"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "We remained good friends.",
+        "sentenceTrans": "我们一直是好朋友。"
+    },
+    {
+        "name": "morning",
+        "trans": [
+            "早晨"
+        ],
+        "usphone": "ˈmɔːrnɪŋ",
+        "ukphone": "ˈmɔːnɪŋ",
+        "sentence": "I've been sneezing all morning.",
+        "sentenceTrans": "我一上午直打喷嚏。"
+    },
+    {
+        "name": "today",
+        "trans": [
+            "今天"
+        ],
+        "usphone": "təˈdeɪ",
+        "ukphone": "təˈdeɪ",
+        "sentence": "I'm revising Geography today.",
+        "sentenceTrans": "我今天复习地理。"
+    },
+    {
+        "name": "very",
+        "trans": [
+            "well 很好，非常好"
+        ],
+        "usphone": "ˈveri",
+        "ukphone": "ˈveri",
+        "sentence": "She is very caring and very genuine.",
+        "sentenceTrans": "她很有同情心，也非常诚实可靠。"
+    },
+    {
+        "name": "ant",
+        "trans": [
+            "蚂蚁"
+        ],
+        "usphone": "ænt",
+        "ukphone": "ænt",
+        "sentence": "From the very beginning, Stuart Leslie Goddard, a.k.a. Adam Ant, knew he was going to be a star.",
+        "sentenceTrans": "从一开始，斯图尔特·莱斯利·戈达德，又叫蚂蚁亚当，就知道他将会成为明星。"
+    },
+    {
+        "name": "bear",
+        "trans": [
+            "熊"
+        ],
+        "usphone": "ber",
+        "ukphone": "beə(r)",
+        "sentence": "He can't bear being laughed at.",
+        "sentenceTrans": "他无法忍受遭人嘲笑。"
+    },
+    {
+        "name": "tall",
+        "trans": [
+            "高的"
+        ],
+        "usphone": "tɔːl",
+        "ukphone": "tɔːl",
+        "sentence": "He was tall, lean and muscular.",
+        "sentenceTrans": "他高挑瘦削，强壮有力。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "矮的"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "Short hair really becomes you.",
+        "sentenceTrans": "你理短发的确很帅。"
+    },
+    {
+        "name": "boy",
+        "trans": [
+            "男孩"
+        ],
+        "usphone": "bɔɪ",
+        "ukphone": "bɔɪ",
+        "sentence": "The boy has great potential.",
+        "sentenceTrans": "这个男孩有很大的潜力。"
+    },
+    {
+        "name": "girl",
+        "trans": [
+            "女孩"
+        ],
+        "usphone": "ɡɜːrl",
+        "ukphone": "ɡɜːl",
+        "sentence": "An older girl befriended me.",
+        "sentenceTrans": "一个年纪大些的女孩对我很友善。"
+    },
+    {
+        "name": "big",
+        "trans": [
+            "大的"
+        ],
+        "usphone": "bɪɡ",
+        "ukphone": "bɪɡ",
+        "sentence": "This shirt isn't big enough.",
+        "sentenceTrans": "这件衬衣不够大。"
+    },
+    {
+        "name": "small",
+        "trans": [
+            "小的"
+        ],
+        "usphone": "smɔːl",
+        "ukphone": "smɔːl",
+        "sentence": "The room was disappointingly small.",
+        "sentenceTrans": "屋子小得令人失望。"
+    },
+    {
+        "name": "sorry",
+        "trans": [
+            "对不起，请原谅"
+        ],
+        "usphone": "ˈsɑːri",
+        "ukphone": "ˈsɒri",
+        "sentence": "Sorry, the answer's no.",
+        "sentenceTrans": "对不起，回答是不。"
+    },
+    {
+        "name": "elephant",
+        "trans": [
+            "大象"
+        ],
+        "usphone": "ˈelɪfənt; ˈeləfənt",
+        "ukphone": "ˈelɪfənt; ˈeləfənt",
+        "sentence": "The elephant flapped its ears.",
+        "sentenceTrans": "大象拍打着双耳。"
+    },
+    {
+        "name": "swim",
+        "trans": [
+            "游泳"
+        ],
+        "usphone": "swɪm",
+        "ukphone": "swɪm",
+        "sentence": "I managed to swim to safety.",
+        "sentenceTrans": "我设法游到安全处。"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "跑"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn",
+        "sentence": "I can't run any faster.",
+        "sentenceTrans": "我不能跑得更快了。"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "书写，写字"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "Write me while you're away.",
+        "sentenceTrans": "你外出期间给我写信。"
+    },
+    {
+        "name": "fly",
+        "trans": [
+            "飞，飞翔"
+        ],
+        "usphone": "flaɪ",
+        "ukphone": "flaɪ",
+        "sentence": "Magda was going to fly standby.",
+        "sentenceTrans": "玛格达将凭剩余廉价机票乘飞机旅行。"
+    },
+    {
+        "name": "ride",
+        "trans": [
+            "a bicycle 骑自行车"
+        ],
+        "usphone": "raɪd",
+        "ukphone": "raɪd",
+        "sentence": "They hitched a ride in a truck.",
+        "sentenceTrans": "他们搭乘了一辆路过的货车。"
+    },
+    {
+        "name": "family",
+        "trans": [
+            "家庭，家"
+        ],
+        "usphone": "ˈfæməli",
+        "ukphone": "ˈfæməli",
+        "sentence": "His family expostulated with him.",
+        "sentenceTrans": "他的家人反驳他。"
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "哥哥，弟弟"
+        ],
+        "usphone": "ˈbrʌðər",
+        "ukphone": "ˈbrʌðə(r)",
+        "sentence": "She's smarter than her brother.",
+        "sentenceTrans": "她比她哥哥聪明。"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "姐姐，妹妹"
+        ],
+        "usphone": "ˈsɪstər",
+        "ukphone": "ˈsɪstə(r)",
+        "sentence": "And how is my sainted sister?",
+        "sentenceTrans": "我那大好人姐姐怎么样？"
+    },
+    {
+        "name": "friend",
+        "trans": [
+            "朋友"
+        ],
+        "usphone": "frend",
+        "ukphone": "frend",
+        "sentence": "My friend here saw it happen.",
+        "sentenceTrans": "我的这位朋友目睹了事情的经过。"
+    },
+    {
+        "name": "young",
+        "trans": [
+            "年轻的"
+        ],
+        "usphone": "jʌŋ",
+        "ukphone": "jʌŋ",
+        "sentence": "He's a brilliant young scientist.",
+        "sentenceTrans": "他是一个才华横溢的青年科学家。"
+    },
+    {
+        "name": "insect",
+        "trans": [
+            "昆虫"
+        ],
+        "usphone": "ˈɪnsekt",
+        "ukphone": "ˈɪnsekt",
+        "sentence": "At rest the insect looks like a dead leaf.",
+        "sentenceTrans": "这种昆虫不动时看上去像一片枯叶。"
+    },
+    {
+        "name": "jellyfish",
+        "trans": [
+            "水母"
+        ],
+        "usphone": "ˈdʒelifɪʃ",
+        "ukphone": "ˈdʒelifɪʃ",
+        "sentence": "Ouch! A jellyfish sits on my knee.",
+        "sentenceTrans": "嗷！一只水母坐在我的膝盖上。"
+    },
+    {
+        "name": "hair",
+        "trans": [
+            "头发"
+        ],
+        "usphone": "her",
+        "ukphone": "heə(r)",
+        "sentence": "His hair curls naturally.",
+        "sentenceTrans": "他的头发天生鬈曲。"
+    },
+    {
+        "name": "head",
+        "trans": [
+            "头"
+        ],
+        "usphone": "hed",
+        "ukphone": "hed",
+        "sentence": "His head throbbed painfully.",
+        "sentenceTrans": "他的头一抽一跳地痛。"
+    },
+    {
+        "name": "your",
+        "trans": [
+            "你的"
+        ],
+        "usphone": "jʊr; jər",
+        "ukphone": "jɔː(r); jə(r)",
+        "sentence": "Your first duty is to your family.",
+        "sentenceTrans": "你首要的是对家庭尽责。"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "长的"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "I don't intend staying long.",
+        "sentenceTrans": "我不打算长期逗留。"
+    },
+    {
+        "name": "now",
+        "trans": [
+            "现在"
+        ],
+        "usphone": "naʊ",
+        "ukphone": "naʊ",
+        "sentence": "We're living apart now.",
+        "sentenceTrans": "我们现在不住在一起。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "看"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "You look absolutely stunning!",
+        "sentenceTrans": "你看上去漂亮极了。"
+    },
+    {
+        "name": "has",
+        "trans": [
+            "有"
+        ],
+        "usphone": "hæz; həz",
+        "ukphone": "hæz; həz",
+        "sentence": "Vegetarianism has been mainstreamed.",
+        "sentenceTrans": "素食主义已为大多数人所接受。"
+    },
+    {
+        "name": "palyground",
+        "trans": [
+            "游戏场"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "slide",
+        "trans": [
+            "滑梯"
+        ],
+        "usphone": "slaɪd",
+        "ukphone": "slaɪd",
+        "sentence": "The dollar continued to slide.",
+        "sentenceTrans": "美元继续下跌。"
+    },
+    {
+        "name": "swing",
+        "trans": [
+            "秋千"
+        ],
+        "usphone": "swɪŋ",
+        "ukphone": "swɪŋ",
+        "sentence": "I need to work on my swing.",
+        "sentenceTrans": "我需要改进我的挥杆动作。"
+    },
+    {
+        "name": "seeswa",
+        "trans": [
+            "跷跷板"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "nightingale",
+        "trans": [
+            "夜莺"
+        ],
+        "usphone": "ˈnaɪtɪŋɡeɪl",
+        "ukphone": "ˈnaɪtɪŋɡeɪl",
+        "sentence": "Poor Jorindel saw the nightingale was gone—but what could he do?",
+        "sentenceTrans": "可怜的约雷德尔看到夜莺不见了——可他又能怎么办呢？"
+    },
+    {
+        "name": "room",
+        "trans": [
+            "房间"
+        ],
+        "usphone": "ruːm",
+        "ukphone": "ruːm",
+        "sentence": "The room smelled of lemons.",
+        "sentenceTrans": "房间有股柠檬的气味。"
+    },
+    {
+        "name": "put",
+        "trans": [
+            "放"
+        ],
+        "usphone": "pʊt",
+        "ukphone": "pʊt",
+        "sentence": "The operator will put you through.",
+        "sentenceTrans": "接线员将为你接通电话。"
+    },
+    {
+        "name": "the",
+        "trans": [
+            "这"
+        ],
+        "usphone": "ðə; ði",
+        "ukphone": "ðə; ði",
+        "sentence": "",
+        "sentenceTrans": ""
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在...里面"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "They lived in rooms in Kensington.",
+        "sentenceTrans": "他们住在肯辛顿的出租房间。"
+    },
+    {
+        "name": "bag",
+        "trans": [
+            "包"
+        ],
+        "usphone": "bæɡ",
+        "ukphone": "bæɡ",
+        "sentence": "Someone's left their bag behind.",
+        "sentenceTrans": "有人把包落下了。"
+    },
+    {
+        "name": "box",
+        "trans": [
+            "箱子，盒子"
+        ],
+        "usphone": "bɑːks",
+        "ukphone": "bɒks",
+        "sentence": "The inside of the box was blue.",
+        "sentenceTrans": "盒子的内面呈蓝色。"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "在...上面"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn",
+        "sentence": "Two men riding on motorcycles opened fire on him.",
+        "sentenceTrans": "两个骑在摩托车上的人向他开了枪。"
+    },
+    {
+        "name": "chair",
+        "trans": [
+            "椅子"
+        ],
+        "usphone": "tʃer",
+        "ukphone": "tʃeə(r)",
+        "sentence": "Emily edged her chair forward.",
+        "sentenceTrans": "埃米莉把椅子慢慢地向前挪动。"
+    },
+    {
+        "name": "desk",
+        "trans": [
+            "书桌"
+        ],
+        "usphone": "desk",
+        "ukphone": "desk",
+        "sentence": "The desk looked undisturbed.",
+        "sentenceTrans": "那张书桌子看上去没有被动过。"
+    }
+]

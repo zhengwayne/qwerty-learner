@@ -1,0 +1,182 @@
+[
+    {
+        "name": "hat",
+        "trans": [
+            "帽子"
+        ],
+        "usphone": "hæt",
+        "ukphone": "hæt",
+        "sentence": "Whose hat is this?",
+        "sentenceTrans": "这是谁的帽子？"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "fun 尽情玩"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "usually",
+        "trans": [
+            "通常"
+        ],
+        "usphone": "ˈjuːʒuəli; ˈjuːʒəli",
+        "ukphone": "ˈjuːʒuəli; ˈjuːʒəli",
+        "sentence": "I usually get up at seven.",
+        "sentenceTrans": "我通常七点起床。"
+    },
+    {
+        "name": "often",
+        "trans": [
+            "经常"
+        ],
+        "usphone": "ˈɔːf(ə)n",
+        "ukphone": "ˈɒf(ə)n",
+        "sentence": "I often visit my grandparents.",
+        "sentenceTrans": "我经常看望祖父母。"
+    },
+    {
+        "name": "visit",
+        "trans": [
+            "看望；拜访；参观"
+        ],
+        "usphone": "ˈvɪzɪt",
+        "ukphone": "ˈvɪzɪt",
+        "sentence": "We visit the museum on Saturday.",
+        "sentenceTrans": "我们星期六参观博物馆。"
+    },
+    {
+        "name": "sometimes",
+        "trans": [
+            "有时"
+        ],
+        "usphone": "ˈsʌmtaɪmz",
+        "ukphone": "ˈsʌmtaɪmz",
+        "sentence": "I sometimes walk to school.",
+        "sentenceTrans": "我有时步行上学。"
+    },
+    {
+        "name": "always",
+        "trans": [
+            "总是；一直"
+        ],
+        "usphone": "ˈɔːlweɪz",
+        "ukphone": "ˈɔːlweɪz",
+        "sentence": "I always get up early.",
+        "sentenceTrans": "我总是早起。"
+    },
+    {
+        "name": "never",
+        "trans": [
+            "从不"
+        ],
+        "usphone": "ˈnevər",
+        "ukphone": "ˈnevə(r)",
+        "sentence": "I never go to bed late.",
+        "sentenceTrans": "我从不晚睡。"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "sport 做运动"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ",
+        "sentence": "I play with my ball.",
+        "sentenceTrans": "我玩我的球。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "shopping 去购物"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "聪明的"
+        ],
+        "usphone": "ˈklevər",
+        "ukphone": "ˈklevə(r)",
+        "sentence": "The clever boy knows the answer.",
+        "sentenceTrans": "这个聪明的男孩知道答案。"
+    },
+    {
+        "name": "same",
+        "trans": [
+            "相同的"
+        ],
+        "usphone": "seɪm",
+        "ukphone": "seɪm",
+        "sentence": "We are in the same class.",
+        "sentenceTrans": "我们在同一个班。"
+    },
+    {
+        "name": "class",
+        "trans": [
+            "班；班级"
+        ],
+        "usphone": "klæs",
+        "ukphone": "klɑːs",
+        "sentence": "There are thirty pupils in our class.",
+        "sentenceTrans": "我们班有三十名学生。"
+    },
+    {
+        "name": "both",
+        "trans": [
+            "（两个）都"
+        ],
+        "usphone": "boʊθ",
+        "ukphone": "bəʊθ",
+        "sentence": "We both like reading.",
+        "sentenceTrans": "我们俩都喜欢阅读。"
+    },
+    {
+        "name": "cross",
+        "trans": [
+            "穿越；越过"
+        ],
+        "usphone": "krɔːs",
+        "ukphone": "krɒs",
+        "sentence": "Look both ways before you cross.",
+        "sentenceTrans": "过马路前要看两边。"
+    },
+    {
+        "name": "carry",
+        "trans": [
+            "背；提；拿"
+        ],
+        "usphone": "ˈkæri",
+        "ukphone": "ˈkæri",
+        "sentence": "I carry my bag to school.",
+        "sentenceTrans": "我背着书包去学校。"
+    },
+    {
+        "name": "heavy",
+        "trans": [
+            "重的；沉的"
+        ],
+        "usphone": "ˈhevi",
+        "ukphone": "ˈhevi",
+        "sentence": "This box is too heavy.",
+        "sentenceTrans": "这个箱子太重了。"
+    },
+    {
+        "name": "different",
+        "trans": [
+            "不同的"
+        ],
+        "usphone": "ˈdɪfrənt",
+        "ukphone": "ˈdɪfrənt",
+        "sentence": "The two bags are different.",
+        "sentenceTrans": "这两个书包不一样。"
+    }
+]

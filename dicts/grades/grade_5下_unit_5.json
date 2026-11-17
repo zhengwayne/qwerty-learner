@@ -1,0 +1,192 @@
+[
+    {
+        "name": "holiday",
+        "trans": [
+            "假日；假期"
+        ],
+        "usphone": "ˈhɑːlədeɪ",
+        "ukphone": "ˈhɒlədeɪ",
+        "sentence": "We will travel during the holiday.",
+        "sentenceTrans": "我们假期会去旅行。"
+    },
+    {
+        "name": "clear",
+        "trans": [
+            "清澈的"
+        ],
+        "usphone": "klɪr",
+        "ukphone": "klɪə(r)",
+        "sentence": "The water in the lake is clear.",
+        "sentenceTrans": "湖水很清澈。"
+    },
+    {
+        "name": "seafood",
+        "trans": [
+            "海鲜"
+        ],
+        "usphone": "ˈsiːfuːd",
+        "ukphone": "ˈsiːfuːd",
+        "sentence": "We eat fresh seafood on the island.",
+        "sentenceTrans": "我们在岛上吃新鲜海鲜。"
+    },
+    {
+        "name": "hotel",
+        "trans": [
+            "旅馆"
+        ],
+        "usphone": "hoʊˈtel",
+        "ukphone": "həʊˈtel",
+        "sentence": "We stay in a small hotel.",
+        "sentenceTrans": "我们住在一家小旅馆里。"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "岛"
+        ],
+        "usphone": "ˈaɪlənd",
+        "ukphone": "ˈaɪlənd",
+        "sentence": "There are many trees on the island.",
+        "sentenceTrans": "岛上有很多树。"
+    },
+    {
+        "name": "butterfly",
+        "trans": [
+            "蝴蝶"
+        ],
+        "usphone": "ˈbʌtərflaɪ",
+        "ukphone": "ˈbʌtəflaɪ",
+        "sentence": "A butterfly is on the flower.",
+        "sentenceTrans": "一只蝴蝶停在花上。"
+    },
+    {
+        "name": "how",
+        "trans": [
+            "long 多久"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "swimming 去游泳"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "the south of 在…的南部"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn",
+        "sentence": "I want to travel in the future.",
+        "sentenceTrans": "我将来想去旅行。"
+    },
+    {
+        "name": "all",
+        "trans": [
+            "year round 一年到头"
+        ],
+        "usphone": "ɔːl",
+        "ukphone": "ɔːl",
+        "sentence": "The machine works all day.",
+        "sentenceTrans": "这台机器整天工作。"
+    },
+    {
+        "name": "meet",
+        "trans": [
+            "迎接；会见"
+        ],
+        "usphone": "miːt",
+        "ukphone": "miːt",
+        "sentence": "Nice to meet you.",
+        "sentenceTrans": "很高兴认识你。"
+    },
+    {
+        "name": "school",
+        "trans": [
+            "gate 校门；校门口"
+        ],
+        "usphone": "skuːl",
+        "ukphone": "skuːl",
+        "sentence": "Meet me at the school gate.",
+        "sentenceTrans": "在校门口和我会合。"
+    },
+    {
+        "name": "art",
+        "trans": [
+            "room 美术室"
+        ],
+        "usphone": "ɑːrt",
+        "ukphone": "ɑːt",
+        "sentence": "The art room is on the second floor.",
+        "sentenceTrans": "美术室在二楼。"
+    },
+    {
+        "name": "hall",
+        "trans": [
+            "礼堂"
+        ],
+        "usphone": "hɔːl",
+        "ukphone": "hɔːl",
+        "sentence": "The pupils meet in the hall.",
+        "sentenceTrans": "学生们在礼堂集合。"
+    },
+    {
+        "name": "finally",
+        "trans": [
+            "最后"
+        ],
+        "usphone": "ˈfaɪnəli",
+        "ukphone": "ˈfaɪnəli",
+        "sentence": "Finally, we find the school gate.",
+        "sentenceTrans": "最后，我们找到了校门。"
+    },
+    {
+        "name": "meeting",
+        "trans": [
+            "room 会客室；会议室"
+        ],
+        "usphone": "ˈmiːtɪŋ",
+        "ukphone": "ˈmiːtɪŋ",
+        "sentence": "The teachers are in the meeting room.",
+        "sentenceTrans": "老师们在会议室。"
+    },
+    {
+        "name": "show",
+        "trans": [
+            "给…看"
+        ],
+        "usphone": "ʃoʊ",
+        "ukphone": "ʃəʊ",
+        "sentence": "Please show me your project.",
+        "sentenceTrans": "请给我看看你的课题。"
+    },
+    {
+        "name": "project",
+        "trans": [
+            "课题"
+        ],
+        "usphone": "ˈprɑːdʒekt; prəˈdʒekt",
+        "ukphone": "ˈprɒdʒekt; prəˈdʒekt",
+        "sentence": "This is our school project.",
+        "sentenceTrans": "这是我们的学校课题。"
+    },
+    {
+        "name": "board",
+        "trans": [
+            "布告牌；木板"
+        ],
+        "usphone": "bɔːrd",
+        "ukphone": "bɔːd",
+        "sentence": "Put the poster on the board.",
+        "sentenceTrans": "把海报贴在布告牌上。"
+    }
+]

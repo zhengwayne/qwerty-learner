@@ -1,0 +1,192 @@
+[
+    {
+        "name": "tape",
+        "trans": [
+            "胶带"
+        ],
+        "usphone": "teɪp",
+        "ukphone": "teɪp",
+        "sentence": "Use tape to hold the box closed.",
+        "sentenceTrans": "用胶带封住盒子。"
+    },
+    {
+        "name": "glue",
+        "trans": [
+            "胶水"
+        ],
+        "usphone": "ɡluː",
+        "ukphone": "ɡluː",
+        "sentence": "Use glue to stick the paper.",
+        "sentenceTrans": "用胶水粘住纸张。"
+    },
+    {
+        "name": "saw",
+        "trans": [
+            "锯"
+        ],
+        "usphone": "sɔː",
+        "ukphone": "sɔː",
+        "sentence": "The craftsman cuts wood with a saw.",
+        "sentenceTrans": "工匠用锯子锯木头。"
+    },
+    {
+        "name": "craftsman",
+        "trans": [
+            "工匠；手艺人"
+        ],
+        "usphone": "ˈkræftsmən",
+        "ukphone": "ˈkrɑːftsmən",
+        "sentence": "The craftsman makes a model house.",
+        "sentenceTrans": "工匠制作了一座房子模型。"
+    },
+    {
+        "name": "tool",
+        "trans": [
+            "工具"
+        ],
+        "usphone": "tuːl",
+        "ukphone": "tuːl",
+        "sentence": "A saw is a useful tool.",
+        "sentenceTrans": "锯子是一种有用的工具。"
+    },
+    {
+        "name": "easily",
+        "trans": [
+            "容易地"
+        ],
+        "usphone": "ˈiːzəli",
+        "ukphone": "ˈiːzəli",
+        "sentence": "He makes the model easily.",
+        "sentenceTrans": "他很容易就做好了模型。"
+    },
+    {
+        "name": "himself",
+        "trans": [
+            "他自己"
+        ],
+        "usphone": "hɪmˈself",
+        "ukphone": "hɪmˈself",
+        "sentence": "He makes the model himself.",
+        "sentenceTrans": "他自己制作这个模型。"
+    },
+    {
+        "name": "still",
+        "trans": [
+            "仍然"
+        ],
+        "usphone": "stɪl",
+        "ukphone": "stɪl",
+        "sentence": "He is still working on the model.",
+        "sentenceTrans": "他仍在制作模型。"
+    },
+    {
+        "name": "model",
+        "trans": [
+            "house 房子模型"
+        ],
+        "usphone": "ˈmɑːd(ə)l",
+        "ukphone": "ˈmɒd(ə)l",
+        "sentence": "The craftsman makes a model house.",
+        "sentenceTrans": "工匠制作了一座房子模型。"
+    },
+    {
+        "name": "a",
+        "trans": [
+            "long tome ago 很久以前"
+        ],
+        "usphone": "ə; eɪ",
+        "ukphone": "ə; eɪ",
+        "sentence": "I need a piece of paper.",
+        "sentenceTrans": "我需要一张纸。"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "work 忙着（做事情）"
+        ],
+        "usphone": "æt; ət",
+        "ukphone": "æt; ət",
+        "sentence": "The craftsman is at work.",
+        "sentenceTrans": "工匠正在忙着工作。"
+    },
+    {
+        "name": "say",
+        "trans": [
+            "to oneself 自言自语"
+        ],
+        "usphone": "seɪ",
+        "ukphone": "seɪ",
+        "sentence": "He says to himself, 'I can do it.'",
+        "sentenceTrans": "他自言自语道：“我能做到。”"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "race 长跑"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "He wants to win the long race.",
+        "sentenceTrans": "他想赢得长跑比赛。"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "race 短跑"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːt",
+        "sentence": "She wins the short race.",
+        "sentenceTrans": "她赢得了短跑比赛。"
+    },
+    {
+        "name": "win",
+        "trans": [
+            "获胜；赢"
+        ],
+        "usphone": "wɪn",
+        "ukphone": "wɪn",
+        "sentence": "Our team wants to win the race.",
+        "sentenceTrans": "我们队想赢得比赛。"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "jump 跳远"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ",
+        "sentence": "He wants to win the long race.",
+        "sentenceTrans": "他想赢得长跑比赛。"
+    },
+    {
+        "name": "high",
+        "trans": [
+            "jump 跳高"
+        ],
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "sentence": "She can do the high jump.",
+        "sentenceTrans": "她会跳高。"
+    },
+    {
+        "name": "swimsuit",
+        "trans": [
+            "游泳衣"
+        ],
+        "usphone": "ˈswɪmsuːt",
+        "ukphone": "ˈswɪmsuːt",
+        "sentence": "Put on your swimsuit before swimming.",
+        "sentenceTrans": "游泳前穿上泳衣。"
+    },
+    {
+        "name": "swimming",
+        "trans": [
+            "cap 游泳帽"
+        ],
+        "usphone": "ˈswɪmɪŋ",
+        "ukphone": "ˈswɪmɪŋ",
+        "sentence": "Remember your swimming cap.",
+        "sentenceTrans": "记得带上泳帽。"
+    }
+]

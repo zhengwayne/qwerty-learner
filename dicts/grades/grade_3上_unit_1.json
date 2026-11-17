@@ -1,0 +1,202 @@
+[
+    {
+        "name": "hello",
+        "trans": [
+            "你好"
+        ],
+        "usphone": "həˈloʊ",
+        "ukphone": "həˈləʊ",
+        "sentence": "Hello, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "I",
+        "trans": [
+            "我"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ",
+        "sentence": "I am a girl.",
+        "sentenceTrans": "我是一个女孩。"
+    },
+    {
+        "name": "Miss",
+        "trans": [
+            "小姐"
+        ],
+        "usphone": "mɪs",
+        "ukphone": "mɪs",
+        "sentence": "Good morning, Miss Li.",
+        "sentenceTrans": "早上好，李老师。"
+    },
+    {
+        "name": "Hello.",
+        "trans": [
+            "你好。"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Hello, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "Good",
+        "trans": [
+            "morning. 早上好。"
+        ],
+        "usphone": "ɡʊd",
+        "ukphone": "ɡʊd",
+        "sentence": "Good morning.",
+        "sentenceTrans": "早上好。"
+    },
+    {
+        "name": "are",
+        "trans": [
+            "是"
+        ],
+        "usphone": "ɑːr; ər",
+        "ukphone": "ɑː(r); ə(r)",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "fine",
+        "trans": [
+            "健康的；身体很好的 goodbye 再见"
+        ],
+        "usphone": "faɪn",
+        "ukphone": "faɪn",
+        "sentence": "I am fine, thank you.",
+        "sentenceTrans": "我很好，谢谢你。"
+    },
+    {
+        "name": "hi",
+        "trans": [
+            "(用于打招呼)喂，你好 Mr 先生"
+        ],
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "sentence": "Hi, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "Mrs",
+        "trans": [
+            "太太"
+        ],
+        "usphone": "ˈmɪsɪz",
+        "ukphone": "ˈmɪsɪz",
+        "sentence": "This is Mrs Wang.",
+        "sentenceTrans": "这是王太太。"
+    },
+    {
+        "name": "thank",
+        "trans": [
+            "谢谢"
+        ],
+        "usphone": "θæŋk",
+        "ukphone": "θæŋk",
+        "sentence": "Thank you, Mum.",
+        "sentenceTrans": "谢谢你，妈妈。"
+    },
+    {
+        "name": "you",
+        "trans": [
+            "你；你们"
+        ],
+        "usphone": "juː; jʊ",
+        "ukphone": "juː; jʊ",
+        "sentence": "You are my friend.",
+        "sentenceTrans": "你是我的朋友。"
+    },
+    {
+        "name": "How",
+        "trans": [
+            "are you? 你好么？"
+        ],
+        "usphone": "haʊ",
+        "ukphone": "haʊ",
+        "sentence": "How are you?",
+        "sentenceTrans": "你好吗？"
+    },
+    {
+        "name": "I’m",
+        "trans": [
+            "fine. Thank you. 我很好。谢谢。"
+        ],
+        "usphone": "aɪm",
+        "ukphone": "aɪm",
+        "sentence": "I'm fine, thank you.",
+        "sentenceTrans": "我很好，谢谢你。"
+    },
+    {
+        "name": "Goodbye.",
+        "trans": [
+            "再见。"
+        ],
+        "usphone": "ˌɡʊdˈbaɪ",
+        "ukphone": "ˌɡʊdˈbaɪ",
+        "sentence": "Goodbye, Miss Li.",
+        "sentenceTrans": "再见，李老师。"
+    },
+    {
+        "name": "Hi.",
+        "trans": [
+            "你好。"
+        ],
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "sentence": "Hi, I am Tom.",
+        "sentenceTrans": "你好，我是汤姆。"
+    },
+    {
+        "name": "am",
+        "trans": [
+            "是"
+        ],
+        "usphone": "æm; əm",
+        "ukphone": "æm; əm",
+        "sentence": "I am fine.",
+        "sentenceTrans": "我很好。"
+    },
+    {
+        "name": "girl",
+        "trans": [
+            "女孩"
+        ],
+        "usphone": "ɡɜːrl",
+        "ukphone": "ɡɜːl",
+        "sentence": "The girl can sing.",
+        "sentenceTrans": "这个女孩会唱歌。"
+    },
+    {
+        "name": "no",
+        "trans": [
+            "不；"
+        ],
+        "usphone": "noʊ",
+        "ukphone": "nəʊ",
+        "sentence": "No, thank you.",
+        "sentenceTrans": "不用了，谢谢你。"
+    },
+    {
+        "name": "yes",
+        "trans": [
+            "是；对"
+        ],
+        "usphone": "jes",
+        "ukphone": "jes",
+        "sentence": "Yes, it is.",
+        "sentenceTrans": "是的，它是。"
+    },
+    {
+        "name": "fat",
+        "trans": [
+            "胖的"
+        ],
+        "usphone": "fæt",
+        "ukphone": "fæt",
+        "sentence": "The pig is fat.",
+        "sentenceTrans": "这头猪很胖。"
+    }
+]

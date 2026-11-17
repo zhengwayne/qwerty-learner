@@ -1,0 +1,92 @@
+[
+    {
+        "name": "rainy",
+        "trans": [
+            "多雨的"
+        ],
+        "usphone": "ˈreɪni",
+        "ukphone": "ˈreɪni",
+        "sentence": "It is rainy today.",
+        "sentenceTrans": "今天有雨。"
+    },
+    {
+        "name": "cloudy",
+        "trans": [
+            "多云的"
+        ],
+        "usphone": "ˈklaʊdi",
+        "ukphone": "ˈklaʊdi",
+        "sentence": "It is cloudy today.",
+        "sentenceTrans": "今天是阴天。"
+    },
+    {
+        "name": "windy",
+        "trans": [
+            "风大的；多风的"
+        ],
+        "usphone": "ˈwɪndi",
+        "ukphone": "ˈwɪndi",
+        "sentence": "It is windy today.",
+        "sentenceTrans": "今天有风。"
+    },
+    {
+        "name": "sunny",
+        "trans": [
+            "阳光充足的"
+        ],
+        "usphone": "ˈsʌni",
+        "ukphone": "ˈsʌni",
+        "sentence": "It is sunny today.",
+        "sentenceTrans": "今天是晴天。"
+    },
+    {
+        "name": "Sunday",
+        "trans": [
+            "星期天"
+        ],
+        "usphone": "ˈsʌndeɪ",
+        "ukphone": "ˈsʌndeɪ",
+        "sentence": "We go to the park on Sunday.",
+        "sentenceTrans": "我们星期天去公园。"
+    },
+    {
+        "name": "cloud",
+        "trans": [
+            "云"
+        ],
+        "usphone": "klaʊd",
+        "ukphone": "klaʊd",
+        "sentence": "I see a white cloud.",
+        "sentenceTrans": "我看见一朵白云。"
+    },
+    {
+        "name": "rain",
+        "trans": [
+            "雨；下雨"
+        ],
+        "usphone": "reɪn",
+        "ukphone": "reɪn",
+        "sentence": "I see rain on the window.",
+        "sentenceTrans": "我看见窗户上的雨水。"
+    },
+    {
+        "name": "sun",
+        "trans": [
+            "太阳"
+        ],
+        "usphone": "sʌn",
+        "ukphone": "sʌn",
+        "sentence": "The sun is bright.",
+        "sentenceTrans": "太阳很明亮。"
+    },
+    {
+        "name": "wind",
+        "trans": [
+            "风"
+        ],
+        "usphone": "wɪnd",
+        "ukphone": "wɪnd",
+        "sentence": "The wind is strong.",
+        "sentenceTrans": "风很大。"
+    }
+]

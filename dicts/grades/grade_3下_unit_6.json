@@ -1,0 +1,92 @@
+[
+    {
+        "name": "afraid(of)",
+        "trans": [
+            "害怕…"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "I am afraid of the lion.",
+        "sentenceTrans": "我害怕这头狮子。"
+    },
+    {
+        "name": "bad",
+        "trans": [
+            "坏的"
+        ],
+        "usphone": "bæd",
+        "ukphone": "bæd",
+        "sentence": "The weather is bad.",
+        "sentenceTrans": "天气不好。"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "去；走"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ",
+        "sentence": "I go to the beach.",
+        "sentenceTrans": "我去沙滩。"
+    },
+    {
+        "name": "house",
+        "trans": [
+            "房屋"
+        ],
+        "usphone": "haʊs",
+        "ukphone": "haʊs",
+        "sentence": "This is my house.",
+        "sentenceTrans": "这是我的房子。"
+    },
+    {
+        "name": "little",
+        "trans": [
+            "小的"
+        ],
+        "usphone": "ˈlɪt(ə)l",
+        "ukphone": "ˈlɪt(ə)l",
+        "sentence": "I have a little car.",
+        "sentenceTrans": "我有一辆小汽车。"
+    },
+    {
+        "name": "make",
+        "trans": [
+            "做"
+        ],
+        "usphone": "meɪk",
+        "ukphone": "meɪk",
+        "sentence": "I can make a card.",
+        "sentenceTrans": "我会做一张卡片。"
+    },
+    {
+        "name": "now",
+        "trans": [
+            "现在"
+        ],
+        "usphone": "naʊ",
+        "ukphone": "naʊ",
+        "sentence": "It is playtime now.",
+        "sentenceTrans": "现在是游戏时间。"
+    },
+    {
+        "name": "there",
+        "trans": [
+            "那里"
+        ],
+        "usphone": "ðer; ðər",
+        "ukphone": "ðeə(r)",
+        "sentence": "My bike is over there.",
+        "sentenceTrans": "我的自行车在那边。"
+    },
+    {
+        "name": "very",
+        "trans": [
+            "很；非常"
+        ],
+        "usphone": "ˈveri",
+        "ukphone": "ˈveri",
+        "sentence": "Thank you very much.",
+        "sentenceTrans": "非常感谢你。"
+    }
+]

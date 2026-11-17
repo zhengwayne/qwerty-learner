@@ -1,0 +1,182 @@
+[
+    {
+        "name": "paper",
+        "trans": [
+            "纸；纸张"
+        ],
+        "usphone": "ˈpeɪpər",
+        "ukphone": "ˈpeɪpə(r)",
+        "sentence": "We make a windmill with paper.",
+        "sentenceTrans": "我们用纸做风车。"
+    },
+    {
+        "name": "quiet",
+        "trans": [
+            "轻声的；安静的"
+        ],
+        "usphone": "ˈkwaɪət",
+        "ukphone": "ˈkwaɪət",
+        "sentence": "Please be quiet in the library.",
+        "sentenceTrans": "请在图书馆里保持安静。"
+    },
+    {
+        "name": "tap",
+        "trans": [
+            "水龙头"
+        ],
+        "usphone": "tæp",
+        "ukphone": "tæp",
+        "sentence": "Turn off the tap, please.",
+        "sentenceTrans": "请关掉水龙头。"
+    },
+    {
+        "name": "use",
+        "trans": [
+            "使用"
+        ],
+        "usphone": "juːz",
+        "ukphone": "juːz",
+        "sentence": "We use water every day.",
+        "sentenceTrans": "我们每天用水。"
+    },
+    {
+        "name": "vegetable",
+        "trans": [
+            "蔬菜"
+        ],
+        "usphone": "ˈvedʒtəb(ə)l",
+        "ukphone": "ˈvedʒtəb(ə)l",
+        "sentence": "We grow vegetables in the garden.",
+        "sentenceTrans": "我们在花园里种蔬菜。"
+    },
+    {
+        "name": "clothes",
+        "trans": [
+            "衣服；服装"
+        ],
+        "usphone": "kloʊðz",
+        "ukphone": "kləʊðz",
+        "sentence": "These are my clothes.",
+        "sentenceTrans": "这些是我的衣服。"
+    },
+    {
+        "name": "farmer",
+        "trans": [
+            "农民"
+        ],
+        "usphone": "ˈfɑːrmər",
+        "ukphone": "ˈfɑːmə(r)",
+        "sentence": "The farmer has a cow.",
+        "sentenceTrans": "这位农夫有一头奶牛。"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "有用的"
+        ],
+        "usphone": "ˈjuːsf(ə)l",
+        "ukphone": "ˈjuːsf(ə)l",
+        "sentence": "Water is useful to us.",
+        "sentenceTrans": "水对我们很有用。"
+    },
+    {
+        "name": "drop",
+        "trans": [
+            "滴；水珠"
+        ],
+        "usphone": "drɑːp",
+        "ukphone": "drɒp",
+        "sentence": "A drop of water is on the leaf.",
+        "sentenceTrans": "叶子上有一滴水。"
+    },
+    {
+        "name": "up",
+        "trans": [
+            "向上；在上面"
+        ],
+        "usphone": "ʌp",
+        "ukphone": "ʌp",
+        "sentence": "Smoke goes up into the sky.",
+        "sentenceTrans": "烟升到天空中。"
+    },
+    {
+        "name": "shine",
+        "trans": [
+            "照耀"
+        ],
+        "usphone": "ʃaɪn",
+        "ukphone": "ʃaɪn",
+        "sentence": "The sun shines on the water.",
+        "sentenceTrans": "阳光照在水面上。"
+    },
+    {
+        "name": "over",
+        "trans": [
+            "在…上方"
+        ],
+        "usphone": "ˈoʊvər",
+        "ukphone": "ˈəʊvə(r)",
+        "sentence": "The sun shines over the mountain.",
+        "sentenceTrans": "阳光照耀着山峰。"
+    },
+    {
+        "name": "mountain",
+        "trans": [
+            "山；山脉"
+        ],
+        "usphone": "ˈmaʊnt(ə)n",
+        "ukphone": "ˈmaʊntən",
+        "sentence": "The sun shines over the mountain.",
+        "sentenceTrans": "阳光照耀着山峰。"
+    },
+    {
+        "name": "tree",
+        "trans": [
+            "树"
+        ],
+        "usphone": "triː",
+        "ukphone": "triː",
+        "sentence": "The bird is in the tree.",
+        "sentenceTrans": "这只鸟在树上。"
+    },
+    {
+        "name": "ground",
+        "trans": [
+            "地面"
+        ],
+        "usphone": "ɡraʊnd",
+        "ukphone": "ɡraʊnd",
+        "sentence": "The leaves fall on the ground.",
+        "sentenceTrans": "树叶落在地上。"
+    },
+    {
+        "name": "inside",
+        "trans": [
+            "在…里面"
+        ],
+        "usphone": "ˌɪnˈsaɪd",
+        "ukphone": "ˌɪnˈsaɪd",
+        "sentence": "There is a key inside the box.",
+        "sentenceTrans": "盒子里面有一把钥匙。"
+    },
+    {
+        "name": "grow",
+        "trans": [
+            "crops 种庄稼"
+        ],
+        "usphone": "ɡroʊ",
+        "ukphone": "ɡrəʊ",
+        "sentence": "Farmers grow crops in the field.",
+        "sentenceTrans": "农民在田里种庄稼。"
+    },
+    {
+        "name": "put",
+        "trans": [
+            "out fires 灭火"
+        ],
+        "usphone": "pʊt",
+        "ukphone": "pʊt",
+        "sentence": "Put the book on the desk.",
+        "sentenceTrans": "把书放在书桌上。"
+    }
+]

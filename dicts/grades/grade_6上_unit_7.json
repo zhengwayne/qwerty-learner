@@ -1,0 +1,182 @@
+[
+    {
+        "name": "plant",
+        "trans": [
+            "种植"
+        ],
+        "usphone": "plænt",
+        "ukphone": "plɑːnt",
+        "sentence": "This plant has green leaves.",
+        "sentenceTrans": "这株植物有绿色的叶子。"
+    },
+    {
+        "name": "keep…alive",
+        "trans": [
+            "让…活着"
+        ],
+        "usphone": "kiːp əˈlaɪv",
+        "ukphone": "",
+        "sentence": "Water keeps the plant alive.",
+        "sentenceTrans": "水让植物活着。"
+    },
+    {
+        "name": "plant",
+        "trans": [
+            "trees 植树"
+        ],
+        "usphone": "plænt",
+        "ukphone": "plɑːnt",
+        "sentence": "This plant has green leaves.",
+        "sentenceTrans": "这株植物有绿色的叶子。"
+    },
+    {
+        "name": "wood",
+        "trans": [
+            "木头；木材"
+        ],
+        "usphone": "wʊd",
+        "ukphone": "wʊd",
+        "sentence": "The table is made of wood.",
+        "sentenceTrans": "这张桌子是木制的。"
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "使变凉"
+        ],
+        "usphone": "kuːl",
+        "ukphone": "kuːl",
+        "sentence": "It is cool today.",
+        "sentenceTrans": "今天很凉快。"
+    },
+    {
+        "name": "match",
+        "trans": [
+            "火柴"
+        ],
+        "usphone": "mætʃ",
+        "ukphone": "mætʃ",
+        "sentence": "Do not play with matches.",
+        "sentenceTrans": "不要玩火柴。"
+    },
+    {
+        "name": "miss",
+        "trans": [
+            "想念"
+        ],
+        "usphone": "mɪs",
+        "ukphone": "mɪs",
+        "sentence": "Good morning, Miss Li.",
+        "sentenceTrans": "早上好，李老师。"
+    },
+    {
+        "name": "have",
+        "trans": [
+            "to 不得不"
+        ],
+        "usphone": "hæv; həv",
+        "ukphone": "hæv; həv",
+        "sentence": "I have a new bike.",
+        "sentenceTrans": "我有一辆新自行车。"
+    },
+    {
+        "name": "cut…down",
+        "trans": [
+            "把…砍倒"
+        ],
+        "usphone": "ˌkʌt ˈdaʊn",
+        "ukphone": "ˌkʌt ˈdaʊn",
+        "sentence": "Do not cut down trees.",
+        "sentenceTrans": "不要砍树。"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "for 寻找"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk",
+        "sentence": "Look at the moon.",
+        "sentenceTrans": "看看月亮。"
+    },
+    {
+        "name": "Earth",
+        "trans": [
+            "地球"
+        ],
+        "usphone": "ɜːrθ",
+        "ukphone": "ɜːθ",
+        "sentence": "We should keep the Earth clean.",
+        "sentenceTrans": "我们应该保持地球清洁。"
+    },
+    {
+        "name": "part",
+        "trans": [
+            "地区；区域"
+        ],
+        "usphone": "pɑːrt",
+        "ukphone": "pɑːt",
+        "sentence": "Forests cover part of the land.",
+        "sentenceTrans": "森林覆盖了部分陆地。"
+    },
+    {
+        "name": "forest",
+        "trans": [
+            "森林"
+        ],
+        "usphone": "ˈfɔːrɪst",
+        "ukphone": "ˈfɒrɪst",
+        "sentence": "The tiger is in the forest.",
+        "sentenceTrans": "老虎在森林里。"
+    },
+    {
+        "name": "land",
+        "trans": [
+            "陆地"
+        ],
+        "usphone": "lænd",
+        "ukphone": "lænd",
+        "sentence": "People and animals live on land.",
+        "sentenceTrans": "人和动物生活在陆地上。"
+    },
+    {
+        "name": "ocean",
+        "trans": [
+            "海洋"
+        ],
+        "usphone": "ˈoʊʃ(ə)n",
+        "ukphone": "ˈəʊʃ(ə)n",
+        "sentence": "Whales live in the ocean.",
+        "sentenceTrans": "鲸生活在海洋里。"
+    },
+    {
+        "name": "rubbish",
+        "trans": [
+            "垃圾"
+        ],
+        "usphone": "ˈrʌbɪʃ",
+        "ukphone": "ˈrʌbɪʃ",
+        "sentence": "Put the rubbish in the bin.",
+        "sentenceTrans": "把垃圾放进垃圾桶。"
+    },
+    {
+        "name": "sick",
+        "trans": [
+            "生病的"
+        ],
+        "usphone": "sɪk",
+        "ukphone": "sɪk",
+        "sentence": "They take care of the sick animal.",
+        "sentenceTrans": "他们照顾生病的动物。"
+    },
+    {
+        "name": "recycle",
+        "trans": [
+            "回收利用；再利用"
+        ],
+        "usphone": "ˌriːˈsaɪk(ə)l",
+        "ukphone": "ˌriːˈsaɪkl",
+        "sentence": "We can recycle glass and paper.",
+        "sentenceTrans": "我们可以回收玻璃和纸。"
+    }
+]

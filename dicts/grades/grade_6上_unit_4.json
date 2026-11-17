@@ -1,0 +1,192 @@
+[
+    {
+        "name": "country",
+        "trans": [
+            "国家"
+        ],
+        "usphone": "ˈkʌntri",
+        "ukphone": "ˈkʌntri",
+        "sentence": "Which country are you from?",
+        "sentenceTrans": "你来自哪个国家？"
+    },
+    {
+        "name": "other",
+        "trans": [
+            "其他的"
+        ],
+        "usphone": "ˈʌðər",
+        "ukphone": "ˈʌðə(r)",
+        "sentence": "Do you have any other hobbies?",
+        "sentenceTrans": "你还有其他爱好吗？"
+    },
+    {
+        "name": "team",
+        "trans": [
+            "（游泳或运动的）队"
+        ],
+        "usphone": "tiːm",
+        "ukphone": "tiːm",
+        "sentence": "I am on the school swimming team.",
+        "sentenceTrans": "我是学校游泳队的一员。"
+    },
+    {
+        "name": "hobby",
+        "trans": [
+            "业余爱好"
+        ],
+        "usphone": "ˈhɑːbi",
+        "ukphone": "ˈhɒbi",
+        "sentence": "Reading is my favourite hobby.",
+        "sentenceTrans": "阅读是我最喜欢的爱好。"
+    },
+    {
+        "name": "grade",
+        "trans": [
+            "年级"
+        ],
+        "usphone": "ɡreɪd",
+        "ukphone": "ɡreɪd",
+        "sentence": "I am in Grade Six.",
+        "sentenceTrans": "我上六年级。"
+    },
+    {
+        "name": "yourself",
+        "trans": [
+            "你自己"
+        ],
+        "usphone": "jɔːrˈself",
+        "ukphone": "jɔːˈself",
+        "sentence": "Tell me something about yourself.",
+        "sentenceTrans": "告诉我一些关于你自己的事。"
+    },
+    {
+        "name": "would",
+        "trans": [
+            "like （表示意愿、喜欢）"
+        ],
+        "usphone": "wʊd",
+        "ukphone": "wʊd",
+        "sentence": "I would like some milk.",
+        "sentenceTrans": "我想要一些牛奶。"
+    },
+    {
+        "name": "shall",
+        "trans": [
+            "（表示提出或征求意见）"
+        ],
+        "usphone": "ʃæl; ʃəl",
+        "ukphone": "ʃæl; ʃəl",
+        "sentence": "Shall we see a film?",
+        "sentenceTrans": "我们去看电影好吗？"
+    },
+    {
+        "name": "princess",
+        "trans": [
+            "公主"
+        ],
+        "usphone": "ˈprɪnses",
+        "ukphone": "ˌprɪnˈses",
+        "sentence": "The princess falls asleep.",
+        "sentenceTrans": "公主睡着了。"
+    },
+    {
+        "name": "police",
+        "trans": [
+            "警方；警察部门"
+        ],
+        "usphone": "pəˈliːs",
+        "ukphone": "pəˈliːs",
+        "sentence": "Call the police for help.",
+        "sentenceTrans": "打电话向警方求助。"
+    },
+    {
+        "name": "exciting",
+        "trans": [
+            "令人激动的；使人兴奋的"
+        ],
+        "usphone": "ɪkˈsaɪtɪŋ",
+        "ukphone": "ɪkˈsaɪtɪŋ",
+        "sentence": "The police story is exciting.",
+        "sentenceTrans": "这个警察故事很精彩。"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "勇敢的"
+        ],
+        "usphone": "breɪv",
+        "ukphone": "breɪv",
+        "sentence": "The brave policeman saves the girl.",
+        "sentenceTrans": "勇敢的警察救了女孩。"
+    },
+    {
+        "name": "policeman",
+        "trans": [
+            "警察"
+        ],
+        "usphone": "pəˈliːsmən",
+        "ukphone": "pəˈliːsmən",
+        "sentence": "The policeman catches the bad man.",
+        "sentenceTrans": "警察抓住了坏人。"
+    },
+    {
+        "name": "boring",
+        "trans": [
+            "没趣的；令人厌倦的"
+        ],
+        "usphone": "ˈbɔːrɪŋ",
+        "ukphone": "ˈbɔːrɪŋ",
+        "sentence": "This film is boring.",
+        "sentenceTrans": "这部电影很无聊。"
+    },
+    {
+        "name": "queen",
+        "trans": [
+            "王后"
+        ],
+        "usphone": "kwiːn",
+        "ukphone": "kwiːn",
+        "sentence": "The queen is in the room.",
+        "sentenceTrans": "王后在房间里。"
+    },
+    {
+        "name": "mirror",
+        "trans": [
+            "镜子"
+        ],
+        "usphone": "ˈmɪrər",
+        "ukphone": "ˈmɪrə(r)",
+        "sentence": "The queen looks in the mirror.",
+        "sentenceTrans": "王后照镜子。"
+    },
+    {
+        "name": "fairest",
+        "trans": [
+            "最美丽的"
+        ],
+        "usphone": "",
+        "ukphone": "",
+        "sentence": "Who is the fairest of all?",
+        "sentenceTrans": "谁是所有人中最美的？"
+    },
+    {
+        "name": "kill",
+        "trans": [
+            "杀死"
+        ],
+        "usphone": "kɪl",
+        "ukphone": "kɪl",
+        "sentence": "The queen wants to kill the princess.",
+        "sentenceTrans": "王后想杀死公主。"
+    },
+    {
+        "name": "asleep",
+        "trans": [
+            "睡着的"
+        ],
+        "usphone": "əˈsliːp",
+        "ukphone": "əˈsliːp",
+        "sentence": "The baby is asleep.",
+        "sentenceTrans": "宝宝睡着了。"
+    }
+]

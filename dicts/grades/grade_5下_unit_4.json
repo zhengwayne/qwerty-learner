@@ -1,0 +1,182 @@
+[
+    {
+        "name": "best",
+        "trans": [
+            "最好的"
+        ],
+        "usphone": "best",
+        "ukphone": "best",
+        "sentence": "This is my best picture.",
+        "sentenceTrans": "这是我最好的一幅画。"
+    },
+    {
+        "name": "writer",
+        "trans": [
+            "作家"
+        ],
+        "usphone": "ˈraɪtər",
+        "ukphone": "ˈraɪtə(r)",
+        "sentence": "She wants to be a writer.",
+        "sentenceTrans": "她想成为一名作家。"
+    },
+    {
+        "name": "over",
+        "trans": [
+            "there 在那边"
+        ],
+        "usphone": "ˈoʊvər",
+        "ukphone": "ˈəʊvə(r)",
+        "sentence": "The sun shines over the mountain.",
+        "sentenceTrans": "阳光照耀着山峰。"
+    },
+    {
+        "name": "do",
+        "trans": [
+            "a survey 做调查"
+        ],
+        "usphone": "duː; də",
+        "ukphone": "duː; də",
+        "sentence": "I do exercise every morning.",
+        "sentenceTrans": "我每天早上锻炼。"
+    },
+    {
+        "name": "act…out",
+        "trans": [
+            "表演"
+        ],
+        "usphone": "ækt aʊt",
+        "ukphone": "",
+        "sentence": "Let us act out the story.",
+        "sentenceTrans": "我们来表演这个故事吧。"
+    },
+    {
+        "name": "weekend",
+        "trans": [
+            "周末"
+        ],
+        "usphone": "ˈwiːkend",
+        "ukphone": "ˌwiːkˈend; ˈwiːkend",
+        "sentence": "We see a film at the weekend.",
+        "sentenceTrans": "我们周末看电影。"
+    },
+    {
+        "name": "stay",
+        "trans": [
+            "待；暂住；逗留"
+        ],
+        "usphone": "steɪ",
+        "ukphone": "steɪ",
+        "sentence": "We stay in a hotel by the sea.",
+        "sentenceTrans": "我们住在海边的一家旅馆里。"
+    },
+    {
+        "name": "film",
+        "trans": [
+            "电影"
+        ],
+        "usphone": "fɪlm",
+        "ukphone": "fɪlm",
+        "sentence": "We see a film at the weekend.",
+        "sentenceTrans": "我们周末看电影。"
+    },
+    {
+        "name": "boat",
+        "trans": [
+            "小船；"
+        ],
+        "usphone": "boʊt",
+        "ukphone": "bəʊt",
+        "sentence": "There is a boat on the lake.",
+        "sentenceTrans": "湖上有一条小船。"
+    },
+    {
+        "name": "plan",
+        "trans": [
+            "安排；计划"
+        ],
+        "usphone": "plæn",
+        "ukphone": "plæn",
+        "sentence": "We have a holiday plan.",
+        "sentenceTrans": "我们有一个假期计划。"
+    },
+    {
+        "name": "tomorrow",
+        "trans": [
+            "明天"
+        ],
+        "usphone": "təˈmɑːroʊ",
+        "ukphone": "təˈmɒrəʊ",
+        "sentence": "We will leave tomorrow morning.",
+        "sentenceTrans": "我们明天早上出发。"
+    },
+    {
+        "name": "build",
+        "trans": [
+            "建筑；建造"
+        ],
+        "usphone": "bɪld",
+        "ukphone": "bɪld",
+        "sentence": "They build a house by the lake.",
+        "sentenceTrans": "他们在湖边建了一座房子。"
+    },
+    {
+        "name": "next",
+        "trans": [
+            "紧接着；随后；紧接着的"
+        ],
+        "usphone": "nekst",
+        "ukphone": "nekst",
+        "sentence": "What will we do next?",
+        "sentenceTrans": "接下来我们做什么？"
+    },
+    {
+        "name": "swing",
+        "trans": [
+            "秋千"
+        ],
+        "usphone": "swɪŋ",
+        "ukphone": "swɪŋ",
+        "sentence": "I play on the swing.",
+        "sentenceTrans": "我荡秋千。"
+    },
+    {
+        "name": "cry",
+        "trans": [
+            "哭；喊叫"
+        ],
+        "usphone": "kraɪ",
+        "ukphone": "kraɪ",
+        "sentence": "Do not cry.",
+        "sentenceTrans": "不要哭。"
+    },
+    {
+        "name": "until",
+        "trans": [
+            "直到"
+        ],
+        "usphone": "ʌnˈtɪl",
+        "ukphone": "ʌnˈtɪl",
+        "sentence": "We play until dinner time.",
+        "sentenceTrans": "我们一直玩到晚饭时间。"
+    },
+    {
+        "name": "see",
+        "trans": [
+            "a film 看电影"
+        ],
+        "usphone": "siː",
+        "ukphone": "siː",
+        "sentence": "I see a bird.",
+        "sentenceTrans": "我看见一只鸟。"
+    },
+    {
+        "name": "row",
+        "trans": [
+            "a boat 划船"
+        ],
+        "usphone": "roʊ",
+        "ukphone": "rəʊ",
+        "sentence": "We row a boat on the lake.",
+        "sentenceTrans": "我们在湖上划船。"
+    }
+]

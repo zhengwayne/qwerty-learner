@@ -1,0 +1,192 @@
+[
+    {
+        "name": "right",
+        "trans": [
+            "右边；正确的"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "Turn right at the hospital.",
+        "sentenceTrans": "在医院处右转。"
+    },
+    {
+        "name": "between",
+        "trans": [
+            "在…中间"
+        ],
+        "usphone": "bɪˈtwiːn",
+        "ukphone": "bɪˈtwiːn",
+        "sentence": "The shop is between two schools.",
+        "sentenceTrans": "商店在两所学校之间。"
+    },
+    {
+        "name": "flower",
+        "trans": [
+            "shop 花店"
+        ],
+        "usphone": "ˈflaʊər",
+        "ukphone": "ˈflaʊə(r)",
+        "sentence": "Turn left at the flower shop.",
+        "sentenceTrans": "在花店处左转。"
+    },
+    {
+        "name": "hospital",
+        "trans": [
+            "医院"
+        ],
+        "usphone": "ˈhɑːspɪt(ə)l",
+        "ukphone": "ˈhɒspɪt(ə)l",
+        "sentence": "The hospital is beside the station.",
+        "sentenceTrans": "医院在车站旁边。"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "shop 玩具店"
+        ],
+        "usphone": "tɔɪ",
+        "ukphone": "tɔɪ",
+        "sentence": "The toy shop is beside the post office.",
+        "sentenceTrans": "玩具店在邮局旁边。"
+    },
+    {
+        "name": "road",
+        "trans": [
+            "路；马路"
+        ],
+        "usphone": "roʊd",
+        "ukphone": "rəʊd",
+        "sentence": "Do not play on the road.",
+        "sentenceTrans": "不要在马路上玩。"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "to 到达"
+        ],
+        "usphone": "ɡet",
+        "ukphone": "ɡet",
+        "sentence": "Get off the bus here.",
+        "sentenceTrans": "在这里下公共汽车。"
+    },
+    {
+        "name": "blow",
+        "trans": [
+            "刮；吹"
+        ],
+        "usphone": "bloʊ",
+        "ukphone": "bləʊ",
+        "sentence": "Blow up the balloon.",
+        "sentenceTrans": "把气球吹起来。"
+    },
+    {
+        "name": "gently",
+        "trans": [
+            "和缓地；温柔地"
+        ],
+        "usphone": "ˈdʒentli",
+        "ukphone": "ˈdʒentli",
+        "sentence": "The wind blows gently.",
+        "sentenceTrans": "风轻轻地吹着。"
+    },
+    {
+        "name": "softly",
+        "trans": [
+            "轻柔地"
+        ],
+        "usphone": "ˈsɔːftli",
+        "ukphone": "ˈsɒftli",
+        "sentence": "The wind-bell rings softly.",
+        "sentenceTrans": "风铃轻轻地响。"
+    },
+    {
+        "name": "strongly",
+        "trans": [
+            "强劲地"
+        ],
+        "usphone": "ˈstrɔːŋli",
+        "ukphone": "ˈstrɒŋli",
+        "sentence": "The wind blows strongly.",
+        "sentenceTrans": "风猛烈地吹着。"
+    },
+    {
+        "name": "happily",
+        "trans": [
+            "快乐地"
+        ],
+        "usphone": "ˈhæpɪli",
+        "ukphone": "ˈhæpɪli",
+        "sentence": "The children play happily.",
+        "sentenceTrans": "孩子们快乐地玩耍。"
+    },
+    {
+        "name": "windmill",
+        "trans": [
+            "风车"
+        ],
+        "usphone": "ˈwɪndmɪl",
+        "ukphone": "ˈwɪndmɪl",
+        "sentence": "The windmill moves in the wind.",
+        "sentenceTrans": "风车在风中转动。"
+    },
+    {
+        "name": "move",
+        "trans": [
+            "（使）改变位置；移动"
+        ],
+        "usphone": "muːv",
+        "ukphone": "muːv",
+        "sentence": "The windmill moves in the wind.",
+        "sentenceTrans": "风车在风中转动。"
+    },
+    {
+        "name": "slowly",
+        "trans": [
+            "缓慢地"
+        ],
+        "usphone": "ˈsloʊli",
+        "ukphone": "ˈsləʊli",
+        "sentence": "The old man walks slowly.",
+        "sentenceTrans": "这位老人走得很慢。"
+    },
+    {
+        "name": "quickly",
+        "trans": [
+            "快地；迅速地"
+        ],
+        "usphone": "ˈkwɪkli",
+        "ukphone": "ˈkwɪkli",
+        "sentence": "The rabbit runs quickly.",
+        "sentenceTrans": "兔子跑得很快。"
+    },
+    {
+        "name": "sound",
+        "trans": [
+            "声音；听起来好像"
+        ],
+        "usphone": "saʊnd",
+        "ukphone": "saʊnd",
+        "sentence": "The wind-bell makes a soft sound.",
+        "sentenceTrans": "风铃发出轻柔的声音。"
+    },
+    {
+        "name": "wind-bell",
+        "trans": [
+            "风铃"
+        ],
+        "usphone": "wɪnd bel",
+        "ukphone": "",
+        "sentence": "The wind-bell rings softly.",
+        "sentenceTrans": "风铃轻轻地响。"
+    },
+    {
+        "name": "cut",
+        "trans": [
+            "剪；砍；切"
+        ],
+        "usphone": "kʌt",
+        "ukphone": "kʌt",
+        "sentence": "Cut the cake, please.",
+        "sentenceTrans": "请切蛋糕。"
+    }
+]

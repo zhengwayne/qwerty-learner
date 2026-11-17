@@ -1,0 +1,142 @@
+[
+    {
+        "name": "make",
+        "trans": [
+            "做，制作"
+        ],
+        "usphone": "meɪk",
+        "ukphone": "meɪk",
+        "sentence": "I can make a card.",
+        "sentenceTrans": "我会做一张卡片。"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "写"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "sentence": "I can write my name.",
+        "sentenceTrans": "我会写我的名字。"
+    },
+    {
+        "name": "fold",
+        "trans": [
+            "折"
+        ],
+        "usphone": "foʊld",
+        "ukphone": "fəʊld",
+        "sentence": "Fold the card, please.",
+        "sentenceTrans": "请把卡片折起来。"
+    },
+    {
+        "name": "shopping",
+        "trans": [
+            "购物"
+        ],
+        "usphone": "ˈʃɑːpɪŋ",
+        "ukphone": "ˈʃɒpɪŋ",
+        "sentence": "I go shopping.",
+        "sentenceTrans": "我去购物。"
+    },
+    {
+        "name": "boy",
+        "trans": [
+            "男孩"
+        ],
+        "usphone": "bɔɪ",
+        "ukphone": "bɔɪ",
+        "sentence": "The boy can run.",
+        "sentenceTrans": "这个男孩会跑步。"
+    },
+    {
+        "name": "wolf",
+        "trans": [
+            "狼（复数wolves）"
+        ],
+        "usphone": "wʊlf",
+        "ukphone": "wʊlf",
+        "sentence": "I see a wolf.",
+        "sentenceTrans": "我看见一只狼。"
+    },
+    {
+        "name": "farmer",
+        "trans": [
+            "农夫"
+        ],
+        "usphone": "ˈfɑːrmər",
+        "ukphone": "ˈfɑːmə(r)",
+        "sentence": "The farmer has a cow.",
+        "sentenceTrans": "这位农夫有一头奶牛。"
+    },
+    {
+        "name": "come",
+        "trans": [
+            "来"
+        ],
+        "usphone": "kʌm",
+        "ukphone": "kʌm",
+        "sentence": "Come with me.",
+        "sentenceTrans": "跟我来。"
+    },
+    {
+        "name": "where",
+        "trans": [
+            "哪里"
+        ],
+        "usphone": "wer",
+        "ukphone": "weə(r)",
+        "sentence": "Where is my ball?",
+        "sentenceTrans": "我的球在哪里？"
+    },
+    {
+        "name": "bad",
+        "trans": [
+            "坏的"
+        ],
+        "usphone": "bæd",
+        "ukphone": "bæd",
+        "sentence": "The weather is bad.",
+        "sentenceTrans": "天气不好。"
+    },
+    {
+        "name": "poor",
+        "trans": [
+            "可怜的，穷的"
+        ],
+        "usphone": "pʊr",
+        "ukphone": "pɔː(r); pʊə(r)",
+        "sentence": "The poor wolf has no food.",
+        "sentenceTrans": "这只可怜的狼没有食物。"
+    },
+    {
+        "name": "tell",
+        "trans": [
+            "说，告诉"
+        ],
+        "usphone": "tel",
+        "ukphone": "tel",
+        "sentence": "Tell me, please.",
+        "sentenceTrans": "请告诉我。"
+    },
+    {
+        "name": "lie",
+        "trans": [
+            "说谎，谎言"
+        ],
+        "usphone": "laɪ",
+        "ukphone": "laɪ",
+        "sentence": "Do not lie.",
+        "sentenceTrans": "不要说谎。"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "away 逃跑，跑开"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn",
+        "sentence": "The wolf runs away.",
+        "sentenceTrans": "这只狼跑走了。"
+    }
+]
